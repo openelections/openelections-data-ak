@@ -1,0 +1,155 @@
+district,office,party,candidate,votes,precinct
+2,President,CON,Darrell Castle,21,02-345
+2,President,DEM,Hillary Clinton,214,02-345
+2,President,NA,Roque De La Fuente,6,02-345
+2,President,LIB,Gary Johnson,73,02-345
+2,President,GRE,Jill Stein,8,02-345
+2,President,REP,Donald Trump,754,02-345
+2,President,,Write-ins,22,02-345
+2,U.S. Senate,NA,Breck Craig,14,02-345
+2,U.S. Senate,NA,Ted Gianoutsos,10,02-345
+2,U.S. Senate,DEM,Ray Metcalfe,69,02-345
+2,U.S. Senate,LIB,Joe Miller,449,02-345
+2,U.S. Senate,REP,Lisa Murkowski,498,02-345
+2,U.S. Senate,NA,Margaret Stock,46,02-345
+2,U.S. Senate,,Write-ins,5,02-345
+2,U.S. House,DEM,Steve Lindbeck,254,02-345
+2,U.S. House,LIB,Jim McDermott,160,02-345
+2,U.S. House,NA,Bernie Souphanavong,32,02-345
+2,U.S. House,REP,Don Young,623,02-345
+2,U.S. House,,Write-ins,9,02-345
+2,State House,REP,Steve Thompson,838,02-345
+2,State House,DEM,Truno Holdaway,192,02-345
+2,State House,,Write-ins,13,02-345
+2,President,CON,Darrell Castle,3,02-355
+2,President,DEM,Hillary Clinton,202,02-355
+2,President,NA,Roque De La Fuente,3,02-355
+2,President,LIB,Gary Johnson,37,02-355
+2,President,GRE,Jill Stein,23,02-355
+2,President,REP,Donald Trump,308,02-355
+2,President,,Write-ins,25,02-355
+2,U.S. Senate,NA,Breck Craig,7,02-355
+2,U.S. Senate,NA,Ted Gianoutsos,5,02-355
+2,U.S. Senate,DEM,Ray Metcalfe,72,02-355
+2,U.S. Senate,LIB,Joe Miller,170,02-355
+2,U.S. Senate,REP,Lisa Murkowski,266,02-355
+2,U.S. Senate,NA,Margaret Stock,66,02-355
+2,U.S. Senate,,Write-ins,3,02-355
+2,U.S. House,DEM,Steve Lindbeck,216,02-355
+2,U.S. House,LIB,Jim McDermott,63,02-355
+2,U.S. House,NA,Bernie Souphanavong,23,02-355
+2,U.S. House,REP,Don Young,268,02-355
+2,U.S. House,,Write-ins,6,02-355
+2,State House,REP,Steve Thompson,384,02-355
+2,State House,DEM,Truno Holdaway,177,02-355
+2,State House,,Write-ins,5,02-355
+2,President,CON,Darrell Castle,12,02-365
+2,President,DEM,Hillary Clinton,256,02-365
+2,President,NA,Roque De La Fuente,4,02-365
+2,President,LIB,Gary Johnson,54,02-365
+2,President,GRE,Jill Stein,16,02-365
+2,President,REP,Donald Trump,558,02-365
+2,President,,Write-ins,53,02-365
+2,U.S. Senate,NA,Breck Craig,12,02-365
+2,U.S. Senate,NA,Ted Gianoutsos,9,02-365
+2,U.S. Senate,DEM,Ray Metcalfe,92,02-365
+2,U.S. Senate,LIB,Joe Miller,318,02-365
+2,U.S. Senate,REP,Lisa Murkowski,458,02-365
+2,U.S. Senate,NA,Margaret Stock,60,02-365
+2,U.S. Senate,,Write-ins,3,02-365
+2,U.S. House,DEM,Steve Lindbeck,278,02-365
+2,U.S. House,LIB,Jim McDermott,112,02-365
+2,U.S. House,NA,Bernie Souphanavong,23,02-365
+2,U.S. House,REP,Don Young,529,02-365
+2,U.S. House,,Write-ins,4,02-365
+2,State House,REP,Steve Thompson,706,02-365
+2,State House,DEM,Truno Holdaway,216,02-365
+2,State House,,Write-ins,7,02-365
+2,President,CON,Darrell Castle,6,02-375
+2,President,DEM,Hillary Clinton,88,02-375
+2,President,NA,Roque De La Fuente,0,02-375
+2,President,LIB,Gary Johnson,35,02-375
+2,President,GRE,Jill Stein,5,02-375
+2,President,REP,Donald Trump,217,02-375
+2,President,,Write-ins,7,02-375
+2,U.S. Senate,NA,Breck Craig,7,02-375
+2,U.S. Senate,NA,Ted Gianoutsos,8,02-375
+2,U.S. Senate,DEM,Ray Metcalfe,53,02-375
+2,U.S. Senate,LIB,Joe Miller,94,02-375
+2,U.S. Senate,REP,Lisa Murkowski,168,02-375
+2,U.S. Senate,NA,Margaret Stock,17,02-375
+2,U.S. Senate,,Write-ins,2,02-375
+2,U.S. House,DEM,Steve Lindbeck,87,02-375
+2,U.S. House,LIB,Jim McDermott,45,02-375
+2,U.S. House,NA,Bernie Souphanavong,6,02-375
+2,U.S. House,REP,Don Young,202,02-375
+2,U.S. House,,Write-ins,2,02-375
+2,State House,REP,Steve Thompson,237,02-375
+2,State House,DEM,Truno Holdaway,86,02-375
+2,State House,,Write-ins,5,02-375
+2,President,CON,Darrell Castle,5,Absentee
+2,President,DEM,Hillary Clinton,360,Absentee
+2,President,NA,Roque De La Fuente,1,Absentee
+2,President,LIB,Gary Johnson,77,Absentee
+2,President,GRE,Jill Stein,22,Absentee
+2,President,REP,Donald Trump,593,Absentee
+2,President,,Write-ins,48,Absentee
+2,U.S. Senate,NA,Breck Craig,12,Absentee
+2,U.S. Senate,NA,Ted Gianoutsos,6,Absentee
+2,U.S. Senate,DEM,Ray Metcalfe,183,Absentee
+2,U.S. Senate,LIB,Joe Miller,240,Absentee
+2,U.S. Senate,REP,Lisa Murkowski,513,Absentee
+2,U.S. Senate,NA,Margaret Stock,51,Absentee
+2,U.S. Senate,,Write-ins,4,Absentee
+2,U.S. House,DEM,Steve Lindbeck,283,Absentee
+2,U.S. House,LIB,Jim McDermott,135,Absentee
+2,U.S. House,NA,Bernie Souphanavong,24,Absentee
+2,U.S. House,REP,Don Young,555,Absentee
+2,U.S. House,,Write-ins,7,Absentee
+2,State House,REP,Steve Thompson,608,Absentee
+2,State House,DEM,Truno Holdaway,213,Absentee
+2,State House,,Write-ins,7,Absentee
+2,President,CON,Darrell Castle,4,Question
+2,President,DEM,Hillary Clinton,152,Question
+2,President,NA,Roque De La Fuente,4,Question
+2,President,LIB,Gary Johnson,50,Question
+2,President,GRE,Jill Stein,10,Question
+2,President,REP,Donald Trump,398,Question
+2,President,,Write-ins,12,Question
+2,U.S. Senate,NA,Breck Craig,3,Question
+2,U.S. Senate,NA,Ted Gianoutsos,8,Question
+2,U.S. Senate,DEM,Ray Metcalfe,30,Question
+2,U.S. Senate,LIB,Joe Miller,87,Question
+2,U.S. Senate,REP,Lisa Murkowski,130,Question
+2,U.S. Senate,NA,Margaret Stock,15,Question
+2,U.S. Senate,,Write-ins,1,Question
+2,U.S. House,DEM,Steve Lindbeck,75,Question
+2,U.S. House,LIB,Jim McDermott,39,Question
+2,U.S. House,NA,Bernie Souphanavong,17,Question
+2,U.S. House,REP,Don Young,140,Question
+2,U.S. House,,Write-ins,0,Question
+2,State House,REP,Steve Thompson,40,Question
+2,State House,DEM,Truno Holdaway,12,Question
+2,State House,,Write-ins,0,Question
+2,President,CON,Darrell Castle,7,Early Voting
+2,President,DEM,Hillary Clinton,313,Early Voting
+2,President,NA,Roque De La Fuente,2,Early Voting
+2,President,LIB,Gary Johnson,45,Early Voting
+2,President,GRE,Jill Stein,10,Early Voting
+2,President,REP,Donald Trump,360,Early Voting
+2,President,,Write-ins,9,Early Voting
+2,U.S. Senate,NA,Breck Craig,7,Early Voting
+2,U.S. Senate,NA,Ted Gianoutsos,3,Early Voting
+2,U.S. Senate,DEM,Ray Metcalfe,116,Early Voting
+2,U.S. Senate,LIB,Joe Miller,194,Early Voting
+2,U.S. Senate,REP,Lisa Murkowski,335,Early Voting
+2,U.S. Senate,NA,Margaret Stock,85,Early Voting
+2,U.S. Senate,,Write-ins,1,Early Voting
+2,U.S. House,DEM,Steve Lindbeck,317,Early Voting
+2,U.S. House,LIB,Jim McDermott,87,Early Voting
+2,U.S. House,NA,Bernie Souphanavong,13,Early Voting
+2,U.S. House,REP,Don Young,313,Early Voting
+2,U.S. House,,Write-ins,1,Early Voting
+2,State House,REP,Steve Thompson,455,Early Voting
+2,State House,DEM,Truno Holdaway,257,Early Voting
+2,State House,,Write-ins,5,Early Voting

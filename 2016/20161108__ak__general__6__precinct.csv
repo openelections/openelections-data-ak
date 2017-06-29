@@ -1,0 +1,793 @@
+district,office,party,candidate,votes,precinct
+6,President,CON,Darrell Castle,0,06-005
+6,President,DEM,Hillary Clinton,12,06-005
+6,President,NA,Roque De La Fuente,1,06-005
+6,President,LIB,Gary Johnson,2,06-005
+6,President,GRE,Jill Stein,0,06-005
+6,President,REP,Donald Trump,48,06-005
+6,President,,Write-ins,3,06-005
+6,U.S. Senate,NA,Breck Craig,1,06-005
+6,U.S. Senate,NA,Ted Gianoutsos,1,06-005
+6,U.S. Senate,DEM,Ray Metcalfe,5,06-005
+6,U.S. Senate,LIB,Joe Miller,30,06-005
+6,U.S. Senate,REP,Lisa Murkowski,23,06-005
+6,U.S. Senate,NA,Margaret Stock,6,06-005
+6,U.S. Senate,,Write-ins,0,06-005
+6,U.S. House,DEM,Steve Lindbeck,17,06-005
+6,U.S. House,LIB,Jim McDermott,6,06-005
+6,U.S. House,NA,Bernie Souphanavong,6,06-005
+6,U.S. House,REP,Don Young,35,06-005
+6,U.S. House,,Write-ins,0,06-005
+6,State House,REP,David Talerico,57,06-005
+6,State House,DEM,Jason Land,7,06-005
+6,State House,,Write-ins,0,06-005
+6,President,CON,Darrell Castle,2,06-007
+6,President,DEM,Hillary Clinton,58,06-007
+6,President,NA,Roque De La Fuente,0,06-007
+6,President,LIB,Gary Johnson,2,06-007
+6,President,GRE,Jill Stein,1,06-007
+6,President,REP,Donald Trump,1,06-007
+6,President,,Write-ins,0,06-007
+6,U.S. Senate,NA,Breck Craig,1,06-007
+6,U.S. Senate,NA,Ted Gianoutsos,0,06-007
+6,U.S. Senate,DEM,Ray Metcalfe,16,06-007
+6,U.S. Senate,LIB,Joe Miller,15,06-007
+6,U.S. Senate,REP,Lisa Murkowski,20,06-007
+6,U.S. Senate,NA,Margaret Stock,12,06-007
+6,U.S. Senate,,Write-ins,0,06-007
+6,U.S. House,DEM,Steve Lindbeck,43,06-007
+6,U.S. House,LIB,Jim McDermott,4,06-007
+6,U.S. House,NA,Bernie Souphanavong,3,06-007
+6,U.S. House,REP,Don Young,13,06-007
+6,U.S. House,,Write-ins,0,06-007
+6,State House,REP,David Talerico,4,06-007
+6,State House,DEM,Jason Land,56,06-007
+6,State House,,Write-ins,0,06-007
+6,President,CON,Darrell Castle,1,06-010
+6,President,DEM,Hillary Clinton,23,06-010
+6,President,NA,Roque De La Fuente,0,06-010
+6,President,LIB,Gary Johnson,1,06-010
+6,President,GRE,Jill Stein,0,06-010
+6,President,REP,Donald Trump,4,06-010
+6,President,,Write-ins,0,06-010
+6,U.S. Senate,NA,Breck Craig,0,06-010
+6,U.S. Senate,NA,Ted Gianoutsos,0,06-010
+6,U.S. Senate,DEM,Ray Metcalfe,1,06-010
+6,U.S. Senate,LIB,Joe Miller,7,06-010
+6,U.S. Senate,REP,Lisa Murkowski,15,06-010
+6,U.S. Senate,NA,Margaret Stock,4,06-010
+6,U.S. Senate,,Write-ins,0,06-010
+6,U.S. House,DEM,Steve Lindbeck,11,06-010
+6,U.S. House,LIB,Jim McDermott,2,06-010
+6,U.S. House,NA,Bernie Souphanavong,1,06-010
+6,U.S. House,REP,Don Young,13,06-010
+6,U.S. House,,Write-ins,0,06-010
+6,State House,REP,David Talerico,8,06-010
+6,State House,DEM,Jason Land,13,06-010
+6,State House,,Write-ins,0,06-010
+6,President,CON,Darrell Castle,1,06-012
+6,President,DEM,Hillary Clinton,32,06-012
+6,President,NA,Roque De La Fuente,1,06-012
+6,President,LIB,Gary Johnson,3,06-012
+6,President,GRE,Jill Stein,4,06-012
+6,President,REP,Donald Trump,58,06-012
+6,President,,Write-ins,1,06-012
+6,U.S. Senate,NA,Breck Craig,1,06-012
+6,U.S. Senate,NA,Ted Gianoutsos,0,06-012
+6,U.S. Senate,DEM,Ray Metcalfe,6,06-012
+6,U.S. Senate,LIB,Joe Miller,26,06-012
+6,U.S. Senate,REP,Lisa Murkowski,45,06-012
+6,U.S. Senate,NA,Margaret Stock,22,06-012
+6,U.S. Senate,,Write-ins,0,06-012
+6,U.S. House,DEM,Steve Lindbeck,33,06-012
+6,U.S. House,LIB,Jim McDermott,11,06-012
+6,U.S. House,NA,Bernie Souphanavong,6,06-012
+6,U.S. House,REP,Don Young,49,06-012
+6,U.S. House,,Write-ins,0,06-012
+6,State House,REP,David Talerico,73,06-012
+6,State House,DEM,Jason Land,25,06-012
+6,State House,,Write-ins,0,06-012
+6,President,CON,Darrell Castle,0,06-015
+6,President,DEM,Hillary Clinton,8,06-015
+6,President,NA,Roque De La Fuente,0,06-015
+6,President,LIB,Gary Johnson,1,06-015
+6,President,GRE,Jill Stein,0,06-015
+6,President,REP,Donald Trump,36,06-015
+6,President,,Write-ins,1,06-015
+6,U.S. Senate,NA,Breck Craig,2,06-015
+6,U.S. Senate,NA,Ted Gianoutsos,0,06-015
+6,U.S. Senate,DEM,Ray Metcalfe,2,06-015
+6,U.S. Senate,LIB,Joe Miller,9,06-015
+6,U.S. Senate,REP,Lisa Murkowski,28,06-015
+6,U.S. Senate,NA,Margaret Stock,4,06-015
+6,U.S. Senate,,Write-ins,1,06-015
+6,U.S. House,DEM,Steve Lindbeck,7,06-015
+6,U.S. House,LIB,Jim McDermott,3,06-015
+6,U.S. House,NA,Bernie Souphanavong,3,06-015
+6,U.S. House,REP,Don Young,32,06-015
+6,U.S. House,,Write-ins,1,06-015
+6,State House,REP,David Talerico,34,06-015
+6,State House,DEM,Jason Land,8,06-015
+6,State House,,Write-ins,1,06-015
+6,President,CON,Darrell Castle,0,06-020
+6,President,DEM,Hillary Clinton,11,06-020
+6,President,NA,Roque De La Fuente,0,06-020
+6,President,LIB,Gary Johnson,1,06-020
+6,President,GRE,Jill Stein,4,06-020
+6,President,REP,Donald Trump,70,06-020
+6,President,,Write-ins,1,06-020
+6,U.S. Senate,NA,Breck Craig,1,06-020
+6,U.S. Senate,NA,Ted Gianoutsos,1,06-020
+6,U.S. Senate,DEM,Ray Metcalfe,2,06-020
+6,U.S. Senate,LIB,Joe Miller,41,06-020
+6,U.S. Senate,REP,Lisa Murkowski,35,06-020
+6,U.S. Senate,NA,Margaret Stock,7,06-020
+6,U.S. Senate,,Write-ins,0,06-020
+6,U.S. House,DEM,Steve Lindbeck,16,06-020
+6,U.S. House,LIB,Jim McDermott,12,06-020
+6,U.S. House,NA,Bernie Souphanavong,3,06-020
+6,U.S. House,REP,Don Young,53,06-020
+6,U.S. House,,Write-ins,0,06-020
+6,State House,REP,David Talerico,68,06-020
+6,State House,DEM,Jason Land,16,06-020
+6,State House,,Write-ins,0,06-020
+6,President,CON,Darrell Castle,0,06-023
+6,President,DEM,Hillary Clinton,21,06-023
+6,President,NA,Roque De La Fuente,0,06-023
+6,President,LIB,Gary Johnson,0,06-023
+6,President,GRE,Jill Stein,0,06-023
+6,President,REP,Donald Trump,8,06-023
+6,President,,Write-ins,0,06-023
+6,U.S. Senate,NA,Breck Craig,0,06-023
+6,U.S. Senate,NA,Ted Gianoutsos,0,06-023
+6,U.S. Senate,DEM,Ray Metcalfe,2,06-023
+6,U.S. Senate,LIB,Joe Miller,13,06-023
+6,U.S. Senate,REP,Lisa Murkowski,10,06-023
+6,U.S. Senate,NA,Margaret Stock,3,06-023
+6,U.S. Senate,,Write-ins,0,06-023
+6,U.S. House,DEM,Steve Lindbeck,12,06-023
+6,U.S. House,LIB,Jim McDermott,1,06-023
+6,U.S. House,NA,Bernie Souphanavong,0,06-023
+6,U.S. House,REP,Don Young,16,06-023
+6,U.S. House,,Write-ins,0,06-023
+6,State House,REP,David Talerico,9,06-023
+6,State House,DEM,Jason Land,19,06-023
+6,State House,,Write-ins,0,06-023
+6,President,CON,Darrell Castle,0,06-024
+6,President,DEM,Hillary Clinton,20,06-024
+6,President,NA,Roque De La Fuente,0,06-024
+6,President,LIB,Gary Johnson,3,06-024
+6,President,GRE,Jill Stein,0,06-024
+6,President,REP,Donald Trump,49,06-024
+6,President,,Write-ins,0,06-024
+6,U.S. Senate,NA,Breck Craig,0,06-024
+6,U.S. Senate,NA,Ted Gianoutsos,0,06-024
+6,U.S. Senate,DEM,Ray Metcalfe,11,06-024
+6,U.S. Senate,LIB,Joe Miller,22,06-024
+6,U.S. Senate,REP,Lisa Murkowski,31,06-024
+6,U.S. Senate,NA,Margaret Stock,8,06-024
+6,U.S. Senate,,Write-ins,0,06-024
+6,U.S. House,DEM,Steve Lindbeck,21,06-024
+6,U.S. House,LIB,Jim McDermott,9,06-024
+6,U.S. House,NA,Bernie Souphanavong,1,06-024
+6,U.S. House,REP,Don Young,41,06-024
+6,U.S. House,,Write-ins,0,06-024
+6,State House,REP,David Talerico,50,06-024
+6,State House,DEM,Jason Land,20,06-024
+6,State House,,Write-ins,0,06-024
+6,President,CON,Darrell Castle,7,06-025
+6,President,DEM,Hillary Clinton,54,06-025
+6,President,NA,Roque De La Fuente,0,06-025
+6,President,LIB,Gary Johnson,16,06-025
+6,President,GRE,Jill Stein,2,06-025
+6,President,REP,Donald Trump,178,06-025
+6,President,,Write-ins,7,06-025
+6,U.S. Senate,NA,Breck Craig,0,06-025
+6,U.S. Senate,NA,Ted Gianoutsos,2,06-025
+6,U.S. Senate,DEM,Ray Metcalfe,25,06-025
+6,U.S. Senate,LIB,Joe Miller,86,06-025
+6,U.S. Senate,REP,Lisa Murkowski,114,06-025
+6,U.S. Senate,NA,Margaret Stock,35,06-025
+6,U.S. Senate,,Write-ins,0,06-025
+6,U.S. House,DEM,Steve Lindbeck,60,06-025
+6,U.S. House,LIB,Jim McDermott,27,06-025
+6,U.S. House,NA,Bernie Souphanavong,6,06-025
+6,U.S. House,REP,Don Young,169,06-025
+6,U.S. House,,Write-ins,0,06-025
+6,State House,REP,David Talerico,173,06-025
+6,State House,DEM,Jason Land,72,06-025
+6,State House,,Write-ins,3,06-025
+6,President,CON,Darrell Castle,1,06-026
+6,President,DEM,Hillary Clinton,79,06-026
+6,President,NA,Roque De La Fuente,0,06-026
+6,President,LIB,Gary Johnson,2,06-026
+6,President,GRE,Jill Stein,2,06-026
+6,President,REP,Donald Trump,11,06-026
+6,President,,Write-ins,0,06-026
+6,U.S. Senate,NA,Breck Craig,0,06-026
+6,U.S. Senate,NA,Ted Gianoutsos,0,06-026
+6,U.S. Senate,DEM,Ray Metcalfe,20,06-026
+6,U.S. Senate,LIB,Joe Miller,7,06-026
+6,U.S. Senate,REP,Lisa Murkowski,23,06-026
+6,U.S. Senate,NA,Margaret Stock,46,06-026
+6,U.S. Senate,,Write-ins,0,06-026
+6,U.S. House,DEM,Steve Lindbeck,76,06-026
+6,U.S. House,LIB,Jim McDermott,6,06-026
+6,U.S. House,NA,Bernie Souphanavong,2,06-026
+6,U.S. House,REP,Don Young,11,06-026
+6,U.S. House,,Write-ins,0,06-026
+6,State House,REP,David Talerico,33,06-026
+6,State House,DEM,Jason Land,59,06-026
+6,State House,,Write-ins,1,06-026
+6,President,CON,Darrell Castle,0,06-027
+6,President,DEM,Hillary Clinton,6,06-027
+6,President,NA,Roque De La Fuente,0,06-027
+6,President,LIB,Gary Johnson,2,06-027
+6,President,GRE,Jill Stein,0,06-027
+6,President,REP,Donald Trump,37,06-027
+6,President,,Write-ins,0,06-027
+6,U.S. Senate,NA,Breck Craig,1,06-027
+6,U.S. Senate,NA,Ted Gianoutsos,0,06-027
+6,U.S. Senate,DEM,Ray Metcalfe,0,06-027
+6,U.S. Senate,LIB,Joe Miller,22,06-027
+6,U.S. Senate,REP,Lisa Murkowski,21,06-027
+6,U.S. Senate,NA,Margaret Stock,1,06-027
+6,U.S. Senate,,Write-ins,0,06-027
+6,U.S. House,DEM,Steve Lindbeck,2,06-027
+6,U.S. House,LIB,Jim McDermott,5,06-027
+6,U.S. House,NA,Bernie Souphanavong,1,06-027
+6,U.S. House,REP,Don Young,37,06-027
+6,U.S. House,,Write-ins,0,06-027
+6,State House,REP,David Talerico,37,06-027
+6,State House,DEM,Jason Land,7,06-027
+6,State House,,Write-ins,0,06-027
+6,President,CON,Darrell Castle,2,06-030
+6,President,DEM,Hillary Clinton,28,06-030
+6,President,NA,Roque De La Fuente,0,06-030
+6,President,LIB,Gary Johnson,1,06-030
+6,President,GRE,Jill Stein,1,06-030
+6,President,REP,Donald Trump,56,06-030
+6,President,,Write-ins,2,06-030
+6,U.S. Senate,NA,Breck Craig,1,06-030
+6,U.S. Senate,NA,Ted Gianoutsos,1,06-030
+6,U.S. Senate,DEM,Ray Metcalfe,9,06-030
+6,U.S. Senate,LIB,Joe Miller,37,06-030
+6,U.S. Senate,REP,Lisa Murkowski,33,06-030
+6,U.S. Senate,NA,Margaret Stock,8,06-030
+6,U.S. Senate,,Write-ins,0,06-030
+6,U.S. House,DEM,Steve Lindbeck,27,06-030
+6,U.S. House,LIB,Jim McDermott,3,06-030
+6,U.S. House,NA,Bernie Souphanavong,3,06-030
+6,U.S. House,REP,Don Young,56,06-030
+6,U.S. House,,Write-ins,0,06-030
+6,State House,REP,David Talerico,53,06-030
+6,State House,DEM,Jason Land,32,06-030
+6,State House,,Write-ins,0,06-030
+6,President,CON,Darrell Castle,0,06-033
+6,President,DEM,Hillary Clinton,137,06-033
+6,President,NA,Roque De La Fuente,2,06-033
+6,President,LIB,Gary Johnson,3,06-033
+6,President,GRE,Jill Stein,3,06-033
+6,President,REP,Donald Trump,41,06-033
+6,President,,Write-ins,0,06-033
+6,U.S. Senate,NA,Breck Craig,0,06-033
+6,U.S. Senate,NA,Ted Gianoutsos,0,06-033
+6,U.S. Senate,DEM,Ray Metcalfe,15,06-033
+6,U.S. Senate,LIB,Joe Miller,38,06-033
+6,U.S. Senate,REP,Lisa Murkowski,93,06-033
+6,U.S. Senate,NA,Margaret Stock,37,06-033
+6,U.S. Senate,,Write-ins,0,06-033
+6,U.S. House,DEM,Steve Lindbeck,56,06-033
+6,U.S. House,LIB,Jim McDermott,5,06-033
+6,U.S. House,NA,Bernie Souphanavong,1,06-033
+6,U.S. House,REP,Don Young,121,06-033
+6,U.S. House,,Write-ins,0,06-033
+6,State House,REP,David Talerico,68,06-033
+6,State House,DEM,Jason Land,102,06-033
+6,State House,,Write-ins,0,06-033
+6,President,CON,Darrell Castle,2,06-035
+6,President,DEM,Hillary Clinton,20,06-035
+6,President,NA,Roque De La Fuente,1,06-035
+6,President,LIB,Gary Johnson,5,06-035
+6,President,GRE,Jill Stein,0,06-035
+6,President,REP,Donald Trump,61,06-035
+6,President,,Write-ins,6,06-035
+6,U.S. Senate,NA,Breck Craig,0,06-035
+6,U.S. Senate,NA,Ted Gianoutsos,0,06-035
+6,U.S. Senate,DEM,Ray Metcalfe,5,06-035
+6,U.S. Senate,LIB,Joe Miller,34,06-035
+6,U.S. Senate,REP,Lisa Murkowski,45,06-035
+6,U.S. Senate,NA,Margaret Stock,8,06-035
+6,U.S. Senate,,Write-ins,0,06-035
+6,U.S. House,DEM,Steve Lindbeck,20,06-035
+6,U.S. House,LIB,Jim McDermott,9,06-035
+6,U.S. House,NA,Bernie Souphanavong,0,06-035
+6,U.S. House,REP,Don Young,61,06-035
+6,U.S. House,,Write-ins,1,06-035
+6,State House,REP,David Talerico,62,06-035
+6,State House,DEM,Jason Land,25,06-035
+6,State House,,Write-ins,1,06-035
+6,President,CON,Darrell Castle,6,06-040
+6,President,DEM,Hillary Clinton,99,06-040
+6,President,NA,Roque De La Fuente,1,06-040
+6,President,LIB,Gary Johnson,25,06-040
+6,President,GRE,Jill Stein,7,06-040
+6,President,REP,Donald Trump,214,06-040
+6,President,,Write-ins,16,06-040
+6,U.S. Senate,NA,Breck Craig,1,06-040
+6,U.S. Senate,NA,Ted Gianoutsos,7,06-040
+6,U.S. Senate,DEM,Ray Metcalfe,31,06-040
+6,U.S. Senate,LIB,Joe Miller,98,06-040
+6,U.S. Senate,REP,Lisa Murkowski,182,06-040
+6,U.S. Senate,NA,Margaret Stock,41,06-040
+6,U.S. Senate,,Write-ins,1,06-040
+6,U.S. House,DEM,Steve Lindbeck,98,06-040
+6,U.S. House,LIB,Jim McDermott,34,06-040
+6,U.S. House,NA,Bernie Souphanavong,11,06-040
+6,U.S. House,REP,Don Young,216,06-040
+6,U.S. House,,Write-ins,0,06-040
+6,State House,REP,David Talerico,294,06-040
+6,State House,DEM,Jason Land,67,06-040
+6,State House,,Write-ins,2,06-040
+6,President,CON,Darrell Castle,3,06-047
+6,President,DEM,Hillary Clinton,24,06-047
+6,President,NA,Roque De La Fuente,0,06-047
+6,President,LIB,Gary Johnson,8,06-047
+6,President,GRE,Jill Stein,1,06-047
+6,President,REP,Donald Trump,103,06-047
+6,President,,Write-ins,9,06-047
+6,U.S. Senate,NA,Breck Craig,1,06-047
+6,U.S. Senate,NA,Ted Gianoutsos,0,06-047
+6,U.S. Senate,DEM,Ray Metcalfe,13,06-047
+6,U.S. Senate,LIB,Joe Miller,69,06-047
+6,U.S. Senate,REP,Lisa Murkowski,48,06-047
+6,U.S. Senate,NA,Margaret Stock,15,06-047
+6,U.S. Senate,,Write-ins,1,06-047
+6,U.S. House,DEM,Steve Lindbeck,35,06-047
+6,U.S. House,LIB,Jim McDermott,17,06-047
+6,U.S. House,NA,Bernie Souphanavong,6,06-047
+6,U.S. House,REP,Don Young,87,06-047
+6,U.S. House,,Write-ins,0,06-047
+6,State House,REP,David Talerico,95,06-047
+6,State House,DEM,Jason Land,41,06-047
+6,State House,,Write-ins,2,06-047
+6,President,CON,Darrell Castle,2,06-050
+6,President,DEM,Hillary Clinton,7,06-050
+6,President,NA,Roque De La Fuente,0,06-050
+6,President,LIB,Gary Johnson,1,06-050
+6,President,GRE,Jill Stein,0,06-050
+6,President,REP,Donald Trump,39,06-050
+6,President,,Write-ins,1,06-050
+6,U.S. Senate,NA,Breck Craig,0,06-050
+6,U.S. Senate,NA,Ted Gianoutsos,0,06-050
+6,U.S. Senate,DEM,Ray Metcalfe,3,06-050
+6,U.S. Senate,LIB,Joe Miller,21,06-050
+6,U.S. Senate,REP,Lisa Murkowski,19,06-050
+6,U.S. Senate,NA,Margaret Stock,6,06-050
+6,U.S. Senate,,Write-ins,1,06-050
+6,U.S. House,DEM,Steve Lindbeck,12,06-050
+6,U.S. House,LIB,Jim McDermott,8,06-050
+6,U.S. House,NA,Bernie Souphanavong,2,06-050
+6,U.S. House,REP,Don Young,27,06-050
+6,U.S. House,,Write-ins,0,06-050
+6,State House,REP,David Talerico,38,06-050
+6,State House,DEM,Jason Land,10,06-050
+6,State House,,Write-ins,0,06-050
+6,President,CON,Darrell Castle,2,06-053
+6,President,DEM,Hillary Clinton,21,06-053
+6,President,NA,Roque De La Fuente,0,06-053
+6,President,LIB,Gary Johnson,2,06-053
+6,President,GRE,Jill Stein,0,06-053
+6,President,REP,Donald Trump,11,06-053
+6,President,,Write-ins,1,06-053
+6,U.S. Senate,NA,Breck Craig,0,06-053
+6,U.S. Senate,NA,Ted Gianoutsos,0,06-053
+6,U.S. Senate,DEM,Ray Metcalfe,4,06-053
+6,U.S. Senate,LIB,Joe Miller,11,06-053
+6,U.S. Senate,REP,Lisa Murkowski,17,06-053
+6,U.S. Senate,NA,Margaret Stock,5,06-053
+6,U.S. Senate,,Write-ins,0,06-053
+6,U.S. House,DEM,Steve Lindbeck,10,06-053
+6,U.S. House,LIB,Jim McDermott,3,06-053
+6,U.S. House,NA,Bernie Souphanavong,1,06-053
+6,U.S. House,REP,Don Young,23,06-053
+6,U.S. House,,Write-ins,0,06-053
+6,State House,REP,David Talerico,16,06-053
+6,State House,DEM,Jason Land,19,06-053
+6,State House,,Write-ins,0,06-053
+6,President,CON,Darrell Castle,7,06-054
+6,President,DEM,Hillary Clinton,34,06-054
+6,President,NA,Roque De La Fuente,2,06-054
+6,President,LIB,Gary Johnson,3,06-054
+6,President,GRE,Jill Stein,2,06-054
+6,President,REP,Donald Trump,18,06-054
+6,President,,Write-ins,0,06-054
+6,U.S. Senate,NA,Breck Craig,2,06-054
+6,U.S. Senate,NA,Ted Gianoutsos,0,06-054
+6,U.S. Senate,DEM,Ray Metcalfe,12,06-054
+6,U.S. Senate,LIB,Joe Miller,11,06-054
+6,U.S. Senate,REP,Lisa Murkowski,38,06-054
+6,U.S. Senate,NA,Margaret Stock,3,06-054
+6,U.S. Senate,,Write-ins,0,06-054
+6,U.S. House,DEM,Steve Lindbeck,29,06-054
+6,U.S. House,LIB,Jim McDermott,11,06-054
+6,U.S. House,NA,Bernie Souphanavong,4,06-054
+6,U.S. House,REP,Don Young,23,06-054
+6,U.S. House,,Write-ins,0,06-054
+6,State House,REP,David Talerico,29,06-054
+6,State House,DEM,Jason Land,35,06-054
+6,State House,,Write-ins,0,06-054
+6,President,CON,Darrell Castle,8,06-056
+6,President,DEM,Hillary Clinton,64,06-056
+6,President,NA,Roque De La Fuente,1,06-056
+6,President,LIB,Gary Johnson,12,06-056
+6,President,GRE,Jill Stein,7,06-056
+6,President,REP,Donald Trump,154,06-056
+6,President,,Write-ins,20,06-056
+6,U.S. Senate,NA,Breck Craig,4,06-056
+6,U.S. Senate,NA,Ted Gianoutsos,4,06-056
+6,U.S. Senate,DEM,Ray Metcalfe,20,06-056
+6,U.S. Senate,LIB,Joe Miller,75,06-056
+6,U.S. Senate,REP,Lisa Murkowski,142,06-056
+6,U.S. Senate,NA,Margaret Stock,23,06-056
+6,U.S. Senate,,Write-ins,1,06-056
+6,U.S. House,DEM,Steve Lindbeck,65,06-056
+6,U.S. House,LIB,Jim McDermott,32,06-056
+6,U.S. House,NA,Bernie Souphanavong,16,06-056
+6,U.S. House,REP,Don Young,153,06-056
+6,U.S. House,,Write-ins,1,06-056
+6,State House,REP,David Talerico,203,06-056
+6,State House,DEM,Jason Land,53,06-056
+6,State House,,Write-ins,4,06-056
+6,President,CON,Darrell Castle,1,06-060
+6,President,DEM,Hillary Clinton,37,06-060
+6,President,NA,Roque De La Fuente,1,06-060
+6,President,LIB,Gary Johnson,0,06-060
+6,President,GRE,Jill Stein,1,06-060
+6,President,REP,Donald Trump,31,06-060
+6,President,,Write-ins,2,06-060
+6,U.S. Senate,NA,Breck Craig,0,06-060
+6,U.S. Senate,NA,Ted Gianoutsos,1,06-060
+6,U.S. Senate,DEM,Ray Metcalfe,4,06-060
+6,U.S. Senate,LIB,Joe Miller,15,06-060
+6,U.S. Senate,REP,Lisa Murkowski,54,06-060
+6,U.S. Senate,NA,Margaret Stock,4,06-060
+6,U.S. Senate,,Write-ins,0,06-060
+6,U.S. House,DEM,Steve Lindbeck,14,06-060
+6,U.S. House,LIB,Jim McDermott,2,06-060
+6,U.S. House,NA,Bernie Souphanavong,0,06-060
+6,U.S. House,REP,Don Young,63,06-060
+6,U.S. House,,Write-ins,0,06-060
+6,State House,REP,David Talerico,39,06-060
+6,State House,DEM,Jason Land,32,06-060
+6,State House,,Write-ins,0,06-060
+6,President,CON,Darrell Castle,1,06-070
+6,President,DEM,Hillary Clinton,6,06-070
+6,President,NA,Roque De La Fuente,0,06-070
+6,President,LIB,Gary Johnson,2,06-070
+6,President,GRE,Jill Stein,0,06-070
+6,President,REP,Donald Trump,0,06-070
+6,President,,Write-ins,0,06-070
+6,U.S. Senate,NA,Breck Craig,0,06-070
+6,U.S. Senate,NA,Ted Gianoutsos,0,06-070
+6,U.S. Senate,DEM,Ray Metcalfe,0,06-070
+6,U.S. Senate,LIB,Joe Miller,4,06-070
+6,U.S. Senate,REP,Lisa Murkowski,5,06-070
+6,U.S. Senate,NA,Margaret Stock,0,06-070
+6,U.S. Senate,,Write-ins,0,06-070
+6,U.S. House,DEM,Steve Lindbeck,4,06-070
+6,U.S. House,LIB,Jim McDermott,1,06-070
+6,U.S. House,NA,Bernie Souphanavong,0,06-070
+6,U.S. House,REP,Don Young,4,06-070
+6,U.S. House,,Write-ins,0,06-070
+6,State House,REP,David Talerico,3,06-070
+6,State House,DEM,Jason Land,6,06-070
+6,State House,,Write-ins,0,06-070
+6,President,CON,Darrell Castle,2,06-075
+6,President,DEM,Hillary Clinton,21,06-075
+6,President,NA,Roque De La Fuente,0,06-075
+6,President,LIB,Gary Johnson,2,06-075
+6,President,GRE,Jill Stein,0,06-075
+6,President,REP,Donald Trump,3,06-075
+6,President,,Write-ins,0,06-075
+6,U.S. Senate,NA,Breck Craig,0,06-075
+6,U.S. Senate,NA,Ted Gianoutsos,1,06-075
+6,U.S. Senate,DEM,Ray Metcalfe,4,06-075
+6,U.S. Senate,LIB,Joe Miller,3,06-075
+6,U.S. Senate,REP,Lisa Murkowski,16,06-075
+6,U.S. Senate,NA,Margaret Stock,3,06-075
+6,U.S. Senate,,Write-ins,1,06-075
+6,U.S. House,DEM,Steve Lindbeck,12,06-075
+6,U.S. House,LIB,Jim McDermott,1,06-075
+6,U.S. House,NA,Bernie Souphanavong,0,06-075
+6,U.S. House,REP,Don Young,14,06-075
+6,U.S. House,,Write-ins,1,06-075
+6,State House,REP,David Talerico,4,06-075
+6,State House,DEM,Jason Land,22,06-075
+6,State House,,Write-ins,0,06-075
+6,President,CON,Darrell Castle,0,06-080
+6,President,DEM,Hillary Clinton,77,06-080
+6,President,NA,Roque De La Fuente,0,06-080
+6,President,LIB,Gary Johnson,7,06-080
+6,President,GRE,Jill Stein,1,06-080
+6,President,REP,Donald Trump,14,06-080
+6,President,,Write-ins,2,06-080
+6,U.S. Senate,NA,Breck Craig,1,06-080
+6,U.S. Senate,NA,Ted Gianoutsos,1,06-080
+6,U.S. Senate,DEM,Ray Metcalfe,10,06-080
+6,U.S. Senate,LIB,Joe Miller,12,06-080
+6,U.S. Senate,REP,Lisa Murkowski,69,06-080
+6,U.S. Senate,NA,Margaret Stock,7,06-080
+6,U.S. Senate,,Write-ins,0,06-080
+6,U.S. House,DEM,Steve Lindbeck,41,06-080
+6,U.S. House,LIB,Jim McDermott,10,06-080
+6,U.S. House,NA,Bernie Souphanavong,1,06-080
+6,U.S. House,REP,Don Young,40,06-080
+6,U.S. House,,Write-ins,0,06-080
+6,State House,REP,David Talerico,41,06-080
+6,State House,DEM,Jason Land,46,06-080
+6,State House,,Write-ins,0,06-080
+6,President,CON,Darrell Castle,2,06-085
+6,President,DEM,Hillary Clinton,35,06-085
+6,President,NA,Roque De La Fuente,0,06-085
+6,President,LIB,Gary Johnson,2,06-085
+6,President,GRE,Jill Stein,0,06-085
+6,President,REP,Donald Trump,5,06-085
+6,President,,Write-ins,0,06-085
+6,U.S. Senate,NA,Breck Craig,0,06-085
+6,U.S. Senate,NA,Ted Gianoutsos,0,06-085
+6,U.S. Senate,DEM,Ray Metcalfe,4,06-085
+6,U.S. Senate,LIB,Joe Miller,11,06-085
+6,U.S. Senate,REP,Lisa Murkowski,29,06-085
+6,U.S. Senate,NA,Margaret Stock,0,06-085
+6,U.S. Senate,,Write-ins,0,06-085
+6,U.S. House,DEM,Steve Lindbeck,8,06-085
+6,U.S. House,LIB,Jim McDermott,4,06-085
+6,U.S. House,NA,Bernie Souphanavong,2,06-085
+6,U.S. House,REP,Don Young,29,06-085
+6,U.S. House,,Write-ins,0,06-085
+6,State House,REP,David Talerico,9,06-085
+6,State House,DEM,Jason Land,33,06-085
+6,State House,,Write-ins,0,06-085
+6,President,CON,Darrell Castle,8,06-090
+6,President,DEM,Hillary Clinton,98,06-090
+6,President,NA,Roque De La Fuente,1,06-090
+6,President,LIB,Gary Johnson,23,06-090
+6,President,GRE,Jill Stein,7,06-090
+6,President,REP,Donald Trump,331,06-090
+6,President,,Write-ins,14,06-090
+6,U.S. Senate,NA,Breck Craig,12,06-090
+6,U.S. Senate,NA,Ted Gianoutsos,8,06-090
+6,U.S. Senate,DEM,Ray Metcalfe,41,06-090
+6,U.S. Senate,LIB,Joe Miller,184,06-090
+6,U.S. Senate,REP,Lisa Murkowski,205,06-090
+6,U.S. Senate,NA,Margaret Stock,27,06-090
+6,U.S. Senate,,Write-ins,1,06-090
+6,U.S. House,DEM,Steve Lindbeck,119,06-090
+6,U.S. House,LIB,Jim McDermott,59,06-090
+6,U.S. House,NA,Bernie Souphanavong,23,06-090
+6,U.S. House,REP,Don Young,269,06-090
+6,U.S. House,,Write-ins,2,06-090
+6,State House,REP,David Talerico,326,06-090
+6,State House,DEM,Jason Land,131,06-090
+6,State House,,Write-ins,2,06-090
+6,President,CON,Darrell Castle,3,06-095
+6,President,DEM,Hillary Clinton,67,06-095
+6,President,NA,Roque De La Fuente,0,06-095
+6,President,LIB,Gary Johnson,1,06-095
+6,President,GRE,Jill Stein,0,06-095
+6,President,REP,Donald Trump,3,06-095
+6,President,,Write-ins,0,06-095
+6,U.S. Senate,NA,Breck Craig,0,06-095
+6,U.S. Senate,NA,Ted Gianoutsos,0,06-095
+6,U.S. Senate,DEM,Ray Metcalfe,17,06-095
+6,U.S. Senate,LIB,Joe Miller,12,06-095
+6,U.S. Senate,REP,Lisa Murkowski,34,06-095
+6,U.S. Senate,NA,Margaret Stock,10,06-095
+6,U.S. Senate,,Write-ins,0,06-095
+6,U.S. House,DEM,Steve Lindbeck,35,06-095
+6,U.S. House,LIB,Jim McDermott,4,06-095
+6,U.S. House,NA,Bernie Souphanavong,1,06-095
+6,U.S. House,REP,Don Young,33,06-095
+6,U.S. House,,Write-ins,0,06-095
+6,State House,REP,David Talerico,21,06-095
+6,State House,DEM,Jason Land,47,06-095
+6,State House,,Write-ins,0,06-095
+6,President,CON,Darrell Castle,4,06-145
+6,President,DEM,Hillary Clinton,65,06-145
+6,President,NA,Roque De La Fuente,1,06-145
+6,President,LIB,Gary Johnson,36,06-145
+6,President,GRE,Jill Stein,4,06-145
+6,President,REP,Donald Trump,290,06-145
+6,President,,Write-ins,14,06-145
+6,U.S. Senate,NA,Breck Craig,6,06-145
+6,U.S. Senate,NA,Ted Gianoutsos,2,06-145
+6,U.S. Senate,DEM,Ray Metcalfe,40,06-145
+6,U.S. Senate,LIB,Joe Miller,102,06-145
+6,U.S. Senate,REP,Lisa Murkowski,246,06-145
+6,U.S. Senate,NA,Margaret Stock,8,06-145
+6,U.S. Senate,,Write-ins,1,06-145
+6,U.S. House,DEM,Steve Lindbeck,71,06-145
+6,U.S. House,LIB,Jim McDermott,36,06-145
+6,U.S. House,NA,Bernie Souphanavong,11,06-145
+6,U.S. House,REP,Don Young,272,06-145
+6,U.S. House,,Write-ins,1,06-145
+6,State House,REP,David Talerico,312,06-145
+6,State House,DEM,Jason Land,68,06-145
+6,State House,,Write-ins,1,06-145
+6,President,CON,Darrell Castle,4,06-150
+6,President,DEM,Hillary Clinton,48,06-150
+6,President,NA,Roque De La Fuente,1,06-150
+6,President,LIB,Gary Johnson,18,06-150
+6,President,GRE,Jill Stein,4,06-150
+6,President,REP,Donald Trump,149,06-150
+6,President,,Write-ins,5,06-150
+6,U.S. Senate,NA,Breck Craig,2,06-150
+6,U.S. Senate,NA,Ted Gianoutsos,4,06-150
+6,U.S. Senate,DEM,Ray Metcalfe,17,06-150
+6,U.S. Senate,LIB,Joe Miller,113,06-150
+6,U.S. Senate,REP,Lisa Murkowski,63,06-150
+6,U.S. Senate,NA,Margaret Stock,23,06-150
+6,U.S. Senate,,Write-ins,3,06-150
+6,U.S. House,DEM,Steve Lindbeck,56,06-150
+6,U.S. House,LIB,Jim McDermott,46,06-150
+6,U.S. House,NA,Bernie Souphanavong,12,06-150
+6,U.S. House,REP,Don Young,107,06-150
+6,U.S. House,,Write-ins,1,06-150
+6,State House,REP,David Talerico,162,06-150
+6,State House,DEM,Jason Land,45,06-150
+6,State House,,Write-ins,3,06-150
+6,President,CON,Darrell Castle,1,06-155
+6,President,DEM,Hillary Clinton,32,06-155
+6,President,NA,Roque De La Fuente,0,06-155
+6,President,LIB,Gary Johnson,15,06-155
+6,President,GRE,Jill Stein,1,06-155
+6,President,REP,Donald Trump,160,06-155
+6,President,,Write-ins,4,06-155
+6,U.S. Senate,NA,Breck Craig,2,06-155
+6,U.S. Senate,NA,Ted Gianoutsos,1,06-155
+6,U.S. Senate,DEM,Ray Metcalfe,11,06-155
+6,U.S. Senate,LIB,Joe Miller,86,06-155
+6,U.S. Senate,REP,Lisa Murkowski,100,06-155
+6,U.S. Senate,NA,Margaret Stock,9,06-155
+6,U.S. Senate,,Write-ins,2,06-155
+6,U.S. House,DEM,Steve Lindbeck,42,06-155
+6,U.S. House,LIB,Jim McDermott,22,06-155
+6,U.S. House,NA,Bernie Souphanavong,10,06-155
+6,U.S. House,REP,Don Young,131,06-155
+6,U.S. House,,Write-ins,2,06-155
+6,State House,REP,David Talerico,160,06-155
+6,State House,DEM,Jason Land,43,06-155
+6,State House,,Write-ins,0,06-155
+6,President,CON,Darrell Castle,8,06-160
+6,President,DEM,Hillary Clinton,61,06-160
+6,President,NA,Roque De La Fuente,0,06-160
+6,President,LIB,Gary Johnson,22,06-160
+6,President,GRE,Jill Stein,2,06-160
+6,President,REP,Donald Trump,383,06-160
+6,President,,Write-ins,8,06-160
+6,U.S. Senate,NA,Breck Craig,7,06-160
+6,U.S. Senate,NA,Ted Gianoutsos,6,06-160
+6,U.S. Senate,DEM,Ray Metcalfe,20,06-160
+6,U.S. Senate,LIB,Joe Miller,235,06-160
+6,U.S. Senate,REP,Lisa Murkowski,186,06-160
+6,U.S. Senate,NA,Margaret Stock,27,06-160
+6,U.S. Senate,,Write-ins,3,06-160
+6,U.S. House,DEM,Steve Lindbeck,105,06-160
+6,U.S. House,LIB,Jim McDermott,64,06-160
+6,U.S. House,NA,Bernie Souphanavong,14,06-160
+6,U.S. House,REP,Don Young,288,06-160
+6,U.S. House,,Write-ins,2,06-160
+6,State House,REP,David Talerico,358,06-160
+6,State House,DEM,Jason Land,106,06-160
+6,State House,,Write-ins,4,06-160
+6,President,CON,Darrell Castle,10,06-170
+6,President,DEM,Hillary Clinton,134,06-170
+6,President,NA,Roque De La Fuente,2,06-170
+6,President,LIB,Gary Johnson,32,06-170
+6,President,GRE,Jill Stein,8,06-170
+6,President,REP,Donald Trump,286,06-170
+6,President,,Write-ins,18,06-170
+6,U.S. Senate,NA,Breck Craig,7,06-170
+6,U.S. Senate,NA,Ted Gianoutsos,2,06-170
+6,U.S. Senate,DEM,Ray Metcalfe,31,06-170
+6,U.S. Senate,LIB,Joe Miller,175,06-170
+6,U.S. Senate,REP,Lisa Murkowski,196,06-170
+6,U.S. Senate,NA,Margaret Stock,72,06-170
+6,U.S. Senate,,Write-ins,1,06-170
+6,U.S. House,DEM,Steve Lindbeck,147,06-170
+6,U.S. House,LIB,Jim McDermott,62,06-170
+6,U.S. House,NA,Bernie Souphanavong,18,06-170
+6,U.S. House,REP,Don Young,248,06-170
+6,U.S. House,,Write-ins,4,06-170
+6,State House,REP,David Talerico,309,06-170
+6,State House,DEM,Jason Land,147,06-170
+6,State House,,Write-ins,3,06-170
+6,President,CON,Darrell Castle,10,06-180
+6,President,DEM,Hillary Clinton,119,06-180
+6,President,NA,Roque De La Fuente,1,06-180
+6,President,LIB,Gary Johnson,31,06-180
+6,President,GRE,Jill Stein,9,06-180
+6,President,REP,Donald Trump,346,06-180
+6,President,,Write-ins,4,06-180
+6,U.S. Senate,NA,Breck Craig,1,06-180
+6,U.S. Senate,NA,Ted Gianoutsos,0,06-180
+6,U.S. Senate,DEM,Ray Metcalfe,38,06-180
+6,U.S. Senate,LIB,Joe Miller,237,06-180
+6,U.S. Senate,REP,Lisa Murkowski,179,06-180
+6,U.S. Senate,NA,Margaret Stock,60,06-180
+6,U.S. Senate,,Write-ins,0,06-180
+6,U.S. House,DEM,Steve Lindbeck,153,06-180
+6,U.S. House,LIB,Jim McDermott,86,06-180
+6,U.S. House,NA,Bernie Souphanavong,18,06-180
+6,U.S. House,REP,Don Young,246,06-180
+6,U.S. House,,Write-ins,4,06-180
+6,State House,REP,David Talerico,348,06-180
+6,State House,DEM,Jason Land,137,06-180
+6,State House,,Write-ins,4,06-180
+6,President,CON,Darrell Castle,25,Absentee
+6,President,DEM,Hillary Clinton,633,Absentee
+6,President,NA,Roque De La Fuente,4,Absentee
+6,President,LIB,Gary Johnson,115,Absentee
+6,President,GRE,Jill Stein,33,Absentee
+6,President,REP,Donald Trump,1053,Absentee
+6,President,,Write-ins,65,Absentee
+6,U.S. Senate,NA,Breck Craig,15,Absentee
+6,U.S. Senate,NA,Ted Gianoutsos,13,Absentee
+6,U.S. Senate,DEM,Ray Metcalfe,254,Absentee
+6,U.S. Senate,LIB,Joe Miller,556,Absentee
+6,U.S. Senate,REP,Lisa Murkowski,835,Absentee
+6,U.S. Senate,NA,Margaret Stock,203,Absentee
+6,U.S. Senate,,Write-ins,5,Absentee
+6,U.S. House,DEM,Steve Lindbeck,590,Absentee
+6,U.S. House,LIB,Jim McDermott,218,Absentee
+6,U.S. House,NA,Bernie Souphanavong,46,Absentee
+6,U.S. House,REP,Don Young,1002,Absentee
+6,U.S. House,,Write-ins,15,Absentee
+6,State House,REP,David Talerico,1171,Absentee
+6,State House,DEM,Jason Land,531,Absentee
+6,State House,,Write-ins,12,Absentee
+6,President,CON,Darrell Castle,13,Question
+6,President,DEM,Hillary Clinton,120,Question
+6,President,NA,Roque De La Fuente,4,Question
+6,President,LIB,Gary Johnson,30,Question
+6,President,GRE,Jill Stein,9,Question
+6,President,REP,Donald Trump,325,Question
+6,President,,Write-ins,18,Question
+6,U.S. Senate,NA,Breck Craig,6,Question
+6,U.S. Senate,NA,Ted Gianoutsos,1,Question
+6,U.S. Senate,DEM,Ray Metcalfe,23,Question
+6,U.S. Senate,LIB,Joe Miller,136,Question
+6,U.S. Senate,REP,Lisa Murkowski,155,Question
+6,U.S. Senate,NA,Margaret Stock,26,Question
+6,U.S. Senate,,Write-ins,2,Question
+6,U.S. House,DEM,Steve Lindbeck,75,Question
+6,U.S. House,LIB,Jim McDermott,55,Question
+6,U.S. House,NA,Bernie Souphanavong,14,Question
+6,U.S. House,REP,Don Young,199,Question
+6,U.S. House,,Write-ins,3,Question
+6,State House,REP,David Talerico,63,Question
+6,State House,DEM,Jason Land,26,Question
+6,State House,,Write-ins,0,Question
+6,President,CON,Darrell Castle,1,Early Voting
+6,President,DEM,Hillary Clinton,225,Early Voting
+6,President,NA,Roque De La Fuente,0,Early Voting
+6,President,LIB,Gary Johnson,42,Early Voting
+6,President,GRE,Jill Stein,12,Early Voting
+6,President,REP,Donald Trump,353,Early Voting
+6,President,,Write-ins,16,Early Voting
+6,U.S. Senate,NA,Breck Craig,4,Early Voting
+6,U.S. Senate,NA,Ted Gianoutsos,2,Early Voting
+6,U.S. Senate,DEM,Ray Metcalfe,75,Early Voting
+6,U.S. Senate,LIB,Joe Miller,207,Early Voting
+6,U.S. Senate,REP,Lisa Murkowski,252,Early Voting
+6,U.S. Senate,NA,Margaret Stock,104,Early Voting
+6,U.S. Senate,,Write-ins,0,Early Voting
+6,U.S. House,DEM,Steve Lindbeck,239,Early Voting
+6,U.S. House,LIB,Jim McDermott,64,Early Voting
+6,U.S. House,NA,Bernie Souphanavong,13,Early Voting
+6,U.S. House,REP,Don Young,319,Early Voting
+6,U.S. House,,Write-ins,3,Early Voting
+6,State House,REP,David Talerico,396,Early Voting
+6,State House,DEM,Jason Land,221,Early Voting
+6,State House,,Write-ins,1,Early Voting

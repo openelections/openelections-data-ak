@@ -1,0 +1,39 @@
+district,office,party,candidate,votes,precinct
+99,President,CON,Darrell Castle,0,HD99
+99,President,DEM,Hillary Clinton,0,HD99
+99,President,NA,Roque De La Fuente,0,HD99
+99,President,LIB,Gary Johnson,0,HD99
+99,President,GRE,Jill Stein,0,HD99
+99,President,REP,Donald Trump,0,HD99
+99,President,,Write-ins,0,HD99
+99,U.S. Senate,NA,Breck Craig,0,HD99
+99,U.S. Senate,NA,Ted Gianoutsos,0,HD99
+99,U.S. Senate,DEM,Ray Metcalfe,0,HD99
+99,U.S. Senate,LIB,Joe Miller,0,HD99
+99,U.S. Senate,REP,Lisa Murkowski,0,HD99
+99,U.S. Senate,NA,Margaret Stock,0,HD99
+99,U.S. Senate,,Write-ins,0,HD99
+99,U.S. House,DEM,Steve Lindbeck,0,HD99
+99,U.S. House,LIB,Jim McDermott,0,HD99
+99,U.S. House,NA,Bernie Souphanavong,0,HD99
+99,U.S. House,REP,Don Young,0,HD99
+99,U.S. House,,Write-ins,0,HD99
+99,President,CON,Darrell Castle,0,HD99
+99,President,DEM,Hillary Clinton,274,HD99
+99,President,NA,Roque De La Fuente,1,HD99
+99,President,LIB,Gary Johnson,7,HD99
+99,President,GRE,Jill Stein,11,HD99
+99,President,REP,Donald Trump,40,HD99
+99,President,,Write-ins,9,HD99
+99,U.S. Senate,NA,Breck Craig,1,HD99
+99,U.S. Senate,NA,Ted Gianoutsos,1,HD99
+99,U.S. Senate,DEM,Ray Metcalfe,193,HD99
+99,U.S. Senate,LIB,Joe Miller,14,HD99
+99,U.S. Senate,REP,Lisa Murkowski,71,HD99
+99,U.S. Senate,NA,Margaret Stock,17,HD99
+99,U.S. Senate,,Write-ins,1,HD99
+99,U.S. House,DEM,Steve Lindbeck,233,HD99
+99,U.S. House,LIB,Jim McDermott,9,HD99
+99,U.S. House,NA,Bernie Souphanavong,3,HD99
+99,U.S. House,REP,Don Young,53,HD99
+99,U.S. House,,Write-ins,2,HD99

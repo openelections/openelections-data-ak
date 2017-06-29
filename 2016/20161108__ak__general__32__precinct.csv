@@ -1,0 +1,426 @@
+district,office,party,candidate,votes,precinct
+32,President,CON,Darrell Castle,2,32-800
+32,President,DEM,Hillary Clinton,19,32-800
+32,President,NA,Roque De La Fuente,1,32-800
+32,President,LIB,Gary Johnson,0,32-800
+32,President,GRE,Jill Stein,5,32-800
+32,President,REP,Donald Trump,34,32-800
+32,President,,Write-ins,0,32-800
+32,U.S. Senate,NA,Breck Craig,2,32-800
+32,U.S. Senate,NA,Ted Gianoutsos,0,32-800
+32,U.S. Senate,DEM,Ray Metcalfe,4,32-800
+32,U.S. Senate,LIB,Joe Miller,17,32-800
+32,U.S. Senate,REP,Lisa Murkowski,29,32-800
+32,U.S. Senate,NA,Margaret Stock,8,32-800
+32,U.S. Senate,,Write-ins,0,32-800
+32,U.S. House,DEM,Steve Lindbeck,13,32-800
+32,U.S. House,LIB,Jim McDermott,10,32-800
+32,U.S. House,NA,Bernie Souphanavong,3,32-800
+32,U.S. House,REP,Don Young,34,32-800
+32,U.S. House,,Write-ins,0,32-800
+32,State Senate,REP,Gary Stevens,49,32-800
+32,State Senate,,Write-ins,2,32-800
+32,State House,NA,Duncan Fields,32,32-800
+32,State House,REP,Louise Stutes,23,32-800
+32,State House,DEM,Brent Watkins,5,32-800
+32,State House,,Write-ins,0,32-800
+32,President,CON,Darrell Castle,8,32-805
+32,President,DEM,Hillary Clinton,246,32-805
+32,President,NA,Roque De La Fuente,1,32-805
+32,President,LIB,Gary Johnson,55,32-805
+32,President,GRE,Jill Stein,30,32-805
+32,President,REP,Donald Trump,286,32-805
+32,President,,Write-ins,16,32-805
+32,U.S. Senate,NA,Breck Craig,2,32-805
+32,U.S. Senate,NA,Ted Gianoutsos,0,32-805
+32,U.S. Senate,DEM,Ray Metcalfe,56,32-805
+32,U.S. Senate,LIB,Joe Miller,142,32-805
+32,U.S. Senate,REP,Lisa Murkowski,350,32-805
+32,U.S. Senate,NA,Margaret Stock,91,32-805
+32,U.S. Senate,,Write-ins,0,32-805
+32,U.S. House,DEM,Steve Lindbeck,256,32-805
+32,U.S. House,LIB,Jim McDermott,79,32-805
+32,U.S. House,NA,Bernie Souphanavong,18,32-805
+32,U.S. House,REP,Don Young,284,32-805
+32,U.S. House,,Write-ins,1,32-805
+32,State Senate,REP,Gary Stevens,499,32-805
+32,State Senate,,Write-ins,6,32-805
+32,State House,NA,Duncan Fields,194,32-805
+32,State House,REP,Louise Stutes,314,32-805
+32,State House,DEM,Brent Watkins,112,32-805
+32,State House,,Write-ins,0,32-805
+32,President,CON,Darrell Castle,3,32-810
+32,President,DEM,Hillary Clinton,144,32-810
+32,President,NA,Roque De La Fuente,0,32-810
+32,President,LIB,Gary Johnson,41,32-810
+32,President,GRE,Jill Stein,8,32-810
+32,President,REP,Donald Trump,306,32-810
+32,President,,Write-ins,16,32-810
+32,U.S. Senate,NA,Breck Craig,7,32-810
+32,U.S. Senate,NA,Ted Gianoutsos,7,32-810
+32,U.S. Senate,DEM,Ray Metcalfe,34,32-810
+32,U.S. Senate,LIB,Joe Miller,145,32-810
+32,U.S. Senate,REP,Lisa Murkowski,229,32-810
+32,U.S. Senate,NA,Margaret Stock,83,32-810
+32,U.S. Senate,,Write-ins,3,32-810
+32,U.S. House,DEM,Steve Lindbeck,149,32-810
+32,U.S. House,LIB,Jim McDermott,71,32-810
+32,U.S. House,NA,Bernie Souphanavong,17,32-810
+32,U.S. House,REP,Don Young,250,32-810
+32,U.S. House,,Write-ins,3,32-810
+32,State Senate,REP,Gary Stevens,418,32-810
+32,State Senate,,Write-ins,9,32-810
+32,State House,NA,Duncan Fields,218,32-810
+32,State House,REP,Louise Stutes,210,32-810
+32,State House,DEM,Brent Watkins,74,32-810
+32,State House,,Write-ins,3,32-810
+32,President,CON,Darrell Castle,1,32-815
+32,President,DEM,Hillary Clinton,8,32-815
+32,President,NA,Roque De La Fuente,0,32-815
+32,President,LIB,Gary Johnson,3,32-815
+32,President,GRE,Jill Stein,1,32-815
+32,President,REP,Donald Trump,18,32-815
+32,President,,Write-ins,0,32-815
+32,U.S. Senate,NA,Breck Craig,2,32-815
+32,U.S. Senate,NA,Ted Gianoutsos,1,32-815
+32,U.S. Senate,DEM,Ray Metcalfe,3,32-815
+32,U.S. Senate,LIB,Joe Miller,5,32-815
+32,U.S. Senate,REP,Lisa Murkowski,16,32-815
+32,U.S. Senate,NA,Margaret Stock,2,32-815
+32,U.S. Senate,,Write-ins,0,32-815
+32,U.S. House,DEM,Steve Lindbeck,4,32-815
+32,U.S. House,LIB,Jim McDermott,2,32-815
+32,U.S. House,NA,Bernie Souphanavong,2,32-815
+32,U.S. House,REP,Don Young,21,32-815
+32,U.S. House,,Write-ins,0,32-815
+32,State Senate,REP,Gary Stevens,25,32-815
+32,State Senate,,Write-ins,0,32-815
+32,State House,NA,Duncan Fields,29,32-815
+32,State House,REP,Louise Stutes,2,32-815
+32,State House,DEM,Brent Watkins,0,32-815
+32,State House,,Write-ins,0,32-815
+32,President,CON,Darrell Castle,5,32-820
+32,President,DEM,Hillary Clinton,286,32-820
+32,President,NA,Roque De La Fuente,2,32-820
+32,President,LIB,Gary Johnson,48,32-820
+32,President,GRE,Jill Stein,17,32-820
+32,President,REP,Donald Trump,360,32-820
+32,President,,Write-ins,11,32-820
+32,U.S. Senate,NA,Breck Craig,8,32-820
+32,U.S. Senate,NA,Ted Gianoutsos,4,32-820
+32,U.S. Senate,DEM,Ray Metcalfe,79,32-820
+32,U.S. Senate,LIB,Joe Miller,171,32-820
+32,U.S. Senate,REP,Lisa Murkowski,317,32-820
+32,U.S. Senate,NA,Margaret Stock,134,32-820
+32,U.S. Senate,,Write-ins,0,32-820
+32,U.S. House,DEM,Steve Lindbeck,256,32-820
+32,U.S. House,LIB,Jim McDermott,69,32-820
+32,U.S. House,NA,Bernie Souphanavong,23,32-820
+32,U.S. House,REP,Don Young,341,32-820
+32,U.S. House,,Write-ins,3,32-820
+32,State Senate,REP,Gary Stevens,599,32-820
+32,State Senate,,Write-ins,22,32-820
+32,State House,NA,Duncan Fields,311,32-820
+32,State House,REP,Louise Stutes,317,32-820
+32,State House,DEM,Brent Watkins,93,32-820
+32,State House,,Write-ins,1,32-820
+32,President,CON,Darrell Castle,13,32-825
+32,President,DEM,Hillary Clinton,319,32-825
+32,President,NA,Roque De La Fuente,5,32-825
+32,President,LIB,Gary Johnson,44,32-825
+32,President,GRE,Jill Stein,12,32-825
+32,President,REP,Donald Trump,302,32-825
+32,President,,Write-ins,7,32-825
+32,U.S. Senate,NA,Breck Craig,5,32-825
+32,U.S. Senate,NA,Ted Gianoutsos,9,32-825
+32,U.S. Senate,DEM,Ray Metcalfe,67,32-825
+32,U.S. Senate,LIB,Joe Miller,189,32-825
+32,U.S. Senate,REP,Lisa Murkowski,323,32-825
+32,U.S. Senate,NA,Margaret Stock,104,32-825
+32,U.S. Senate,,Write-ins,1,32-825
+32,U.S. House,DEM,Steve Lindbeck,244,32-825
+32,U.S. House,LIB,Jim McDermott,74,32-825
+32,U.S. House,NA,Bernie Souphanavong,20,32-825
+32,U.S. House,REP,Don Young,339,32-825
+32,U.S. House,,Write-ins,1,32-825
+32,State Senate,REP,Gary Stevens,570,32-825
+32,State Senate,,Write-ins,21,32-825
+32,State House,NA,Duncan Fields,268,32-825
+32,State House,REP,Louise Stutes,335,32-825
+32,State House,DEM,Brent Watkins,98,32-825
+32,State House,,Write-ins,0,32-825
+32,President,CON,Darrell Castle,12,32-830
+32,President,DEM,Hillary Clinton,412,32-830
+32,President,NA,Roque De La Fuente,5,32-830
+32,President,LIB,Gary Johnson,109,32-830
+32,President,GRE,Jill Stein,21,32-830
+32,President,REP,Donald Trump,839,32-830
+32,President,,Write-ins,42,32-830
+32,U.S. Senate,NA,Breck Craig,15,32-830
+32,U.S. Senate,NA,Ted Gianoutsos,15,32-830
+32,U.S. Senate,DEM,Ray Metcalfe,91,32-830
+32,U.S. Senate,LIB,Joe Miller,425,32-830
+32,U.S. Senate,REP,Lisa Murkowski,646,32-830
+32,U.S. Senate,NA,Margaret Stock,222,32-830
+32,U.S. Senate,,Write-ins,1,32-830
+32,U.S. House,DEM,Steve Lindbeck,443,32-830
+32,U.S. House,LIB,Jim McDermott,158,32-830
+32,U.S. House,NA,Bernie Souphanavong,32,32-830
+32,U.S. House,REP,Don Young,755,32-830
+32,U.S. House,,Write-ins,3,32-830
+32,State Senate,REP,Gary Stevens,1189,32-830
+32,State Senate,,Write-ins,44,32-830
+32,State House,NA,Duncan Fields,707,32-830
+32,State House,REP,Louise Stutes,566,32-830
+32,State House,DEM,Brent Watkins,145,32-830
+32,State House,,Write-ins,2,32-830
+32,President,CON,Darrell Castle,2,32-835
+32,President,DEM,Hillary Clinton,25,32-835
+32,President,NA,Roque De La Fuente,1,32-835
+32,President,LIB,Gary Johnson,5,32-835
+32,President,GRE,Jill Stein,0,32-835
+32,President,REP,Donald Trump,13,32-835
+32,President,,Write-ins,0,32-835
+32,U.S. Senate,NA,Breck Craig,1,32-835
+32,U.S. Senate,NA,Ted Gianoutsos,0,32-835
+32,U.S. Senate,DEM,Ray Metcalfe,3,32-835
+32,U.S. Senate,LIB,Joe Miller,5,32-835
+32,U.S. Senate,REP,Lisa Murkowski,36,32-835
+32,U.S. Senate,NA,Margaret Stock,4,32-835
+32,U.S. Senate,,Write-ins,0,32-835
+32,U.S. House,DEM,Steve Lindbeck,12,32-835
+32,U.S. House,LIB,Jim McDermott,1,32-835
+32,U.S. House,NA,Bernie Souphanavong,3,32-835
+32,U.S. House,REP,Don Young,32,32-835
+32,U.S. House,,Write-ins,1,32-835
+32,State Senate,REP,Gary Stevens,48,32-835
+32,State Senate,,Write-ins,0,32-835
+32,State House,NA,Duncan Fields,34,32-835
+32,State House,REP,Louise Stutes,11,32-835
+32,State House,DEM,Brent Watkins,4,32-835
+32,State House,,Write-ins,0,32-835
+32,President,CON,Darrell Castle,0,32-840
+32,President,DEM,Hillary Clinton,23,32-840
+32,President,NA,Roque De La Fuente,0,32-840
+32,President,LIB,Gary Johnson,12,32-840
+32,President,GRE,Jill Stein,5,32-840
+32,President,REP,Donald Trump,15,32-840
+32,President,,Write-ins,5,32-840
+32,U.S. Senate,NA,Breck Craig,2,32-840
+32,U.S. Senate,NA,Ted Gianoutsos,0,32-840
+32,U.S. Senate,DEM,Ray Metcalfe,5,32-840
+32,U.S. Senate,LIB,Joe Miller,14,32-840
+32,U.S. Senate,REP,Lisa Murkowski,31,32-840
+32,U.S. Senate,NA,Margaret Stock,8,32-840
+32,U.S. Senate,,Write-ins,0,32-840
+32,U.S. House,DEM,Steve Lindbeck,17,32-840
+32,U.S. House,LIB,Jim McDermott,6,32-840
+32,U.S. House,NA,Bernie Souphanavong,1,32-840
+32,U.S. House,REP,Don Young,37,32-840
+32,U.S. House,,Write-ins,0,32-840
+32,State Senate,REP,Gary Stevens,54,32-840
+32,State Senate,,Write-ins,0,32-840
+32,State House,NA,Duncan Fields,45,32-840
+32,State House,REP,Louise Stutes,11,32-840
+32,State House,DEM,Brent Watkins,5,32-840
+32,State House,,Write-ins,0,32-840
+32,President,CON,Darrell Castle,1,32-845
+32,President,DEM,Hillary Clinton,14,32-845
+32,President,NA,Roque De La Fuente,0,32-845
+32,President,LIB,Gary Johnson,1,32-845
+32,President,GRE,Jill Stein,2,32-845
+32,President,REP,Donald Trump,39,32-845
+32,President,,Write-ins,2,32-845
+32,U.S. Senate,NA,Breck Craig,1,32-845
+32,U.S. Senate,NA,Ted Gianoutsos,0,32-845
+32,U.S. Senate,DEM,Ray Metcalfe,3,32-845
+32,U.S. Senate,LIB,Joe Miller,20,32-845
+32,U.S. Senate,REP,Lisa Murkowski,28,32-845
+32,U.S. Senate,NA,Margaret Stock,6,32-845
+32,U.S. Senate,,Write-ins,0,32-845
+32,U.S. House,DEM,Steve Lindbeck,15,32-845
+32,U.S. House,LIB,Jim McDermott,7,32-845
+32,U.S. House,NA,Bernie Souphanavong,2,32-845
+32,U.S. House,REP,Don Young,34,32-845
+32,U.S. House,,Write-ins,1,32-845
+32,State Senate,REP,Gary Stevens,56,32-845
+32,State Senate,,Write-ins,0,32-845
+32,State House,NA,Duncan Fields,34,32-845
+32,State House,REP,Louise Stutes,22,32-845
+32,State House,DEM,Brent Watkins,3,32-845
+32,State House,,Write-ins,0,32-845
+32,President,CON,Darrell Castle,1,32-847
+32,President,DEM,Hillary Clinton,63,32-847
+32,President,NA,Roque De La Fuente,1,32-847
+32,President,LIB,Gary Johnson,8,32-847
+32,President,GRE,Jill Stein,1,32-847
+32,President,REP,Donald Trump,77,32-847
+32,President,,Write-ins,3,32-847
+32,U.S. Senate,NA,Breck Craig,5,32-847
+32,U.S. Senate,NA,Ted Gianoutsos,1,32-847
+32,U.S. Senate,DEM,Ray Metcalfe,17,32-847
+32,U.S. Senate,LIB,Joe Miller,42,32-847
+32,U.S. Senate,REP,Lisa Murkowski,49,32-847
+32,U.S. Senate,NA,Margaret Stock,40,32-847
+32,U.S. Senate,,Write-ins,0,32-847
+32,U.S. House,DEM,Steve Lindbeck,64,32-847
+32,U.S. House,LIB,Jim McDermott,16,32-847
+32,U.S. House,NA,Bernie Souphanavong,4,32-847
+32,U.S. House,REP,Don Young,66,32-847
+32,U.S. House,,Write-ins,0,32-847
+32,State Senate,REP,Gary Stevens,109,32-847
+32,State Senate,,Write-ins,5,32-847
+32,State House,NA,Duncan Fields,20,32-847
+32,State House,REP,Louise Stutes,69,32-847
+32,State House,DEM,Brent Watkins,48,32-847
+32,State House,,Write-ins,1,32-847
+32,President,CON,Darrell Castle,3,32-850
+32,President,DEM,Hillary Clinton,11,32-850
+32,President,NA,Roque De La Fuente,1,32-850
+32,President,LIB,Gary Johnson,2,32-850
+32,President,GRE,Jill Stein,0,32-850
+32,President,REP,Donald Trump,4,32-850
+32,President,,Write-ins,1,32-850
+32,U.S. Senate,NA,Breck Craig,0,32-850
+32,U.S. Senate,NA,Ted Gianoutsos,1,32-850
+32,U.S. Senate,DEM,Ray Metcalfe,1,32-850
+32,U.S. Senate,LIB,Joe Miller,4,32-850
+32,U.S. Senate,REP,Lisa Murkowski,16,32-850
+32,U.S. Senate,NA,Margaret Stock,0,32-850
+32,U.S. Senate,,Write-ins,0,32-850
+32,U.S. House,DEM,Steve Lindbeck,2,32-850
+32,U.S. House,LIB,Jim McDermott,2,32-850
+32,U.S. House,NA,Bernie Souphanavong,2,32-850
+32,U.S. House,REP,Don Young,16,32-850
+32,U.S. House,,Write-ins,0,32-850
+32,State Senate,REP,Gary Stevens,19,32-850
+32,State Senate,,Write-ins,0,32-850
+32,State House,NA,Duncan Fields,5,32-850
+32,State House,REP,Louise Stutes,5,32-850
+32,State House,DEM,Brent Watkins,10,32-850
+32,State House,,Write-ins,0,32-850
+32,President,CON,Darrell Castle,2,32-855
+32,President,DEM,Hillary Clinton,32,32-855
+32,President,NA,Roque De La Fuente,2,32-855
+32,President,LIB,Gary Johnson,1,32-855
+32,President,GRE,Jill Stein,1,32-855
+32,President,REP,Donald Trump,3,32-855
+32,President,,Write-ins,4,32-855
+32,U.S. Senate,NA,Breck Craig,0,32-855
+32,U.S. Senate,NA,Ted Gianoutsos,0,32-855
+32,U.S. Senate,DEM,Ray Metcalfe,6,32-855
+32,U.S. Senate,LIB,Joe Miller,9,32-855
+32,U.S. Senate,REP,Lisa Murkowski,24,32-855
+32,U.S. Senate,NA,Margaret Stock,4,32-855
+32,U.S. Senate,,Write-ins,0,32-855
+32,U.S. House,DEM,Steve Lindbeck,21,32-855
+32,U.S. House,LIB,Jim McDermott,1,32-855
+32,U.S. House,NA,Bernie Souphanavong,3,32-855
+32,U.S. House,REP,Don Young,19,32-855
+32,U.S. House,,Write-ins,0,32-855
+32,State Senate,REP,Gary Stevens,33,32-855
+32,State Senate,,Write-ins,2,32-855
+32,State House,NA,Duncan Fields,10,32-855
+32,State House,REP,Louise Stutes,8,32-855
+32,State House,DEM,Brent Watkins,20,32-855
+32,State House,,Write-ins,1,32-855
+32,President,CON,Darrell Castle,0,32-860
+32,President,DEM,Hillary Clinton,102,32-860
+32,President,NA,Roque De La Fuente,0,32-860
+32,President,LIB,Gary Johnson,16,32-860
+32,President,GRE,Jill Stein,5,32-860
+32,President,REP,Donald Trump,86,32-860
+32,President,,Write-ins,8,32-860
+32,U.S. Senate,NA,Breck Craig,2,32-860
+32,U.S. Senate,NA,Ted Gianoutsos,1,32-860
+32,U.S. Senate,DEM,Ray Metcalfe,28,32-860
+32,U.S. Senate,LIB,Joe Miller,53,32-860
+32,U.S. Senate,REP,Lisa Murkowski,100,32-860
+32,U.S. Senate,NA,Margaret Stock,32,32-860
+32,U.S. Senate,,Write-ins,0,32-860
+32,U.S. House,DEM,Steve Lindbeck,90,32-860
+32,U.S. House,LIB,Jim McDermott,13,32-860
+32,U.S. House,NA,Bernie Souphanavong,6,32-860
+32,U.S. House,REP,Don Young,107,32-860
+32,U.S. House,,Write-ins,0,32-860
+32,State Senate,REP,Gary Stevens,145,32-860
+32,State Senate,,Write-ins,0,32-860
+32,State House,NA,Duncan Fields,64,32-860
+32,State House,REP,Louise Stutes,88,32-860
+32,State House,DEM,Brent Watkins,52,32-860
+32,State House,,Write-ins,0,32-860
+32,President,CON,Darrell Castle,20,Absentee
+32,President,DEM,Hillary Clinton,887,Absentee
+32,President,NA,Roque De La Fuente,14,Absentee
+32,President,LIB,Gary Johnson,144,Absentee
+32,President,GRE,Jill Stein,58,Absentee
+32,President,REP,Donald Trump,1136,Absentee
+32,President,,Write-ins,68,Absentee
+32,U.S. Senate,NA,Breck Craig,14,Absentee
+32,U.S. Senate,NA,Ted Gianoutsos,15,Absentee
+32,U.S. Senate,DEM,Ray Metcalfe,307,Absentee
+32,U.S. Senate,LIB,Joe Miller,477,Absentee
+32,U.S. Senate,REP,Lisa Murkowski,1063,Absentee
+32,U.S. Senate,NA,Margaret Stock,359,Absentee
+32,U.S. Senate,,Write-ins,3,Absentee
+32,U.S. House,DEM,Steve Lindbeck,820,Absentee
+32,U.S. House,LIB,Jim McDermott,226,Absentee
+32,U.S. House,NA,Bernie Souphanavong,63,Absentee
+32,U.S. House,REP,Don Young,1098,Absentee
+32,U.S. House,,Write-ins,7,Absentee
+32,State Senate,REP,Gary Stevens,1663,Absentee
+32,State Senate,,Write-ins,70,Absentee
+32,State House,NA,Duncan Fields,696,Absentee
+32,State House,REP,Louise Stutes,906,Absentee
+32,State House,DEM,Brent Watkins,424,Absentee
+32,State House,,Write-ins,6,Absentee
+32,President,CON,Darrell Castle,10,Question
+32,President,DEM,Hillary Clinton,93,Question
+32,President,NA,Roque De La Fuente,6,Question
+32,President,LIB,Gary Johnson,27,Question
+32,President,GRE,Jill Stein,9,Question
+32,President,REP,Donald Trump,221,Question
+32,President,,Write-ins,3,Question
+32,U.S. Senate,NA,Breck Craig,4,Question
+32,U.S. Senate,NA,Ted Gianoutsos,0,Question
+32,U.S. Senate,DEM,Ray Metcalfe,24,Question
+32,U.S. Senate,LIB,Joe Miller,94,Question
+32,U.S. Senate,REP,Lisa Murkowski,136,Question
+32,U.S. Senate,NA,Margaret Stock,23,Question
+32,U.S. Senate,,Write-ins,1,Question
+32,U.S. House,DEM,Steve Lindbeck,56,Question
+32,U.S. House,LIB,Jim McDermott,42,Question
+32,U.S. House,NA,Bernie Souphanavong,11,Question
+32,U.S. House,REP,Don Young,166,Question
+32,U.S. House,,Write-ins,1,Question
+32,State Senate,REP,Gary Stevens,158,Question
+32,State Senate,,Write-ins,4,Question
+32,State House,NA,Duncan Fields,90,Question
+32,State House,REP,Louise Stutes,77,Question
+32,State House,DEM,Brent Watkins,21,Question
+32,State House,,Write-ins,1,Question
+32,President,CON,Darrell Castle,0,Early Voting
+32,President,DEM,Hillary Clinton,17,Early Voting
+32,President,NA,Roque De La Fuente,0,Early Voting
+32,President,LIB,Gary Johnson,3,Early Voting
+32,President,GRE,Jill Stein,2,Early Voting
+32,President,REP,Donald Trump,25,Early Voting
+32,President,,Write-ins,3,Early Voting
+32,U.S. Senate,NA,Breck Craig,0,Early Voting
+32,U.S. Senate,NA,Ted Gianoutsos,0,Early Voting
+32,U.S. Senate,DEM,Ray Metcalfe,9,Early Voting
+32,U.S. Senate,LIB,Joe Miller,9,Early Voting
+32,U.S. Senate,REP,Lisa Murkowski,29,Early Voting
+32,U.S. Senate,NA,Margaret Stock,4,Early Voting
+32,U.S. Senate,,Write-ins,0,Early Voting
+32,U.S. House,DEM,Steve Lindbeck,21,Early Voting
+32,U.S. House,LIB,Jim McDermott,0,Early Voting
+32,U.S. House,NA,Bernie Souphanavong,0,Early Voting
+32,U.S. House,REP,Don Young,28,Early Voting
+32,U.S. House,,Write-ins,0,Early Voting
+32,State Senate,REP,Gary Stevens,37,Early Voting
+32,State Senate,,Write-ins,1,Early Voting
+32,State House,NA,Duncan Fields,20,Early Voting
+32,State House,REP,Louise Stutes,17,Early Voting
+32,State House,DEM,Brent Watkins,14,Early Voting
+32,State House,,Write-ins,0,Early Voting

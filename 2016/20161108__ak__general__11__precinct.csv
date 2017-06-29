@@ -1,0 +1,301 @@
+district,office,party,candidate,votes,precinct
+11,President,CON,Darrell Castle,3,11-055
+11,President,DEM,Hillary Clinton,123,11-055
+11,President,NA,Roque De La Fuente,2,11-055
+11,President,LIB,Gary Johnson,58,11-055
+11,President,GRE,Jill Stein,15,11-055
+11,President,REP,Donald Trump,582,11-055
+11,President,,Write-ins,40,11-055
+11,U.S. Senate,NA,Breck Craig,11,11-055
+11,U.S. Senate,NA,Ted Gianoutsos,5,11-055
+11,U.S. Senate,DEM,Ray Metcalfe,40,11-055
+11,U.S. Senate,LIB,Joe Miller,365,11-055
+11,U.S. Senate,REP,Lisa Murkowski,329,11-055
+11,U.S. Senate,NA,Margaret Stock,67,11-055
+11,U.S. Senate,,Write-ins,3,11-055
+11,U.S. House,DEM,Steve Lindbeck,164,11-055
+11,U.S. House,LIB,Jim McDermott,119,11-055
+11,U.S. House,NA,Bernie Souphanavong,23,11-055
+11,U.S. House,REP,Don Young,500,11-055
+11,U.S. House,,Write-ins,4,11-055
+11,State Senate,NA,Tim Hale,185,11-055
+11,State Senate,REP,Shelley Hughes,604,11-055
+11,State Senate,,Write-ins,4,11-055
+11,State House,REP,DeLena Johnson,569,11-055
+11,State House,NA,Bert Verrall,210,11-055
+11,State House,,Write-ins,0,11-055
+11,President,CON,Darrell Castle,5,11-060
+11,President,DEM,Hillary Clinton,136,11-060
+11,President,NA,Roque De La Fuente,2,11-060
+11,President,LIB,Gary Johnson,39,11-060
+11,President,GRE,Jill Stein,9,11-060
+11,President,REP,Donald Trump,482,11-060
+11,President,,Write-ins,15,11-060
+11,U.S. Senate,NA,Breck Craig,8,11-060
+11,U.S. Senate,NA,Ted Gianoutsos,3,11-060
+11,U.S. Senate,DEM,Ray Metcalfe,45,11-060
+11,U.S. Senate,LIB,Joe Miller,277,11-060
+11,U.S. Senate,REP,Lisa Murkowski,296,11-060
+11,U.S. Senate,NA,Margaret Stock,60,11-060
+11,U.S. Senate,,Write-ins,1,11-060
+11,U.S. House,DEM,Steve Lindbeck,165,11-060
+11,U.S. House,LIB,Jim McDermott,86,11-060
+11,U.S. House,NA,Bernie Souphanavong,26,11-060
+11,U.S. House,REP,Don Young,404,11-060
+11,U.S. House,,Write-ins,3,11-060
+11,State Senate,NA,Tim Hale,174,11-060
+11,State Senate,REP,Shelley Hughes,489,11-060
+11,State Senate,,Write-ins,3,11-060
+11,State House,REP,DeLena Johnson,458,11-060
+11,State House,NA,Bert Verrall,197,11-060
+11,State House,,Write-ins,4,11-060
+11,President,CON,Darrell Castle,3,11-065
+11,President,DEM,Hillary Clinton,80,11-065
+11,President,NA,Roque De La Fuente,1,11-065
+11,President,LIB,Gary Johnson,27,11-065
+11,President,GRE,Jill Stein,10,11-065
+11,President,REP,Donald Trump,295,11-065
+11,President,,Write-ins,7,11-065
+11,U.S. Senate,NA,Breck Craig,4,11-065
+11,U.S. Senate,NA,Ted Gianoutsos,1,11-065
+11,U.S. Senate,DEM,Ray Metcalfe,19,11-065
+11,U.S. Senate,LIB,Joe Miller,166,11-065
+11,U.S. Senate,REP,Lisa Murkowski,187,11-065
+11,U.S. Senate,NA,Margaret Stock,43,11-065
+11,U.S. Senate,,Write-ins,2,11-065
+11,U.S. House,DEM,Steve Lindbeck,96,11-065
+11,U.S. House,LIB,Jim McDermott,61,11-065
+11,U.S. House,NA,Bernie Souphanavong,16,11-065
+11,U.S. House,REP,Don Young,244,11-065
+11,U.S. House,,Write-ins,2,11-065
+11,State Senate,NA,Tim Hale,106,11-065
+11,State Senate,REP,Shelley Hughes,306,11-065
+11,State Senate,,Write-ins,1,11-065
+11,State House,REP,DeLena Johnson,293,11-065
+11,State House,NA,Bert Verrall,110,11-065
+11,State House,,Write-ins,2,11-065
+11,President,CON,Darrell Castle,7,11-070
+11,President,DEM,Hillary Clinton,184,11-070
+11,President,NA,Roque De La Fuente,5,11-070
+11,President,LIB,Gary Johnson,62,11-070
+11,President,GRE,Jill Stein,12,11-070
+11,President,REP,Donald Trump,443,11-070
+11,President,,Write-ins,31,11-070
+11,U.S. Senate,NA,Breck Craig,7,11-070
+11,U.S. Senate,NA,Ted Gianoutsos,10,11-070
+11,U.S. Senate,DEM,Ray Metcalfe,54,11-070
+11,U.S. Senate,LIB,Joe Miller,264,11-070
+11,U.S. Senate,REP,Lisa Murkowski,308,11-070
+11,U.S. Senate,NA,Margaret Stock,93,11-070
+11,U.S. Senate,,Write-ins,2,11-070
+11,U.S. House,DEM,Steve Lindbeck,246,11-070
+11,U.S. House,LIB,Jim McDermott,79,11-070
+11,U.S. House,NA,Bernie Souphanavong,25,11-070
+11,U.S. House,REP,Don Young,379,11-070
+11,U.S. House,,Write-ins,5,11-070
+11,State Senate,NA,Tim Hale,265,11-070
+11,State Senate,REP,Shelley Hughes,444,11-070
+11,State Senate,,Write-ins,5,11-070
+11,State House,REP,DeLena Johnson,426,11-070
+11,State House,NA,Bert Verrall,273,11-070
+11,State House,,Write-ins,5,11-070
+11,President,CON,Darrell Castle,9,11-075
+11,President,DEM,Hillary Clinton,159,11-075
+11,President,NA,Roque De La Fuente,7,11-075
+11,President,LIB,Gary Johnson,64,11-075
+11,President,GRE,Jill Stein,14,11-075
+11,President,REP,Donald Trump,458,11-075
+11,President,,Write-ins,15,11-075
+11,U.S. Senate,NA,Breck Craig,11,11-075
+11,U.S. Senate,NA,Ted Gianoutsos,5,11-075
+11,U.S. Senate,DEM,Ray Metcalfe,50,11-075
+11,U.S. Senate,LIB,Joe Miller,301,11-075
+11,U.S. Senate,REP,Lisa Murkowski,283,11-075
+11,U.S. Senate,NA,Margaret Stock,74,11-075
+11,U.S. Senate,,Write-ins,1,11-075
+11,U.S. House,DEM,Steve Lindbeck,210,11-075
+11,U.S. House,LIB,Jim McDermott,125,11-075
+11,U.S. House,NA,Bernie Souphanavong,28,11-075
+11,U.S. House,REP,Don Young,356,11-075
+11,U.S. House,,Write-ins,0,11-075
+11,State Senate,NA,Tim Hale,233,11-075
+11,State Senate,REP,Shelley Hughes,464,11-075
+11,State Senate,,Write-ins,3,11-075
+11,State House,REP,DeLena Johnson,433,11-075
+11,State House,NA,Bert Verrall,255,11-075
+11,State House,,Write-ins,2,11-075
+11,President,CON,Darrell Castle,7,11-085
+11,President,DEM,Hillary Clinton,107,11-085
+11,President,NA,Roque De La Fuente,3,11-085
+11,President,LIB,Gary Johnson,35,11-085
+11,President,GRE,Jill Stein,11,11-085
+11,President,REP,Donald Trump,433,11-085
+11,President,,Write-ins,17,11-085
+11,U.S. Senate,NA,Breck Craig,13,11-085
+11,U.S. Senate,NA,Ted Gianoutsos,1,11-085
+11,U.S. Senate,DEM,Ray Metcalfe,31,11-085
+11,U.S. Senate,LIB,Joe Miller,255,11-085
+11,U.S. Senate,REP,Lisa Murkowski,265,11-085
+11,U.S. Senate,NA,Margaret Stock,49,11-085
+11,U.S. Senate,,Write-ins,1,11-085
+11,U.S. House,DEM,Steve Lindbeck,130,11-085
+11,U.S. House,LIB,Jim McDermott,101,11-085
+11,U.S. House,NA,Bernie Souphanavong,15,11-085
+11,U.S. House,REP,Don Young,359,11-085
+11,U.S. House,,Write-ins,2,11-085
+11,State Senate,NA,Tim Hale,145,11-085
+11,State Senate,REP,Shelley Hughes,445,11-085
+11,State Senate,,Write-ins,0,11-085
+11,State House,REP,DeLena Johnson,436,11-085
+11,State House,NA,Bert Verrall,151,11-085
+11,State House,,Write-ins,0,11-085
+11,President,CON,Darrell Castle,8,11-090
+11,President,DEM,Hillary Clinton,66,11-090
+11,President,NA,Roque De La Fuente,3,11-090
+11,President,LIB,Gary Johnson,19,11-090
+11,President,GRE,Jill Stein,3,11-090
+11,President,REP,Donald Trump,296,11-090
+11,President,,Write-ins,14,11-090
+11,U.S. Senate,NA,Breck Craig,4,11-090
+11,U.S. Senate,NA,Ted Gianoutsos,2,11-090
+11,U.S. Senate,DEM,Ray Metcalfe,16,11-090
+11,U.S. Senate,LIB,Joe Miller,191,11-090
+11,U.S. Senate,REP,Lisa Murkowski,150,11-090
+11,U.S. Senate,NA,Margaret Stock,40,11-090
+11,U.S. Senate,,Write-ins,4,11-090
+11,U.S. House,DEM,Steve Lindbeck,83,11-090
+11,U.S. House,LIB,Jim McDermott,60,11-090
+11,U.S. House,NA,Bernie Souphanavong,7,11-090
+11,U.S. House,REP,Don Young,250,11-090
+11,U.S. House,,Write-ins,5,11-090
+11,State Senate,NA,Tim Hale,97,11-090
+11,State Senate,REP,Shelley Hughes,296,11-090
+11,State Senate,,Write-ins,2,11-090
+11,State House,REP,DeLena Johnson,275,11-090
+11,State House,NA,Bert Verrall,107,11-090
+11,State House,,Write-ins,2,11-090
+11,President,CON,Darrell Castle,3,11-095
+11,President,DEM,Hillary Clinton,150,11-095
+11,President,NA,Roque De La Fuente,2,11-095
+11,President,LIB,Gary Johnson,42,11-095
+11,President,GRE,Jill Stein,3,11-095
+11,President,REP,Donald Trump,512,11-095
+11,President,,Write-ins,21,11-095
+11,U.S. Senate,NA,Breck Craig,8,11-095
+11,U.S. Senate,NA,Ted Gianoutsos,4,11-095
+11,U.S. Senate,DEM,Ray Metcalfe,56,11-095
+11,U.S. Senate,LIB,Joe Miller,296,11-095
+11,U.S. Senate,REP,Lisa Murkowski,304,11-095
+11,U.S. Senate,NA,Margaret Stock,61,11-095
+11,U.S. Senate,,Write-ins,0,11-095
+11,U.S. House,DEM,Steve Lindbeck,191,11-095
+11,U.S. House,LIB,Jim McDermott,89,11-095
+11,U.S. House,NA,Bernie Souphanavong,22,11-095
+11,U.S. House,REP,Don Young,414,11-095
+11,U.S. House,,Write-ins,6,11-095
+11,State Senate,NA,Tim Hale,177,11-095
+11,State Senate,REP,Shelley Hughes,523,11-095
+11,State Senate,,Write-ins,3,11-095
+11,State House,REP,DeLena Johnson,469,11-095
+11,State House,NA,Bert Verrall,228,11-095
+11,State House,,Write-ins,2,11-095
+11,President,CON,Darrell Castle,3,11-099
+11,President,DEM,Hillary Clinton,140,11-099
+11,President,NA,Roque De La Fuente,2,11-099
+11,President,LIB,Gary Johnson,21,11-099
+11,President,GRE,Jill Stein,9,11-099
+11,President,REP,Donald Trump,365,11-099
+11,President,,Write-ins,16,11-099
+11,U.S. Senate,NA,Breck Craig,5,11-099
+11,U.S. Senate,NA,Ted Gianoutsos,3,11-099
+11,U.S. Senate,DEM,Ray Metcalfe,35,11-099
+11,U.S. Senate,LIB,Joe Miller,232,11-099
+11,U.S. Senate,REP,Lisa Murkowski,196,11-099
+11,U.S. Senate,NA,Margaret Stock,85,11-099
+11,U.S. Senate,,Write-ins,4,11-099
+11,U.S. House,DEM,Steve Lindbeck,154,11-099
+11,U.S. House,LIB,Jim McDermott,59,11-099
+11,U.S. House,NA,Bernie Souphanavong,19,11-099
+11,U.S. House,REP,Don Young,308,11-099
+11,U.S. House,,Write-ins,3,11-099
+11,State Senate,NA,Tim Hale,156,11-099
+11,State Senate,REP,Shelley Hughes,381,11-099
+11,State Senate,,Write-ins,3,11-099
+11,State House,REP,DeLena Johnson,353,11-099
+11,State House,NA,Bert Verrall,170,11-099
+11,State House,,Write-ins,4,11-099
+11,President,CON,Darrell Castle,17,Absentee
+11,President,DEM,Hillary Clinton,588,Absentee
+11,President,NA,Roque De La Fuente,5,Absentee
+11,President,LIB,Gary Johnson,97,Absentee
+11,President,GRE,Jill Stein,19,Absentee
+11,President,REP,Donald Trump,1412,Absentee
+11,President,,Write-ins,72,Absentee
+11,U.S. Senate,NA,Breck Craig,21,Absentee
+11,U.S. Senate,NA,Ted Gianoutsos,14,Absentee
+11,U.S. Senate,DEM,Ray Metcalfe,211,Absentee
+11,U.S. Senate,LIB,Joe Miller,762,Absentee
+11,U.S. Senate,REP,Lisa Murkowski,944,Absentee
+11,U.S. Senate,NA,Margaret Stock,212,Absentee
+11,U.S. Senate,,Write-ins,10,Absentee
+11,U.S. House,DEM,Steve Lindbeck,601,Absentee
+11,U.S. House,LIB,Jim McDermott,263,Absentee
+11,U.S. House,NA,Bernie Souphanavong,75,Absentee
+11,U.S. House,REP,Don Young,1212,Absentee
+11,U.S. House,,Write-ins,16,Absentee
+11,State Senate,NA,Tim Hale,544,Absentee
+11,State Senate,REP,Shelley Hughes,1378,Absentee
+11,State Senate,,Write-ins,19,Absentee
+11,State House,REP,DeLena Johnson,1272,Absentee
+11,State House,NA,Bert Verrall,630,Absentee
+11,State House,,Write-ins,8,Absentee
+11,President,CON,Darrell Castle,6,Question
+11,President,DEM,Hillary Clinton,153,Question
+11,President,NA,Roque De La Fuente,3,Question
+11,President,LIB,Gary Johnson,58,Question
+11,President,GRE,Jill Stein,13,Question
+11,President,REP,Donald Trump,511,Question
+11,President,,Write-ins,22,Question
+11,U.S. Senate,NA,Breck Craig,7,Question
+11,U.S. Senate,NA,Ted Gianoutsos,5,Question
+11,U.S. Senate,DEM,Ray Metcalfe,39,Question
+11,U.S. Senate,LIB,Joe Miller,258,Question
+11,U.S. Senate,REP,Lisa Murkowski,308,Question
+11,U.S. Senate,NA,Margaret Stock,48,Question
+11,U.S. Senate,,Write-ins,2,Question
+11,U.S. House,DEM,Steve Lindbeck,141,Question
+11,U.S. House,LIB,Jim McDermott,100,Question
+11,U.S. House,NA,Bernie Souphanavong,32,Question
+11,U.S. House,REP,Don Young,376,Question
+11,U.S. House,,Write-ins,4,Question
+11,State Senate,NA,Tim Hale,83,Question
+11,State Senate,REP,Shelley Hughes,164,Question
+11,State Senate,,Write-ins,0,Question
+11,State House,REP,DeLena Johnson,113,Question
+11,State House,NA,Bert Verrall,61,Question
+11,State House,,Write-ins,1,Question
+11,President,CON,Darrell Castle,6,Early Voting
+11,President,DEM,Hillary Clinton,256,Early Voting
+11,President,NA,Roque De La Fuente,2,Early Voting
+11,President,LIB,Gary Johnson,50,Early Voting
+11,President,GRE,Jill Stein,6,Early Voting
+11,President,REP,Donald Trump,655,Early Voting
+11,President,,Write-ins,23,Early Voting
+11,U.S. Senate,NA,Breck Craig,5,Early Voting
+11,U.S. Senate,NA,Ted Gianoutsos,3,Early Voting
+11,U.S. Senate,DEM,Ray Metcalfe,83,Early Voting
+11,U.S. Senate,LIB,Joe Miller,401,Early Voting
+11,U.S. Senate,REP,Lisa Murkowski,397,Early Voting
+11,U.S. Senate,NA,Margaret Stock,109,Early Voting
+11,U.S. Senate,,Write-ins,1,Early Voting
+11,U.S. House,DEM,Steve Lindbeck,273,Early Voting
+11,U.S. House,LIB,Jim McDermott,119,Early Voting
+11,U.S. House,NA,Bernie Souphanavong,38,Early Voting
+11,U.S. House,REP,Don Young,550,Early Voting
+11,U.S. House,,Write-ins,6,Early Voting
+11,State Senate,NA,Tim Hale,264,Early Voting
+11,State Senate,REP,Shelley Hughes,683,Early Voting
+11,State Senate,,Write-ins,4,Early Voting
+11,State House,REP,DeLena Johnson,655,Early Voting
+11,State House,NA,Bert Verrall,289,Early Voting
+11,State House,,Write-ins,3,Early Voting
