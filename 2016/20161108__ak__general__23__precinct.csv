@@ -1,0 +1,287 @@
+district,office,party,candidate,votes,precinct
+23,President,CON,Darrell Castle,3,23-735
+23,President,DEM,Hillary Clinton,167,23-735
+23,President,NA,Roque De La Fuente,2,23-735
+23,President,LIB,Gary Johnson,20,23-735
+23,President,GRE,Jill Stein,7,23-735
+23,President,REP,Donald Trump,186,23-735
+23,President,,Write-ins,9,23-735
+23,U.S. Senate,NA,Breck Craig,4,23-735
+23,U.S. Senate,NA,Ted Gianoutsos,1,23-735
+23,U.S. Senate,DEM,Ray Metcalfe,51,23-735
+23,U.S. Senate,LIB,Joe Miller,104,23-735
+23,U.S. Senate,REP,Lisa Murkowski,180,23-735
+23,U.S. Senate,NA,Margaret Stock,53,23-735
+23,U.S. Senate,,Write-ins,2,23-735
+23,U.S. House,DEM,Steve Lindbeck,142,23-735
+23,U.S. House,LIB,Jim McDermott,43,23-735
+23,U.S. House,NA,Bernie Souphanavong,13,23-735
+23,U.S. House,REP,Don Young,190,23-735
+23,U.S. House,,Write-ins,2,23-735
+23,State Senate,NA,Tom Johnson,44,23-735
+23,State Senate,DEM,Forrest McDonald,168,23-735
+23,State Senate,REP,Natasha Von Imhof,155,23-735
+23,State Senate,,Write-ins,4,23-735
+23,State House,DEM,Chris Tuck,231,23-735
+23,State House,REP,Timothy Huit,143,23-735
+23,State House,,Write-ins,3,23-735
+23,President,CON,Darrell Castle,12,23-740
+23,President,DEM,Hillary Clinton,274,23-740
+23,President,NA,Roque De La Fuente,1,23-740
+23,President,LIB,Gary Johnson,44,23-740
+23,President,GRE,Jill Stein,11,23-740
+23,President,REP,Donald Trump,324,23-740
+23,President,,Write-ins,23,23-740
+23,U.S. Senate,NA,Breck Craig,8,23-740
+23,U.S. Senate,NA,Ted Gianoutsos,3,23-740
+23,U.S. Senate,DEM,Ray Metcalfe,92,23-740
+23,U.S. Senate,LIB,Joe Miller,174,23-740
+23,U.S. Senate,REP,Lisa Murkowski,286,23-740
+23,U.S. Senate,NA,Margaret Stock,120,23-740
+23,U.S. Senate,,Write-ins,1,23-740
+23,U.S. House,DEM,Steve Lindbeck,292,23-740
+23,U.S. House,LIB,Jim McDermott,47,23-740
+23,U.S. House,NA,Bernie Souphanavong,21,23-740
+23,U.S. House,REP,Don Young,310,23-740
+23,U.S. House,,Write-ins,4,23-740
+23,State Senate,NA,Tom Johnson,64,23-740
+23,State Senate,DEM,Forrest McDonald,306,23-740
+23,State Senate,REP,Natasha Von Imhof,289,23-740
+23,State Senate,,Write-ins,4,23-740
+23,State House,DEM,Chris Tuck,359,23-740
+23,State House,REP,Timothy Huit,299,23-740
+23,State House,,Write-ins,1,23-740
+23,President,CON,Darrell Castle,4,23-745
+23,President,DEM,Hillary Clinton,144,23-745
+23,President,NA,Roque De La Fuente,3,23-745
+23,President,LIB,Gary Johnson,26,23-745
+23,President,GRE,Jill Stein,6,23-745
+23,President,REP,Donald Trump,161,23-745
+23,President,,Write-ins,10,23-745
+23,U.S. Senate,NA,Breck Craig,4,23-745
+23,U.S. Senate,NA,Ted Gianoutsos,1,23-745
+23,U.S. Senate,DEM,Ray Metcalfe,46,23-745
+23,U.S. Senate,LIB,Joe Miller,109,23-745
+23,U.S. Senate,REP,Lisa Murkowski,147,23-745
+23,U.S. Senate,NA,Margaret Stock,47,23-745
+23,U.S. Senate,,Write-ins,1,23-745
+23,U.S. House,DEM,Steve Lindbeck,139,23-745
+23,U.S. House,LIB,Jim McDermott,37,23-745
+23,U.S. House,NA,Bernie Souphanavong,6,23-745
+23,U.S. House,REP,Don Young,169,23-745
+23,U.S. House,,Write-ins,1,23-745
+23,State Senate,NA,Tom Johnson,35,23-745
+23,State Senate,DEM,Forrest McDonald,149,23-745
+23,State Senate,REP,Natasha Von Imhof,162,23-745
+23,State Senate,,Write-ins,2,23-745
+23,State House,DEM,Chris Tuck,184,23-745
+23,State House,REP,Timothy Huit,158,23-745
+23,State House,,Write-ins,3,23-745
+23,President,CON,Darrell Castle,11,23-750
+23,President,DEM,Hillary Clinton,247,23-750
+23,President,NA,Roque De La Fuente,6,23-750
+23,President,LIB,Gary Johnson,53,23-750
+23,President,GRE,Jill Stein,16,23-750
+23,President,REP,Donald Trump,344,23-750
+23,President,,Write-ins,18,23-750
+23,U.S. Senate,NA,Breck Craig,6,23-750
+23,U.S. Senate,NA,Ted Gianoutsos,8,23-750
+23,U.S. Senate,DEM,Ray Metcalfe,89,23-750
+23,U.S. Senate,LIB,Joe Miller,211,23-750
+23,U.S. Senate,REP,Lisa Murkowski,279,23-750
+23,U.S. Senate,NA,Margaret Stock,95,23-750
+23,U.S. Senate,,Write-ins,2,23-750
+23,U.S. House,DEM,Steve Lindbeck,244,23-750
+23,U.S. House,LIB,Jim McDermott,82,23-750
+23,U.S. House,NA,Bernie Souphanavong,24,23-750
+23,U.S. House,REP,Don Young,335,23-750
+23,U.S. House,,Write-ins,1,23-750
+23,State Senate,NA,Tom Johnson,69,23-750
+23,State Senate,DEM,Forrest McDonald,275,23-750
+23,State Senate,REP,Natasha Von Imhof,317,23-750
+23,State Senate,,Write-ins,3,23-750
+23,State House,DEM,Chris Tuck,332,23-750
+23,State House,REP,Timothy Huit,340,23-750
+23,State House,,Write-ins,3,23-750
+23,President,CON,Darrell Castle,2,23-755
+23,President,DEM,Hillary Clinton,270,23-755
+23,President,NA,Roque De La Fuente,4,23-755
+23,President,LIB,Gary Johnson,39,23-755
+23,President,GRE,Jill Stein,16,23-755
+23,President,REP,Donald Trump,340,23-755
+23,President,,Write-ins,7,23-755
+23,U.S. Senate,NA,Breck Craig,14,23-755
+23,U.S. Senate,NA,Ted Gianoutsos,6,23-755
+23,U.S. Senate,DEM,Ray Metcalfe,63,23-755
+23,U.S. Senate,LIB,Joe Miller,178,23-755
+23,U.S. Senate,REP,Lisa Murkowski,322,23-755
+23,U.S. Senate,NA,Margaret Stock,86,23-755
+23,U.S. Senate,,Write-ins,1,23-755
+23,U.S. House,DEM,Steve Lindbeck,252,23-755
+23,U.S. House,LIB,Jim McDermott,57,23-755
+23,U.S. House,NA,Bernie Souphanavong,25,23-755
+23,U.S. House,REP,Don Young,324,23-755
+23,U.S. House,,Write-ins,5,23-755
+23,State Senate,NA,Tom Johnson,62,23-755
+23,State Senate,DEM,Forrest McDonald,278,23-755
+23,State Senate,REP,Natasha Von Imhof,306,23-755
+23,State Senate,,Write-ins,0,23-755
+23,State House,DEM,Chris Tuck,386,23-755
+23,State House,REP,Timothy Huit,270,23-755
+23,State House,,Write-ins,3,23-755
+23,President,CON,Darrell Castle,2,23-760
+23,President,DEM,Hillary Clinton,185,23-760
+23,President,NA,Roque De La Fuente,1,23-760
+23,President,LIB,Gary Johnson,21,23-760
+23,President,GRE,Jill Stein,8,23-760
+23,President,REP,Donald Trump,213,23-760
+23,President,,Write-ins,5,23-760
+23,U.S. Senate,NA,Breck Craig,8,23-760
+23,U.S. Senate,NA,Ted Gianoutsos,2,23-760
+23,U.S. Senate,DEM,Ray Metcalfe,45,23-760
+23,U.S. Senate,LIB,Joe Miller,116,23-760
+23,U.S. Senate,REP,Lisa Murkowski,194,23-760
+23,U.S. Senate,NA,Margaret Stock,69,23-760
+23,U.S. Senate,,Write-ins,0,23-760
+23,U.S. House,DEM,Steve Lindbeck,174,23-760
+23,U.S. House,LIB,Jim McDermott,49,23-760
+23,U.S. House,NA,Bernie Souphanavong,16,23-760
+23,U.S. House,REP,Don Young,189,23-760
+23,U.S. House,,Write-ins,1,23-760
+23,State Senate,NA,Tom Johnson,48,23-760
+23,State Senate,DEM,Forrest McDonald,177,23-760
+23,State Senate,REP,Natasha Von Imhof,199,23-760
+23,State Senate,,Write-ins,1,23-760
+23,State House,DEM,Chris Tuck,237,23-760
+23,State House,REP,Timothy Huit,193,23-760
+23,State House,,Write-ins,0,23-760
+23,President,CON,Darrell Castle,2,23-765
+23,President,DEM,Hillary Clinton,330,23-765
+23,President,NA,Roque De La Fuente,1,23-765
+23,President,LIB,Gary Johnson,44,23-765
+23,President,GRE,Jill Stein,8,23-765
+23,President,REP,Donald Trump,403,23-765
+23,President,,Write-ins,24,23-765
+23,U.S. Senate,NA,Breck Craig,4,23-765
+23,U.S. Senate,NA,Ted Gianoutsos,6,23-765
+23,U.S. Senate,DEM,Ray Metcalfe,104,23-765
+23,U.S. Senate,LIB,Joe Miller,200,23-765
+23,U.S. Senate,REP,Lisa Murkowski,364,23-765
+23,U.S. Senate,NA,Margaret Stock,126,23-765
+23,U.S. Senate,,Write-ins,3,23-765
+23,U.S. House,DEM,Steve Lindbeck,326,23-765
+23,U.S. House,LIB,Jim McDermott,81,23-765
+23,U.S. House,NA,Bernie Souphanavong,18,23-765
+23,U.S. House,REP,Don Young,371,23-765
+23,U.S. House,,Write-ins,3,23-765
+23,State Senate,NA,Tom Johnson,62,23-765
+23,State Senate,DEM,Forrest McDonald,356,23-765
+23,State Senate,REP,Natasha Von Imhof,364,23-765
+23,State Senate,,Write-ins,3,23-765
+23,State House,DEM,Chris Tuck,472,23-765
+23,State House,REP,Timothy Huit,320,23-765
+23,State House,,Write-ins,4,23-765
+23,President,CON,Darrell Castle,15,23-770
+23,President,DEM,Hillary Clinton,248,23-770
+23,President,NA,Roque De La Fuente,2,23-770
+23,President,LIB,Gary Johnson,34,23-770
+23,President,GRE,Jill Stein,8,23-770
+23,President,REP,Donald Trump,287,23-770
+23,President,,Write-ins,2,23-770
+23,U.S. Senate,NA,Breck Craig,14,23-770
+23,U.S. Senate,NA,Ted Gianoutsos,2,23-770
+23,U.S. Senate,DEM,Ray Metcalfe,72,23-770
+23,U.S. Senate,LIB,Joe Miller,174,23-770
+23,U.S. Senate,REP,Lisa Murkowski,272,23-770
+23,U.S. Senate,NA,Margaret Stock,58,23-770
+23,U.S. Senate,,Write-ins,2,23-770
+23,U.S. House,DEM,Steve Lindbeck,211,23-770
+23,U.S. House,LIB,Jim McDermott,71,23-770
+23,U.S. House,NA,Bernie Souphanavong,31,23-770
+23,U.S. House,REP,Don Young,275,23-770
+23,U.S. House,,Write-ins,2,23-770
+23,State Senate,NA,Tom Johnson,75,23-770
+23,State Senate,DEM,Forrest McDonald,228,23-770
+23,State Senate,REP,Natasha Von Imhof,259,23-770
+23,State Senate,,Write-ins,3,23-770
+23,State House,DEM,Chris Tuck,310,23-770
+23,State House,REP,Timothy Huit,257,23-770
+23,State House,,Write-ins,5,23-770
+23,President,CON,Darrell Castle,5,Absentee
+23,President,DEM,Hillary Clinton,329,Absentee
+23,President,NA,Roque De La Fuente,6,Absentee
+23,President,LIB,Gary Johnson,49,Absentee
+23,President,GRE,Jill Stein,12,Absentee
+23,President,REP,Donald Trump,411,Absentee
+23,President,,Write-ins,24,Absentee
+23,U.S. Senate,NA,Breck Craig,8,Absentee
+23,U.S. Senate,NA,Ted Gianoutsos,6,Absentee
+23,U.S. Senate,DEM,Ray Metcalfe,131,Absentee
+23,U.S. Senate,LIB,Joe Miller,180,Absentee
+23,U.S. Senate,REP,Lisa Murkowski,378,Absentee
+23,U.S. Senate,NA,Margaret Stock,101,Absentee
+23,U.S. Senate,,Write-ins,1,Absentee
+23,U.S. House,DEM,Steve Lindbeck,290,Absentee
+23,U.S. House,LIB,Jim McDermott,86,Absentee
+23,U.S. House,NA,Bernie Souphanavong,25,Absentee
+23,U.S. House,REP,Don Young,390,Absentee
+23,U.S. House,,Write-ins,2,Absentee
+23,State Senate,NA,Tom Johnson,46,Absentee
+23,State Senate,DEM,Forrest McDonald,254,Absentee
+23,State Senate,REP,Natasha Von Imhof,350,Absentee
+23,State Senate,,Write-ins,3,Absentee
+23,State House,DEM,Chris Tuck,321,Absentee
+23,State House,REP,Timothy Huit,328,Absentee
+23,State House,,Write-ins,0,Absentee
+23,President,CON,Darrell Castle,6,Question
+23,President,DEM,Hillary Clinton,190,Question
+23,President,NA,Roque De La Fuente,3,Question
+23,President,LIB,Gary Johnson,37,Question
+23,President,GRE,Jill Stein,7,Question
+23,President,REP,Donald Trump,243,Question
+23,President,,Write-ins,15,Question
+23,U.S. Senate,NA,Breck Craig,5,Question
+23,U.S. Senate,NA,Ted Gianoutsos,2,Question
+23,U.S. Senate,DEM,Ray Metcalfe,54,Question
+23,U.S. Senate,LIB,Joe Miller,108,Question
+23,U.S. Senate,REP,Lisa Murkowski,206,Question
+23,U.S. Senate,NA,Margaret Stock,28,Question
+23,U.S. Senate,,Write-ins,4,Question
+23,U.S. House,DEM,Steve Lindbeck,116,Question
+23,U.S. House,LIB,Jim McDermott,50,Question
+23,U.S. House,NA,Bernie Souphanavong,20,Question
+23,U.S. House,REP,Don Young,218,Question
+23,U.S. House,,Write-ins,1,Question
+23,State Senate,NA,Tom Johnson,8,Question
+23,State Senate,DEM,Forrest McDonald,37,Question
+23,State Senate,REP,Natasha Von Imhof,48,Question
+23,State Senate,,Write-ins,0,Question
+23,State House,DEM,Chris Tuck,39,Question
+23,State House,REP,Timothy Huit,33,Question
+23,State House,,Write-ins,0,Question
+23,President,CON,Darrell Castle,7,Early Voting
+23,President,DEM,Hillary Clinton,510,Early Voting
+23,President,NA,Roque De La Fuente,2,Early Voting
+23,President,LIB,Gary Johnson,57,Early Voting
+23,President,GRE,Jill Stein,9,Early Voting
+23,President,REP,Donald Trump,334,Early Voting
+23,President,,Write-ins,15,Early Voting
+23,U.S. Senate,NA,Breck Craig,4,Early Voting
+23,U.S. Senate,NA,Ted Gianoutsos,7,Early Voting
+23,U.S. Senate,DEM,Ray Metcalfe,186,Early Voting
+23,U.S. Senate,LIB,Joe Miller,199,Early Voting
+23,U.S. Senate,REP,Lisa Murkowski,313,Early Voting
+23,U.S. Senate,NA,Margaret Stock,217,Early Voting
+23,U.S. Senate,,Write-ins,1,Early Voting
+23,U.S. House,DEM,Steve Lindbeck,482,Early Voting
+23,U.S. House,LIB,Jim McDermott,75,Early Voting
+23,U.S. House,NA,Bernie Souphanavong,27,Early Voting
+23,U.S. House,REP,Don Young,327,Early Voting
+23,U.S. House,,Write-ins,4,Early Voting
+23,State Senate,NA,Tom Johnson,53,Early Voting
+23,State Senate,DEM,Forrest McDonald,511,Early Voting
+23,State Senate,REP,Natasha Von Imhof,342,Early Voting
+23,State Senate,,Write-ins,4,Early Voting
+23,State House,DEM,Chris Tuck,572,Early Voting
+23,State House,REP,Timothy Huit,331,Early Voting
+23,State House,,Write-ins,6,Early Voting

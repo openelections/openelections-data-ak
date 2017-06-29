@@ -1,6 +1,5 @@
-from __future__ import print_function, division
+from __future__ import division
 
-import os
 import pandas as pd
 import numpy as np
 
@@ -24,7 +23,7 @@ def parse_2016():
     format.
     '''
 
-    df = pd.read_csv('./2016/20161108__ak__general__precinct.csv', encoding='cp1252')
+    df = pd.read_csv('./2016/20161108__ak__general__precinct.csv', encoding='latin1')
 
     # clean up the overseas ballots to be in House District 99
     df['precinct'] = df['precinct'].str.strip()
@@ -48,7 +47,6 @@ def parse_2016():
         r'([A-Za-z]+),\s+([A-Za-z]+)\s+([A-Za-z]+)', "\\2 \\1").astype('str')
     df['candidate'] = df['candidate'].str.replace(
         r'(\w+),\s(\w+)', "\\2 \\1").astype('str')
-    # assert len(df.candidate.unique()) == 116
 
     # remove trailing integers from write-ins, which appear
     # to have no informational puprose
@@ -70,8 +68,9 @@ def parse_2016():
     df.columns = ['district', 'office', 'party',
                   'candidate', 'votes', 'precinct']
 
-    # clean up the precinct whitespace
+    # clean up the whitespace
     df.precinct = df.precinct.str.strip()
+    df.party = df.party.str.strip()
 
     # check totals against reported results
     # http://elections.alaska.gov/results/16GENR/data/results.pdf
@@ -81,11 +80,11 @@ def parse_2016():
     assert dft.loc['U.S. House'].votes.sum() == 308198
 
     # export to CSV
-    df.to_csv('./2016/20161108__ak__general.csv', index=False)
+    # df.to_csv('./2016/20161108__ak__general__precinct.csv', index=False)
     # create files for each district
-    # dfg = df.groupby(['district'])
-    # for name, group in dfg:
-    #     group.to_csv('./2016/20161108_ak_general_'+str(name)+'.csv')
+    dfg = df.groupby(['district'])
+    for name, group in dfg:
+        group.to_csv('./2016/20161108__ak__general__'+str(name)+'__precinct.csv', index=False)
 
 if __name__ == '__main__':
     parse_2016()

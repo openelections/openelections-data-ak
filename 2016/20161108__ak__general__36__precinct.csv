@@ -1,0 +1,326 @@
+district,office,party,candidate,votes,precinct
+36,President,CON,Darrell Castle,9,36-600
+36,President,DEM,Hillary Clinton,277,36-600
+36,President,NA,Roque De La Fuente,3,36-600
+36,President,LIB,Gary Johnson,69,36-600
+36,President,GRE,Jill Stein,17,36-600
+36,President,REP,Donald Trump,299,36-600
+36,President,,Write-ins,15,36-600
+36,U.S. Senate,NA,Breck Craig,14,36-600
+36,U.S. Senate,NA,Ted Gianoutsos,5,36-600
+36,U.S. Senate,DEM,Ray Metcalfe,76,36-600
+36,U.S. Senate,LIB,Joe Miller,126,36-600
+36,U.S. Senate,REP,Lisa Murkowski,332,36-600
+36,U.S. Senate,NA,Margaret Stock,127,36-600
+36,U.S. Senate,,Write-ins,0,36-600
+36,U.S. House,DEM,Steve Lindbeck,250,36-600
+36,U.S. House,LIB,Jim McDermott,70,36-600
+36,U.S. House,NA,Bernie Souphanavong,30,36-600
+36,U.S. House,REP,Don Young,317,36-600
+36,U.S. House,,Write-ins,3,36-600
+36,State Senate,REP,Bert Stedman,517,36-600
+36,State Senate,,Write-ins,24,36-600
+36,State House,CON,Kenneth Shaw,48,36-600
+36,State House,REP,Robert Sivertsen,240,36-600
+36,State House,NA,Daniel Ortiz,395,36-600
+36,State House,,Write-ins,1,36-600
+36,President,CON,Darrell Castle,15,36-610
+36,President,DEM,Hillary Clinton,348,36-610
+36,President,NA,Roque De La Fuente,3,36-610
+36,President,LIB,Gary Johnson,80,36-610
+36,President,GRE,Jill Stein,16,36-610
+36,President,REP,Donald Trump,435,36-610
+36,President,,Write-ins,36,36-610
+36,U.S. Senate,NA,Breck Craig,5,36-610
+36,U.S. Senate,NA,Ted Gianoutsos,6,36-610
+36,U.S. Senate,DEM,Ray Metcalfe,101,36-610
+36,U.S. Senate,LIB,Joe Miller,175,36-610
+36,U.S. Senate,REP,Lisa Murkowski,519,36-610
+36,U.S. Senate,NA,Margaret Stock,120,36-610
+36,U.S. Senate,,Write-ins,1,36-610
+36,U.S. House,DEM,Steve Lindbeck,283,36-610
+36,U.S. House,LIB,Jim McDermott,97,36-610
+36,U.S. House,NA,Bernie Souphanavong,40,36-610
+36,U.S. House,REP,Don Young,490,36-610
+36,U.S. House,,Write-ins,4,36-610
+36,State Senate,REP,Bert Stedman,679,36-610
+36,State Senate,,Write-ins,32,36-610
+36,State House,CON,Kenneth Shaw,52,36-610
+36,State House,REP,Robert Sivertsen,352,36-610
+36,State House,NA,Daniel Ortiz,527,36-610
+36,State House,,Write-ins,0,36-610
+36,President,CON,Darrell Castle,12,36-620
+36,President,DEM,Hillary Clinton,155,36-620
+36,President,NA,Roque De La Fuente,3,36-620
+36,President,LIB,Gary Johnson,57,36-620
+36,President,GRE,Jill Stein,13,36-620
+36,President,REP,Donald Trump,394,36-620
+36,President,,Write-ins,13,36-620
+36,U.S. Senate,NA,Breck Craig,10,36-620
+36,U.S. Senate,NA,Ted Gianoutsos,5,36-620
+36,U.S. Senate,DEM,Ray Metcalfe,57,36-620
+36,U.S. Senate,LIB,Joe Miller,140,36-620
+36,U.S. Senate,REP,Lisa Murkowski,374,36-620
+36,U.S. Senate,NA,Margaret Stock,55,36-620
+36,U.S. Senate,,Write-ins,1,36-620
+36,U.S. House,DEM,Steve Lindbeck,161,36-620
+36,U.S. House,LIB,Jim McDermott,70,36-620
+36,U.S. House,NA,Bernie Souphanavong,22,36-620
+36,U.S. House,REP,Don Young,377,36-620
+36,U.S. House,,Write-ins,2,36-620
+36,State Senate,REP,Bert Stedman,504,36-620
+36,State Senate,,Write-ins,16,36-620
+36,State House,CON,Kenneth Shaw,31,36-620
+36,State House,REP,Robert Sivertsen,307,36-620
+36,State House,NA,Daniel Ortiz,305,36-620
+36,State House,,Write-ins,3,36-620
+36,President,CON,Darrell Castle,2,36-640
+36,President,DEM,Hillary Clinton,86,36-640
+36,President,NA,Roque De La Fuente,0,36-640
+36,President,LIB,Gary Johnson,19,36-640
+36,President,GRE,Jill Stein,13,36-640
+36,President,REP,Donald Trump,268,36-640
+36,President,,Write-ins,3,36-640
+36,U.S. Senate,NA,Breck Craig,1,36-640
+36,U.S. Senate,NA,Ted Gianoutsos,7,36-640
+36,U.S. Senate,DEM,Ray Metcalfe,21,36-640
+36,U.S. Senate,LIB,Joe Miller,110,36-640
+36,U.S. Senate,REP,Lisa Murkowski,205,36-640
+36,U.S. Senate,NA,Margaret Stock,39,36-640
+36,U.S. Senate,,Write-ins,0,36-640
+36,U.S. House,DEM,Steve Lindbeck,87,36-640
+36,U.S. House,LIB,Jim McDermott,44,36-640
+36,U.S. House,NA,Bernie Souphanavong,14,36-640
+36,U.S. House,REP,Don Young,229,36-640
+36,U.S. House,,Write-ins,2,36-640
+36,State Senate,REP,Bert Stedman,308,36-640
+36,State Senate,,Write-ins,10,36-640
+36,State House,CON,Kenneth Shaw,28,36-640
+36,State House,REP,Robert Sivertsen,190,36-640
+36,State House,NA,Daniel Ortiz,163,36-640
+36,State House,,Write-ins,0,36-640
+36,President,CON,Darrell Castle,1,36-650
+36,President,DEM,Hillary Clinton,183,36-650
+36,President,NA,Roque De La Fuente,2,36-650
+36,President,LIB,Gary Johnson,61,36-650
+36,President,GRE,Jill Stein,9,36-650
+36,President,REP,Donald Trump,525,36-650
+36,President,,Write-ins,10,36-650
+36,U.S. Senate,NA,Breck Craig,5,36-650
+36,U.S. Senate,NA,Ted Gianoutsos,2,36-650
+36,U.S. Senate,DEM,Ray Metcalfe,53,36-650
+36,U.S. Senate,LIB,Joe Miller,240,36-650
+36,U.S. Senate,REP,Lisa Murkowski,404,36-650
+36,U.S. Senate,NA,Margaret Stock,83,36-650
+36,U.S. Senate,,Write-ins,0,36-650
+36,U.S. House,DEM,Steve Lindbeck,183,36-650
+36,U.S. House,LIB,Jim McDermott,92,36-650
+36,U.S. House,NA,Bernie Souphanavong,15,36-650
+36,U.S. House,REP,Don Young,477,36-650
+36,U.S. House,,Write-ins,2,36-650
+36,State Senate,REP,Bert Stedman,643,36-650
+36,State Senate,,Write-ins,21,36-650
+36,State House,CON,Kenneth Shaw,40,36-650
+36,State House,REP,Robert Sivertsen,370,36-650
+36,State House,NA,Daniel Ortiz,378,36-650
+36,State House,,Write-ins,0,36-650
+36,President,CON,Darrell Castle,7,36-660
+36,President,DEM,Hillary Clinton,53,36-660
+36,President,NA,Roque De La Fuente,1,36-660
+36,President,LIB,Gary Johnson,11,36-660
+36,President,GRE,Jill Stein,5,36-660
+36,President,REP,Donald Trump,42,36-660
+36,President,,Write-ins,2,36-660
+36,U.S. Senate,NA,Breck Craig,2,36-660
+36,U.S. Senate,NA,Ted Gianoutsos,0,36-660
+36,U.S. Senate,DEM,Ray Metcalfe,12,36-660
+36,U.S. Senate,LIB,Joe Miller,12,36-660
+36,U.S. Senate,REP,Lisa Murkowski,78,36-660
+36,U.S. Senate,NA,Margaret Stock,12,36-660
+36,U.S. Senate,,Write-ins,1,36-660
+36,U.S. House,DEM,Steve Lindbeck,33,36-660
+36,U.S. House,LIB,Jim McDermott,11,36-660
+36,U.S. House,NA,Bernie Souphanavong,8,36-660
+36,U.S. House,REP,Don Young,64,36-660
+36,U.S. House,,Write-ins,0,36-660
+36,State Senate,REP,Bert Stedman,85,36-660
+36,State Senate,,Write-ins,2,36-660
+36,State House,CON,Kenneth Shaw,8,36-660
+36,State House,REP,Robert Sivertsen,45,36-660
+36,State House,NA,Daniel Ortiz,64,36-660
+36,State House,,Write-ins,0,36-660
+36,President,CON,Darrell Castle,2,36-670
+36,President,DEM,Hillary Clinton,193,36-670
+36,President,NA,Roque De La Fuente,1,36-670
+36,President,LIB,Gary Johnson,42,36-670
+36,President,GRE,Jill Stein,11,36-670
+36,President,REP,Donald Trump,391,36-670
+36,President,,Write-ins,25,36-670
+36,U.S. Senate,NA,Breck Craig,2,36-670
+36,U.S. Senate,NA,Ted Gianoutsos,2,36-670
+36,U.S. Senate,DEM,Ray Metcalfe,42,36-670
+36,U.S. Senate,LIB,Joe Miller,170,36-670
+36,U.S. Senate,REP,Lisa Murkowski,354,36-670
+36,U.S. Senate,NA,Margaret Stock,89,36-670
+36,U.S. Senate,,Write-ins,1,36-670
+36,U.S. House,DEM,Steve Lindbeck,186,36-670
+36,U.S. House,LIB,Jim McDermott,72,36-670
+36,U.S. House,NA,Bernie Souphanavong,23,36-670
+36,U.S. House,REP,Don Young,371,36-670
+36,U.S. House,,Write-ins,1,36-670
+36,State Senate,REP,Bert Stedman,537,36-670
+36,State Senate,,Write-ins,14,36-670
+36,State House,CON,Kenneth Shaw,28,36-670
+36,State House,REP,Robert Sivertsen,297,36-670
+36,State House,NA,Daniel Ortiz,331,36-670
+36,State House,,Write-ins,1,36-670
+36,President,CON,Darrell Castle,2,36-675
+36,President,DEM,Hillary Clinton,66,36-675
+36,President,NA,Roque De La Fuente,1,36-675
+36,President,LIB,Gary Johnson,1,36-675
+36,President,GRE,Jill Stein,5,36-675
+36,President,REP,Donald Trump,14,36-675
+36,President,,Write-ins,1,36-675
+36,U.S. Senate,NA,Breck Craig,0,36-675
+36,U.S. Senate,NA,Ted Gianoutsos,0,36-675
+36,U.S. Senate,DEM,Ray Metcalfe,22,36-675
+36,U.S. Senate,LIB,Joe Miller,20,36-675
+36,U.S. Senate,REP,Lisa Murkowski,38,36-675
+36,U.S. Senate,NA,Margaret Stock,7,36-675
+36,U.S. Senate,,Write-ins,1,36-675
+36,U.S. House,DEM,Steve Lindbeck,43,36-675
+36,U.S. House,LIB,Jim McDermott,6,36-675
+36,U.S. House,NA,Bernie Souphanavong,4,36-675
+36,U.S. House,REP,Don Young,35,36-675
+36,U.S. House,,Write-ins,0,36-675
+36,State Senate,REP,Bert Stedman,51,36-675
+36,State Senate,,Write-ins,6,36-675
+36,State House,CON,Kenneth Shaw,6,36-675
+36,State House,REP,Robert Sivertsen,11,36-675
+36,State House,NA,Daniel Ortiz,68,36-675
+36,State House,,Write-ins,1,36-675
+36,President,CON,Darrell Castle,26,36-680
+36,President,DEM,Hillary Clinton,237,36-680
+36,President,NA,Roque De La Fuente,10,36-680
+36,President,LIB,Gary Johnson,29,36-680
+36,President,GRE,Jill Stein,14,36-680
+36,President,REP,Donald Trump,162,36-680
+36,President,,Write-ins,22,36-680
+36,U.S. Senate,NA,Breck Craig,8,36-680
+36,U.S. Senate,NA,Ted Gianoutsos,3,36-680
+36,U.S. Senate,DEM,Ray Metcalfe,52,36-680
+36,U.S. Senate,LIB,Joe Miller,101,36-680
+36,U.S. Senate,REP,Lisa Murkowski,316,36-680
+36,U.S. Senate,NA,Margaret Stock,22,36-680
+36,U.S. Senate,,Write-ins,1,36-680
+36,U.S. House,DEM,Steve Lindbeck,133,36-680
+36,U.S. House,LIB,Jim McDermott,31,36-680
+36,U.S. House,NA,Bernie Souphanavong,16,36-680
+36,U.S. House,REP,Don Young,314,36-680
+36,U.S. House,,Write-ins,1,36-680
+36,State Senate,REP,Bert Stedman,334,36-680
+36,State Senate,,Write-ins,7,36-680
+36,State House,CON,Kenneth Shaw,33,36-680
+36,State House,REP,Robert Sivertsen,83,36-680
+36,State House,NA,Daniel Ortiz,369,36-680
+36,State House,,Write-ins,1,36-680
+36,President,CON,Darrell Castle,7,36-690
+36,President,DEM,Hillary Clinton,177,36-690
+36,President,NA,Roque De La Fuente,3,36-690
+36,President,LIB,Gary Johnson,35,36-690
+36,President,GRE,Jill Stein,13,36-690
+36,President,REP,Donald Trump,512,36-690
+36,President,,Write-ins,13,36-690
+36,U.S. Senate,NA,Breck Craig,5,36-690
+36,U.S. Senate,NA,Ted Gianoutsos,3,36-690
+36,U.S. Senate,DEM,Ray Metcalfe,52,36-690
+36,U.S. Senate,LIB,Joe Miller,184,36-690
+36,U.S. Senate,REP,Lisa Murkowski,457,36-690
+36,U.S. Senate,NA,Margaret Stock,52,36-690
+36,U.S. Senate,,Write-ins,1,36-690
+36,U.S. House,DEM,Steve Lindbeck,170,36-690
+36,U.S. House,LIB,Jim McDermott,68,36-690
+36,U.S. House,NA,Bernie Souphanavong,17,36-690
+36,U.S. House,REP,Don Young,491,36-690
+36,U.S. House,,Write-ins,4,36-690
+36,State Senate,REP,Bert Stedman,641,36-690
+36,State Senate,,Write-ins,27,36-690
+36,State House,CON,Kenneth Shaw,26,36-690
+36,State House,REP,Robert Sivertsen,423,36-690
+36,State House,NA,Daniel Ortiz,295,36-690
+36,State House,,Write-ins,1,36-690
+36,President,CON,Darrell Castle,15,Absentee
+36,President,DEM,Hillary Clinton,725,Absentee
+36,President,NA,Roque De La Fuente,6,Absentee
+36,President,LIB,Gary Johnson,127,Absentee
+36,President,GRE,Jill Stein,38,Absentee
+36,President,REP,Donald Trump,1088,Absentee
+36,President,,Write-ins,42,Absentee
+36,U.S. Senate,NA,Breck Craig,18,Absentee
+36,U.S. Senate,NA,Ted Gianoutsos,7,Absentee
+36,U.S. Senate,DEM,Ray Metcalfe,255,Absentee
+36,U.S. Senate,LIB,Joe Miller,483,Absentee
+36,U.S. Senate,REP,Lisa Murkowski,968,Absentee
+36,U.S. Senate,NA,Margaret Stock,231,Absentee
+36,U.S. Senate,,Write-ins,1,Absentee
+36,U.S. House,DEM,Steve Lindbeck,629,Absentee
+36,U.S. House,LIB,Jim McDermott,176,Absentee
+36,U.S. House,NA,Bernie Souphanavong,54,Absentee
+36,U.S. House,REP,Don Young,1071,Absentee
+36,U.S. House,,Write-ins,5,Absentee
+36,State Senate,REP,Bert Stedman,1485,Absentee
+36,State Senate,,Write-ins,59,Absentee
+36,State House,CON,Kenneth Shaw,74,Absentee
+36,State House,REP,Robert Sivertsen,798,Absentee
+36,State House,NA,Daniel Ortiz,999,Absentee
+36,State House,,Write-ins,4,Absentee
+36,President,CON,Darrell Castle,12,Question
+36,President,DEM,Hillary Clinton,182,Question
+36,President,NA,Roque De La Fuente,4,Question
+36,President,LIB,Gary Johnson,53,Question
+36,President,GRE,Jill Stein,19,Question
+36,President,REP,Donald Trump,323,Question
+36,President,,Write-ins,22,Question
+36,U.S. Senate,NA,Breck Craig,8,Question
+36,U.S. Senate,NA,Ted Gianoutsos,8,Question
+36,U.S. Senate,DEM,Ray Metcalfe,55,Question
+36,U.S. Senate,LIB,Joe Miller,116,Question
+36,U.S. Senate,REP,Lisa Murkowski,285,Question
+36,U.S. Senate,NA,Margaret Stock,41,Question
+36,U.S. Senate,,Write-ins,1,Question
+36,U.S. House,DEM,Steve Lindbeck,131,Question
+36,U.S. House,LIB,Jim McDermott,57,Question
+36,U.S. House,NA,Bernie Souphanavong,26,Question
+36,U.S. House,REP,Don Young,288,Question
+36,U.S. House,,Write-ins,2,Question
+36,State Senate,REP,Bert Stedman,358,Question
+36,State Senate,,Write-ins,10,Question
+36,State House,CON,Kenneth Shaw,21,Question
+36,State House,REP,Robert Sivertsen,199,Question
+36,State House,NA,Daniel Ortiz,199,Question
+36,State House,,Write-ins,1,Question
+36,President,CON,Darrell Castle,0,Early Voting
+36,President,DEM,Hillary Clinton,11,Early Voting
+36,President,NA,Roque De La Fuente,0,Early Voting
+36,President,LIB,Gary Johnson,1,Early Voting
+36,President,GRE,Jill Stein,0,Early Voting
+36,President,REP,Donald Trump,7,Early Voting
+36,President,,Write-ins,2,Early Voting
+36,U.S. Senate,NA,Breck Craig,0,Early Voting
+36,U.S. Senate,NA,Ted Gianoutsos,1,Early Voting
+36,U.S. Senate,DEM,Ray Metcalfe,3,Early Voting
+36,U.S. Senate,LIB,Joe Miller,4,Early Voting
+36,U.S. Senate,REP,Lisa Murkowski,11,Early Voting
+36,U.S. Senate,NA,Margaret Stock,2,Early Voting
+36,U.S. Senate,,Write-ins,0,Early Voting
+36,U.S. House,DEM,Steve Lindbeck,10,Early Voting
+36,U.S. House,LIB,Jim McDermott,2,Early Voting
+36,U.S. House,NA,Bernie Souphanavong,0,Early Voting
+36,U.S. House,REP,Don Young,9,Early Voting
+36,U.S. House,,Write-ins,0,Early Voting
+36,State Senate,REP,Bert Stedman,16,Early Voting
+36,State Senate,,Write-ins,1,Early Voting
+36,State House,CON,Kenneth Shaw,1,Early Voting
+36,State House,REP,Robert Sivertsen,4,Early Voting
+36,State House,NA,Daniel Ortiz,16,Early Voting
+36,State House,,Write-ins,0,Early Voting

@@ -1,0 +1,265 @@
+district,office,party,candidate,votes,precinct
+5,President,CON,Darrell Castle,2,05-580
+5,President,DEM,Hillary Clinton,24,05-580
+5,President,NA,Roque De La Fuente,0,05-580
+5,President,LIB,Gary Johnson,9,05-580
+5,President,GRE,Jill Stein,2,05-580
+5,President,REP,Donald Trump,91,05-580
+5,President,,Write-ins,2,05-580
+5,U.S. Senate,NA,Breck Craig,0,05-580
+5,U.S. Senate,NA,Ted Gianoutsos,0,05-580
+5,U.S. Senate,DEM,Ray Metcalfe,9,05-580
+5,U.S. Senate,LIB,Joe Miller,53,05-580
+5,U.S. Senate,REP,Lisa Murkowski,50,05-580
+5,U.S. Senate,NA,Margaret Stock,13,05-580
+5,U.S. Senate,,Write-ins,0,05-580
+5,U.S. House,DEM,Steve Lindbeck,30,05-580
+5,U.S. House,LIB,Jim McDermott,18,05-580
+5,U.S. House,NA,Bernie Souphanavong,2,05-580
+5,U.S. House,REP,Don Young,76,05-580
+5,U.S. House,,Write-ins,1,05-580
+5,State House,REP,Aaron Lojewski,87,05-580
+5,State House,DEM,Adam Wool,40,05-580
+5,State House,,Write-ins,1,05-580
+5,President,CON,Darrell Castle,12,05-582
+5,President,DEM,Hillary Clinton,798,05-582
+5,President,NA,Roque De La Fuente,2,05-582
+5,President,LIB,Gary Johnson,119,05-582
+5,President,GRE,Jill Stein,63,05-582
+5,President,REP,Donald Trump,903,05-582
+5,President,,Write-ins,78,05-582
+5,U.S. Senate,NA,Breck Craig,13,05-582
+5,U.S. Senate,NA,Ted Gianoutsos,6,05-582
+5,U.S. Senate,DEM,Ray Metcalfe,188,05-582
+5,U.S. Senate,LIB,Joe Miller,491,05-582
+5,U.S. Senate,REP,Lisa Murkowski,915,05-582
+5,U.S. Senate,NA,Margaret Stock,339,05-582
+5,U.S. Senate,,Write-ins,10,05-582
+5,U.S. House,DEM,Steve Lindbeck,839,05-582
+5,U.S. House,LIB,Jim McDermott,195,05-582
+5,U.S. House,NA,Bernie Souphanavong,41,05-582
+5,U.S. House,REP,Don Young,865,05-582
+5,U.S. House,,Write-ins,10,05-582
+5,State House,REP,Aaron Lojewski,862,05-582
+5,State House,DEM,Adam Wool,1072,05-582
+5,State House,,Write-ins,7,05-582
+5,President,CON,Darrell Castle,14,05-586
+5,President,DEM,Hillary Clinton,277,05-586
+5,President,NA,Roque De La Fuente,4,05-586
+5,President,LIB,Gary Johnson,51,05-586
+5,President,GRE,Jill Stein,13,05-586
+5,President,REP,Donald Trump,279,05-586
+5,President,,Write-ins,25,05-586
+5,U.S. Senate,NA,Breck Craig,6,05-586
+5,U.S. Senate,NA,Ted Gianoutsos,4,05-586
+5,U.S. Senate,DEM,Ray Metcalfe,71,05-586
+5,U.S. Senate,LIB,Joe Miller,149,05-586
+5,U.S. Senate,REP,Lisa Murkowski,317,05-586
+5,U.S. Senate,NA,Margaret Stock,113,05-586
+5,U.S. Senate,,Write-ins,1,05-586
+5,U.S. House,DEM,Steve Lindbeck,280,05-586
+5,U.S. House,LIB,Jim McDermott,69,05-586
+5,U.S. House,NA,Bernie Souphanavong,16,05-586
+5,U.S. House,REP,Don Young,290,05-586
+5,U.S. House,,Write-ins,2,05-586
+5,State House,REP,Aaron Lojewski,285,05-586
+5,State House,DEM,Adam Wool,371,05-586
+5,State House,,Write-ins,1,05-586
+5,President,CON,Darrell Castle,3,05-587
+5,President,DEM,Hillary Clinton,27,05-587
+5,President,NA,Roque De La Fuente,0,05-587
+5,President,LIB,Gary Johnson,6,05-587
+5,President,GRE,Jill Stein,1,05-587
+5,President,REP,Donald Trump,101,05-587
+5,President,,Write-ins,5,05-587
+5,U.S. Senate,NA,Breck Craig,0,05-587
+5,U.S. Senate,NA,Ted Gianoutsos,2,05-587
+5,U.S. Senate,DEM,Ray Metcalfe,8,05-587
+5,U.S. Senate,LIB,Joe Miller,58,05-587
+5,U.S. Senate,REP,Lisa Murkowski,69,05-587
+5,U.S. Senate,NA,Margaret Stock,3,05-587
+5,U.S. Senate,,Write-ins,0,05-587
+5,U.S. House,DEM,Steve Lindbeck,34,05-587
+5,U.S. House,LIB,Jim McDermott,17,05-587
+5,U.S. House,NA,Bernie Souphanavong,4,05-587
+5,U.S. House,REP,Don Young,82,05-587
+5,U.S. House,,Write-ins,0,05-587
+5,State House,REP,Aaron Lojewski,83,05-587
+5,State House,DEM,Adam Wool,50,05-587
+5,State House,,Write-ins,3,05-587
+5,President,CON,Darrell Castle,2,05-588
+5,President,DEM,Hillary Clinton,74,05-588
+5,President,NA,Roque De La Fuente,1,05-588
+5,President,LIB,Gary Johnson,18,05-588
+5,President,GRE,Jill Stein,2,05-588
+5,President,REP,Donald Trump,138,05-588
+5,President,,Write-ins,6,05-588
+5,U.S. Senate,NA,Breck Craig,1,05-588
+5,U.S. Senate,NA,Ted Gianoutsos,4,05-588
+5,U.S. Senate,DEM,Ray Metcalfe,22,05-588
+5,U.S. Senate,LIB,Joe Miller,77,05-588
+5,U.S. Senate,REP,Lisa Murkowski,119,05-588
+5,U.S. Senate,NA,Margaret Stock,16,05-588
+5,U.S. Senate,,Write-ins,2,05-588
+5,U.S. House,DEM,Steve Lindbeck,73,05-588
+5,U.S. House,LIB,Jim McDermott,41,05-588
+5,U.S. House,NA,Bernie Souphanavong,5,05-588
+5,U.S. House,REP,Don Young,122,05-588
+5,U.S. House,,Write-ins,0,05-588
+5,State House,REP,Aaron Lojewski,132,05-588
+5,State House,DEM,Adam Wool,101,05-588
+5,State House,,Write-ins,0,05-588
+5,President,CON,Darrell Castle,1,05-590
+5,President,DEM,Hillary Clinton,27,05-590
+5,President,NA,Roque De La Fuente,0,05-590
+5,President,LIB,Gary Johnson,5,05-590
+5,President,GRE,Jill Stein,1,05-590
+5,President,REP,Donald Trump,119,05-590
+5,President,,Write-ins,4,05-590
+5,U.S. Senate,NA,Breck Craig,2,05-590
+5,U.S. Senate,NA,Ted Gianoutsos,0,05-590
+5,U.S. Senate,DEM,Ray Metcalfe,8,05-590
+5,U.S. Senate,LIB,Joe Miller,73,05-590
+5,U.S. Senate,REP,Lisa Murkowski,64,05-590
+5,U.S. Senate,NA,Margaret Stock,6,05-590
+5,U.S. Senate,,Write-ins,1,05-590
+5,U.S. House,DEM,Steve Lindbeck,37,05-590
+5,U.S. House,LIB,Jim McDermott,26,05-590
+5,U.S. House,NA,Bernie Souphanavong,4,05-590
+5,U.S. House,REP,Don Young,86,05-590
+5,U.S. House,,Write-ins,0,05-590
+5,State House,REP,Aaron Lojewski,116,05-590
+5,State House,DEM,Adam Wool,32,05-590
+5,State House,,Write-ins,2,05-590
+5,President,CON,Darrell Castle,7,05-592
+5,President,DEM,Hillary Clinton,148,05-592
+5,President,NA,Roque De La Fuente,2,05-592
+5,President,LIB,Gary Johnson,32,05-592
+5,President,GRE,Jill Stein,10,05-592
+5,President,REP,Donald Trump,216,05-592
+5,President,,Write-ins,13,05-592
+5,U.S. Senate,NA,Breck Craig,3,05-592
+5,U.S. Senate,NA,Ted Gianoutsos,3,05-592
+5,U.S. Senate,DEM,Ray Metcalfe,61,05-592
+5,U.S. Senate,LIB,Joe Miller,135,05-592
+5,U.S. Senate,REP,Lisa Murkowski,175,05-592
+5,U.S. Senate,NA,Margaret Stock,45,05-592
+5,U.S. Senate,,Write-ins,2,05-592
+5,U.S. House,DEM,Steve Lindbeck,184,05-592
+5,U.S. House,LIB,Jim McDermott,47,05-592
+5,U.S. House,NA,Bernie Souphanavong,15,05-592
+5,U.S. House,REP,Don Young,167,05-592
+5,U.S. House,,Write-ins,3,05-592
+5,State House,REP,Aaron Lojewski,208,05-592
+5,State House,DEM,Adam Wool,205,05-592
+5,State House,,Write-ins,2,05-592
+5,President,CON,Darrell Castle,0,05-594
+5,President,DEM,Hillary Clinton,51,05-594
+5,President,NA,Roque De La Fuente,0,05-594
+5,President,LIB,Gary Johnson,5,05-594
+5,President,GRE,Jill Stein,4,05-594
+5,President,REP,Donald Trump,24,05-594
+5,President,,Write-ins,1,05-594
+5,U.S. Senate,NA,Breck Craig,0,05-594
+5,U.S. Senate,NA,Ted Gianoutsos,0,05-594
+5,U.S. Senate,DEM,Ray Metcalfe,19,05-594
+5,U.S. Senate,LIB,Joe Miller,19,05-594
+5,U.S. Senate,REP,Lisa Murkowski,25,05-594
+5,U.S. Senate,NA,Margaret Stock,19,05-594
+5,U.S. Senate,,Write-ins,0,05-594
+5,U.S. House,DEM,Steve Lindbeck,45,05-594
+5,U.S. House,LIB,Jim McDermott,17,05-594
+5,U.S. House,NA,Bernie Souphanavong,5,05-594
+5,U.S. House,REP,Don Young,16,05-594
+5,U.S. House,,Write-ins,0,05-594
+5,State House,REP,Aaron Lojewski,22,05-594
+5,State House,DEM,Adam Wool,58,05-594
+5,State House,,Write-ins,0,05-594
+5,President,CON,Darrell Castle,17,05-596
+5,President,DEM,Hillary Clinton,397,05-596
+5,President,NA,Roque De La Fuente,4,05-596
+5,President,LIB,Gary Johnson,68,05-596
+5,President,GRE,Jill Stein,16,05-596
+5,President,REP,Donald Trump,502,05-596
+5,President,,Write-ins,38,05-596
+5,U.S. Senate,NA,Breck Craig,9,05-596
+5,U.S. Senate,NA,Ted Gianoutsos,3,05-596
+5,U.S. Senate,DEM,Ray Metcalfe,113,05-596
+5,U.S. Senate,LIB,Joe Miller,289,05-596
+5,U.S. Senate,REP,Lisa Murkowski,496,05-596
+5,U.S. Senate,NA,Margaret Stock,124,05-596
+5,U.S. Senate,,Write-ins,2,05-596
+5,U.S. House,DEM,Steve Lindbeck,395,05-596
+5,U.S. House,LIB,Jim McDermott,110,05-596
+5,U.S. House,NA,Bernie Souphanavong,17,05-596
+5,U.S. House,REP,Don Young,508,05-596
+5,U.S. House,,Write-ins,2,05-596
+5,State House,REP,Aaron Lojewski,484,05-596
+5,State House,DEM,Adam Wool,534,05-596
+5,State House,,Write-ins,2,05-596
+5,President,CON,Darrell Castle,7,Absentee
+5,President,DEM,Hillary Clinton,558,Absentee
+5,President,NA,Roque De La Fuente,6,Absentee
+5,President,LIB,Gary Johnson,88,Absentee
+5,President,GRE,Jill Stein,34,Absentee
+5,President,REP,Donald Trump,510,Absentee
+5,President,,Write-ins,32,Absentee
+5,U.S. Senate,NA,Breck Craig,7,Absentee
+5,U.S. Senate,NA,Ted Gianoutsos,8,Absentee
+5,U.S. Senate,DEM,Ray Metcalfe,228,Absentee
+5,U.S. Senate,LIB,Joe Miller,298,Absentee
+5,U.S. Senate,REP,Lisa Murkowski,516,Absentee
+5,U.S. Senate,NA,Margaret Stock,151,Absentee
+5,U.S. Senate,,Write-ins,4,Absentee
+5,U.S. House,DEM,Steve Lindbeck,501,Absentee
+5,U.S. House,LIB,Jim McDermott,159,Absentee
+5,U.S. House,NA,Bernie Souphanavong,34,Absentee
+5,U.S. House,REP,Don Young,496,Absentee
+5,U.S. House,,Write-ins,3,Absentee
+5,State House,REP,Aaron Lojewski,512,Absentee
+5,State House,DEM,Adam Wool,518,Absentee
+5,State House,,Write-ins,7,Absentee
+5,President,CON,Darrell Castle,4,Question
+5,President,DEM,Hillary Clinton,124,Question
+5,President,NA,Roque De La Fuente,1,Question
+5,President,LIB,Gary Johnson,47,Question
+5,President,GRE,Jill Stein,12,Question
+5,President,REP,Donald Trump,228,Question
+5,President,,Write-ins,17,Question
+5,U.S. Senate,NA,Breck Craig,6,Question
+5,U.S. Senate,NA,Ted Gianoutsos,3,Question
+5,U.S. Senate,DEM,Ray Metcalfe,30,Question
+5,U.S. Senate,LIB,Joe Miller,132,Question
+5,U.S. Senate,REP,Lisa Murkowski,162,Question
+5,U.S. Senate,NA,Margaret Stock,25,Question
+5,U.S. Senate,,Write-ins,3,Question
+5,U.S. House,DEM,Steve Lindbeck,107,Question
+5,U.S. House,LIB,Jim McDermott,53,Question
+5,U.S. House,NA,Bernie Souphanavong,17,Question
+5,U.S. House,REP,Don Young,177,Question
+5,U.S. House,,Write-ins,1,Question
+5,State House,REP,Aaron Lojewski,40,Question
+5,State House,DEM,Adam Wool,36,Question
+5,State House,,Write-ins,0,Question
+5,President,CON,Darrell Castle,2,Early Voting
+5,President,DEM,Hillary Clinton,682,Early Voting
+5,President,NA,Roque De La Fuente,0,Early Voting
+5,President,LIB,Gary Johnson,64,Early Voting
+5,President,GRE,Jill Stein,20,Early Voting
+5,President,REP,Donald Trump,572,Early Voting
+5,President,,Write-ins,34,Early Voting
+5,U.S. Senate,NA,Breck Craig,6,Early Voting
+5,U.S. Senate,NA,Ted Gianoutsos,8,Early Voting
+5,U.S. Senate,DEM,Ray Metcalfe,208,Early Voting
+5,U.S. Senate,LIB,Joe Miller,306,Early Voting
+5,U.S. Senate,REP,Lisa Murkowski,579,Early Voting
+5,U.S. Senate,NA,Margaret Stock,264,Early Voting
+5,U.S. Senate,,Write-ins,0,Early Voting
+5,U.S. House,DEM,Steve Lindbeck,697,Early Voting
+5,U.S. House,LIB,Jim McDermott,104,Early Voting
+5,U.S. House,NA,Bernie Souphanavong,32,Early Voting
+5,U.S. House,REP,Don Young,525,Early Voting
+5,U.S. House,,Write-ins,2,Early Voting
+5,State House,REP,Aaron Lojewski,553,Early Voting
+5,State House,DEM,Adam Wool,795,Early Voting
+5,State House,,Write-ins,3,Early Voting

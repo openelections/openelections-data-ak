@@ -1,0 +1,201 @@
+district,office,party,candidate,votes,precinct
+15,President,CON,Darrell Castle,3,15-300
+15,President,DEM,Hillary Clinton,112,15-300
+15,President,NA,Roque De La Fuente,0,15-300
+15,President,LIB,Gary Johnson,50,15-300
+15,President,GRE,Jill Stein,10,15-300
+15,President,REP,Donald Trump,327,15-300
+15,President,,Write-ins,13,15-300
+15,U.S. Senate,NA,Breck Craig,7,15-300
+15,U.S. Senate,NA,Ted Gianoutsos,6,15-300
+15,U.S. Senate,DEM,Ray Metcalfe,66,15-300
+15,U.S. Senate,LIB,Joe Miller,148,15-300
+15,U.S. Senate,REP,Lisa Murkowski,250,15-300
+15,U.S. Senate,NA,Margaret Stock,22,15-300
+15,U.S. Senate,,Write-ins,1,15-300
+15,U.S. House,DEM,Steve Lindbeck,129,15-300
+15,U.S. House,LIB,Jim McDermott,58,15-300
+15,U.S. House,NA,Bernie Souphanavong,19,15-300
+15,U.S. House,REP,Don Young,283,15-300
+15,U.S. House,,Write-ins,4,15-300
+15,State Senate,DEM,Bill Wielechowski,153,15-300
+15,State Senate,REP,Kevin Kastner,328,15-300
+15,State Senate,,Write-ins,0,15-300
+15,State House,REP,Gabrielle LeDoux,356,15-300
+15,State House,DEM,Patrick McCormack,122,15-300
+15,State House,,Write-ins,3,15-300
+15,President,CON,Darrell Castle,6,15-305
+15,President,DEM,Hillary Clinton,268,15-305
+15,President,NA,Roque De La Fuente,5,15-305
+15,President,LIB,Gary Johnson,44,15-305
+15,President,GRE,Jill Stein,10,15-305
+15,President,REP,Donald Trump,411,15-305
+15,President,,Write-ins,13,15-305
+15,U.S. Senate,NA,Breck Craig,5,15-305
+15,U.S. Senate,NA,Ted Gianoutsos,7,15-305
+15,U.S. Senate,DEM,Ray Metcalfe,100,15-305
+15,U.S. Senate,LIB,Joe Miller,232,15-305
+15,U.S. Senate,REP,Lisa Murkowski,320,15-305
+15,U.S. Senate,NA,Margaret Stock,87,15-305
+15,U.S. Senate,,Write-ins,1,15-305
+15,U.S. House,DEM,Steve Lindbeck,256,15-305
+15,U.S. House,LIB,Jim McDermott,68,15-305
+15,U.S. House,NA,Bernie Souphanavong,29,15-305
+15,U.S. House,REP,Don Young,391,15-305
+15,U.S. House,,Write-ins,0,15-305
+15,State Senate,DEM,Bill Wielechowski,405,15-305
+15,State Senate,REP,Kevin Kastner,320,15-305
+15,State Senate,,Write-ins,0,15-305
+15,State House,REP,Gabrielle LeDoux,478,15-305
+15,State House,DEM,Patrick McCormack,252,15-305
+15,State House,,Write-ins,3,15-305
+15,President,CON,Darrell Castle,6,15-310
+15,President,DEM,Hillary Clinton,228,15-310
+15,President,NA,Roque De La Fuente,8,15-310
+15,President,LIB,Gary Johnson,19,15-310
+15,President,GRE,Jill Stein,16,15-310
+15,President,REP,Donald Trump,252,15-310
+15,President,,Write-ins,15,15-310
+15,U.S. Senate,NA,Breck Craig,11,15-310
+15,U.S. Senate,NA,Ted Gianoutsos,1,15-310
+15,U.S. Senate,DEM,Ray Metcalfe,88,15-310
+15,U.S. Senate,LIB,Joe Miller,169,15-310
+15,U.S. Senate,REP,Lisa Murkowski,207,15-310
+15,U.S. Senate,NA,Margaret Stock,64,15-310
+15,U.S. Senate,,Write-ins,1,15-310
+15,U.S. House,DEM,Steve Lindbeck,213,15-310
+15,U.S. House,LIB,Jim McDermott,46,15-310
+15,U.S. House,NA,Bernie Souphanavong,18,15-310
+15,U.S. House,REP,Don Young,262,15-310
+15,U.S. House,,Write-ins,0,15-310
+15,State Senate,DEM,Bill Wielechowski,312,15-310
+15,State Senate,REP,Kevin Kastner,212,15-310
+15,State Senate,,Write-ins,3,15-310
+15,State House,REP,Gabrielle LeDoux,354,15-310
+15,State House,DEM,Patrick McCormack,178,15-310
+15,State House,,Write-ins,2,15-310
+15,President,CON,Darrell Castle,12,15-315
+15,President,DEM,Hillary Clinton,190,15-315
+15,President,NA,Roque De La Fuente,2,15-315
+15,President,LIB,Gary Johnson,29,15-315
+15,President,GRE,Jill Stein,8,15-315
+15,President,REP,Donald Trump,232,15-315
+15,President,,Write-ins,10,15-315
+15,U.S. Senate,NA,Breck Craig,2,15-315
+15,U.S. Senate,NA,Ted Gianoutsos,4,15-315
+15,U.S. Senate,DEM,Ray Metcalfe,76,15-315
+15,U.S. Senate,LIB,Joe Miller,153,15-315
+15,U.S. Senate,REP,Lisa Murkowski,196,15-315
+15,U.S. Senate,NA,Margaret Stock,48,15-315
+15,U.S. Senate,,Write-ins,1,15-315
+15,U.S. House,DEM,Steve Lindbeck,171,15-315
+15,U.S. House,LIB,Jim McDermott,52,15-315
+15,U.S. House,NA,Bernie Souphanavong,19,15-315
+15,U.S. House,REP,Don Young,227,15-315
+15,U.S. House,,Write-ins,2,15-315
+15,State Senate,DEM,Bill Wielechowski,293,15-315
+15,State Senate,REP,Kevin Kastner,176,15-315
+15,State Senate,,Write-ins,1,15-315
+15,State House,REP,Gabrielle LeDoux,322,15-315
+15,State House,DEM,Patrick McCormack,146,15-315
+15,State House,,Write-ins,1,15-315
+15,President,CON,Darrell Castle,3,15-320
+15,President,DEM,Hillary Clinton,189,15-320
+15,President,NA,Roque De La Fuente,2,15-320
+15,President,LIB,Gary Johnson,36,15-320
+15,President,GRE,Jill Stein,11,15-320
+15,President,REP,Donald Trump,256,15-320
+15,President,,Write-ins,19,15-320
+15,U.S. Senate,NA,Breck Craig,7,15-320
+15,U.S. Senate,NA,Ted Gianoutsos,5,15-320
+15,U.S. Senate,DEM,Ray Metcalfe,77,15-320
+15,U.S. Senate,LIB,Joe Miller,161,15-320
+15,U.S. Senate,REP,Lisa Murkowski,204,15-320
+15,U.S. Senate,NA,Margaret Stock,57,15-320
+15,U.S. Senate,,Write-ins,4,15-320
+15,U.S. House,DEM,Steve Lindbeck,162,15-320
+15,U.S. House,LIB,Jim McDermott,63,15-320
+15,U.S. House,NA,Bernie Souphanavong,32,15-320
+15,U.S. House,REP,Don Young,254,15-320
+15,U.S. House,,Write-ins,2,15-320
+15,State Senate,DEM,Bill Wielechowski,265,15-320
+15,State Senate,REP,Kevin Kastner,238,15-320
+15,State Senate,,Write-ins,2,15-320
+15,State House,REP,Gabrielle LeDoux,338,15-320
+15,State House,DEM,Patrick McCormack,159,15-320
+15,State House,,Write-ins,2,15-320
+15,President,CON,Darrell Castle,6,Absentee
+15,President,DEM,Hillary Clinton,368,Absentee
+15,President,NA,Roque De La Fuente,7,Absentee
+15,President,LIB,Gary Johnson,93,Absentee
+15,President,GRE,Jill Stein,16,Absentee
+15,President,REP,Donald Trump,589,Absentee
+15,President,,Write-ins,31,Absentee
+15,U.S. Senate,NA,Breck Craig,8,Absentee
+15,U.S. Senate,NA,Ted Gianoutsos,7,Absentee
+15,U.S. Senate,DEM,Ray Metcalfe,193,Absentee
+15,U.S. Senate,LIB,Joe Miller,263,Absentee
+15,U.S. Senate,REP,Lisa Murkowski,518,Absentee
+15,U.S. Senate,NA,Margaret Stock,60,Absentee
+15,U.S. Senate,,Write-ins,3,Absentee
+15,U.S. House,DEM,Steve Lindbeck,295,Absentee
+15,U.S. House,LIB,Jim McDermott,115,Absentee
+15,U.S. House,NA,Bernie Souphanavong,33,Absentee
+15,U.S. House,REP,Don Young,594,Absentee
+15,U.S. House,,Write-ins,6,Absentee
+15,State Senate,DEM,Bill Wielechowski,375,Absentee
+15,State Senate,REP,Kevin Kastner,520,Absentee
+15,State Senate,,Write-ins,4,Absentee
+15,State House,REP,Gabrielle LeDoux,653,Absentee
+15,State House,DEM,Patrick McCormack,236,Absentee
+15,State House,,Write-ins,4,Absentee
+15,President,CON,Darrell Castle,7,Question
+15,President,DEM,Hillary Clinton,199,Question
+15,President,NA,Roque De La Fuente,2,Question
+15,President,LIB,Gary Johnson,34,Question
+15,President,GRE,Jill Stein,11,Question
+15,President,REP,Donald Trump,263,Question
+15,President,,Write-ins,18,Question
+15,U.S. Senate,NA,Breck Craig,6,Question
+15,U.S. Senate,NA,Ted Gianoutsos,5,Question
+15,U.S. Senate,DEM,Ray Metcalfe,74,Question
+15,U.S. Senate,LIB,Joe Miller,100,Question
+15,U.S. Senate,REP,Lisa Murkowski,179,Question
+15,U.S. Senate,NA,Margaret Stock,16,Question
+15,U.S. Senate,,Write-ins,0,Question
+15,U.S. House,DEM,Steve Lindbeck,120,Question
+15,U.S. House,LIB,Jim McDermott,41,Question
+15,U.S. House,NA,Bernie Souphanavong,25,Question
+15,U.S. House,REP,Don Young,189,Question
+15,U.S. House,,Write-ins,0,Question
+15,State Senate,DEM,Bill Wielechowski,59,Question
+15,State Senate,REP,Kevin Kastner,45,Question
+15,State Senate,,Write-ins,2,Question
+15,State House,REP,Gabrielle LeDoux,59,Question
+15,State House,DEM,Patrick McCormack,22,Question
+15,State House,,Write-ins,1,Question
+15,President,CON,Darrell Castle,6,Early Voting
+15,President,DEM,Hillary Clinton,274,Early Voting
+15,President,NA,Roque De La Fuente,1,Early Voting
+15,President,LIB,Gary Johnson,30,Early Voting
+15,President,GRE,Jill Stein,3,Early Voting
+15,President,REP,Donald Trump,195,Early Voting
+15,President,,Write-ins,14,Early Voting
+15,U.S. Senate,NA,Breck Craig,4,Early Voting
+15,U.S. Senate,NA,Ted Gianoutsos,1,Early Voting
+15,U.S. Senate,DEM,Ray Metcalfe,142,Early Voting
+15,U.S. Senate,LIB,Joe Miller,102,Early Voting
+15,U.S. Senate,REP,Lisa Murkowski,201,Early Voting
+15,U.S. Senate,NA,Margaret Stock,67,Early Voting
+15,U.S. Senate,,Write-ins,0,Early Voting
+15,U.S. House,DEM,Steve Lindbeck,251,Early Voting
+15,U.S. House,LIB,Jim McDermott,41,Early Voting
+15,U.S. House,NA,Bernie Souphanavong,8,Early Voting
+15,U.S. House,REP,Don Young,215,Early Voting
+15,U.S. House,,Write-ins,1,Early Voting
+15,State Senate,DEM,Bill Wielechowski,329,Early Voting
+15,State Senate,REP,Kevin Kastner,179,Early Voting
+15,State Senate,,Write-ins,1,Early Voting
+15,State House,REP,Gabrielle LeDoux,274,Early Voting
+15,State House,DEM,Patrick McCormack,229,Early Voting
+15,State House,,Write-ins,2,Early Voting
