@@ -55,7 +55,7 @@ county,precinct,office,district,candidate,party,votes
 ,01-455 Fairbanks No. 1,State Senate,A,"Kelly, Pete ",REP,79
 ,01-455 Fairbanks No. 1,State Senate,A,Write-in,,1
 ,01-455 Fairbanks No. 1,State House,1,Registered Voters,,502
-,01-455 Fairbanks No. 1,State House,1,Times Counted,,155
+,01-455 Fairbanks No. 1,State House,1,Times Counted,,156
 ,01-455 Fairbanks No. 1,State House,1,"LeBon, Barton S. ",REP,93
 ,01-455 Fairbanks No. 1,State House,1,"Dodge, Kathryn E. ",DEM,60
 ,01-455 Fairbanks No. 1,State House,1,Write-in,,0
@@ -131,9 +131,9 @@ county,precinct,office,district,candidate,party,votes
 ,01-470 Fairbanks No. 3,State Senate,A,"Kelly, Pete ",REP,205
 ,01-470 Fairbanks No. 3,State Senate,A,Write-in,,7
 ,01-470 Fairbanks No. 3,State House,1,Registered Voters,,1567
-,01-470 Fairbanks No. 3,State House,1,Times Counted,,493
+,01-470 Fairbanks No. 3,State House,1,Times Counted,,494
 ,01-470 Fairbanks No. 3,State House,1,"LeBon, Barton S. ",REP,237
-,01-470 Fairbanks No. 3,State House,1,"Dodge, Kathryn E. ",DEM,248
+,01-470 Fairbanks No. 3,State House,1,"Dodge, Kathryn E. ",DEM,249
 ,01-470 Fairbanks No. 3,State House,1,Write-in,,4
 ,01-470 Fairbanks No. 3,Ballot Measure No. 1 - 17FSH2,,Registered Voters,,1567
 ,01-470 Fairbanks No. 3,Ballot Measure No. 1 - 17FSH2,,Times Counted,,493
@@ -20969,8 +20969,8 @@ county,precinct,office,district,candidate,party,votes
 ,District 1 - Absentee,State Senate,A,"Kelly, Pete ",REP,277
 ,District 1 - Absentee,State Senate,A,Write-in,,2
 ,District 1 - Absentee,State House,1,Registered Voters,,13392
-,District 1 - Absentee,State House,1,Times Counted,,530
-,District 1 - Absentee,State House,1,"LeBon, Barton S. ",REP,308
+,District 1 - Absentee,State House,1,Times Counted,,531
+,District 1 - Absentee,State House,1,"LeBon, Barton S. ",REP,309
 ,District 1 - Absentee,State House,1,"Dodge, Kathryn E. ",DEM,214
 ,District 1 - Absentee,State House,1,Write-in,,0
 ,District 1 - Absentee,Ballot Measure No. 1 - 17FSH2,,Registered Voters,,13392
@@ -23112,7 +23112,7 @@ county,precinct,office,district,candidate,party,votes
 ,District 1 - Question,State Senate,A,"Kelly, Pete ",REP,42
 ,District 1 - Question,State Senate,A,Write-in,,0
 ,District 1 - Question,State House,1,Registered Voters,,13392
-,District 1 - Question,State House,1,Times Counted,,88
+,District 1 - Question,State House,1,Times Counted,,89
 ,District 1 - Question,State House,1,"LeBon, Barton S. ",REP,41
 ,District 1 - Question,State House,1,"Dodge, Kathryn E. ",DEM,43
 ,District 1 - Question,State House,1,Write-in,,0
