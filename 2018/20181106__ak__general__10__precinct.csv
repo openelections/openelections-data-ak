@@ -1,0 +1,211 @@
+county,office,district,candidate,party,votes,precinct
+,U.S. House,10,Alyse Galvin,DEM,114,10-005
+,U.S. House,10,Don Young,REP,281,10-005
+,U.S. House,10,Write-ins,,3,10-005
+,Governor,10,Mark Begich,DEM,101,10-005
+,Governor,10,Mike Dunleavy,REP,290,10-005
+,Governor,10,Billy Toien,LIB,8,10-005
+,Governor,10,Bill Walker,,1,10-005
+,Governor,10,Write-ins,,0,10-005
+,State Senate,10,Susan Kay,DEM,90,10-005
+,State Senate,10,Michael Shower,REP,302,10-005
+,State Senate,10,Write-ins,,0,10-005
+,State House,10,David Eastman,REP,251,10-005
+,State House,10,Doyle Holmes,,67,10-005
+,State House,10,Patrici Faye-Brazel,DEM,71,10-005
+,State House,10,Write-ins,,2,10-005
+,U.S. House,10,Alyse Galvin,DEM,189,10-010
+,U.S. House,10,Don Young,REP,496,10-010
+,U.S. House,10,Write-ins,,2,10-010
+,Governor,10,Mark Begich,DEM,143,10-010
+,Governor,10,Mike Dunleavy,REP,531,10-010
+,Governor,10,Billy Toien,LIB,10,10-010
+,Governor,10,Bill Walker,,5,10-010
+,Governor,10,Write-ins,,2,10-010
+,State Senate,10,Susan Kay,DEM,135,10-010
+,State Senate,10,Michael Shower,REP,540,10-010
+,State Senate,10,Write-ins,,1,10-010
+,State House,10,David Eastman,REP,449,10-010
+,State House,10,Doyle Holmes,,114,10-010
+,State House,10,Patrici Faye-Brazel,DEM,116,10-010
+,State House,10,Write-ins,,1,10-010
+,U.S. House,10,Alyse Galvin,DEM,238,10-015
+,U.S. House,10,Don Young,REP,586,10-015
+,U.S. House,10,Write-ins,,12,10-015
+,Governor,10,Mark Begich,DEM,196,10-015
+,Governor,10,Mike Dunleavy,REP,620,10-015
+,Governor,10,Billy Toien,LIB,16,10-015
+,Governor,10,Bill Walker,,5,10-015
+,Governor,10,Write-ins,,0,10-015
+,State Senate,10,Susan Kay,DEM,182,10-015
+,State Senate,10,Michael Shower,REP,635,10-015
+,State Senate,10,Write-ins,,5,10-015
+,State House,10,David Eastman,REP,521,10-015
+,State House,10,Doyle Holmes,,145,10-015
+,State House,10,Patrici Faye-Brazel,DEM,159,10-015
+,State House,10,Write-ins,,2,10-015
+,U.S. House,10,Alyse Galvin,DEM,136,10-020
+,U.S. House,10,Don Young,REP,379,10-020
+,U.S. House,10,Write-ins,,2,10-020
+,Governor,10,Mark Begich,DEM,99,10-020
+,Governor,10,Mike Dunleavy,REP,403,10-020
+,Governor,10,Billy Toien,LIB,16,10-020
+,Governor,10,Bill Walker,,1,10-020
+,Governor,10,Write-ins,,4,10-020
+,State Senate,10,Susan Kay,DEM,94,10-020
+,State Senate,10,Michael Shower,REP,413,10-020
+,State Senate,10,Write-ins,,3,10-020
+,State House,10,David Eastman,REP,288,10-020
+,State House,10,Doyle Holmes,,137,10-020
+,State House,10,Patrici Faye-Brazel,DEM,88,10-020
+,State House,10,Write-ins,,3,10-020
+,U.S. House,10,Alyse Galvin,DEM,110,10-025
+,U.S. House,10,Don Young,REP,313,10-025
+,U.S. House,10,Write-ins,,2,10-025
+,Governor,10,Mark Begich,DEM,86,10-025
+,Governor,10,Mike Dunleavy,REP,330,10-025
+,Governor,10,Billy Toien,LIB,8,10-025
+,Governor,10,Bill Walker,,3,10-025
+,Governor,10,Write-ins,,1,10-025
+,State Senate,10,Susan Kay,DEM,74,10-025
+,State Senate,10,Michael Shower,REP,343,10-025
+,State Senate,10,Write-ins,,2,10-025
+,State House,10,David Eastman,REP,283,10-025
+,State House,10,Doyle Holmes,,79,10-025
+,State House,10,Patrici Faye-Brazel,DEM,60,10-025
+,State House,10,Write-ins,,0,10-025
+,U.S. House,10,Alyse Galvin,DEM,125,10-030
+,U.S. House,10,Don Young,REP,309,10-030
+,U.S. House,10,Write-ins,,0,10-030
+,Governor,10,Mark Begich,DEM,106,10-030
+,Governor,10,Mike Dunleavy,REP,322,10-030
+,Governor,10,Billy Toien,LIB,6,10-030
+,Governor,10,Bill Walker,,6,10-030
+,Governor,10,Write-ins,,0,10-030
+,State Senate,10,Susan Kay,DEM,106,10-030
+,State Senate,10,Michael Shower,REP,319,10-030
+,State Senate,10,Write-ins,,1,10-030
+,State House,10,David Eastman,REP,234,10-030
+,State House,10,Doyle Holmes,,110,10-030
+,State House,10,Patrici Faye-Brazel,DEM,90,10-030
+,State House,10,Write-ins,,0,10-030
+,U.S. House,10,Alyse Galvin,DEM,225,10-035
+,U.S. House,10,Don Young,REP,133,10-035
+,U.S. House,10,Write-ins,,1,10-035
+,Governor,10,Mark Begich,DEM,198,10-035
+,Governor,10,Mike Dunleavy,REP,150,10-035
+,Governor,10,Billy Toien,LIB,7,10-035
+,Governor,10,Bill Walker,,5,10-035
+,Governor,10,Write-ins,,3,10-035
+,State Senate,10,Susan Kay,DEM,206,10-035
+,State Senate,10,Michael Shower,REP,152,10-035
+,State Senate,10,Write-ins,,0,10-035
+,State House,10,David Eastman,REP,110,10-035
+,State House,10,Doyle Holmes,,70,10-035
+,State House,10,Patrici Faye-Brazel,DEM,174,10-035
+,State House,10,Write-ins,,1,10-035
+,U.S. House,10,Alyse Galvin,DEM,43,10-040
+,U.S. House,10,Don Young,REP,125,10-040
+,U.S. House,10,Write-ins,,0,10-040
+,Governor,10,Mark Begich,DEM,29,10-040
+,Governor,10,Mike Dunleavy,REP,135,10-040
+,Governor,10,Billy Toien,LIB,6,10-040
+,Governor,10,Bill Walker,,0,10-040
+,Governor,10,Write-ins,,0,10-040
+,State Senate,10,Susan Kay,DEM,29,10-040
+,State Senate,10,Michael Shower,REP,138,10-040
+,State Senate,10,Write-ins,,0,10-040
+,State House,10,David Eastman,REP,107,10-040
+,State House,10,Doyle Holmes,,36,10-040
+,State House,10,Patrici Faye-Brazel,DEM,25,10-040
+,State House,10,Write-ins,,0,10-040
+,U.S. House,10,Alyse Galvin,DEM,252,10-045
+,U.S. House,10,Don Young,REP,568,10-045
+,U.S. House,10,Write-ins,,6,10-045
+,Governor,10,Mark Begich,DEM,211,10-045
+,Governor,10,Mike Dunleavy,REP,595,10-045
+,Governor,10,Billy Toien,LIB,18,10-045
+,Governor,10,Bill Walker,,5,10-045
+,Governor,10,Write-ins,,1,10-045
+,State Senate,10,Susan Kay,DEM,205,10-045
+,State Senate,10,Michael Shower,REP,601,10-045
+,State Senate,10,Write-ins,,6,10-045
+,State House,10,David Eastman,REP,298,10-045
+,State House,10,Doyle Holmes,,379,10-045
+,State House,10,Patrici Faye-Brazel,DEM,146,10-045
+,State House,10,Write-ins,,1,10-045
+,U.S. House,10,Alyse Galvin,DEM,59,10-050
+,U.S. House,10,Don Young,REP,163,10-050
+,U.S. House,10,Write-ins,,3,10-050
+,Governor,10,Mark Begich,DEM,46,10-050
+,Governor,10,Mike Dunleavy,REP,168,10-050
+,Governor,10,Billy Toien,LIB,6,10-050
+,Governor,10,Bill Walker,,3,10-050
+,Governor,10,Write-ins,,4,10-050
+,State Senate,10,Susan Kay,DEM,42,10-050
+,State Senate,10,Michael Shower,REP,177,10-050
+,State Senate,10,Write-ins,,2,10-050
+,State House,10,David Eastman,REP,152,10-050
+,State House,10,Doyle Holmes,,26,10-050
+,State House,10,Patrici Faye-Brazel,DEM,41,10-050
+,State House,10,Write-ins,,1,10-050
+,U.S. House,10,Alyse Galvin,DEM,110,10-055
+,U.S. House,10,Don Young,REP,292,10-055
+,U.S. House,10,Write-ins,,1,10-055
+,Governor,10,Mark Begich,DEM,95,10-055
+,Governor,10,Mike Dunleavy,REP,294,10-055
+,Governor,10,Billy Toien,LIB,13,10-055
+,Governor,10,Bill Walker,,3,10-055
+,Governor,10,Write-ins,,3,10-055
+,State Senate,10,Susan Kay,DEM,85,10-055
+,State Senate,10,Michael Shower,REP,319,10-055
+,State Senate,10,Write-ins,,1,10-055
+,State House,10,David Eastman,REP,258,10-055
+,State House,10,Doyle Holmes,,60,10-055
+,State House,10,Patrici Faye-Brazel,DEM,80,10-055
+,State House,10,Write-ins,,3,10-055
+,U.S. House,10,Alyse Galvin,DEM,475, Absentee
+,U.S. House,10,Don Young,REP,838, Absentee
+,U.S. House,10,Write-ins,,10, Absentee
+,Governor,10,Mark Begich,DEM,400, Absentee
+,Governor,10,Mike Dunleavy,REP,876, Absentee
+,Governor,10,Billy Toien,LIB,32, Absentee
+,Governor,10,Bill Walker,,26, Absentee
+,Governor,10,Write-ins,,0, Absentee
+,State Senate,10,Susan Kay,DEM,376, Absentee
+,State Senate,10,Michael Shower,REP,893, Absentee
+,State Senate,10,Write-ins,,3, Absentee
+,State House,10,David Eastman,REP,681, Absentee
+,State House,10,Doyle Holmes,,219, Absentee
+,State House,10,Patrici Faye-Brazel,DEM,366, Absentee
+,State House,10,Write-ins,,0, Absentee
+,U.S. House,10,Alyse Galvin,DEM,131, Question
+,U.S. House,10,Don Young,REP,268, Question
+,U.S. House,10,Write-ins,,0, Question
+,Governor,10,Mark Begich,DEM,97, Question
+,Governor,10,Mike Dunleavy,REP,295, Question
+,Governor,10,Billy Toien,LIB,8, Question
+,Governor,10,Bill Walker,,4, Question
+,Governor,10,Write-ins,,1, Question
+,State Senate,10,Susan Kay,DEM,38, Question
+,State Senate,10,Michael Shower,REP,118, Question
+,State Senate,10,Write-ins,,1, Question
+,State House,10,David Eastman,REP,85, Question
+,State House,10,Doyle Holmes,,28, Question
+,State House,10,Patrici Faye-Brazel,DEM,28, Question
+,State House,10,Write-ins,,0, Question
+,U.S. House,10,Alyse Galvin,DEM,373, Early Voting
+,U.S. House,10,Don Young,REP,877, Early Voting
+,U.S. House,10,Write-ins,,4, Early Voting
+,Governor,10,Mark Begich,DEM,335, Early Voting
+,Governor,10,Mike Dunleavy,REP,907, Early Voting
+,Governor,10,Billy Toien,LIB,10, Early Voting
+,Governor,10,Bill Walker,,10, Early Voting
+,Governor,10,Write-ins,,0, Early Voting
+,State Senate,10,Susan Kay,DEM,299, Early Voting
+,State Senate,10,Michael Shower,REP,940, Early Voting
+,State Senate,10,Write-ins,,2, Early Voting
+,State House,10,David Eastman,REP,807, Early Voting
+,State House,10,Doyle Holmes,,146, Early Voting
+,State House,10,Patrici Faye-Brazel,DEM,287, Early Voting
+,State House,10,Write-ins,,2, Early Voting

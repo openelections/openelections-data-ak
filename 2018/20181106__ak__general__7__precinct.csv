@@ -1,0 +1,101 @@
+county,office,district,candidate,party,votes,precinct
+,U.S. House,7,Alyse Galvin,DEM,148,07-100
+,U.S. House,7,Don Young,REP,430,07-100
+,U.S. House,7,Write-ins,,4,07-100
+,Governor,7,Mark Begich,DEM,119,07-100
+,Governor,7,Mike Dunleavy,REP,448,07-100
+,Governor,7,Billy Toien,LIB,16,07-100
+,Governor,7,Bill Walker,,2,07-100
+,Governor,7,Write-ins,,2,07-100
+,State House,7,Co Sullivan-Leonard,REP,504,07-100
+,State House,7,Write-ins,,29,07-100
+,U.S. House,7,Alyse Galvin,DEM,106,07-105
+,U.S. House,7,Don Young,REP,320,07-105
+,U.S. House,7,Write-ins,,0,07-105
+,Governor,7,Mark Begich,DEM,104,07-105
+,Governor,7,Mike Dunleavy,REP,315,07-105
+,Governor,7,Billy Toien,LIB,4,07-105
+,Governor,7,Bill Walker,,3,07-105
+,Governor,7,Write-ins,,2,07-105
+,State House,7,Co Sullivan-Leonard,REP,353,07-105
+,State House,7,Write-ins,,17,07-105
+,U.S. House,7,Alyse Galvin,DEM,192,07-110
+,U.S. House,7,Don Young,REP,394,07-110
+,U.S. House,7,Write-ins,,4,07-110
+,Governor,7,Mark Begich,DEM,150,07-110
+,Governor,7,Mike Dunleavy,REP,423,07-110
+,Governor,7,Billy Toien,LIB,11,07-110
+,Governor,7,Bill Walker,,6,07-110
+,Governor,7,Write-ins,,3,07-110
+,State House,7,Co Sullivan-Leonard,REP,490,07-110
+,State House,7,Write-ins,,29,07-110
+,U.S. House,7,Alyse Galvin,DEM,128,07-115
+,U.S. House,7,Don Young,REP,257,07-115
+,U.S. House,7,Write-ins,,2,07-115
+,Governor,7,Mark Begich,DEM,101,07-115
+,Governor,7,Mike Dunleavy,REP,275,07-115
+,Governor,7,Billy Toien,LIB,9,07-115
+,Governor,7,Bill Walker,,2,07-115
+,Governor,7,Write-ins,,1,07-115
+,State House,7,Co Sullivan-Leonard,REP,312,07-115
+,State House,7,Write-ins,,23,07-115
+,U.S. House,7,Alyse Galvin,DEM,254,07-120
+,U.S. House,7,Don Young,REP,570,07-120
+,U.S. House,7,Write-ins,,3,07-120
+,Governor,7,Mark Begich,DEM,223,07-120
+,Governor,7,Mike Dunleavy,REP,586,07-120
+,Governor,7,Billy Toien,LIB,15,07-120
+,Governor,7,Bill Walker,,10,07-120
+,Governor,7,Write-ins,,1,07-120
+,State House,7,Co Sullivan-Leonard,REP,648,07-120
+,State House,7,Write-ins,,45,07-120
+,U.S. House,7,Alyse Galvin,DEM,275,07-125
+,U.S. House,7,Don Young,REP,727,07-125
+,U.S. House,7,Write-ins,,9,07-125
+,Governor,7,Mark Begich,DEM,226,07-125
+,Governor,7,Mike Dunleavy,REP,773,07-125
+,Governor,7,Billy Toien,LIB,14,07-125
+,Governor,7,Bill Walker,,5,07-125
+,Governor,7,Write-ins,,2,07-125
+,State House,7,Co Sullivan-Leonard,REP,856,07-125
+,State House,7,Write-ins,,36,07-125
+,U.S. House,7,Alyse Galvin,DEM,110,07-130
+,U.S. House,7,Don Young,REP,355,07-130
+,U.S. House,7,Write-ins,,5,07-130
+,Governor,7,Mark Begich,DEM,82,07-130
+,Governor,7,Mike Dunleavy,REP,376,07-130
+,Governor,7,Billy Toien,LIB,7,07-130
+,Governor,7,Bill Walker,,3,07-130
+,Governor,7,Write-ins,,2,07-130
+,State House,7,Co Sullivan-Leonard,REP,393,07-130
+,State House,7,Write-ins,,8,07-130
+,U.S. House,7,Alyse Galvin,DEM,186, Absentee
+,U.S. House,7,Don Young,REP,547, Absentee
+,U.S. House,7,Write-ins,,0, Absentee
+,Governor,7,Mark Begich,DEM,143, Absentee
+,Governor,7,Mike Dunleavy,REP,564, Absentee
+,Governor,7,Billy Toien,LIB,4, Absentee
+,Governor,7,Bill Walker,,27, Absentee
+,Governor,7,Write-ins,,2, Absentee
+,State House,7,Co Sullivan-Leonard,REP,585, Absentee
+,State House,7,Write-ins,,26, Absentee
+,U.S. House,7,Alyse Galvin,DEM,135, Question
+,U.S. House,7,Don Young,REP,347, Question
+,U.S. House,7,Write-ins,,4, Question
+,Governor,7,Mark Begich,DEM,99, Question
+,Governor,7,Mike Dunleavy,REP,364, Question
+,Governor,7,Billy Toien,LIB,23, Question
+,Governor,7,Bill Walker,,3, Question
+,Governor,7,Write-ins,,0, Question
+,State House,7,Co Sullivan-Leonard,REP,118, Question
+,State House,7,Write-ins,,2, Question
+,U.S. House,7,Alyse Galvin,DEM,570, Early Voting
+,U.S. House,7,Don Young,REP,1195, Early Voting
+,U.S. House,7,Write-ins,,7, Early Voting
+,Governor,7,Mark Begich,DEM,488, Early Voting
+,Governor,7,Mike Dunleavy,REP,1267, Early Voting
+,Governor,7,Billy Toien,LIB,18, Early Voting
+,Governor,7,Bill Walker,,11, Early Voting
+,Governor,7,Write-ins,,0, Early Voting
+,State House,7,Co Sullivan-Leonard,REP,1446, Early Voting
+,State House,7,Write-ins,,71, Early Voting

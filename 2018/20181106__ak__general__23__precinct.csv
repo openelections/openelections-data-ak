@@ -1,0 +1,122 @@
+county,office,district,candidate,party,votes,precinct
+,U.S. House,23,Alyse Galvin,DEM,182,23-735
+,U.S. House,23,Don Young,REP,176,23-735
+,U.S. House,23,Write-ins,,2,23-735
+,Governor,23,Mark Begich,DEM,185,23-735
+,Governor,23,Mike Dunleavy,REP,170,23-735
+,Governor,23,Billy Toien,LIB,1,23-735
+,Governor,23,Bill Walker,,2,23-735
+,Governor,23,Write-ins,,2,23-735
+,State House,23,Chris Tuck,DEM,192,23-735
+,State House,23,Connie Dougherty,REP,161,23-735
+,State House,23,Write-ins,,4,23-735
+,U.S. House,23,Alyse Galvin,DEM,321,23-740
+,U.S. House,23,Don Young,REP,302,23-740
+,U.S. House,23,Write-ins,,3,23-740
+,Governor,23,Mark Begich,DEM,301,23-740
+,Governor,23,Mike Dunleavy,REP,299,23-740
+,Governor,23,Billy Toien,LIB,17,23-740
+,Governor,23,Bill Walker,,8,23-740
+,Governor,23,Write-ins,,0,23-740
+,State House,23,Chris Tuck,DEM,331,23-740
+,State House,23,Connie Dougherty,REP,287,23-740
+,State House,23,Write-ins,,0,23-740
+,U.S. House,23,Alyse Galvin,DEM,178,23-745
+,U.S. House,23,Don Young,REP,156,23-745
+,U.S. House,23,Write-ins,,0,23-745
+,Governor,23,Mark Begich,DEM,167,23-745
+,Governor,23,Mike Dunleavy,REP,167,23-745
+,Governor,23,Billy Toien,LIB,2,23-745
+,Governor,23,Bill Walker,,3,23-745
+,Governor,23,Write-ins,,0,23-745
+,State House,23,Chris Tuck,DEM,185,23-745
+,State House,23,Connie Dougherty,REP,150,23-745
+,State House,23,Write-ins,,1,23-745
+,U.S. House,23,Alyse Galvin,DEM,334,23-750
+,U.S. House,23,Don Young,REP,317,23-750
+,U.S. House,23,Write-ins,,1,23-750
+,Governor,23,Mark Begich,DEM,303,23-750
+,Governor,23,Mike Dunleavy,REP,328,23-750
+,Governor,23,Billy Toien,LIB,16,23-750
+,Governor,23,Bill Walker,,9,23-750
+,Governor,23,Write-ins,,2,23-750
+,State House,23,Chris Tuck,DEM,322,23-750
+,State House,23,Connie Dougherty,REP,318,23-750
+,State House,23,Write-ins,,3,23-750
+,U.S. House,23,Alyse Galvin,DEM,288,23-755
+,U.S. House,23,Don Young,REP,339,23-755
+,U.S. House,23,Write-ins,,5,23-755
+,Governor,23,Mark Begich,DEM,266,23-755
+,Governor,23,Mike Dunleavy,REP,345,23-755
+,Governor,23,Billy Toien,LIB,13,23-755
+,Governor,23,Bill Walker,,8,23-755
+,Governor,23,Write-ins,,0,23-755
+,State House,23,Chris Tuck,DEM,315,23-755
+,State House,23,Connie Dougherty,REP,306,23-755
+,State House,23,Write-ins,,2,23-755
+,U.S. House,23,Alyse Galvin,DEM,195,23-760
+,U.S. House,23,Don Young,REP,223,23-760
+,U.S. House,23,Write-ins,,1,23-760
+,Governor,23,Mark Begich,DEM,185,23-760
+,Governor,23,Mike Dunleavy,REP,217,23-760
+,Governor,23,Billy Toien,LIB,8,23-760
+,Governor,23,Bill Walker,,6,23-760
+,Governor,23,Write-ins,,3,23-760
+,State House,23,Chris Tuck,DEM,205,23-760
+,State House,23,Connie Dougherty,REP,207,23-760
+,State House,23,Write-ins,,1,23-760
+,U.S. House,23,Alyse Galvin,DEM,353,23-765
+,U.S. House,23,Don Young,REP,364,23-765
+,U.S. House,23,Write-ins,,3,23-765
+,Governor,23,Mark Begich,DEM,337,23-765
+,Governor,23,Mike Dunleavy,REP,366,23-765
+,Governor,23,Billy Toien,LIB,16,23-765
+,Governor,23,Bill Walker,,6,23-765
+,Governor,23,Write-ins,,0,23-765
+,State House,23,Chris Tuck,DEM,369,23-765
+,State House,23,Connie Dougherty,REP,346,23-765
+,State House,23,Write-ins,,1,23-765
+,U.S. House,23,Alyse Galvin,DEM,222,23-770
+,U.S. House,23,Don Young,REP,197,23-770
+,U.S. House,23,Write-ins,,2,23-770
+,Governor,23,Mark Begich,DEM,195,23-770
+,Governor,23,Mike Dunleavy,REP,220,23-770
+,Governor,23,Billy Toien,LIB,7,23-770
+,Governor,23,Bill Walker,,1,23-770
+,Governor,23,Write-ins,,1,23-770
+,State House,23,Chris Tuck,DEM,223,23-770
+,State House,23,Connie Dougherty,REP,187,23-770
+,State House,23,Write-ins,,4,23-770
+,U.S. House,23,Alyse Galvin,DEM,254, Absentee
+,U.S. House,23,Don Young,REP,322, Absentee
+,U.S. House,23,Write-ins,,1, Absentee
+,Governor,23,Mark Begich,DEM,228, Absentee
+,Governor,23,Mike Dunleavy,REP,308, Absentee
+,Governor,23,Billy Toien,LIB,7, Absentee
+,Governor,23,Bill Walker,,32, Absentee
+,Governor,23,Write-ins,,3, Absentee
+,State House,23,Chris Tuck,DEM,235, Absentee
+,State House,23,Connie Dougherty,REP,270, Absentee
+,State House,23,Write-ins,,1, Absentee
+,U.S. House,23,Alyse Galvin,DEM,138, Question
+,U.S. House,23,Don Young,REP,165, Question
+,U.S. House,23,Write-ins,,2, Question
+,Governor,23,Mark Begich,DEM,124, Question
+,Governor,23,Mike Dunleavy,REP,167, Question
+,Governor,23,Billy Toien,LIB,8, Question
+,Governor,23,Bill Walker,,7, Question
+,Governor,23,Write-ins,,1, Question
+,State House,23,Chris Tuck,DEM,29, Question
+,State House,23,Connie Dougherty,REP,27, Question
+,State House,23,Write-ins,,0, Question
+,U.S. House,23,Alyse Galvin,DEM,568, Early Voting
+,U.S. House,23,Don Young,REP,349, Early Voting
+,U.S. House,23,Write-ins,,0, Early Voting
+,Governor,23,Mark Begich,DEM,550, Early Voting
+,Governor,23,Mike Dunleavy,REP,340, Early Voting
+,Governor,23,Billy Toien,LIB,18, Early Voting
+,Governor,23,Bill Walker,,12, Early Voting
+,Governor,23,Write-ins,,1, Early Voting
+,State House,23,Chris Tuck,DEM,567, Early Voting
+,State House,23,Connie Dougherty,REP,346, Early Voting
+,State House,23,Write-ins,,1, Early Voting

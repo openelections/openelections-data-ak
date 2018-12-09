@@ -1,0 +1,144 @@
+county,office,district,candidate,party,votes,precinct
+,U.S. House,36,Alyse Galvin,DEM,330,36-600
+,U.S. House,36,Don Young,REP,284,36-600
+,U.S. House,36,Write-ins,,4,36-600
+,Governor,36,Mark Begich,DEM,295,36-600
+,Governor,36,Mike Dunleavy,REP,294,36-600
+,Governor,36,Billy Toien,LIB,21,36-600
+,Governor,36,Bill Walker,,9,36-600
+,Governor,36,Write-ins,,3,36-600
+,State House,36,Daniel Ortiz,,385,36-600
+,State House,36,Trevor Shaw,REP,222,36-600
+,State House,36,Write-ins,,7,36-600
+,U.S. House,36,Alyse Galvin,DEM,446,36-610
+,U.S. House,36,Don Young,REP,425,36-610
+,U.S. House,36,Write-ins,,3,36-610
+,Governor,36,Mark Begich,DEM,381,36-610
+,Governor,36,Mike Dunleavy,REP,464,36-610
+,Governor,36,Billy Toien,LIB,24,36-610
+,Governor,36,Bill Walker,,9,36-610
+,Governor,36,Write-ins,,0,36-610
+,State House,36,Daniel Ortiz,,553,36-610
+,State House,36,Trevor Shaw,REP,303,36-610
+,State House,36,Write-ins,,8,36-610
+,U.S. House,36,Alyse Galvin,DEM,261,36-620
+,U.S. House,36,Don Young,REP,351,36-620
+,U.S. House,36,Write-ins,,1,36-620
+,Governor,36,Mark Begich,DEM,201,36-620
+,Governor,36,Mike Dunleavy,REP,400,36-620
+,Governor,36,Billy Toien,LIB,11,36-620
+,Governor,36,Bill Walker,,6,36-620
+,Governor,36,Write-ins,,0,36-620
+,State House,36,Daniel Ortiz,,356,36-620
+,State House,36,Trevor Shaw,REP,246,36-620
+,State House,36,Write-ins,,7,36-620
+,U.S. House,36,Alyse Galvin,DEM,122,36-640
+,U.S. House,36,Don Young,REP,253,36-640
+,U.S. House,36,Write-ins,,0,36-640
+,Governor,36,Mark Begich,DEM,107,36-640
+,Governor,36,Mike Dunleavy,REP,259,36-640
+,Governor,36,Billy Toien,LIB,8,36-640
+,Governor,36,Bill Walker,,4,36-640
+,Governor,36,Write-ins,,0,36-640
+,State House,36,Daniel Ortiz,,202,36-640
+,State House,36,Trevor Shaw,REP,164,36-640
+,State House,36,Write-ins,,7,36-640
+,U.S. House,36,Alyse Galvin,DEM,276,36-650
+,U.S. House,36,Don Young,REP,451,36-650
+,U.S. House,36,Write-ins,,2,36-650
+,Governor,36,Mark Begich,DEM,240,36-650
+,Governor,36,Mike Dunleavy,REP,476,36-650
+,Governor,36,Billy Toien,LIB,14,36-650
+,Governor,36,Bill Walker,,5,36-650
+,Governor,36,Write-ins,,0,36-650
+,State House,36,Daniel Ortiz,,381,36-650
+,State House,36,Trevor Shaw,REP,334,36-650
+,State House,36,Write-ins,,15,36-650
+,U.S. House,36,Alyse Galvin,DEM,74,36-660
+,U.S. House,36,Don Young,REP,53,36-660
+,U.S. House,36,Write-ins,,0,36-660
+,Governor,36,Mark Begich,DEM,61,36-660
+,Governor,36,Mike Dunleavy,REP,51,36-660
+,Governor,36,Billy Toien,LIB,8,36-660
+,Governor,36,Bill Walker,,8,36-660
+,Governor,36,Write-ins,,1,36-660
+,State House,36,Daniel Ortiz,,84,36-660
+,State House,36,Trevor Shaw,REP,40,36-660
+,State House,36,Write-ins,,3,36-660
+,U.S. House,36,Alyse Galvin,DEM,258,36-670
+,U.S. House,36,Don Young,REP,336,36-670
+,U.S. House,36,Write-ins,,1,36-670
+,Governor,36,Mark Begich,DEM,219,36-670
+,Governor,36,Mike Dunleavy,REP,354,36-670
+,Governor,36,Billy Toien,LIB,14,36-670
+,Governor,36,Bill Walker,,9,36-670
+,Governor,36,Write-ins,,0,36-670
+,State House,36,Daniel Ortiz,,354,36-670
+,State House,36,Trevor Shaw,REP,226,36-670
+,State House,36,Write-ins,,7,36-670
+,U.S. House,36,Alyse Galvin,DEM,71,36-675
+,U.S. House,36,Don Young,REP,27,36-675
+,U.S. House,36,Write-ins,,1,36-675
+,Governor,36,Mark Begich,DEM,70,36-675
+,Governor,36,Mike Dunleavy,REP,17,36-675
+,Governor,36,Billy Toien,LIB,3,36-675
+,Governor,36,Bill Walker,,10,36-675
+,Governor,36,Write-ins,,0,36-675
+,State House,36,Daniel Ortiz,,83,36-675
+,State House,36,Trevor Shaw,REP,11,36-675
+,State House,36,Write-ins,,0,36-675
+,U.S. House,36,Alyse Galvin,DEM,239,36-680
+,U.S. House,36,Don Young,REP,230,36-680
+,U.S. House,36,Write-ins,,1,36-680
+,Governor,36,Mark Begich,DEM,250,36-680
+,Governor,36,Mike Dunleavy,REP,178,36-680
+,Governor,36,Billy Toien,LIB,19,36-680
+,Governor,36,Bill Walker,,24,36-680
+,Governor,36,Write-ins,,2,36-680
+,State House,36,Daniel Ortiz,,315,36-680
+,State House,36,Trevor Shaw,REP,150,36-680
+,State House,36,Write-ins,,0,36-680
+,U.S. House,36,Alyse Galvin,DEM,252,36-690
+,U.S. House,36,Don Young,REP,469,36-690
+,U.S. House,36,Write-ins,,4,36-690
+,Governor,36,Mark Begich,DEM,209,36-690
+,Governor,36,Mike Dunleavy,REP,475,36-690
+,Governor,36,Billy Toien,LIB,19,36-690
+,Governor,36,Bill Walker,,25,36-690
+,Governor,36,Write-ins,,1,36-690
+,State House,36,Daniel Ortiz,,380,36-690
+,State House,36,Trevor Shaw,REP,340,36-690
+,State House,36,Write-ins,,4,36-690
+,U.S. House,36,Alyse Galvin,DEM,728, Absentee
+,U.S. House,36,Don Young,REP,848, Absentee
+,U.S. House,36,Write-ins,,7, Absentee
+,Governor,36,Mark Begich,DEM,679, Absentee
+,Governor,36,Mike Dunleavy,REP,819, Absentee
+,Governor,36,Billy Toien,LIB,28, Absentee
+,Governor,36,Bill Walker,,59, Absentee
+,Governor,36,Write-ins,,1, Absentee
+,State House,36,Daniel Ortiz,,932, Absentee
+,State House,36,Trevor Shaw,REP,605, Absentee
+,State House,36,Write-ins,,10, Absentee
+,U.S. House,36,Alyse Galvin,DEM,199, Question
+,U.S. House,36,Don Young,REP,237, Question
+,U.S. House,36,Write-ins,,3, Question
+,Governor,36,Mark Begich,DEM,161, Question
+,Governor,36,Mike Dunleavy,REP,250, Question
+,Governor,36,Billy Toien,LIB,15, Question
+,Governor,36,Bill Walker,,21, Question
+,Governor,36,Write-ins,,0, Question
+,State House,36,Daniel Ortiz,,196, Question
+,State House,36,Trevor Shaw,REP,140, Question
+,State House,36,Write-ins,,4, Question
+,U.S. House,36,Alyse Galvin,DEM,28, Early Voting
+,U.S. House,36,Don Young,REP,18, Early Voting
+,U.S. House,36,Write-ins,,0, Early Voting
+,Governor,36,Mark Begich,DEM,29, Early Voting
+,Governor,36,Mike Dunleavy,REP,13, Early Voting
+,Governor,36,Billy Toien,LIB,0, Early Voting
+,Governor,36,Bill Walker,,3, Early Voting
+,Governor,36,Write-ins,,0, Early Voting
+,State House,36,Daniel Ortiz,,35, Early Voting
+,State House,36,Trevor Shaw,REP,12, Early Voting
+,State House,36,Write-ins,,0, Early Voting

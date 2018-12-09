@@ -1,0 +1,211 @@
+county,office,district,candidate,party,votes,precinct
+,U.S. House,9,Alyse Galvin,DEM,208,09-600
+,U.S. House,9,Don Young,REP,795,09-600
+,U.S. House,9,Write-ins,,7,09-600
+,Governor,9,Mark Begich,DEM,158,09-600
+,Governor,9,Mike Dunleavy,REP,830,09-600
+,Governor,9,Billy Toien,LIB,23,09-600
+,Governor,9,Bill Walker,,7,09-600
+,Governor,9,Write-ins,,1,09-600
+,State Senate,9,Susan Kay,DEM,149,09-600
+,State Senate,9,Michael Shower,REP,853,09-600
+,State Senate,9,Write-ins,,3,09-600
+,State House,9,James Squyres,,104,09-600
+,State House,9,Bill Johnson,DEM,172,09-600
+,State House,9,George Rauscher,REP,727,09-600
+,State House,9,Write-ins,,3,09-600
+,U.S. House,9,Alyse Galvin,DEM,57,09-608
+,U.S. House,9,Don Young,REP,245,09-608
+,U.S. House,9,Write-ins,,0,09-608
+,Governor,9,Mark Begich,DEM,47,09-608
+,Governor,9,Mike Dunleavy,REP,250,09-608
+,Governor,9,Billy Toien,LIB,4,09-608
+,Governor,9,Bill Walker,,4,09-608
+,Governor,9,Write-ins,,0,09-608
+,State Senate,9,Susan Kay,DEM,43,09-608
+,State Senate,9,Michael Shower,REP,256,09-608
+,State Senate,9,Write-ins,,2,09-608
+,State House,9,James Squyres,,31,09-608
+,State House,9,Bill Johnson,DEM,51,09-608
+,State House,9,George Rauscher,REP,220,09-608
+,State House,9,Write-ins,,0,09-608
+,U.S. House,9,Alyse Galvin,DEM,295,09-622
+,U.S. House,9,Don Young,REP,690,09-622
+,U.S. House,9,Write-ins,,12,09-622
+,Governor,9,Mark Begich,DEM,253,09-622
+,Governor,9,Mike Dunleavy,REP,730,09-622
+,Governor,9,Billy Toien,LIB,12,09-622
+,Governor,9,Bill Walker,,11,09-622
+,Governor,9,Write-ins,,1,09-622
+,State Senate,9,Susan Kay,DEM,203,09-622
+,State Senate,9,Michael Shower,REP,775,09-622
+,State Senate,9,Write-ins,,2,09-622
+,State House,9,James Squyres,,66,09-622
+,State House,9,Bill Johnson,DEM,208,09-622
+,State House,9,George Rauscher,REP,706,09-622
+,State House,9,Write-ins,,3,09-622
+,U.S. House,9,Alyse Galvin,DEM,378,09-628
+,U.S. House,9,Don Young,REP,881,09-628
+,U.S. House,9,Write-ins,,7,09-628
+,Governor,9,Mark Begich,DEM,328,09-628
+,Governor,9,Mike Dunleavy,REP,905,09-628
+,Governor,9,Billy Toien,LIB,33,09-628
+,Governor,9,Bill Walker,,9,09-628
+,Governor,9,Write-ins,,2,09-628
+,State Senate,9,Susan Kay,DEM,312,09-628
+,State Senate,9,Michael Shower,REP,934,09-628
+,State Senate,9,Write-ins,,1,09-628
+,State House,9,James Squyres,,71,09-628
+,State House,9,Bill Johnson,DEM,285,09-628
+,State House,9,George Rauscher,REP,879,09-628
+,State House,9,Write-ins,,6,09-628
+,U.S. House,9,Alyse Galvin,DEM,47,09-632
+,U.S. House,9,Don Young,REP,136,09-632
+,U.S. House,9,Write-ins,,2,09-632
+,Governor,9,Mark Begich,DEM,44,09-632
+,Governor,9,Mike Dunleavy,REP,135,09-632
+,Governor,9,Billy Toien,LIB,4,09-632
+,Governor,9,Bill Walker,,5,09-632
+,Governor,9,Write-ins,,0,09-632
+,State Senate,9,Susan Kay,DEM,35,09-632
+,State Senate,9,Michael Shower,REP,143,09-632
+,State Senate,9,Write-ins,,1,09-632
+,State House,9,James Squyres,,20,09-632
+,State House,9,Bill Johnson,DEM,32,09-632
+,State House,9,George Rauscher,REP,128,09-632
+,State House,9,Write-ins,,0,09-632
+,U.S. House,9,Alyse Galvin,DEM,36,09-640
+,U.S. House,9,Don Young,REP,61,09-640
+,U.S. House,9,Write-ins,,0,09-640
+,Governor,9,Mark Begich,DEM,31,09-640
+,Governor,9,Mike Dunleavy,REP,66,09-640
+,Governor,9,Billy Toien,LIB,0,09-640
+,Governor,9,Bill Walker,,0,09-640
+,Governor,9,Write-ins,,0,09-640
+,State Senate,9,Susan Kay,DEM,25,09-640
+,State Senate,9,Michael Shower,REP,72,09-640
+,State Senate,9,Write-ins,,0,09-640
+,State House,9,James Squyres,,5,09-640
+,State House,9,Bill Johnson,DEM,22,09-640
+,State House,9,George Rauscher,REP,70,09-640
+,State House,9,Write-ins,,0,09-640
+,U.S. House,9,Alyse Galvin,DEM,138,09-645
+,U.S. House,9,Don Young,REP,326,09-645
+,U.S. House,9,Write-ins,,3,09-645
+,Governor,9,Mark Begich,DEM,139,09-645
+,Governor,9,Mike Dunleavy,REP,315,09-645
+,Governor,9,Billy Toien,LIB,9,09-645
+,Governor,9,Bill Walker,,7,09-645
+,Governor,9,Write-ins,,1,09-645
+,State Senate,9,Susan Kay,DEM,130,09-645
+,State Senate,9,Michael Shower,REP,323,09-645
+,State Senate,9,Write-ins,,0,09-645
+,State House,9,James Squyres,,30,09-645
+,State House,9,Bill Johnson,DEM,94,09-645
+,State House,9,George Rauscher,REP,331,09-645
+,State House,9,Write-ins,,2,09-645
+,U.S. House,9,Alyse Galvin,DEM,195,09-650
+,U.S. House,9,Don Young,REP,284,09-650
+,U.S. House,9,Write-ins,,3,09-650
+,Governor,9,Mark Begich,DEM,219,09-650
+,Governor,9,Mike Dunleavy,REP,240,09-650
+,Governor,9,Billy Toien,LIB,7,09-650
+,Governor,9,Bill Walker,,17,09-650
+,Governor,9,Write-ins,,1,09-650
+,State Senate,9,Susan Kay,DEM,163,09-650
+,State Senate,9,Michael Shower,REP,300,09-650
+,State Senate,9,Write-ins,,0,09-650
+,State House,9,James Squyres,,22,09-650
+,State House,9,Bill Johnson,DEM,151,09-650
+,State House,9,George Rauscher,REP,290,09-650
+,State House,9,Write-ins,,2,09-650
+,U.S. House,9,Alyse Galvin,DEM,110,09-655
+,U.S. House,9,Don Young,REP,156,09-655
+,U.S. House,9,Write-ins,,0,09-655
+,Governor,9,Mark Begich,DEM,104,09-655
+,Governor,9,Mike Dunleavy,REP,144,09-655
+,Governor,9,Billy Toien,LIB,7,09-655
+,Governor,9,Bill Walker,,13,09-655
+,Governor,9,Write-ins,,1,09-655
+,State Senate,9,Susan Kay,DEM,89,09-655
+,State Senate,9,Michael Shower,REP,168,09-655
+,State Senate,9,Write-ins,,2,09-655
+,State House,9,James Squyres,,18,09-655
+,State House,9,Bill Johnson,DEM,90,09-655
+,State House,9,George Rauscher,REP,146,09-655
+,State House,9,Write-ins,,1,09-655
+,U.S. House,9,Alyse Galvin,DEM,170,09-660
+,U.S. House,9,Don Young,REP,223,09-660
+,U.S. House,9,Write-ins,,2,09-660
+,Governor,9,Mark Begich,DEM,167,09-660
+,Governor,9,Mike Dunleavy,REP,200,09-660
+,Governor,9,Billy Toien,LIB,19,09-660
+,Governor,9,Bill Walker,,13,09-660
+,Governor,9,Write-ins,,0,09-660
+,State Senate,9,Susan Kay,DEM,140,09-660
+,State Senate,9,Michael Shower,REP,243,09-660
+,State Senate,9,Write-ins,,1,09-660
+,State House,9,James Squyres,,24,09-660
+,State House,9,Bill Johnson,DEM,134,09-660
+,State House,9,George Rauscher,REP,228,09-660
+,State House,9,Write-ins,,0,09-660
+,U.S. House,9,Alyse Galvin,DEM,41,09-665
+,U.S. House,9,Don Young,REP,37,09-665
+,U.S. House,9,Write-ins,,0,09-665
+,Governor,9,Mark Begich,DEM,31,09-665
+,Governor,9,Mike Dunleavy,REP,40,09-665
+,Governor,9,Billy Toien,LIB,1,09-665
+,Governor,9,Bill Walker,,6,09-665
+,Governor,9,Write-ins,,0,09-665
+,State Senate,9,Susan Kay,DEM,35,09-665
+,State Senate,9,Michael Shower,REP,38,09-665
+,State Senate,9,Write-ins,,0,09-665
+,State House,9,James Squyres,,9,09-665
+,State House,9,Bill Johnson,DEM,32,09-665
+,State House,9,George Rauscher,REP,35,09-665
+,State House,9,Write-ins,,0,09-665
+,U.S. House,9,Alyse Galvin,DEM,482, Absentee
+,U.S. House,9,Don Young,REP,882, Absentee
+,U.S. House,9,Write-ins,,12, Absentee
+,Governor,9,Mark Begich,DEM,404, Absentee
+,Governor,9,Mike Dunleavy,REP,893, Absentee
+,Governor,9,Billy Toien,LIB,21, Absentee
+,Governor,9,Bill Walker,,59, Absentee
+,Governor,9,Write-ins,,3, Absentee
+,State Senate,9,Susan Kay,DEM,369, Absentee
+,State Senate,9,Michael Shower,REP,917, Absentee
+,State Senate,9,Write-ins,,9, Absentee
+,State House,9,James Squyres,,74, Absentee
+,State House,9,Bill Johnson,DEM,370, Absentee
+,State House,9,George Rauscher,REP,840, Absentee
+,State House,9,Write-ins,,9, Absentee
+,U.S. House,9,Alyse Galvin,DEM,101, Question
+,U.S. House,9,Don Young,REP,207, Question
+,U.S. House,9,Write-ins,,0, Question
+,Governor,9,Mark Begich,DEM,101, Question
+,Governor,9,Mike Dunleavy,REP,192, Question
+,Governor,9,Billy Toien,LIB,10, Question
+,Governor,9,Bill Walker,,9, Question
+,Governor,9,Write-ins,,0, Question
+,State Senate,9,Susan Kay,DEM,35, Question
+,State Senate,9,Michael Shower,REP,85, Question
+,State Senate,9,Write-ins,,0, Question
+,State House,9,James Squyres,,10, Question
+,State House,9,Bill Johnson,DEM,36, Question
+,State House,9,George Rauscher,REP,64, Question
+,State House,9,Write-ins,,1, Question
+,U.S. House,9,Alyse Galvin,DEM,352, Early Voting
+,U.S. House,9,Don Young,REP,522, Early Voting
+,U.S. House,9,Write-ins,,1, Early Voting
+,Governor,9,Mark Begich,DEM,320, Early Voting
+,Governor,9,Mike Dunleavy,REP,544, Early Voting
+,Governor,9,Billy Toien,LIB,7, Early Voting
+,Governor,9,Bill Walker,,6, Early Voting
+,Governor,9,Write-ins,,0, Early Voting
+,State Senate,9,Susan Kay,DEM,303, Early Voting
+,State Senate,9,Michael Shower,REP,561, Early Voting
+,State Senate,9,Write-ins,,0, Early Voting
+,State House,9,James Squyres,,31, Early Voting
+,State House,9,Bill Johnson,DEM,285, Early Voting
+,State House,9,George Rauscher,REP,545, Early Voting
+,State House,9,Write-ins,,5, Early Voting

@@ -1,0 +1,469 @@
+county,office,district,candidate,party,votes,precinct
+,U.S. House,6,Alyse Galvin,DEM,21,06-005
+,U.S. House,6,Don Young,REP,49,06-005
+,U.S. House,6,Write-ins,,0,06-005
+,Governor,6,Mark Begich,DEM,18,06-005
+,Governor,6,Mike Dunleavy,REP,52,06-005
+,Governor,6,Billy Toien,LIB,1,06-005
+,Governor,6,Bill Walker,,0,06-005
+,Governor,6,Write-ins,,0,06-005
+,State Senate,6,Click Bishop,REP,57,06-005
+,State Senate,6,Write-ins,,1,06-005
+,State House,6,Ed Alexander,DEM,14,06-005
+,State House,6,David Talerico,REP,55,06-005
+,State House,6,Write-ins,,0,06-005
+,U.S. House,6,Alyse Galvin,DEM,53,06-007
+,U.S. House,6,Don Young,REP,3,06-007
+,U.S. House,6,Write-ins,,0,06-007
+,Governor,6,Mark Begich,DEM,45,06-007
+,Governor,6,Mike Dunleavy,REP,5,06-007
+,Governor,6,Billy Toien,LIB,1,06-007
+,Governor,6,Bill Walker,,5,06-007
+,Governor,6,Write-ins,,0,06-007
+,State Senate,6,Click Bishop,REP,41,06-007
+,State Senate,6,Write-ins,,3,06-007
+,State House,6,Ed Alexander,DEM,55,06-007
+,State House,6,David Talerico,REP,1,06-007
+,State House,6,Write-ins,,0,06-007
+,U.S. House,6,Alyse Galvin,DEM,16,06-010
+,U.S. House,6,Don Young,REP,13,06-010
+,U.S. House,6,Write-ins,,0,06-010
+,Governor,6,Mark Begich,DEM,19,06-010
+,Governor,6,Mike Dunleavy,REP,7,06-010
+,Governor,6,Billy Toien,LIB,2,06-010
+,Governor,6,Bill Walker,,1,06-010
+,Governor,6,Write-ins,,0,06-010
+,State Senate,6,Click Bishop,REP,25,06-010
+,State Senate,6,Write-ins,,1,06-010
+,State House,6,Ed Alexander,DEM,26,06-010
+,State House,6,David Talerico,REP,3,06-010
+,State House,6,Write-ins,,0,06-010
+,U.S. House,6,Alyse Galvin,DEM,37,06-012
+,U.S. House,6,Don Young,REP,60,06-012
+,U.S. House,6,Write-ins,,0,06-012
+,Governor,6,Mark Begich,DEM,43,06-012
+,Governor,6,Mike Dunleavy,REP,52,06-012
+,Governor,6,Billy Toien,LIB,1,06-012
+,Governor,6,Bill Walker,,1,06-012
+,Governor,6,Write-ins,,0,06-012
+,State Senate,6,Click Bishop,REP,70,06-012
+,State Senate,6,Write-ins,,4,06-012
+,State House,6,Ed Alexander,DEM,32,06-012
+,State House,6,David Talerico,REP,63,06-012
+,State House,6,Write-ins,,0,06-012
+,U.S. House,6,Alyse Galvin,DEM,7,06-015
+,U.S. House,6,Don Young,REP,37,06-015
+,U.S. House,6,Write-ins,,0,06-015
+,Governor,6,Mark Begich,DEM,8,06-015
+,Governor,6,Mike Dunleavy,REP,34,06-015
+,Governor,6,Billy Toien,LIB,2,06-015
+,Governor,6,Bill Walker,,0,06-015
+,Governor,6,Write-ins,,0,06-015
+,State Senate,6,Click Bishop,REP,37,06-015
+,State Senate,6,Write-ins,,1,06-015
+,State House,6,Ed Alexander,DEM,7,06-015
+,State House,6,David Talerico,REP,35,06-015
+,State House,6,Write-ins,,0,06-015
+,U.S. House,6,Alyse Galvin,DEM,9,06-020
+,U.S. House,6,Don Young,REP,63,06-020
+,U.S. House,6,Write-ins,,1,06-020
+,Governor,6,Mark Begich,DEM,12,06-020
+,Governor,6,Mike Dunleavy,REP,58,06-020
+,Governor,6,Billy Toien,LIB,2,06-020
+,Governor,6,Bill Walker,,1,06-020
+,Governor,6,Write-ins,,0,06-020
+,State Senate,6,Click Bishop,REP,64,06-020
+,State Senate,6,Write-ins,,2,06-020
+,State House,6,Ed Alexander,DEM,10,06-020
+,State House,6,David Talerico,REP,60,06-020
+,State House,6,Write-ins,,0,06-020
+,U.S. House,6,Alyse Galvin,DEM,18,06-023
+,U.S. House,6,Don Young,REP,16,06-023
+,U.S. House,6,Write-ins,,0,06-023
+,Governor,6,Mark Begich,DEM,21,06-023
+,Governor,6,Mike Dunleavy,REP,11,06-023
+,Governor,6,Billy Toien,LIB,0,06-023
+,Governor,6,Bill Walker,,1,06-023
+,Governor,6,Write-ins,,0,06-023
+,State Senate,6,Click Bishop,REP,30,06-023
+,State Senate,6,Write-ins,,0,06-023
+,State House,6,Ed Alexander,DEM,24,06-023
+,State House,6,David Talerico,REP,9,06-023
+,State House,6,Write-ins,,0,06-023
+,U.S. House,6,Alyse Galvin,DEM,19,06-024
+,U.S. House,6,Don Young,REP,33,06-024
+,U.S. House,6,Write-ins,,0,06-024
+,Governor,6,Mark Begich,DEM,18,06-024
+,Governor,6,Mike Dunleavy,REP,35,06-024
+,Governor,6,Billy Toien,LIB,0,06-024
+,Governor,6,Bill Walker,,0,06-024
+,Governor,6,Write-ins,,0,06-024
+,State Senate,6,Click Bishop,REP,42,06-024
+,State Senate,6,Write-ins,,3,06-024
+,State House,6,Ed Alexander,DEM,16,06-024
+,State House,6,David Talerico,REP,37,06-024
+,State House,6,Write-ins,,0,06-024
+,U.S. House,6,Alyse Galvin,DEM,80,06-025
+,U.S. House,6,Don Young,REP,180,06-025
+,U.S. House,6,Write-ins,,0,06-025
+,Governor,6,Mark Begich,DEM,96,06-025
+,Governor,6,Mike Dunleavy,REP,156,06-025
+,Governor,6,Billy Toien,LIB,6,06-025
+,Governor,6,Bill Walker,,6,06-025
+,Governor,6,Write-ins,,0,06-025
+,State Senate,6,Click Bishop,REP,217,06-025
+,State Senate,6,Write-ins,,9,06-025
+,State House,6,Ed Alexander,DEM,103,06-025
+,State House,6,David Talerico,REP,157,06-025
+,State House,6,Write-ins,,1,06-025
+,U.S. House,6,Alyse Galvin,DEM,87,06-026
+,U.S. House,6,Don Young,REP,12,06-026
+,U.S. House,6,Write-ins,,0,06-026
+,Governor,6,Mark Begich,DEM,87,06-026
+,Governor,6,Mike Dunleavy,REP,12,06-026
+,Governor,6,Billy Toien,LIB,1,06-026
+,Governor,6,Bill Walker,,2,06-026
+,Governor,6,Write-ins,,0,06-026
+,State Senate,6,Click Bishop,REP,27,06-026
+,State Senate,6,Write-ins,,10,06-026
+,State House,6,Ed Alexander,DEM,76,06-026
+,State House,6,David Talerico,REP,25,06-026
+,State House,6,Write-ins,,0,06-026
+,U.S. House,6,Alyse Galvin,DEM,4,06-027
+,U.S. House,6,Don Young,REP,23,06-027
+,U.S. House,6,Write-ins,,0,06-027
+,Governor,6,Mark Begich,DEM,4,06-027
+,Governor,6,Mike Dunleavy,REP,23,06-027
+,Governor,6,Billy Toien,LIB,0,06-027
+,Governor,6,Bill Walker,,0,06-027
+,Governor,6,Write-ins,,0,06-027
+,State Senate,6,Click Bishop,REP,26,06-027
+,State Senate,6,Write-ins,,0,06-027
+,State House,6,Ed Alexander,DEM,4,06-027
+,State House,6,David Talerico,REP,23,06-027
+,State House,6,Write-ins,,0,06-027
+,U.S. House,6,Alyse Galvin,DEM,27,06-030
+,U.S. House,6,Don Young,REP,56,06-030
+,U.S. House,6,Write-ins,,0,06-030
+,Governor,6,Mark Begich,DEM,25,06-030
+,Governor,6,Mike Dunleavy,REP,55,06-030
+,Governor,6,Billy Toien,LIB,2,06-030
+,Governor,6,Bill Walker,,3,06-030
+,Governor,6,Write-ins,,0,06-030
+,State Senate,6,Click Bishop,REP,68,06-030
+,State Senate,6,Write-ins,,1,06-030
+,State House,6,Ed Alexander,DEM,30,06-030
+,State House,6,David Talerico,REP,53,06-030
+,State House,6,Write-ins,,0,06-030
+,U.S. House,6,Alyse Galvin,DEM,114,06-033
+,U.S. House,6,Don Young,REP,86,06-033
+,U.S. House,6,Write-ins,,0,06-033
+,Governor,6,Mark Begich,DEM,156,06-033
+,Governor,6,Mike Dunleavy,REP,36,06-033
+,Governor,6,Billy Toien,LIB,0,06-033
+,Governor,6,Bill Walker,,6,06-033
+,Governor,6,Write-ins,,0,06-033
+,State Senate,6,Click Bishop,REP,139,06-033
+,State Senate,6,Write-ins,,9,06-033
+,State House,6,Ed Alexander,DEM,166,06-033
+,State House,6,David Talerico,REP,31,06-033
+,State House,6,Write-ins,,0,06-033
+,U.S. House,6,Alyse Galvin,DEM,39,06-035
+,U.S. House,6,Don Young,REP,58,06-035
+,U.S. House,6,Write-ins,,1,06-035
+,Governor,6,Mark Begich,DEM,44,06-035
+,Governor,6,Mike Dunleavy,REP,50,06-035
+,Governor,6,Billy Toien,LIB,0,06-035
+,Governor,6,Bill Walker,,2,06-035
+,Governor,6,Write-ins,,1,06-035
+,State Senate,6,Click Bishop,REP,80,06-035
+,State Senate,6,Write-ins,,5,06-035
+,State House,6,Ed Alexander,DEM,53,06-035
+,State House,6,David Talerico,REP,43,06-035
+,State House,6,Write-ins,,0,06-035
+,U.S. House,6,Alyse Galvin,DEM,144,06-040
+,U.S. House,6,Don Young,REP,203,06-040
+,U.S. House,6,Write-ins,,0,06-040
+,Governor,6,Mark Begich,DEM,131,06-040
+,Governor,6,Mike Dunleavy,REP,205,06-040
+,Governor,6,Billy Toien,LIB,9,06-040
+,Governor,6,Bill Walker,,3,06-040
+,Governor,6,Write-ins,,0,06-040
+,State Senate,6,Click Bishop,REP,253,06-040
+,State Senate,6,Write-ins,,22,06-040
+,State House,6,Ed Alexander,DEM,95,06-040
+,State House,6,David Talerico,REP,251,06-040
+,State House,6,Write-ins,,0,06-040
+,U.S. House,6,Alyse Galvin,DEM,42,06-047
+,U.S. House,6,Don Young,REP,100,06-047
+,U.S. House,6,Write-ins,,2,06-047
+,Governor,6,Mark Begich,DEM,34,06-047
+,Governor,6,Mike Dunleavy,REP,105,06-047
+,Governor,6,Billy Toien,LIB,5,06-047
+,Governor,6,Bill Walker,,4,06-047
+,Governor,6,Write-ins,,0,06-047
+,State Senate,6,Click Bishop,REP,114,06-047
+,State Senate,6,Write-ins,,5,06-047
+,State House,6,Ed Alexander,DEM,49,06-047
+,State House,6,David Talerico,REP,93,06-047
+,State House,6,Write-ins,,1,06-047
+,U.S. House,6,Alyse Galvin,DEM,18,06-050
+,U.S. House,6,Don Young,REP,32,06-050
+,U.S. House,6,Write-ins,,0,06-050
+,Governor,6,Mark Begich,DEM,11,06-050
+,Governor,6,Mike Dunleavy,REP,32,06-050
+,Governor,6,Billy Toien,LIB,6,06-050
+,Governor,6,Bill Walker,,2,06-050
+,Governor,6,Write-ins,,0,06-050
+,State Senate,6,Click Bishop,REP,38,06-050
+,State Senate,6,Write-ins,,4,06-050
+,State House,6,Ed Alexander,DEM,21,06-050
+,State House,6,David Talerico,REP,28,06-050
+,State House,6,Write-ins,,0,06-050
+,U.S. House,6,Alyse Galvin,DEM,24,06-053
+,U.S. House,6,Don Young,REP,18,06-053
+,U.S. House,6,Write-ins,,0,06-053
+,Governor,6,Mark Begich,DEM,34,06-053
+,Governor,6,Mike Dunleavy,REP,8,06-053
+,Governor,6,Billy Toien,LIB,0,06-053
+,Governor,6,Bill Walker,,0,06-053
+,Governor,6,Write-ins,,0,06-053
+,State Senate,6,Click Bishop,REP,29,06-053
+,State Senate,6,Write-ins,,2,06-053
+,State House,6,Ed Alexander,DEM,32,06-053
+,State House,6,David Talerico,REP,9,06-053
+,State House,6,Write-ins,,0,06-053
+,U.S. House,6,Alyse Galvin,DEM,34,06-054
+,U.S. House,6,Don Young,REP,12,06-054
+,U.S. House,6,Write-ins,,0,06-054
+,Governor,6,Mark Begich,DEM,42,06-054
+,Governor,6,Mike Dunleavy,REP,5,06-054
+,Governor,6,Billy Toien,LIB,1,06-054
+,Governor,6,Bill Walker,,1,06-054
+,Governor,6,Write-ins,,0,06-054
+,State Senate,6,Click Bishop,REP,38,06-054
+,State Senate,6,Write-ins,,0,06-054
+,State House,6,Ed Alexander,DEM,43,06-054
+,State House,6,David Talerico,REP,3,06-054
+,State House,6,Write-ins,,0,06-054
+,U.S. House,6,Alyse Galvin,DEM,78,06-056
+,U.S. House,6,Don Young,REP,165,06-056
+,U.S. House,6,Write-ins,,3,06-056
+,Governor,6,Mark Begich,DEM,76,06-056
+,Governor,6,Mike Dunleavy,REP,162,06-056
+,Governor,6,Billy Toien,LIB,7,06-056
+,Governor,6,Bill Walker,,4,06-056
+,Governor,6,Write-ins,,0,06-056
+,State Senate,6,Click Bishop,REP,210,06-056
+,State Senate,6,Write-ins,,12,06-056
+,State House,6,Ed Alexander,DEM,68,06-056
+,State House,6,David Talerico,REP,175,06-056
+,State House,6,Write-ins,,2,06-056
+,U.S. House,6,Alyse Galvin,DEM,34,06-060
+,U.S. House,6,Don Young,REP,52,06-060
+,U.S. House,6,Write-ins,,0,06-060
+,Governor,6,Mark Begich,DEM,46,06-060
+,Governor,6,Mike Dunleavy,REP,32,06-060
+,Governor,6,Billy Toien,LIB,4,06-060
+,Governor,6,Bill Walker,,1,06-060
+,Governor,6,Write-ins,,0,06-060
+,State Senate,6,Click Bishop,REP,69,06-060
+,State Senate,6,Write-ins,,3,06-060
+,State House,6,Ed Alexander,DEM,56,06-060
+,State House,6,David Talerico,REP,26,06-060
+,State House,6,Write-ins,,1,06-060
+,U.S. House,6,Alyse Galvin,DEM,2,06-070
+,U.S. House,6,Don Young,REP,4,06-070
+,U.S. House,6,Write-ins,,0,06-070
+,Governor,6,Mark Begich,DEM,4,06-070
+,Governor,6,Mike Dunleavy,REP,0,06-070
+,Governor,6,Billy Toien,LIB,0,06-070
+,Governor,6,Bill Walker,,2,06-070
+,Governor,6,Write-ins,,0,06-070
+,State Senate,6,Click Bishop,REP,4,06-070
+,State Senate,6,Write-ins,,0,06-070
+,State House,6,Ed Alexander,DEM,5,06-070
+,State House,6,David Talerico,REP,1,06-070
+,State House,6,Write-ins,,0,06-070
+,U.S. House,6,Alyse Galvin,DEM,17,06-075
+,U.S. House,6,Don Young,REP,19,06-075
+,U.S. House,6,Write-ins,,0,06-075
+,Governor,6,Mark Begich,DEM,27,06-075
+,Governor,6,Mike Dunleavy,REP,8,06-075
+,Governor,6,Billy Toien,LIB,0,06-075
+,Governor,6,Bill Walker,,2,06-075
+,Governor,6,Write-ins,,0,06-075
+,State Senate,6,Click Bishop,REP,30,06-075
+,State Senate,6,Write-ins,,3,06-075
+,State House,6,Ed Alexander,DEM,28,06-075
+,State House,6,David Talerico,REP,8,06-075
+,State House,6,Write-ins,,0,06-075
+,U.S. House,6,Alyse Galvin,DEM,62,06-080
+,U.S. House,6,Don Young,REP,20,06-080
+,U.S. House,6,Write-ins,,1,06-080
+,Governor,6,Mark Begich,DEM,71,06-080
+,Governor,6,Mike Dunleavy,REP,10,06-080
+,Governor,6,Billy Toien,LIB,1,06-080
+,Governor,6,Bill Walker,,3,06-080
+,Governor,6,Write-ins,,0,06-080
+,State Senate,6,Click Bishop,REP,60,06-080
+,State Senate,6,Write-ins,,5,06-080
+,State House,6,Ed Alexander,DEM,74,06-080
+,State House,6,David Talerico,REP,9,06-080
+,State House,6,Write-ins,,0,06-080
+,U.S. House,6,Alyse Galvin,DEM,31,06-085
+,U.S. House,6,Don Young,REP,17,06-085
+,U.S. House,6,Write-ins,,0,06-085
+,Governor,6,Mark Begich,DEM,42,06-085
+,Governor,6,Mike Dunleavy,REP,6,06-085
+,Governor,6,Billy Toien,LIB,0,06-085
+,Governor,6,Bill Walker,,0,06-085
+,Governor,6,Write-ins,,0,06-085
+,State Senate,6,Click Bishop,REP,38,06-085
+,State Senate,6,Write-ins,,0,06-085
+,State House,6,Ed Alexander,DEM,43,06-085
+,State House,6,David Talerico,REP,4,06-085
+,State House,6,Write-ins,,0,06-085
+,U.S. House,6,Alyse Galvin,DEM,140,06-090
+,U.S. House,6,Don Young,REP,286,06-090
+,U.S. House,6,Write-ins,,4,06-090
+,Governor,6,Mark Begich,DEM,104,06-090
+,Governor,6,Mike Dunleavy,REP,312,06-090
+,Governor,6,Billy Toien,LIB,14,06-090
+,Governor,6,Bill Walker,,3,06-090
+,Governor,6,Write-ins,,2,06-090
+,State Senate,6,Click Bishop,REP,346,06-090
+,State Senate,6,Write-ins,,23,06-090
+,State House,6,Ed Alexander,DEM,142,06-090
+,State House,6,David Talerico,REP,274,06-090
+,State House,6,Write-ins,,5,06-090
+,U.S. House,6,Alyse Galvin,DEM,38,06-095
+,U.S. House,6,Don Young,REP,26,06-095
+,U.S. House,6,Write-ins,,0,06-095
+,Governor,6,Mark Begich,DEM,49,06-095
+,Governor,6,Mike Dunleavy,REP,12,06-095
+,Governor,6,Billy Toien,LIB,0,06-095
+,Governor,6,Bill Walker,,3,06-095
+,Governor,6,Write-ins,,0,06-095
+,State Senate,6,Click Bishop,REP,46,06-095
+,State Senate,6,Write-ins,,1,06-095
+,State House,6,Ed Alexander,DEM,61,06-095
+,State House,6,David Talerico,REP,2,06-095
+,State House,6,Write-ins,,0,06-095
+,U.S. House,6,Alyse Galvin,DEM,69,06-145
+,U.S. House,6,Don Young,REP,149,06-145
+,U.S. House,6,Write-ins,,1,06-145
+,Governor,6,Mark Begich,DEM,46,06-145
+,Governor,6,Mike Dunleavy,REP,153,06-145
+,Governor,6,Billy Toien,LIB,16,06-145
+,Governor,6,Bill Walker,,3,06-145
+,Governor,6,Write-ins,,0,06-145
+,State Senate,6,Click Bishop,REP,190,06-145
+,State Senate,6,Write-ins,,6,06-145
+,State House,6,Ed Alexander,DEM,62,06-145
+,State House,6,David Talerico,REP,156,06-145
+,State House,6,Write-ins,,0,06-145
+,U.S. House,6,Alyse Galvin,DEM,53,06-150
+,U.S. House,6,Don Young,REP,159,06-150
+,U.S. House,6,Write-ins,,0,06-150
+,Governor,6,Mark Begich,DEM,48,06-150
+,Governor,6,Mike Dunleavy,REP,157,06-150
+,Governor,6,Billy Toien,LIB,5,06-150
+,Governor,6,Bill Walker,,2,06-150
+,Governor,6,Write-ins,,0,06-150
+,State Senate,6,Click Bishop,REP,171,06-150
+,State Senate,6,Write-ins,,6,06-150
+,State House,6,Ed Alexander,DEM,41,06-150
+,State House,6,David Talerico,REP,165,06-150
+,State House,6,Write-ins,,0,06-150
+,U.S. House,6,Alyse Galvin,DEM,46,06-155
+,U.S. House,6,Don Young,REP,160,06-155
+,U.S. House,6,Write-ins,,0,06-155
+,Governor,6,Mark Begich,DEM,35,06-155
+,Governor,6,Mike Dunleavy,REP,164,06-155
+,Governor,6,Billy Toien,LIB,5,06-155
+,Governor,6,Bill Walker,,2,06-155
+,Governor,6,Write-ins,,1,06-155
+,State Senate,6,Click Bishop,REP,183,06-155
+,State Senate,6,Write-ins,,6,06-155
+,State House,6,Ed Alexander,DEM,39,06-155
+,State House,6,David Talerico,REP,165,06-155
+,State House,6,Write-ins,,0,06-155
+,U.S. House,6,Alyse Galvin,DEM,85,06-160
+,U.S. House,6,Don Young,REP,306,06-160
+,U.S. House,6,Write-ins,,2,06-160
+,Governor,6,Mark Begich,DEM,72,06-160
+,Governor,6,Mike Dunleavy,REP,315,06-160
+,Governor,6,Billy Toien,LIB,8,06-160
+,Governor,6,Bill Walker,,1,06-160
+,Governor,6,Write-ins,,1,06-160
+,State Senate,6,Click Bishop,REP,346,06-160
+,State Senate,6,Write-ins,,18,06-160
+,State House,6,Ed Alexander,DEM,74,06-160
+,State House,6,David Talerico,REP,315,06-160
+,State House,6,Write-ins,,3,06-160
+,U.S. House,6,Alyse Galvin,DEM,182,06-170
+,U.S. House,6,Don Young,REP,296,06-170
+,U.S. House,6,Write-ins,,1,06-170
+,Governor,6,Mark Begich,DEM,167,06-170
+,Governor,6,Mike Dunleavy,REP,298,06-170
+,Governor,6,Billy Toien,LIB,11,06-170
+,Governor,6,Bill Walker,,6,06-170
+,Governor,6,Write-ins,,3,06-170
+,State Senate,6,Click Bishop,REP,381,06-170
+,State Senate,6,Write-ins,,25,06-170
+,State House,6,Ed Alexander,DEM,168,06-170
+,State House,6,David Talerico,REP,309,06-170
+,State House,6,Write-ins,,2,06-170
+,U.S. House,6,Alyse Galvin,DEM,164,06-180
+,U.S. House,6,Don Young,REP,306,06-180
+,U.S. House,6,Write-ins,,4,06-180
+,Governor,6,Mark Begich,DEM,154,06-180
+,Governor,6,Mike Dunleavy,REP,300,06-180
+,Governor,6,Billy Toien,LIB,15,06-180
+,Governor,6,Bill Walker,,5,06-180
+,Governor,6,Write-ins,,0,06-180
+,State Senate,6,Click Bishop,REP,355,06-180
+,State Senate,6,Write-ins,,31,06-180
+,State House,6,Ed Alexander,DEM,164,06-180
+,State House,6,David Talerico,REP,294,06-180
+,State House,6,Write-ins,,2,06-180
+,U.S. House,6,Alyse Galvin,DEM,556, Absentee
+,U.S. House,6,Don Young,REP,803, Absentee
+,U.S. House,6,Write-ins,,10, Absentee
+,Governor,6,Mark Begich,DEM,510, Absentee
+,Governor,6,Mike Dunleavy,REP,769, Absentee
+,Governor,6,Billy Toien,LIB,22, Absentee
+,Governor,6,Bill Walker,,68, Absentee
+,Governor,6,Write-ins,,4, Absentee
+,State Senate,6,Click Bishop,REP,955, Absentee
+,State Senate,6,Write-ins,,89, Absentee
+,State House,6,Ed Alexander,DEM,505, Absentee
+,State House,6,David Talerico,REP,789, Absentee
+,State House,6,Write-ins,,2, Absentee
+,U.S. House,6,Alyse Galvin,DEM,117, Question
+,U.S. House,6,Don Young,REP,195, Question
+,U.S. House,6,Write-ins,,4, Question
+,Governor,6,Mark Begich,DEM,110, Question
+,Governor,6,Mike Dunleavy,REP,182, Question
+,Governor,6,Billy Toien,LIB,18, Question
+,Governor,6,Bill Walker,,6, Question
+,Governor,6,Write-ins,,2, Question
+,State Senate,6,Click Bishop,REP,88, Question
+,State Senate,6,Write-ins,,4, Question
+,State House,6,Ed Alexander,DEM,56, Question
+,State House,6,David Talerico,REP,54, Question
+,State House,6,Write-ins,,0, Question
+,U.S. House,6,Alyse Galvin,DEM,284, Early Voting
+,U.S. House,6,Don Young,REP,276, Early Voting
+,U.S. House,6,Write-ins,,3, Early Voting
+,Governor,6,Mark Begich,DEM,278, Early Voting
+,Governor,6,Mike Dunleavy,REP,264, Early Voting
+,Governor,6,Billy Toien,LIB,12, Early Voting
+,Governor,6,Bill Walker,,7, Early Voting
+,Governor,6,Write-ins,,3, Early Voting
+,State Senate,6,Click Bishop,REP,390, Early Voting
+,State Senate,6,Write-ins,,49, Early Voting
+,State House,6,Ed Alexander,DEM,280, Early Voting
+,State House,6,David Talerico,REP,276, Early Voting
+,State House,6,Write-ins,,6, Early Voting
