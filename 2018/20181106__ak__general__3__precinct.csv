@@ -1,0 +1,81 @@
+county,office,district,candidate,party,votes,precinct
+,U.S. House,3,Alyse Galvin,DEM,288,03-130
+,U.S. House,3,Don Young,REP,683,03-130
+,U.S. House,3,Write-ins,,5,03-130
+,Governor,3,Mark Begich,DEM,240,03-130
+,Governor,3,Mike Dunleavy,REP,691,03-130
+,Governor,3,Billy Toien,LIB,34,03-130
+,Governor,3,Bill Walker,,12,03-130
+,Governor,3,Write-ins,,3,03-130
+,State House,3,Tammie Wilson,REP,802,03-130
+,State House,3,Write-ins,,67,03-130
+,U.S. House,3,Alyse Galvin,DEM,209,03-135
+,U.S. House,3,Don Young,REP,721,03-135
+,U.S. House,3,Write-ins,,7,03-135
+,Governor,3,Mark Begich,DEM,167,03-135
+,Governor,3,Mike Dunleavy,REP,734,03-135
+,Governor,3,Billy Toien,LIB,23,03-135
+,Governor,3,Bill Walker,,8,03-135
+,Governor,3,Write-ins,,8,03-135
+,State House,3,Tammie Wilson,REP,788,03-135
+,State House,3,Write-ins,,54,03-135
+,U.S. House,3,Alyse Galvin,DEM,278,03-165
+,U.S. House,3,Don Young,REP,835,03-165
+,U.S. House,3,Write-ins,,14,03-165
+,Governor,3,Mark Begich,DEM,215,03-165
+,Governor,3,Mike Dunleavy,REP,866,03-165
+,Governor,3,Billy Toien,LIB,38,03-165
+,Governor,3,Bill Walker,,9,03-165
+,Governor,3,Write-ins,,1,03-165
+,State House,3,Tammie Wilson,REP,949,03-165
+,State House,3,Write-ins,,88,03-165
+,U.S. House,3,Alyse Galvin,DEM,150,03-175
+,U.S. House,3,Don Young,REP,334,03-175
+,U.S. House,3,Write-ins,,8,03-175
+,Governor,3,Mark Begich,DEM,113,03-175
+,Governor,3,Mike Dunleavy,REP,356,03-175
+,Governor,3,Billy Toien,LIB,18,03-175
+,Governor,3,Bill Walker,,5,03-175
+,Governor,3,Write-ins,,0,03-175
+,State House,3,Tammie Wilson,REP,405,03-175
+,State House,3,Write-ins,,36,03-175
+,U.S. House,3,Alyse Galvin,DEM,203,03-183
+,U.S. House,3,Don Young,REP,734,03-183
+,U.S. House,3,Write-ins,,8,03-183
+,Governor,3,Mark Begich,DEM,160,03-183
+,Governor,3,Mike Dunleavy,REP,763,03-183
+,Governor,3,Billy Toien,LIB,21,03-183
+,Governor,3,Bill Walker,,11,03-183
+,Governor,3,Write-ins,,0,03-183
+,State House,3,Tammie Wilson,REP,838,03-183
+,State House,3,Write-ins,,44,03-183
+,U.S. House,3,Alyse Galvin,DEM,147, Absentee
+,U.S. House,3,Don Young,REP,387, Absentee
+,U.S. House,3,Write-ins,,5, Absentee
+,Governor,3,Mark Begich,DEM,110, Absentee
+,Governor,3,Mike Dunleavy,REP,397, Absentee
+,Governor,3,Billy Toien,LIB,8, Absentee
+,Governor,3,Bill Walker,,22, Absentee
+,Governor,3,Write-ins,,1, Absentee
+,State House,3,Tammie Wilson,REP,416, Absentee
+,State House,3,Write-ins,,34, Absentee
+,U.S. House,3,Alyse Galvin,DEM,48, Question
+,U.S. House,3,Don Young,REP,116, Question
+,U.S. House,3,Write-ins,,2, Question
+,Governor,3,Mark Begich,DEM,41, Question
+,Governor,3,Mike Dunleavy,REP,110, Question
+,Governor,3,Billy Toien,LIB,12, Question
+,Governor,3,Bill Walker,,3, Question
+,Governor,3,Write-ins,,1, Question
+,State House,3,Tammie Wilson,REP,85, Question
+,State House,3,Write-ins,,3, Question
+,U.S. House,3,Alyse Galvin,DEM,318, Early Voting
+,U.S. House,3,Don Young,REP,471, Early Voting
+,U.S. House,3,Write-ins,,5, Early Voting
+,Governor,3,Mark Begich,DEM,295, Early Voting
+,Governor,3,Mike Dunleavy,REP,478, Early Voting
+,Governor,3,Billy Toien,LIB,16, Early Voting
+,Governor,3,Bill Walker,,7, Early Voting
+,Governor,3,Write-ins,,2, Early Voting
+,State House,3,Tammie Wilson,REP,571, Early Voting
+,State House,3,Write-ins,,88, Early Voting

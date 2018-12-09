@@ -1,0 +1,127 @@
+county,office,district,candidate,party,votes,precinct
+,U.S. House,13,Alyse Galvin,DEM,144,13-235
+,U.S. House,13,Don Young,REP,337,13-235
+,U.S. House,13,Write-ins,,4,13-235
+,Governor,13,Mark Begich,DEM,126,13-235
+,Governor,13,Mike Dunleavy,REP,348,13-235
+,Governor,13,Billy Toien,LIB,10,13-235
+,Governor,13,Bill Walker,,5,13-235
+,Governor,13,Write-ins,,0,13-235
+,State Senate,13,Oliver Schiess,DEM,143,13-235
+,State Senate,13,Lora Reinbold,REP,328,13-235
+,State Senate,13,Write-ins,,4,13-235
+,State House,13,Danyelle Kimp,DEM,102,13-235
+,State House,13,Nancy Dahlstrom,REP,369,13-235
+,State House,13,Write-ins,,2,13-235
+,U.S. House,13,Alyse Galvin,DEM,286,13-240
+,U.S. House,13,Don Young,REP,577,13-240
+,U.S. House,13,Write-ins,,4,13-240
+,Governor,13,Mark Begich,DEM,255,13-240
+,Governor,13,Mike Dunleavy,REP,583,13-240
+,Governor,13,Billy Toien,LIB,18,13-240
+,Governor,13,Bill Walker,,13,13-240
+,Governor,13,Write-ins,,2,13-240
+,State Senate,13,Oliver Schiess,DEM,284,13-240
+,State Senate,13,Lora Reinbold,REP,575,13-240
+,State Senate,13,Write-ins,,0,13-240
+,State House,13,Danyelle Kimp,DEM,228,13-240
+,State House,13,Nancy Dahlstrom,REP,627,13-240
+,State House,13,Write-ins,,3,13-240
+,U.S. House,13,Alyse Galvin,DEM,166,13-245
+,U.S. House,13,Don Young,REP,272,13-245
+,U.S. House,13,Write-ins,,5,13-245
+,Governor,13,Mark Begich,DEM,139,13-245
+,Governor,13,Mike Dunleavy,REP,279,13-245
+,Governor,13,Billy Toien,LIB,18,13-245
+,Governor,13,Bill Walker,,3,13-245
+,Governor,13,Write-ins,,1,13-245
+,State Senate,13,Oliver Schiess,DEM,144,13-245
+,State Senate,13,Lora Reinbold,REP,291,13-245
+,State Senate,13,Write-ins,,3,13-245
+,State House,13,Danyelle Kimp,DEM,135,13-245
+,State House,13,Nancy Dahlstrom,REP,295,13-245
+,State House,13,Write-ins,,3,13-245
+,U.S. House,13,Alyse Galvin,DEM,339,13-250
+,U.S. House,13,Don Young,REP,542,13-250
+,U.S. House,13,Write-ins,,3,13-250
+,Governor,13,Mark Begich,DEM,288,13-250
+,Governor,13,Mike Dunleavy,REP,573,13-250
+,Governor,13,Billy Toien,LIB,17,13-250
+,Governor,13,Bill Walker,,10,13-250
+,Governor,13,Write-ins,,4,13-250
+,State Senate,13,Oliver Schiess,DEM,300,13-250
+,State Senate,13,Lora Reinbold,REP,581,13-250
+,State Senate,13,Write-ins,,4,13-250
+,State House,13,Danyelle Kimp,DEM,241,13-250
+,State House,13,Nancy Dahlstrom,REP,634,13-250
+,State House,13,Write-ins,,0,13-250
+,U.S. House,13,Alyse Galvin,DEM,234,13-255
+,U.S. House,13,Don Young,REP,438,13-255
+,U.S. House,13,Write-ins,,2,13-255
+,Governor,13,Mark Begich,DEM,207,13-255
+,Governor,13,Mike Dunleavy,REP,448,13-255
+,Governor,13,Billy Toien,LIB,11,13-255
+,Governor,13,Bill Walker,,10,13-255
+,Governor,13,Write-ins,,0,13-255
+,State Senate,13,Oliver Schiess,DEM,245,13-255
+,State Senate,13,Lora Reinbold,REP,419,13-255
+,State Senate,13,Write-ins,,3,13-255
+,State House,13,Danyelle Kimp,DEM,176,13-255
+,State House,13,Nancy Dahlstrom,REP,479,13-255
+,State House,13,Write-ins,,4,13-255
+,U.S. House,13,Alyse Galvin,DEM,75,13-260
+,U.S. House,13,Don Young,REP,53,13-260
+,U.S. House,13,Write-ins,,1,13-260
+,Governor,13,Mark Begich,DEM,76,13-260
+,Governor,13,Mike Dunleavy,REP,45,13-260
+,Governor,13,Billy Toien,LIB,2,13-260
+,Governor,13,Bill Walker,,4,13-260
+,Governor,13,Write-ins,,1,13-260
+,State Senate,13,Oliver Schiess,DEM,71,13-260
+,State Senate,13,Lora Reinbold,REP,54,13-260
+,State Senate,13,Write-ins,,1,13-260
+,State House,13,Danyelle Kimp,DEM,71,13-260
+,State House,13,Nancy Dahlstrom,REP,55,13-260
+,State House,13,Write-ins,,1,13-260
+,U.S. House,13,Alyse Galvin,DEM,288, Absentee
+,U.S. House,13,Don Young,REP,603, Absentee
+,U.S. House,13,Write-ins,,0, Absentee
+,Governor,13,Mark Begich,DEM,256, Absentee
+,Governor,13,Mike Dunleavy,REP,604, Absentee
+,Governor,13,Billy Toien,LIB,8, Absentee
+,Governor,13,Bill Walker,,24, Absentee
+,Governor,13,Write-ins,,0, Absentee
+,State Senate,13,Oliver Schiess,DEM,257, Absentee
+,State Senate,13,Lora Reinbold,REP,595, Absentee
+,State Senate,13,Write-ins,,3, Absentee
+,State House,13,Danyelle Kimp,DEM,235, Absentee
+,State House,13,Nancy Dahlstrom,REP,610, Absentee
+,State House,13,Write-ins,,1, Absentee
+,U.S. House,13,Alyse Galvin,DEM,93, Question
+,U.S. House,13,Don Young,REP,150, Question
+,U.S. House,13,Write-ins,,1, Question
+,Governor,13,Mark Begich,DEM,86, Question
+,Governor,13,Mike Dunleavy,REP,147, Question
+,Governor,13,Billy Toien,LIB,7, Question
+,Governor,13,Bill Walker,,7, Question
+,Governor,13,Write-ins,,1, Question
+,State Senate,13,Oliver Schiess,DEM,28, Question
+,State Senate,13,Lora Reinbold,REP,56, Question
+,State Senate,13,Write-ins,,1, Question
+,State House,13,Danyelle Kimp,DEM,12, Question
+,State House,13,Nancy Dahlstrom,REP,45, Question
+,State House,13,Write-ins,,0, Question
+,U.S. House,13,Alyse Galvin,DEM,175, Early Voting
+,U.S. House,13,Don Young,REP,194, Early Voting
+,U.S. House,13,Write-ins,,1, Early Voting
+,Governor,13,Mark Begich,DEM,172, Early Voting
+,Governor,13,Mike Dunleavy,REP,185, Early Voting
+,Governor,13,Billy Toien,LIB,5, Early Voting
+,Governor,13,Bill Walker,,8, Early Voting
+,Governor,13,Write-ins,,0, Early Voting
+,State Senate,13,Oliver Schiess,DEM,166, Early Voting
+,State Senate,13,Lora Reinbold,REP,198, Early Voting
+,State Senate,13,Write-ins,,3, Early Voting
+,State House,13,Danyelle Kimp,DEM,146, Early Voting
+,State House,13,Nancy Dahlstrom,REP,214, Early Voting
+,State House,13,Write-ins,,2, Early Voting

@@ -1,0 +1,141 @@
+county,office,district,candidate,party,votes,precinct
+,U.S. House,17,Alyse Galvin,DEM,364,17-400
+,U.S. House,17,Don Young,REP,234,17-400
+,U.S. House,17,Write-ins,,2,17-400
+,Governor,17,Mark Begich,DEM,356,17-400
+,Governor,17,Mike Dunleavy,REP,230,17-400
+,Governor,17,Billy Toien,LIB,4,17-400
+,Governor,17,Bill Walker,,10,17-400
+,Governor,17,Write-ins,,0,17-400
+,State Senate,17,Elvi Gray-Jackson,DEM,351,17-400
+,State Senate,17,Jim Crawford,REP,234,17-400
+,State Senate,17,Write-ins,,3,17-400
+,State House,17,Marcus Sanders,REP,254,17-400
+,State House,17,Andrew Josephson,DEM,339,17-400
+,State House,17,Write-ins,,2,17-400
+,U.S. House,17,Alyse Galvin,DEM,182,17-405
+,U.S. House,17,Don Young,REP,120,17-405
+,U.S. House,17,Write-ins,,2,17-405
+,Governor,17,Mark Begich,DEM,187,17-405
+,Governor,17,Mike Dunleavy,REP,105,17-405
+,Governor,17,Billy Toien,LIB,3,17-405
+,Governor,17,Bill Walker,,7,17-405
+,Governor,17,Write-ins,,0,17-405
+,State Senate,17,Elvi Gray-Jackson,DEM,184,17-405
+,State Senate,17,Jim Crawford,REP,115,17-405
+,State Senate,17,Write-ins,,0,17-405
+,State House,17,Marcus Sanders,REP,105,17-405
+,State House,17,Andrew Josephson,DEM,193,17-405
+,State House,17,Write-ins,,0,17-405
+,U.S. House,17,Alyse Galvin,DEM,256,17-410
+,U.S. House,17,Don Young,REP,206,17-410
+,U.S. House,17,Write-ins,,6,17-410
+,Governor,17,Mark Begich,DEM,263,17-410
+,Governor,17,Mike Dunleavy,REP,190,17-410
+,Governor,17,Billy Toien,LIB,11,17-410
+,Governor,17,Bill Walker,,5,17-410
+,Governor,17,Write-ins,,1,17-410
+,State Senate,17,Elvi Gray-Jackson,DEM,243,17-410
+,State Senate,17,Jim Crawford,REP,216,17-410
+,State Senate,17,Write-ins,,1,17-410
+,State House,17,Marcus Sanders,REP,174,17-410
+,State House,17,Andrew Josephson,DEM,284,17-410
+,State House,17,Write-ins,,2,17-410
+,U.S. House,17,Alyse Galvin,DEM,242,17-415
+,U.S. House,17,Don Young,REP,214,17-415
+,U.S. House,17,Write-ins,,0,17-415
+,Governor,17,Mark Begich,DEM,225,17-415
+,Governor,17,Mike Dunleavy,REP,212,17-415
+,Governor,17,Billy Toien,LIB,14,17-415
+,Governor,17,Bill Walker,,10,17-415
+,Governor,17,Write-ins,,0,17-415
+,State Senate,17,Elvi Gray-Jackson,DEM,217,17-415
+,State Senate,17,Jim Crawford,REP,233,17-415
+,State Senate,17,Write-ins,,1,17-415
+,State House,17,Marcus Sanders,REP,215,17-415
+,State House,17,Andrew Josephson,DEM,237,17-415
+,State House,17,Write-ins,,1,17-415
+,U.S. House,17,Alyse Galvin,DEM,519,17-420
+,U.S. House,17,Don Young,REP,486,17-420
+,U.S. House,17,Write-ins,,1,17-420
+,Governor,17,Mark Begich,DEM,504,17-420
+,Governor,17,Mike Dunleavy,REP,471,17-420
+,Governor,17,Billy Toien,LIB,17,17-420
+,Governor,17,Bill Walker,,11,17-420
+,Governor,17,Write-ins,,1,17-420
+,State Senate,17,Elvi Gray-Jackson,DEM,519,17-420
+,State Senate,17,Jim Crawford,REP,470,17-420
+,State Senate,17,Write-ins,,1,17-420
+,State House,17,Marcus Sanders,REP,428,17-420
+,State House,17,Andrew Josephson,DEM,557,17-420
+,State House,17,Write-ins,,3,17-420
+,U.S. House,17,Alyse Galvin,DEM,303,17-425
+,U.S. House,17,Don Young,REP,206,17-425
+,U.S. House,17,Write-ins,,0,17-425
+,Governor,17,Mark Begich,DEM,293,17-425
+,Governor,17,Mike Dunleavy,REP,194,17-425
+,Governor,17,Billy Toien,LIB,14,17-425
+,Governor,17,Bill Walker,,10,17-425
+,Governor,17,Write-ins,,0,17-425
+,State Senate,17,Elvi Gray-Jackson,DEM,288,17-425
+,State Senate,17,Jim Crawford,REP,213,17-425
+,State Senate,17,Write-ins,,1,17-425
+,State House,17,Marcus Sanders,REP,209,17-425
+,State House,17,Andrew Josephson,DEM,290,17-425
+,State House,17,Write-ins,,2,17-425
+,U.S. House,17,Alyse Galvin,DEM,209,17-430
+,U.S. House,17,Don Young,REP,165,17-430
+,U.S. House,17,Write-ins,,1,17-430
+,Governor,17,Mark Begich,DEM,192,17-430
+,Governor,17,Mike Dunleavy,REP,170,17-430
+,Governor,17,Billy Toien,LIB,12,17-430
+,Governor,17,Bill Walker,,3,17-430
+,Governor,17,Write-ins,,0,17-430
+,State Senate,17,Elvi Gray-Jackson,DEM,202,17-430
+,State Senate,17,Jim Crawford,REP,165,17-430
+,State Senate,17,Write-ins,,2,17-430
+,State House,17,Marcus Sanders,REP,166,17-430
+,State House,17,Andrew Josephson,DEM,202,17-430
+,State House,17,Write-ins,,1,17-430
+,U.S. House,17,Alyse Galvin,DEM,341, Absentee
+,U.S. House,17,Don Young,REP,269, Absentee
+,U.S. House,17,Write-ins,,1, Absentee
+,Governor,17,Mark Begich,DEM,309, Absentee
+,Governor,17,Mike Dunleavy,REP,261, Absentee
+,Governor,17,Billy Toien,LIB,10, Absentee
+,Governor,17,Bill Walker,,33, Absentee
+,Governor,17,Write-ins,,0, Absentee
+,State Senate,17,Elvi Gray-Jackson,DEM,273, Absentee
+,State Senate,17,Jim Crawford,REP,252, Absentee
+,State Senate,17,Write-ins,,0, Absentee
+,State House,17,Marcus Sanders,REP,247, Absentee
+,State House,17,Andrew Josephson,DEM,273, Absentee
+,State House,17,Write-ins,,1, Absentee
+,U.S. House,17,Alyse Galvin,DEM,208, Question
+,U.S. House,17,Don Young,REP,163, Question
+,U.S. House,17,Write-ins,,2, Question
+,Governor,17,Mark Begich,DEM,203, Question
+,Governor,17,Mike Dunleavy,REP,146, Question
+,Governor,17,Billy Toien,LIB,17, Question
+,Governor,17,Bill Walker,,3, Question
+,Governor,17,Write-ins,,2, Question
+,State Senate,17,Elvi Gray-Jackson,DEM,46, Question
+,State Senate,17,Jim Crawford,REP,35, Question
+,State Senate,17,Write-ins,,0, Question
+,State House,17,Marcus Sanders,REP,27, Question
+,State House,17,Andrew Josephson,DEM,39, Question
+,State House,17,Write-ins,,0, Question
+,U.S. House,17,Alyse Galvin,DEM,784, Early Voting
+,U.S. House,17,Don Young,REP,317, Early Voting
+,U.S. House,17,Write-ins,,2, Early Voting
+,Governor,17,Mark Begich,DEM,777, Early Voting
+,Governor,17,Mike Dunleavy,REP,308, Early Voting
+,Governor,17,Billy Toien,LIB,6, Early Voting
+,Governor,17,Bill Walker,,8, Early Voting
+,Governor,17,Write-ins,,2, Early Voting
+,State Senate,17,Elvi Gray-Jackson,DEM,755, Early Voting
+,State Senate,17,Jim Crawford,REP,321, Early Voting
+,State Senate,17,Write-ins,,6, Early Voting
+,State House,17,Marcus Sanders,REP,323, Early Voting
+,State House,17,Andrew Josephson,DEM,757, Early Voting
+,State House,17,Write-ins,,1, Early Voting

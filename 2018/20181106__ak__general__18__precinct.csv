@@ -1,0 +1,183 @@
+county,office,district,candidate,party,votes,precinct
+,U.S. House,18,Alyse Galvin,DEM,207,18-435
+,U.S. House,18,Don Young,REP,160,18-435
+,U.S. House,18,Write-ins,,1,18-435
+,Governor,18,Mark Begich,DEM,214,18-435
+,Governor,18,Mike Dunleavy,REP,138,18-435
+,Governor,18,Billy Toien,LIB,1,18-435
+,Governor,18,Bill Walker,,12,18-435
+,Governor,18,Write-ins,,0,18-435
+,State Senate,18,Elvi Gray-Jackson,DEM,204,18-435
+,State Senate,18,Jim Crawford,REP,157,18-435
+,State Senate,18,Write-ins,,1,18-435
+,State House,18,Anthony Lekanoff,REP,139,18-435
+,State House,18,Harriet Drummond,DEM,221,18-435
+,State House,18,Write-ins,,1,18-435
+,U.S. House,18,Alyse Galvin,DEM,178,18-440
+,U.S. House,18,Don Young,REP,120,18-440
+,U.S. House,18,Write-ins,,0,18-440
+,Governor,18,Mark Begich,DEM,172,18-440
+,Governor,18,Mike Dunleavy,REP,115,18-440
+,Governor,18,Billy Toien,LIB,7,18-440
+,Governor,18,Bill Walker,,3,18-440
+,Governor,18,Write-ins,,0,18-440
+,State Senate,18,Elvi Gray-Jackson,DEM,159,18-440
+,State Senate,18,Jim Crawford,REP,131,18-440
+,State Senate,18,Write-ins,,2,18-440
+,State House,18,Anthony Lekanoff,REP,123,18-440
+,State House,18,Harriet Drummond,DEM,168,18-440
+,State House,18,Write-ins,,0,18-440
+,U.S. House,18,Alyse Galvin,DEM,251,18-445
+,U.S. House,18,Don Young,REP,174,18-445
+,U.S. House,18,Write-ins,,2,18-445
+,Governor,18,Mark Begich,DEM,225,18-445
+,Governor,18,Mike Dunleavy,REP,186,18-445
+,Governor,18,Billy Toien,LIB,8,18-445
+,Governor,18,Bill Walker,,4,18-445
+,Governor,18,Write-ins,,0,18-445
+,State Senate,18,Elvi Gray-Jackson,DEM,235,18-445
+,State Senate,18,Jim Crawford,REP,183,18-445
+,State Senate,18,Write-ins,,1,18-445
+,State House,18,Anthony Lekanoff,REP,156,18-445
+,State House,18,Harriet Drummond,DEM,260,18-445
+,State House,18,Write-ins,,1,18-445
+,U.S. House,18,Alyse Galvin,DEM,179,18-450
+,U.S. House,18,Don Young,REP,167,18-450
+,U.S. House,18,Write-ins,,1,18-450
+,Governor,18,Mark Begich,DEM,177,18-450
+,Governor,18,Mike Dunleavy,REP,159,18-450
+,Governor,18,Billy Toien,LIB,9,18-450
+,Governor,18,Bill Walker,,3,18-450
+,Governor,18,Write-ins,,2,18-450
+,State Senate,18,Elvi Gray-Jackson,DEM,170,18-450
+,State Senate,18,Jim Crawford,REP,172,18-450
+,State Senate,18,Write-ins,,0,18-450
+,State House,18,Anthony Lekanoff,REP,142,18-450
+,State House,18,Harriet Drummond,DEM,196,18-450
+,State House,18,Write-ins,,1,18-450
+,U.S. House,18,Alyse Galvin,DEM,223,18-455
+,U.S. House,18,Don Young,REP,153,18-455
+,U.S. House,18,Write-ins,,2,18-455
+,Governor,18,Mark Begich,DEM,205,18-455
+,Governor,18,Mike Dunleavy,REP,154,18-455
+,Governor,18,Billy Toien,LIB,12,18-455
+,Governor,18,Bill Walker,,4,18-455
+,Governor,18,Write-ins,,0,18-455
+,State Senate,18,Elvi Gray-Jackson,DEM,215,18-455
+,State Senate,18,Jim Crawford,REP,152,18-455
+,State Senate,18,Write-ins,,3,18-455
+,State House,18,Anthony Lekanoff,REP,144,18-455
+,State House,18,Harriet Drummond,DEM,223,18-455
+,State House,18,Write-ins,,2,18-455
+,U.S. House,18,Alyse Galvin,DEM,382,18-460
+,U.S. House,18,Don Young,REP,191,18-460
+,U.S. House,18,Write-ins,,3,18-460
+,Governor,18,Mark Begich,DEM,375,18-460
+,Governor,18,Mike Dunleavy,REP,179,18-460
+,Governor,18,Billy Toien,LIB,7,18-460
+,Governor,18,Bill Walker,,14,18-460
+,Governor,18,Write-ins,,1,18-460
+,State Senate,18,Elvi Gray-Jackson,DEM,375,18-460
+,State Senate,18,Jim Crawford,REP,193,18-460
+,State Senate,18,Write-ins,,1,18-460
+,State House,18,Anthony Lekanoff,REP,182,18-460
+,State House,18,Harriet Drummond,DEM,385,18-460
+,State House,18,Write-ins,,2,18-460
+,U.S. House,18,Alyse Galvin,DEM,140,18-465
+,U.S. House,18,Don Young,REP,94,18-465
+,U.S. House,18,Write-ins,,0,18-465
+,Governor,18,Mark Begich,DEM,141,18-465
+,Governor,18,Mike Dunleavy,REP,86,18-465
+,Governor,18,Billy Toien,LIB,4,18-465
+,Governor,18,Bill Walker,,6,18-465
+,Governor,18,Write-ins,,0,18-465
+,State Senate,18,Elvi Gray-Jackson,DEM,138,18-465
+,State Senate,18,Jim Crawford,REP,92,18-465
+,State Senate,18,Write-ins,,1,18-465
+,State House,18,Anthony Lekanoff,REP,86,18-465
+,State House,18,Harriet Drummond,DEM,143,18-465
+,State House,18,Write-ins,,0,18-465
+,U.S. House,18,Alyse Galvin,DEM,111,18-470
+,U.S. House,18,Don Young,REP,58,18-470
+,U.S. House,18,Write-ins,,0,18-470
+,Governor,18,Mark Begich,DEM,104,18-470
+,Governor,18,Mike Dunleavy,REP,62,18-470
+,Governor,18,Billy Toien,LIB,4,18-470
+,Governor,18,Bill Walker,,0,18-470
+,Governor,18,Write-ins,,1,18-470
+,State Senate,18,Elvi Gray-Jackson,DEM,99,18-470
+,State Senate,18,Jim Crawford,REP,67,18-470
+,State Senate,18,Write-ins,,0,18-470
+,State House,18,Anthony Lekanoff,REP,59,18-470
+,State House,18,Harriet Drummond,DEM,103,18-470
+,State House,18,Write-ins,,3,18-470
+,U.S. House,18,Alyse Galvin,DEM,143,18-475
+,U.S. House,18,Don Young,REP,134,18-475
+,U.S. House,18,Write-ins,,3,18-475
+,Governor,18,Mark Begich,DEM,138,18-475
+,Governor,18,Mike Dunleavy,REP,133,18-475
+,Governor,18,Billy Toien,LIB,5,18-475
+,Governor,18,Bill Walker,,3,18-475
+,Governor,18,Write-ins,,2,18-475
+,State Senate,18,Elvi Gray-Jackson,DEM,142,18-475
+,State Senate,18,Jim Crawford,REP,133,18-475
+,State Senate,18,Write-ins,,2,18-475
+,State House,18,Anthony Lekanoff,REP,127,18-475
+,State House,18,Harriet Drummond,DEM,146,18-475
+,State House,18,Write-ins,,2,18-475
+,U.S. House,18,Alyse Galvin,DEM,377,18-480
+,U.S. House,18,Don Young,REP,216,18-480
+,U.S. House,18,Write-ins,,1,18-480
+,Governor,18,Mark Begich,DEM,380,18-480
+,Governor,18,Mike Dunleavy,REP,202,18-480
+,Governor,18,Billy Toien,LIB,5,18-480
+,Governor,18,Bill Walker,,7,18-480
+,Governor,18,Write-ins,,1,18-480
+,State Senate,18,Elvi Gray-Jackson,DEM,394,18-480
+,State Senate,18,Jim Crawford,REP,192,18-480
+,State Senate,18,Write-ins,,3,18-480
+,State House,18,Anthony Lekanoff,REP,184,18-480
+,State House,18,Harriet Drummond,DEM,397,18-480
+,State House,18,Write-ins,,4,18-480
+,U.S. House,18,Alyse Galvin,DEM,438, Absentee
+,U.S. House,18,Don Young,REP,314, Absentee
+,U.S. House,18,Write-ins,,4, Absentee
+,Governor,18,Mark Begich,DEM,413, Absentee
+,Governor,18,Mike Dunleavy,REP,287, Absentee
+,Governor,18,Billy Toien,LIB,9, Absentee
+,Governor,18,Bill Walker,,45, Absentee
+,Governor,18,Write-ins,,1, Absentee
+,State Senate,18,Elvi Gray-Jackson,DEM,376, Absentee
+,State Senate,18,Jim Crawford,REP,290, Absentee
+,State Senate,18,Write-ins,,4, Absentee
+,State House,18,Anthony Lekanoff,REP,281, Absentee
+,State House,18,Harriet Drummond,DEM,382, Absentee
+,State House,18,Write-ins,,1, Absentee
+,U.S. House,18,Alyse Galvin,DEM,322, Question
+,U.S. House,18,Don Young,REP,232, Question
+,U.S. House,18,Write-ins,,2, Question
+,Governor,18,Mark Begich,DEM,309, Question
+,Governor,18,Mike Dunleavy,REP,230, Question
+,Governor,18,Billy Toien,LIB,13, Question
+,Governor,18,Bill Walker,,8, Question
+,Governor,18,Write-ins,,1, Question
+,State Senate,18,Elvi Gray-Jackson,DEM,81, Question
+,State Senate,18,Jim Crawford,REP,60, Question
+,State Senate,18,Write-ins,,0, Question
+,State House,18,Anthony Lekanoff,REP,39, Question
+,State House,18,Harriet Drummond,DEM,75, Question
+,State House,18,Write-ins,,0, Question
+,U.S. House,18,Alyse Galvin,DEM,1053, Early Voting
+,U.S. House,18,Don Young,REP,418, Early Voting
+,U.S. House,18,Write-ins,,3, Early Voting
+,Governor,18,Mark Begich,DEM,1045, Early Voting
+,Governor,18,Mike Dunleavy,REP,391, Early Voting
+,Governor,18,Billy Toien,LIB,14, Early Voting
+,Governor,18,Bill Walker,,23, Early Voting
+,Governor,18,Write-ins,,3, Early Voting
+,State Senate,18,Elvi Gray-Jackson,DEM,1058, Early Voting
+,State Senate,18,Jim Crawford,REP,386, Early Voting
+,State Senate,18,Write-ins,,6, Early Voting
+,State House,18,Anthony Lekanoff,REP,372, Early Voting
+,State House,18,Harriet Drummond,DEM,1072, Early Voting
+,State House,18,Write-ins,,5, Early Voting

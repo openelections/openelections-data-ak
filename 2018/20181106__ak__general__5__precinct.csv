@@ -1,0 +1,157 @@
+county,office,district,candidate,party,votes,precinct
+,U.S. House,5,Alyse Galvin,DEM,60,05-580
+,U.S. House,5,Don Young,REP,55,05-580
+,U.S. House,5,Write-ins,,1,05-580
+,Governor,5,Mark Begich,DEM,55,05-580
+,Governor,5,Mike Dunleavy,REP,57,05-580
+,Governor,5,Billy Toien,LIB,5,05-580
+,Governor,5,Bill Walker,,1,05-580
+,Governor,5,Write-ins,,0,05-580
+,State Senate,5,Click Bishop,REP,77,05-580
+,State Senate,5,Write-ins,,15,05-580
+,State House,5,Adam Wool,DEM,59,05-580
+,State House,5,Kevin McKinley,REP,55,05-580
+,State House,5,Write-ins,,2,05-580
+,U.S. House,5,Alyse Galvin,DEM,1027,05-582
+,U.S. House,5,Don Young,REP,917,05-582
+,U.S. House,5,Write-ins,,5,05-582
+,Governor,5,Mark Begich,DEM,997,05-582
+,Governor,5,Mike Dunleavy,REP,875,05-582
+,Governor,5,Billy Toien,LIB,44,05-582
+,Governor,5,Bill Walker,,27,05-582
+,Governor,5,Write-ins,,6,05-582
+,State Senate,5,Click Bishop,REP,1353,05-582
+,State Senate,5,Write-ins,,138,05-582
+,State House,5,Adam Wool,DEM,1033,05-582
+,State House,5,Kevin McKinley,REP,889,05-582
+,State House,5,Write-ins,,9,05-582
+,U.S. House,5,Alyse Galvin,DEM,348,05-586
+,U.S. House,5,Don Young,REP,277,05-586
+,U.S. House,5,Write-ins,,4,05-586
+,Governor,5,Mark Begich,DEM,352,05-586
+,Governor,5,Mike Dunleavy,REP,259,05-586
+,Governor,5,Billy Toien,LIB,14,05-586
+,Governor,5,Bill Walker,,7,05-586
+,Governor,5,Write-ins,,0,05-586
+,State Senate,5,Click Bishop,REP,432,05-586
+,State Senate,5,Write-ins,,56,05-586
+,State House,5,Adam Wool,DEM,363,05-586
+,State House,5,Kevin McKinley,REP,260,05-586
+,State House,5,Write-ins,,3,05-586
+,U.S. House,5,Alyse Galvin,DEM,34,05-587
+,U.S. House,5,Don Young,REP,75,05-587
+,U.S. House,5,Write-ins,,1,05-587
+,Governor,5,Mark Begich,DEM,30,05-587
+,Governor,5,Mike Dunleavy,REP,77,05-587
+,Governor,5,Billy Toien,LIB,3,05-587
+,Governor,5,Bill Walker,,0,05-587
+,Governor,5,Write-ins,,0,05-587
+,State Senate,5,Click Bishop,REP,82,05-587
+,State Senate,5,Write-ins,,9,05-587
+,State House,5,Adam Wool,DEM,33,05-587
+,State House,5,Kevin McKinley,REP,72,05-587
+,State House,5,Write-ins,,1,05-587
+,U.S. House,5,Alyse Galvin,DEM,93,05-588
+,U.S. House,5,Don Young,REP,126,05-588
+,U.S. House,5,Write-ins,,3,05-588
+,Governor,5,Mark Begich,DEM,90,05-588
+,Governor,5,Mike Dunleavy,REP,122,05-588
+,Governor,5,Billy Toien,LIB,4,05-588
+,Governor,5,Bill Walker,,4,05-588
+,Governor,5,Write-ins,,2,05-588
+,State Senate,5,Click Bishop,REP,191,05-588
+,State Senate,5,Write-ins,,10,05-588
+,State House,5,Adam Wool,DEM,81,05-588
+,State House,5,Kevin McKinley,REP,138,05-588
+,State House,5,Write-ins,,1,05-588
+,U.S. House,5,Alyse Galvin,DEM,44,05-590
+,U.S. House,5,Don Young,REP,131,05-590
+,U.S. House,5,Write-ins,,2,05-590
+,Governor,5,Mark Begich,DEM,28,05-590
+,Governor,5,Mike Dunleavy,REP,144,05-590
+,Governor,5,Billy Toien,LIB,5,05-590
+,Governor,5,Bill Walker,,0,05-590
+,Governor,5,Write-ins,,0,05-590
+,State Senate,5,Click Bishop,REP,151,05-590
+,State Senate,5,Write-ins,,4,05-590
+,State House,5,Adam Wool,DEM,37,05-590
+,State House,5,Kevin McKinley,REP,136,05-590
+,State House,5,Write-ins,,2,05-590
+,U.S. House,5,Alyse Galvin,DEM,232,05-592
+,U.S. House,5,Don Young,REP,161,05-592
+,U.S. House,5,Write-ins,,2,05-592
+,Governor,5,Mark Begich,DEM,222,05-592
+,Governor,5,Mike Dunleavy,REP,160,05-592
+,Governor,5,Billy Toien,LIB,7,05-592
+,Governor,5,Bill Walker,,6,05-592
+,Governor,5,Write-ins,,0,05-592
+,State Senate,5,Click Bishop,REP,277,05-592
+,State Senate,5,Write-ins,,25,05-592
+,State House,5,Adam Wool,DEM,216,05-592
+,State House,5,Kevin McKinley,REP,171,05-592
+,State House,5,Write-ins,,3,05-592
+,U.S. House,5,Alyse Galvin,DEM,34,05-594
+,U.S. House,5,Don Young,REP,16,05-594
+,U.S. House,5,Write-ins,,0,05-594
+,Governor,5,Mark Begich,DEM,29,05-594
+,Governor,5,Mike Dunleavy,REP,20,05-594
+,Governor,5,Billy Toien,LIB,0,05-594
+,Governor,5,Bill Walker,,2,05-594
+,Governor,5,Write-ins,,0,05-594
+,State Senate,5,Click Bishop,REP,31,05-594
+,State Senate,5,Write-ins,,5,05-594
+,State House,5,Adam Wool,DEM,30,05-594
+,State House,5,Kevin McKinley,REP,18,05-594
+,State House,5,Write-ins,,0,05-594
+,U.S. House,5,Alyse Galvin,DEM,514,05-596
+,U.S. House,5,Don Young,REP,499,05-596
+,U.S. House,5,Write-ins,,7,05-596
+,Governor,5,Mark Begich,DEM,493,05-596
+,Governor,5,Mike Dunleavy,REP,493,05-596
+,Governor,5,Billy Toien,LIB,22,05-596
+,Governor,5,Bill Walker,,18,05-596
+,Governor,5,Write-ins,,0,05-596
+,State Senate,5,Click Bishop,REP,800,05-596
+,State Senate,5,Write-ins,,48,05-596
+,State House,5,Adam Wool,DEM,524,05-596
+,State House,5,Kevin McKinley,REP,488,05-596
+,State House,5,Write-ins,,1,05-596
+,U.S. House,5,Alyse Galvin,DEM,370, Absentee
+,U.S. House,5,Don Young,REP,314, Absentee
+,U.S. House,5,Write-ins,,3, Absentee
+,Governor,5,Mark Begich,DEM,316, Absentee
+,Governor,5,Mike Dunleavy,REP,315, Absentee
+,Governor,5,Billy Toien,LIB,14, Absentee
+,Governor,5,Bill Walker,,38, Absentee
+,Governor,5,Write-ins,,0, Absentee
+,State Senate,5,Click Bishop,REP,425, Absentee
+,State Senate,5,Write-ins,,58, Absentee
+,State House,5,Adam Wool,DEM,296, Absentee
+,State House,5,Kevin McKinley,REP,291, Absentee
+,State House,5,Write-ins,,3, Absentee
+,U.S. House,5,Alyse Galvin,DEM,144, Question
+,U.S. House,5,Don Young,REP,142, Question
+,U.S. House,5,Write-ins,,1, Question
+,Governor,5,Mark Begich,DEM,132, Question
+,Governor,5,Mike Dunleavy,REP,146, Question
+,Governor,5,Billy Toien,LIB,9, Question
+,Governor,5,Bill Walker,,4, Question
+,Governor,5,Write-ins,,0, Question
+,State Senate,5,Click Bishop,REP,55, Question
+,State Senate,5,Write-ins,,8, Question
+,State House,5,Adam Wool,DEM,26, Question
+,State House,5,Kevin McKinley,REP,26, Question
+,State House,5,Write-ins,,0, Question
+,U.S. House,5,Alyse Galvin,DEM,787, Early Voting
+,U.S. House,5,Don Young,REP,527, Early Voting
+,U.S. House,5,Write-ins,,7, Early Voting
+,Governor,5,Mark Begich,DEM,788, Early Voting
+,Governor,5,Mike Dunleavy,REP,492, Early Voting
+,Governor,5,Billy Toien,LIB,23, Early Voting
+,Governor,5,Bill Walker,,16, Early Voting
+,Governor,5,Write-ins,,6, Early Voting
+,State Senate,5,Click Bishop,REP,899, Early Voting
+,State Senate,5,Write-ins,,127, Early Voting
+,State House,5,Adam Wool,DEM,786, Early Voting
+,State House,5,Kevin McKinley,REP,513, Early Voting
+,State House,5,Write-ins,,5, Early Voting

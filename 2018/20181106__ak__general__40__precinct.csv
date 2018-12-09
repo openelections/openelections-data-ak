@@ -1,0 +1,313 @@
+county,office,district,candidate,party,votes,precinct
+,U.S. House,40,Alyse Galvin,DEM,22,40-002
+,U.S. House,40,Don Young,REP,48,40-002
+,U.S. House,40,Write-ins,,0,40-002
+,Governor,40,Mark Begich,DEM,48,40-002
+,Governor,40,Mike Dunleavy,REP,19,40-002
+,Governor,40,Billy Toien,LIB,0,40-002
+,Governor,40,Bill Walker,,4,40-002
+,Governor,40,Write-ins,,0,40-002
+,State House,40,Leanna Mack,,4,40-002
+,State House,40,Patrick Savok,,38,40-002
+,State House,40,John Lincoln,DEM,30,40-002
+,State House,40,Write-ins,,0,40-002
+,U.S. House,40,Alyse Galvin,DEM,37,40-004
+,U.S. House,40,Don Young,REP,40,40-004
+,U.S. House,40,Write-ins,,1,40-004
+,Governor,40,Mark Begich,DEM,51,40-004
+,Governor,40,Mike Dunleavy,REP,22,40-004
+,Governor,40,Billy Toien,LIB,1,40-004
+,Governor,40,Bill Walker,,4,40-004
+,Governor,40,Write-ins,,0,40-004
+,State House,40,Leanna Mack,,14,40-004
+,State House,40,Patrick Savok,,13,40-004
+,State House,40,John Lincoln,DEM,47,40-004
+,State House,40,Write-ins,,3,40-004
+,U.S. House,40,Alyse Galvin,DEM,16,40-006
+,U.S. House,40,Don Young,REP,33,40-006
+,U.S. House,40,Write-ins,,0,40-006
+,Governor,40,Mark Begich,DEM,30,40-006
+,Governor,40,Mike Dunleavy,REP,11,40-006
+,Governor,40,Billy Toien,LIB,3,40-006
+,Governor,40,Bill Walker,,5,40-006
+,Governor,40,Write-ins,,0,40-006
+,State House,40,Leanna Mack,,16,40-006
+,State House,40,Patrick Savok,,6,40-006
+,State House,40,John Lincoln,DEM,26,40-006
+,State House,40,Write-ins,,0,40-006
+,U.S. House,40,Alyse Galvin,DEM,169,40-008
+,U.S. House,40,Don Young,REP,164,40-008
+,U.S. House,40,Write-ins,,1,40-008
+,Governor,40,Mark Begich,DEM,198,40-008
+,Governor,40,Mike Dunleavy,REP,113,40-008
+,Governor,40,Billy Toien,LIB,8,40-008
+,Governor,40,Bill Walker,,16,40-008
+,Governor,40,Write-ins,,1,40-008
+,State House,40,Leanna Mack,,136,40-008
+,State House,40,Patrick Savok,,33,40-008
+,State House,40,John Lincoln,DEM,161,40-008
+,State House,40,Write-ins,,5,40-008
+,U.S. House,40,Alyse Galvin,DEM,357,40-010
+,U.S. House,40,Don Young,REP,388,40-010
+,U.S. House,40,Write-ins,,4,40-010
+,Governor,40,Mark Begich,DEM,428,40-010
+,Governor,40,Mike Dunleavy,REP,257,40-010
+,Governor,40,Billy Toien,LIB,16,40-010
+,Governor,40,Bill Walker,,41,40-010
+,Governor,40,Write-ins,,6,40-010
+,State House,40,Leanna Mack,,257,40-010
+,State House,40,Patrick Savok,,101,40-010
+,State House,40,John Lincoln,DEM,372,40-010
+,State House,40,Write-ins,,9,40-010
+,U.S. House,40,Alyse Galvin,DEM,56,40-012
+,U.S. House,40,Don Young,REP,64,40-012
+,U.S. House,40,Write-ins,,1,40-012
+,Governor,40,Mark Begich,DEM,53,40-012
+,Governor,40,Mike Dunleavy,REP,49,40-012
+,Governor,40,Billy Toien,LIB,4,40-012
+,Governor,40,Bill Walker,,15,40-012
+,Governor,40,Write-ins,,0,40-012
+,State House,40,Leanna Mack,,7,40-012
+,State House,40,Patrick Savok,,47,40-012
+,State House,40,John Lincoln,DEM,66,40-012
+,State House,40,Write-ins,,0,40-012
+,U.S. House,40,Alyse Galvin,DEM,28,40-014
+,U.S. House,40,Don Young,REP,24,40-014
+,U.S. House,40,Write-ins,,0,40-014
+,Governor,40,Mark Begich,DEM,37,40-014
+,Governor,40,Mike Dunleavy,REP,11,40-014
+,Governor,40,Billy Toien,LIB,2,40-014
+,Governor,40,Bill Walker,,2,40-014
+,Governor,40,Write-ins,,0,40-014
+,State House,40,Leanna Mack,,3,40-014
+,State House,40,Patrick Savok,,12,40-014
+,State House,40,John Lincoln,DEM,34,40-014
+,State House,40,Write-ins,,0,40-014
+,U.S. House,40,Alyse Galvin,DEM,34,40-016
+,U.S. House,40,Don Young,REP,57,40-016
+,U.S. House,40,Write-ins,,1,40-016
+,Governor,40,Mark Begich,DEM,55,40-016
+,Governor,40,Mike Dunleavy,REP,27,40-016
+,Governor,40,Billy Toien,LIB,2,40-016
+,Governor,40,Bill Walker,,8,40-016
+,Governor,40,Write-ins,,0,40-016
+,State House,40,Leanna Mack,,26,40-016
+,State House,40,Patrick Savok,,13,40-016
+,State House,40,John Lincoln,DEM,52,40-016
+,State House,40,Write-ins,,0,40-016
+,U.S. House,40,Alyse Galvin,DEM,53,40-018
+,U.S. House,40,Don Young,REP,47,40-018
+,U.S. House,40,Write-ins,,0,40-018
+,Governor,40,Mark Begich,DEM,45,40-018
+,Governor,40,Mike Dunleavy,REP,51,40-018
+,Governor,40,Billy Toien,LIB,1,40-018
+,Governor,40,Bill Walker,,3,40-018
+,Governor,40,Write-ins,,0,40-018
+,State House,40,Leanna Mack,,5,40-018
+,State House,40,Patrick Savok,,37,40-018
+,State House,40,John Lincoln,DEM,54,40-018
+,State House,40,Write-ins,,0,40-018
+,U.S. House,40,Alyse Galvin,DEM,20,40-020
+,U.S. House,40,Don Young,REP,51,40-020
+,U.S. House,40,Write-ins,,0,40-020
+,Governor,40,Mark Begich,DEM,27,40-020
+,Governor,40,Mike Dunleavy,REP,29,40-020
+,Governor,40,Billy Toien,LIB,3,40-020
+,Governor,40,Bill Walker,,10,40-020
+,Governor,40,Write-ins,,1,40-020
+,State House,40,Leanna Mack,,3,40-020
+,State House,40,Patrick Savok,,27,40-020
+,State House,40,John Lincoln,DEM,41,40-020
+,State House,40,Write-ins,,0,40-020
+,U.S. House,40,Alyse Galvin,DEM,17,40-022
+,U.S. House,40,Don Young,REP,18,40-022
+,U.S. House,40,Write-ins,,0,40-022
+,Governor,40,Mark Begich,DEM,16,40-022
+,Governor,40,Mike Dunleavy,REP,12,40-022
+,Governor,40,Billy Toien,LIB,3,40-022
+,Governor,40,Bill Walker,,1,40-022
+,Governor,40,Write-ins,,0,40-022
+,State House,40,Leanna Mack,,0,40-022
+,State House,40,Patrick Savok,,20,40-022
+,State House,40,John Lincoln,DEM,13,40-022
+,State House,40,Write-ins,,0,40-022
+,U.S. House,40,Alyse Galvin,DEM,398,40-024
+,U.S. House,40,Don Young,REP,316,40-024
+,U.S. House,40,Write-ins,,0,40-024
+,Governor,40,Mark Begich,DEM,398,40-024
+,Governor,40,Mike Dunleavy,REP,267,40-024
+,Governor,40,Billy Toien,LIB,20,40-024
+,Governor,40,Bill Walker,,27,40-024
+,Governor,40,Write-ins,,1,40-024
+,State House,40,Leanna Mack,,36,40-024
+,State House,40,Patrick Savok,,86,40-024
+,State House,40,John Lincoln,DEM,588,40-024
+,State House,40,Write-ins,,1,40-024
+,U.S. House,40,Alyse Galvin,DEM,62,40-026
+,U.S. House,40,Don Young,REP,95,40-026
+,U.S. House,40,Write-ins,,0,40-026
+,Governor,40,Mark Begich,DEM,87,40-026
+,Governor,40,Mike Dunleavy,REP,57,40-026
+,Governor,40,Billy Toien,LIB,6,40-026
+,Governor,40,Bill Walker,,10,40-026
+,Governor,40,Write-ins,,0,40-026
+,State House,40,Leanna Mack,,7,40-026
+,State House,40,Patrick Savok,,47,40-026
+,State House,40,John Lincoln,DEM,105,40-026
+,State House,40,Write-ins,,0,40-026
+,U.S. House,40,Alyse Galvin,DEM,58,40-028
+,U.S. House,40,Don Young,REP,82,40-028
+,U.S. House,40,Write-ins,,0,40-028
+,Governor,40,Mark Begich,DEM,32,40-028
+,Governor,40,Mike Dunleavy,REP,93,40-028
+,Governor,40,Billy Toien,LIB,6,40-028
+,Governor,40,Bill Walker,,8,40-028
+,Governor,40,Write-ins,,0,40-028
+,State House,40,Leanna Mack,,6,40-028
+,State House,40,Patrick Savok,,62,40-028
+,State House,40,John Lincoln,DEM,71,40-028
+,State House,40,Write-ins,,1,40-028
+,U.S. House,40,Alyse Galvin,DEM,30,40-030
+,U.S. House,40,Don Young,REP,47,40-030
+,U.S. House,40,Write-ins,,1,40-030
+,Governor,40,Mark Begich,DEM,52,40-030
+,Governor,40,Mike Dunleavy,REP,14,40-030
+,Governor,40,Billy Toien,LIB,5,40-030
+,Governor,40,Bill Walker,,7,40-030
+,Governor,40,Write-ins,,0,40-030
+,State House,40,Leanna Mack,,30,40-030
+,State House,40,Patrick Savok,,12,40-030
+,State House,40,John Lincoln,DEM,36,40-030
+,State House,40,Write-ins,,0,40-030
+,U.S. House,40,Alyse Galvin,DEM,46,40-032
+,U.S. House,40,Don Young,REP,80,40-032
+,U.S. House,40,Write-ins,,0,40-032
+,Governor,40,Mark Begich,DEM,69,40-032
+,Governor,40,Mike Dunleavy,REP,52,40-032
+,Governor,40,Billy Toien,LIB,1,40-032
+,Governor,40,Bill Walker,,5,40-032
+,Governor,40,Write-ins,,0,40-032
+,State House,40,Leanna Mack,,16,40-032
+,State House,40,Patrick Savok,,37,40-032
+,State House,40,John Lincoln,DEM,72,40-032
+,State House,40,Write-ins,,2,40-032
+,U.S. House,40,Alyse Galvin,DEM,24,40-034
+,U.S. House,40,Don Young,REP,30,40-034
+,U.S. House,40,Write-ins,,0,40-034
+,Governor,40,Mark Begich,DEM,24,40-034
+,Governor,40,Mike Dunleavy,REP,21,40-034
+,Governor,40,Billy Toien,LIB,4,40-034
+,Governor,40,Bill Walker,,5,40-034
+,Governor,40,Write-ins,,0,40-034
+,State House,40,Leanna Mack,,9,40-034
+,State House,40,Patrick Savok,,15,40-034
+,State House,40,John Lincoln,DEM,30,40-034
+,State House,40,Write-ins,,0,40-034
+,U.S. House,40,Alyse Galvin,DEM,52,40-036
+,U.S. House,40,Don Young,REP,93,40-036
+,U.S. House,40,Write-ins,,0,40-036
+,Governor,40,Mark Begich,DEM,81,40-036
+,Governor,40,Mike Dunleavy,REP,53,40-036
+,Governor,40,Billy Toien,LIB,1,40-036
+,Governor,40,Bill Walker,,10,40-036
+,Governor,40,Write-ins,,0,40-036
+,State House,40,Leanna Mack,,6,40-036
+,State House,40,Patrick Savok,,104,40-036
+,State House,40,John Lincoln,DEM,37,40-036
+,State House,40,Write-ins,,0,40-036
+,U.S. House,40,Alyse Galvin,DEM,30,40-038
+,U.S. House,40,Don Young,REP,40,40-038
+,U.S. House,40,Write-ins,,0,40-038
+,Governor,40,Mark Begich,DEM,46,40-038
+,Governor,40,Mike Dunleavy,REP,22,40-038
+,Governor,40,Billy Toien,LIB,2,40-038
+,Governor,40,Bill Walker,,0,40-038
+,Governor,40,Write-ins,,0,40-038
+,State House,40,Leanna Mack,,3,40-038
+,State House,40,Patrick Savok,,33,40-038
+,State House,40,John Lincoln,DEM,35,40-038
+,State House,40,Write-ins,,0,40-038
+,U.S. House,40,Alyse Galvin,DEM,48,40-040
+,U.S. House,40,Don Young,REP,106,40-040
+,U.S. House,40,Write-ins,,0,40-040
+,Governor,40,Mark Begich,DEM,81,40-040
+,Governor,40,Mike Dunleavy,REP,46,40-040
+,Governor,40,Billy Toien,LIB,13,40-040
+,Governor,40,Bill Walker,,13,40-040
+,Governor,40,Write-ins,,1,40-040
+,State House,40,Leanna Mack,,21,40-040
+,State House,40,Patrick Savok,,11,40-040
+,State House,40,John Lincoln,DEM,122,40-040
+,State House,40,Write-ins,,0,40-040
+,U.S. House,40,Alyse Galvin,DEM,51,40-326
+,U.S. House,40,Don Young,REP,19,40-326
+,U.S. House,40,Write-ins,,0,40-326
+,Governor,40,Mark Begich,DEM,67,40-326
+,Governor,40,Mike Dunleavy,REP,1,40-326
+,Governor,40,Billy Toien,LIB,3,40-326
+,Governor,40,Bill Walker,,1,40-326
+,Governor,40,Write-ins,,0,40-326
+,State House,40,Leanna Mack,,6,40-326
+,State House,40,Patrick Savok,,6,40-326
+,State House,40,John Lincoln,DEM,54,40-326
+,State House,40,Write-ins,,2,40-326
+,U.S. House,40,Alyse Galvin,DEM,5,40-328
+,U.S. House,40,Don Young,REP,9,40-328
+,U.S. House,40,Write-ins,,0,40-328
+,Governor,40,Mark Begich,DEM,6,40-328
+,Governor,40,Mike Dunleavy,REP,8,40-328
+,Governor,40,Billy Toien,LIB,0,40-328
+,Governor,40,Bill Walker,,0,40-328
+,Governor,40,Write-ins,,0,40-328
+,State House,40,Leanna Mack,,4,40-328
+,State House,40,Patrick Savok,,3,40-328
+,State House,40,John Lincoln,DEM,5,40-328
+,State House,40,Write-ins,,0,40-328
+,U.S. House,40,Alyse Galvin,DEM,27,40-330
+,U.S. House,40,Don Young,REP,24,40-330
+,U.S. House,40,Write-ins,,0,40-330
+,Governor,40,Mark Begich,DEM,46,40-330
+,Governor,40,Mike Dunleavy,REP,2,40-330
+,Governor,40,Billy Toien,LIB,1,40-330
+,Governor,40,Bill Walker,,3,40-330
+,Governor,40,Write-ins,,0,40-330
+,State House,40,Leanna Mack,,11,40-330
+,State House,40,Patrick Savok,,11,40-330
+,State House,40,John Lincoln,DEM,28,40-330
+,State House,40,Write-ins,,0,40-330
+,U.S. House,40,Alyse Galvin,DEM,168, Absentee
+,U.S. House,40,Don Young,REP,158, Absentee
+,U.S. House,40,Write-ins,,2, Absentee
+,Governor,40,Mark Begich,DEM,204, Absentee
+,Governor,40,Mike Dunleavy,REP,107, Absentee
+,Governor,40,Billy Toien,LIB,4, Absentee
+,Governor,40,Bill Walker,,18, Absentee
+,Governor,40,Write-ins,,0, Absentee
+,State House,40,Leanna Mack,,50, Absentee
+,State House,40,Patrick Savok,,58, Absentee
+,State House,40,John Lincoln,DEM,192, Absentee
+,State House,40,Write-ins,,3, Absentee
+,U.S. House,40,Alyse Galvin,DEM,111, Question
+,U.S. House,40,Don Young,REP,119, Question
+,U.S. House,40,Write-ins,,1, Question
+,Governor,40,Mark Begich,DEM,134, Question
+,Governor,40,Mike Dunleavy,REP,78, Question
+,Governor,40,Billy Toien,LIB,5, Question
+,Governor,40,Bill Walker,,12, Question
+,Governor,40,Write-ins,,3, Question
+,State House,40,Leanna Mack,,19, Question
+,State House,40,Patrick Savok,,33, Question
+,State House,40,John Lincoln,DEM,90, Question
+,State House,40,Write-ins,,3, Question
+,U.S. House,40,Alyse Galvin,DEM,38, Early Voting
+,U.S. House,40,Don Young,REP,36, Early Voting
+,U.S. House,40,Write-ins,,0, Early Voting
+,Governor,40,Mark Begich,DEM,44, Early Voting
+,Governor,40,Mike Dunleavy,REP,28, Early Voting
+,Governor,40,Billy Toien,LIB,0, Early Voting
+,Governor,40,Bill Walker,,2, Early Voting
+,Governor,40,Write-ins,,0, Early Voting
+,State House,40,Leanna Mack,,16, Early Voting
+,State House,40,Patrick Savok,,13, Early Voting
+,State House,40,John Lincoln,DEM,43, Early Voting
+,State House,40,Write-ins,,0, Early Voting

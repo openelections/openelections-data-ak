@@ -1,0 +1,443 @@
+county,office,district,candidate,party,votes,precinct
+,U.S. House,38,Alyse Galvin,DEM,48,38-800
+,U.S. House,38,Don Young,REP,102,38-800
+,U.S. House,38,Write-ins,,0,38-800
+,Governor,38,Mark Begich,DEM,101,38-800
+,Governor,38,Mike Dunleavy,REP,41,38-800
+,Governor,38,Billy Toien,LIB,6,38-800
+,Governor,38,Bill Walker,,7,38-800
+,Governor,38,Write-ins,,0,38-800
+,State Senate,38,Lyman Hoffman,DEM,141,38-800
+,State Senate,38,Write-ins,,3,38-800
+,State House,38,Tiffany Zulkosky,DEM,73,38-800
+,State House,38,Darren Deacon,REP,79,38-800
+,State House,38,Write-ins,,0,38-800
+,U.S. House,38,Alyse Galvin,DEM,70,38-802
+,U.S. House,38,Don Young,REP,45,38-802
+,U.S. House,38,Write-ins,,0,38-802
+,Governor,38,Mark Begich,DEM,85,38-802
+,Governor,38,Mike Dunleavy,REP,23,38-802
+,Governor,38,Billy Toien,LIB,4,38-802
+,Governor,38,Bill Walker,,3,38-802
+,Governor,38,Write-ins,,0,38-802
+,State Senate,38,Lyman Hoffman,DEM,91,38-802
+,State Senate,38,Write-ins,,2,38-802
+,State House,38,Tiffany Zulkosky,DEM,77,38-802
+,State House,38,Darren Deacon,REP,35,38-802
+,State House,38,Write-ins,,0,38-802
+,U.S. House,38,Alyse Galvin,DEM,74,38-804
+,U.S. House,38,Don Young,REP,64,38-804
+,U.S. House,38,Write-ins,,0,38-804
+,Governor,38,Mark Begich,DEM,79,38-804
+,Governor,38,Mike Dunleavy,REP,45,38-804
+,Governor,38,Billy Toien,LIB,7,38-804
+,Governor,38,Bill Walker,,7,38-804
+,Governor,38,Write-ins,,0,38-804
+,State Senate,38,Lyman Hoffman,DEM,116,38-804
+,State Senate,38,Write-ins,,5,38-804
+,State House,38,Tiffany Zulkosky,DEM,45,38-804
+,State House,38,Darren Deacon,REP,90,38-804
+,State House,38,Write-ins,,2,38-804
+,U.S. House,38,Alyse Galvin,DEM,33,38-806
+,U.S. House,38,Don Young,REP,30,38-806
+,U.S. House,38,Write-ins,,0,38-806
+,Governor,38,Mark Begich,DEM,44,38-806
+,Governor,38,Mike Dunleavy,REP,10,38-806
+,Governor,38,Billy Toien,LIB,3,38-806
+,Governor,38,Bill Walker,,5,38-806
+,Governor,38,Write-ins,,0,38-806
+,State Senate,38,Lyman Hoffman,DEM,61,38-806
+,State Senate,38,Write-ins,,0,38-806
+,State House,38,Tiffany Zulkosky,DEM,32,38-806
+,State House,38,Darren Deacon,REP,30,38-806
+,State House,38,Write-ins,,1,38-806
+,U.S. House,38,Alyse Galvin,DEM,393,38-808
+,U.S. House,38,Don Young,REP,260,38-808
+,U.S. House,38,Write-ins,,1,38-808
+,Governor,38,Mark Begich,DEM,441,38-808
+,Governor,38,Mike Dunleavy,REP,190,38-808
+,Governor,38,Billy Toien,LIB,12,38-808
+,Governor,38,Bill Walker,,15,38-808
+,Governor,38,Write-ins,,0,38-808
+,State Senate,38,Lyman Hoffman,DEM,529,38-808
+,State Senate,38,Write-ins,,56,38-808
+,State House,38,Tiffany Zulkosky,DEM,385,38-808
+,State House,38,Darren Deacon,REP,262,38-808
+,State House,38,Write-ins,,1,38-808
+,U.S. House,38,Alyse Galvin,DEM,407,38-810
+,U.S. House,38,Don Young,REP,271,38-810
+,U.S. House,38,Write-ins,,3,38-810
+,Governor,38,Mark Begich,DEM,457,38-810
+,Governor,38,Mike Dunleavy,REP,192,38-810
+,Governor,38,Billy Toien,LIB,13,38-810
+,Governor,38,Bill Walker,,17,38-810
+,Governor,38,Write-ins,,2,38-810
+,State Senate,38,Lyman Hoffman,DEM,519,38-810
+,State Senate,38,Write-ins,,76,38-810
+,State House,38,Tiffany Zulkosky,DEM,402,38-810
+,State House,38,Darren Deacon,REP,272,38-810
+,State House,38,Write-ins,,4,38-810
+,U.S. House,38,Alyse Galvin,DEM,150,38-812
+,U.S. House,38,Don Young,REP,43,38-812
+,U.S. House,38,Write-ins,,2,38-812
+,Governor,38,Mark Begich,DEM,131,38-812
+,Governor,38,Mike Dunleavy,REP,41,38-812
+,Governor,38,Billy Toien,LIB,10,38-812
+,Governor,38,Bill Walker,,10,38-812
+,Governor,38,Write-ins,,0,38-812
+,State Senate,38,Lyman Hoffman,DEM,190,38-812
+,State Senate,38,Write-ins,,2,38-812
+,State House,38,Tiffany Zulkosky,DEM,114,38-812
+,State House,38,Darren Deacon,REP,79,38-812
+,State House,38,Write-ins,,0,38-812
+,U.S. House,38,Alyse Galvin,DEM,12,38-814
+,U.S. House,38,Don Young,REP,12,38-814
+,U.S. House,38,Write-ins,,0,38-814
+,Governor,38,Mark Begich,DEM,13,38-814
+,Governor,38,Mike Dunleavy,REP,9,38-814
+,Governor,38,Billy Toien,LIB,2,38-814
+,Governor,38,Bill Walker,,0,38-814
+,Governor,38,Write-ins,,0,38-814
+,State Senate,38,Lyman Hoffman,DEM,20,38-814
+,State Senate,38,Write-ins,,4,38-814
+,State House,38,Tiffany Zulkosky,DEM,4,38-814
+,State House,38,Darren Deacon,REP,20,38-814
+,State House,38,Write-ins,,0,38-814
+,U.S. House,38,Alyse Galvin,DEM,18,38-816
+,U.S. House,38,Don Young,REP,10,38-816
+,U.S. House,38,Write-ins,,0,38-816
+,Governor,38,Mark Begich,DEM,16,38-816
+,Governor,38,Mike Dunleavy,REP,11,38-816
+,Governor,38,Billy Toien,LIB,1,38-816
+,Governor,38,Bill Walker,,0,38-816
+,Governor,38,Write-ins,,0,38-816
+,State Senate,38,Lyman Hoffman,DEM,24,38-816
+,State Senate,38,Write-ins,,0,38-816
+,State House,38,Tiffany Zulkosky,DEM,11,38-816
+,State House,38,Darren Deacon,REP,17,38-816
+,State House,38,Write-ins,,0,38-816
+,U.S. House,38,Alyse Galvin,DEM,51,38-818
+,U.S. House,38,Don Young,REP,45,38-818
+,U.S. House,38,Write-ins,,0,38-818
+,Governor,38,Mark Begich,DEM,75,38-818
+,Governor,38,Mike Dunleavy,REP,18,38-818
+,Governor,38,Billy Toien,LIB,1,38-818
+,Governor,38,Bill Walker,,2,38-818
+,Governor,38,Write-ins,,0,38-818
+,State Senate,38,Lyman Hoffman,DEM,93,38-818
+,State Senate,38,Write-ins,,0,38-818
+,State House,38,Tiffany Zulkosky,DEM,59,38-818
+,State House,38,Darren Deacon,REP,33,38-818
+,State House,38,Write-ins,,0,38-818
+,U.S. House,38,Alyse Galvin,DEM,84,38-820
+,U.S. House,38,Don Young,REP,26,38-820
+,U.S. House,38,Write-ins,,0,38-820
+,Governor,38,Mark Begich,DEM,76,38-820
+,Governor,38,Mike Dunleavy,REP,26,38-820
+,Governor,38,Billy Toien,LIB,3,38-820
+,Governor,38,Bill Walker,,5,38-820
+,Governor,38,Write-ins,,0,38-820
+,State Senate,38,Lyman Hoffman,DEM,100,38-820
+,State Senate,38,Write-ins,,2,38-820
+,State House,38,Tiffany Zulkosky,DEM,65,38-820
+,State House,38,Darren Deacon,REP,44,38-820
+,State House,38,Write-ins,,0,38-820
+,U.S. House,38,Alyse Galvin,DEM,52,38-822
+,U.S. House,38,Don Young,REP,35,38-822
+,U.S. House,38,Write-ins,,0,38-822
+,Governor,38,Mark Begich,DEM,72,38-822
+,Governor,38,Mike Dunleavy,REP,14,38-822
+,Governor,38,Billy Toien,LIB,0,38-822
+,Governor,38,Bill Walker,,2,38-822
+,Governor,38,Write-ins,,0,38-822
+,State Senate,38,Lyman Hoffman,DEM,87,38-822
+,State Senate,38,Write-ins,,0,38-822
+,State House,38,Tiffany Zulkosky,DEM,44,38-822
+,State House,38,Darren Deacon,REP,44,38-822
+,State House,38,Write-ins,,0,38-822
+,U.S. House,38,Alyse Galvin,DEM,101,38-824
+,U.S. House,38,Don Young,REP,59,38-824
+,U.S. House,38,Write-ins,,1,38-824
+,Governor,38,Mark Begich,DEM,108,38-824
+,Governor,38,Mike Dunleavy,REP,36,38-824
+,Governor,38,Billy Toien,LIB,5,38-824
+,Governor,38,Bill Walker,,12,38-824
+,Governor,38,Write-ins,,1,38-824
+,State Senate,38,Lyman Hoffman,DEM,153,38-824
+,State Senate,38,Write-ins,,4,38-824
+,State House,38,Tiffany Zulkosky,DEM,100,38-824
+,State House,38,Darren Deacon,REP,62,38-824
+,State House,38,Write-ins,,0,38-824
+,U.S. House,38,Alyse Galvin,DEM,52,38-826
+,U.S. House,38,Don Young,REP,42,38-826
+,U.S. House,38,Write-ins,,2,38-826
+,Governor,38,Mark Begich,DEM,61,38-826
+,Governor,38,Mike Dunleavy,REP,20,38-826
+,Governor,38,Billy Toien,LIB,4,38-826
+,Governor,38,Bill Walker,,8,38-826
+,Governor,38,Write-ins,,3,38-826
+,State Senate,38,Lyman Hoffman,DEM,93,38-826
+,State Senate,38,Write-ins,,3,38-826
+,State House,38,Tiffany Zulkosky,DEM,51,38-826
+,State House,38,Darren Deacon,REP,45,38-826
+,State House,38,Write-ins,,0,38-826
+,U.S. House,38,Alyse Galvin,DEM,97,38-828
+,U.S. House,38,Don Young,REP,70,38-828
+,U.S. House,38,Write-ins,,1,38-828
+,Governor,38,Mark Begich,DEM,106,38-828
+,Governor,38,Mike Dunleavy,REP,51,38-828
+,Governor,38,Billy Toien,LIB,3,38-828
+,Governor,38,Bill Walker,,10,38-828
+,Governor,38,Write-ins,,0,38-828
+,State Senate,38,Lyman Hoffman,DEM,149,38-828
+,State Senate,38,Write-ins,,6,38-828
+,State House,38,Tiffany Zulkosky,DEM,101,38-828
+,State House,38,Darren Deacon,REP,66,38-828
+,State House,38,Write-ins,,0,38-828
+,U.S. House,38,Alyse Galvin,DEM,40,38-830
+,U.S. House,38,Don Young,REP,37,38-830
+,U.S. House,38,Write-ins,,0,38-830
+,Governor,38,Mark Begich,DEM,62,38-830
+,Governor,38,Mike Dunleavy,REP,11,38-830
+,Governor,38,Billy Toien,LIB,0,38-830
+,Governor,38,Bill Walker,,4,38-830
+,Governor,38,Write-ins,,0,38-830
+,State Senate,38,Lyman Hoffman,DEM,76,38-830
+,State Senate,38,Write-ins,,0,38-830
+,State House,38,Tiffany Zulkosky,DEM,51,38-830
+,State House,38,Darren Deacon,REP,26,38-830
+,State House,38,Write-ins,,0,38-830
+,U.S. House,38,Alyse Galvin,DEM,30,38-832
+,U.S. House,38,Don Young,REP,42,38-832
+,U.S. House,38,Write-ins,,0,38-832
+,Governor,38,Mark Begich,DEM,45,38-832
+,Governor,38,Mike Dunleavy,REP,20,38-832
+,Governor,38,Billy Toien,LIB,2,38-832
+,Governor,38,Bill Walker,,5,38-832
+,Governor,38,Write-ins,,0,38-832
+,State Senate,38,Lyman Hoffman,DEM,67,38-832
+,State Senate,38,Write-ins,,1,38-832
+,State House,38,Tiffany Zulkosky,DEM,11,38-832
+,State House,38,Darren Deacon,REP,60,38-832
+,State House,38,Write-ins,,0,38-832
+,U.S. House,38,Alyse Galvin,DEM,51,38-834
+,U.S. House,38,Don Young,REP,53,38-834
+,U.S. House,38,Write-ins,,0,38-834
+,Governor,38,Mark Begich,DEM,71,38-834
+,Governor,38,Mike Dunleavy,REP,27,38-834
+,Governor,38,Billy Toien,LIB,3,38-834
+,Governor,38,Bill Walker,,3,38-834
+,Governor,38,Write-ins,,0,38-834
+,State Senate,38,Lyman Hoffman,DEM,94,38-834
+,State Senate,38,Write-ins,,4,38-834
+,State House,38,Tiffany Zulkosky,DEM,47,38-834
+,State House,38,Darren Deacon,REP,54,38-834
+,State House,38,Write-ins,,0,38-834
+,U.S. House,38,Alyse Galvin,DEM,54,38-836
+,U.S. House,38,Don Young,REP,39,38-836
+,U.S. House,38,Write-ins,,0,38-836
+,Governor,38,Mark Begich,DEM,49,38-836
+,Governor,38,Mike Dunleavy,REP,34,38-836
+,Governor,38,Billy Toien,LIB,7,38-836
+,Governor,38,Bill Walker,,3,38-836
+,Governor,38,Write-ins,,0,38-836
+,State Senate,38,Lyman Hoffman,DEM,85,38-836
+,State Senate,38,Write-ins,,4,38-836
+,State House,38,Tiffany Zulkosky,DEM,52,38-836
+,State House,38,Darren Deacon,REP,37,38-836
+,State House,38,Write-ins,,0,38-836
+,U.S. House,38,Alyse Galvin,DEM,70,38-838
+,U.S. House,38,Don Young,REP,24,38-838
+,U.S. House,38,Write-ins,,0,38-838
+,Governor,38,Mark Begich,DEM,76,38-838
+,Governor,38,Mike Dunleavy,REP,12,38-838
+,Governor,38,Billy Toien,LIB,2,38-838
+,Governor,38,Bill Walker,,2,38-838
+,Governor,38,Write-ins,,0,38-838
+,State Senate,38,Lyman Hoffman,DEM,92,38-838
+,State Senate,38,Write-ins,,1,38-838
+,State House,38,Tiffany Zulkosky,DEM,71,38-838
+,State House,38,Darren Deacon,REP,18,38-838
+,State House,38,Write-ins,,1,38-838
+,U.S. House,38,Alyse Galvin,DEM,71,38-840
+,U.S. House,38,Don Young,REP,46,38-840
+,U.S. House,38,Write-ins,,0,38-840
+,Governor,38,Mark Begich,DEM,94,38-840
+,Governor,38,Mike Dunleavy,REP,14,38-840
+,Governor,38,Billy Toien,LIB,1,38-840
+,Governor,38,Bill Walker,,8,38-840
+,Governor,38,Write-ins,,0,38-840
+,State Senate,38,Lyman Hoffman,DEM,114,38-840
+,State Senate,38,Write-ins,,3,38-840
+,State House,38,Tiffany Zulkosky,DEM,81,38-840
+,State House,38,Darren Deacon,REP,36,38-840
+,State House,38,Write-ins,,0,38-840
+,U.S. House,38,Alyse Galvin,DEM,38,38-842
+,U.S. House,38,Don Young,REP,42,38-842
+,U.S. House,38,Write-ins,,0,38-842
+,Governor,38,Mark Begich,DEM,51,38-842
+,Governor,38,Mike Dunleavy,REP,17,38-842
+,Governor,38,Billy Toien,LIB,3,38-842
+,Governor,38,Bill Walker,,8,38-842
+,Governor,38,Write-ins,,0,38-842
+,State Senate,38,Lyman Hoffman,DEM,79,38-842
+,State Senate,38,Write-ins,,1,38-842
+,State House,38,Tiffany Zulkosky,DEM,43,38-842
+,State House,38,Darren Deacon,REP,37,38-842
+,State House,38,Write-ins,,0,38-842
+,U.S. House,38,Alyse Galvin,DEM,59,38-844
+,U.S. House,38,Don Young,REP,28,38-844
+,U.S. House,38,Write-ins,,1,38-844
+,Governor,38,Mark Begich,DEM,70,38-844
+,Governor,38,Mike Dunleavy,REP,11,38-844
+,Governor,38,Billy Toien,LIB,4,38-844
+,Governor,38,Bill Walker,,3,38-844
+,Governor,38,Write-ins,,0,38-844
+,State Senate,38,Lyman Hoffman,DEM,78,38-844
+,State Senate,38,Write-ins,,2,38-844
+,State House,38,Tiffany Zulkosky,DEM,38,38-844
+,State House,38,Darren Deacon,REP,47,38-844
+,State House,38,Write-ins,,0,38-844
+,U.S. House,38,Alyse Galvin,DEM,40,38-846
+,U.S. House,38,Don Young,REP,68,38-846
+,U.S. House,38,Write-ins,,0,38-846
+,Governor,38,Mark Begich,DEM,71,38-846
+,Governor,38,Mike Dunleavy,REP,27,38-846
+,Governor,38,Billy Toien,LIB,2,38-846
+,Governor,38,Bill Walker,,8,38-846
+,Governor,38,Write-ins,,0,38-846
+,State Senate,38,Lyman Hoffman,DEM,100,38-846
+,State Senate,38,Write-ins,,1,38-846
+,State House,38,Tiffany Zulkosky,DEM,61,38-846
+,State House,38,Darren Deacon,REP,45,38-846
+,State House,38,Write-ins,,0,38-846
+,U.S. House,38,Alyse Galvin,DEM,60,38-848
+,U.S. House,38,Don Young,REP,55,38-848
+,U.S. House,38,Write-ins,,0,38-848
+,Governor,38,Mark Begich,DEM,81,38-848
+,Governor,38,Mike Dunleavy,REP,26,38-848
+,Governor,38,Billy Toien,LIB,2,38-848
+,Governor,38,Bill Walker,,6,38-848
+,Governor,38,Write-ins,,0,38-848
+,State Senate,38,Lyman Hoffman,DEM,107,38-848
+,State Senate,38,Write-ins,,3,38-848
+,State House,38,Tiffany Zulkosky,DEM,67,38-848
+,State House,38,Darren Deacon,REP,46,38-848
+,State House,38,Write-ins,,0,38-848
+,U.S. House,38,Alyse Galvin,DEM,36,38-850
+,U.S. House,38,Don Young,REP,49,38-850
+,U.S. House,38,Write-ins,,1,38-850
+,Governor,38,Mark Begich,DEM,51,38-850
+,Governor,38,Mike Dunleavy,REP,23,38-850
+,Governor,38,Billy Toien,LIB,1,38-850
+,Governor,38,Bill Walker,,10,38-850
+,Governor,38,Write-ins,,0,38-850
+,State Senate,38,Lyman Hoffman,DEM,79,38-850
+,State Senate,38,Write-ins,,1,38-850
+,State House,38,Tiffany Zulkosky,DEM,23,38-850
+,State House,38,Darren Deacon,REP,62,38-850
+,State House,38,Write-ins,,0,38-850
+,U.S. House,38,Alyse Galvin,DEM,189,38-852
+,U.S. House,38,Don Young,REP,49,38-852
+,U.S. House,38,Write-ins,,0,38-852
+,Governor,38,Mark Begich,DEM,173,38-852
+,Governor,38,Mike Dunleavy,REP,49,38-852
+,Governor,38,Billy Toien,LIB,4,38-852
+,Governor,38,Bill Walker,,12,38-852
+,Governor,38,Write-ins,,0,38-852
+,State Senate,38,Lyman Hoffman,DEM,225,38-852
+,State Senate,38,Write-ins,,2,38-852
+,State House,38,Tiffany Zulkosky,DEM,141,38-852
+,State House,38,Darren Deacon,REP,94,38-852
+,State House,38,Write-ins,,1,38-852
+,U.S. House,38,Alyse Galvin,DEM,46,38-854
+,U.S. House,38,Don Young,REP,72,38-854
+,U.S. House,38,Write-ins,,0,38-854
+,Governor,38,Mark Begich,DEM,66,38-854
+,Governor,38,Mike Dunleavy,REP,38,38-854
+,Governor,38,Billy Toien,LIB,5,38-854
+,Governor,38,Bill Walker,,9,38-854
+,Governor,38,Write-ins,,0,38-854
+,State Senate,38,Lyman Hoffman,DEM,111,38-854
+,State Senate,38,Write-ins,,1,38-854
+,State House,38,Tiffany Zulkosky,DEM,60,38-854
+,State House,38,Darren Deacon,REP,59,38-854
+,State House,38,Write-ins,,0,38-854
+,U.S. House,38,Alyse Galvin,DEM,66,38-856
+,U.S. House,38,Don Young,REP,68,38-856
+,U.S. House,38,Write-ins,,0,38-856
+,Governor,38,Mark Begich,DEM,103,38-856
+,Governor,38,Mike Dunleavy,REP,14,38-856
+,Governor,38,Billy Toien,LIB,5,38-856
+,Governor,38,Bill Walker,,9,38-856
+,Governor,38,Write-ins,,2,38-856
+,State Senate,38,Lyman Hoffman,DEM,124,38-856
+,State Senate,38,Write-ins,,5,38-856
+,State House,38,Tiffany Zulkosky,DEM,74,38-856
+,State House,38,Darren Deacon,REP,59,38-856
+,State House,38,Write-ins,,0,38-856
+,U.S. House,38,Alyse Galvin,DEM,107,38-858
+,U.S. House,38,Don Young,REP,30,38-858
+,U.S. House,38,Write-ins,,0,38-858
+,Governor,38,Mark Begich,DEM,109,38-858
+,Governor,38,Mike Dunleavy,REP,22,38-858
+,Governor,38,Billy Toien,LIB,4,38-858
+,Governor,38,Bill Walker,,4,38-858
+,Governor,38,Write-ins,,0,38-858
+,State Senate,38,Lyman Hoffman,DEM,126,38-858
+,State Senate,38,Write-ins,,5,38-858
+,State House,38,Tiffany Zulkosky,DEM,68,38-858
+,State House,38,Darren Deacon,REP,65,38-858
+,State House,38,Write-ins,,1,38-858
+,U.S. House,38,Alyse Galvin,DEM,21,38-860
+,U.S. House,38,Don Young,REP,43,38-860
+,U.S. House,38,Write-ins,,0,38-860
+,Governor,38,Mark Begich,DEM,30,38-860
+,Governor,38,Mike Dunleavy,REP,29,38-860
+,Governor,38,Billy Toien,LIB,1,38-860
+,Governor,38,Bill Walker,,4,38-860
+,Governor,38,Write-ins,,0,38-860
+,State Senate,38,Lyman Hoffman,DEM,55,38-860
+,State Senate,38,Write-ins,,2,38-860
+,State House,38,Tiffany Zulkosky,DEM,11,38-860
+,State House,38,Darren Deacon,REP,54,38-860
+,State House,38,Write-ins,,0,38-860
+,U.S. House,38,Alyse Galvin,DEM,273, Absentee
+,U.S. House,38,Don Young,REP,168, Absentee
+,U.S. House,38,Write-ins,,1, Absentee
+,Governor,38,Mark Begich,DEM,298, Absentee
+,Governor,38,Mike Dunleavy,REP,118, Absentee
+,Governor,38,Billy Toien,LIB,6, Absentee
+,Governor,38,Bill Walker,,19, Absentee
+,Governor,38,Write-ins,,0, Absentee
+,State Senate,38,Lyman Hoffman,DEM,325, Absentee
+,State Senate,38,Write-ins,,38, Absentee
+,State House,38,Tiffany Zulkosky,DEM,246, Absentee
+,State House,38,Darren Deacon,REP,159, Absentee
+,State House,38,Write-ins,,4, Absentee
+,U.S. House,38,Alyse Galvin,DEM,159, Question
+,U.S. House,38,Don Young,REP,152, Question
+,U.S. House,38,Write-ins,,1, Question
+,Governor,38,Mark Begich,DEM,189, Question
+,Governor,38,Mike Dunleavy,REP,98, Question
+,Governor,38,Billy Toien,LIB,8, Question
+,Governor,38,Bill Walker,,18, Question
+,Governor,38,Write-ins,,1, Question
+,State Senate,38,Lyman Hoffman,DEM,189, Question
+,State Senate,38,Write-ins,,2, Question
+,State House,38,Tiffany Zulkosky,DEM,108, Question
+,State House,38,Darren Deacon,REP,92, Question
+,State House,38,Write-ins,,0, Question
+,U.S. House,38,Alyse Galvin,DEM,35, Early Voting
+,U.S. House,38,Don Young,REP,16, Early Voting
+,U.S. House,38,Write-ins,,0, Early Voting
+,Governor,38,Mark Begich,DEM,46, Early Voting
+,Governor,38,Mike Dunleavy,REP,6, Early Voting
+,Governor,38,Billy Toien,LIB,0, Early Voting
+,Governor,38,Bill Walker,,0, Early Voting
+,Governor,38,Write-ins,,0, Early Voting
+,State Senate,38,Lyman Hoffman,DEM,48, Early Voting
+,State Senate,38,Write-ins,,1, Early Voting
+,State House,38,Tiffany Zulkosky,DEM,27, Early Voting
+,State House,38,Darren Deacon,REP,24, Early Voting
+,State House,38,Write-ins,,0, Early Voting
