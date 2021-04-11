@@ -18,7 +18,7 @@ district,office,party,candidate,votes,precinct
 34,U.S. House,NA,Bernie Souphanavong,11,34-400
 34,U.S. House,REP,Don Young,284,34-400
 34,U.S. House,,Write-ins,1,34-400
-34,State House,REP,Cathy Muñoz,330,34-400
+34,State House,REP,Cathy MuÃ±oz,330,34-400
 34,State House,DEM,Justin Parish,282,34-400
 34,State House,,Write-ins,2,34-400
 34,President,CON,Darrell Castle,10,34-410
@@ -40,7 +40,7 @@ district,office,party,candidate,votes,precinct
 34,U.S. House,NA,Bernie Souphanavong,10,34-410
 34,U.S. House,REP,Don Young,241,34-410
 34,U.S. House,,Write-ins,0,34-410
-34,State House,REP,Cathy Muñoz,245,34-410
+34,State House,REP,Cathy MuÃ±oz,245,34-410
 34,State House,DEM,Justin Parish,230,34-410
 34,State House,,Write-ins,4,34-410
 34,President,CON,Darrell Castle,6,34-420
@@ -62,7 +62,7 @@ district,office,party,candidate,votes,precinct
 34,U.S. House,NA,Bernie Souphanavong,9,34-420
 34,U.S. House,REP,Don Young,201,34-420
 34,U.S. House,,Write-ins,2,34-420
-34,State House,REP,Cathy Muñoz,228,34-420
+34,State House,REP,Cathy MuÃ±oz,228,34-420
 34,State House,DEM,Justin Parish,300,34-420
 34,State House,,Write-ins,2,34-420
 34,President,CON,Darrell Castle,8,34-430
@@ -84,7 +84,7 @@ district,office,party,candidate,votes,precinct
 34,U.S. House,NA,Bernie Souphanavong,22,34-430
 34,U.S. House,REP,Don Young,260,34-430
 34,U.S. House,,Write-ins,2,34-430
-34,State House,REP,Cathy Muñoz,271,34-430
+34,State House,REP,Cathy MuÃ±oz,271,34-430
 34,State House,DEM,Justin Parish,292,34-430
 34,State House,,Write-ins,2,34-430
 34,President,CON,Darrell Castle,13,34-440
@@ -106,7 +106,7 @@ district,office,party,candidate,votes,precinct
 34,U.S. House,NA,Bernie Souphanavong,25,34-440
 34,U.S. House,REP,Don Young,399,34-440
 34,U.S. House,,Write-ins,3,34-440
-34,State House,REP,Cathy Muñoz,412,34-440
+34,State House,REP,Cathy MuÃ±oz,412,34-440
 34,State House,DEM,Justin Parish,399,34-440
 34,State House,,Write-ins,3,34-440
 34,President,CON,Darrell Castle,11,34-450
@@ -128,7 +128,7 @@ district,office,party,candidate,votes,precinct
 34,U.S. House,NA,Bernie Souphanavong,24,34-450
 34,U.S. House,REP,Don Young,341,34-450
 34,U.S. House,,Write-ins,5,34-450
-34,State House,REP,Cathy Muñoz,384,34-450
+34,State House,REP,Cathy MuÃ±oz,384,34-450
 34,State House,DEM,Justin Parish,340,34-450
 34,State House,,Write-ins,4,34-450
 34,President,CON,Darrell Castle,12,34-460
@@ -150,7 +150,7 @@ district,office,party,candidate,votes,precinct
 34,U.S. House,NA,Bernie Souphanavong,26,34-460
 34,U.S. House,REP,Don Young,488,34-460
 34,U.S. House,,Write-ins,8,34-460
-34,State House,REP,Cathy Muñoz,532,34-460
+34,State House,REP,Cathy MuÃ±oz,532,34-460
 34,State House,DEM,Justin Parish,465,34-460
 34,State House,,Write-ins,9,34-460
 34,President,CON,Darrell Castle,11,Absentee
@@ -172,7 +172,7 @@ district,office,party,candidate,votes,precinct
 34,U.S. House,NA,Bernie Souphanavong,24,Absentee
 34,U.S. House,REP,Don Young,526,Absentee
 34,U.S. House,,Write-ins,4,Absentee
-34,State House,REP,Cathy Muñoz,554,Absentee
+34,State House,REP,Cathy MuÃ±oz,554,Absentee
 34,State House,DEM,Justin Parish,514,Absentee
 34,State House,,Write-ins,2,Absentee
 34,President,CON,Darrell Castle,5,Question
@@ -194,7 +194,7 @@ district,office,party,candidate,votes,precinct
 34,U.S. House,NA,Bernie Souphanavong,18,Question
 34,U.S. House,REP,Don Young,197,Question
 34,U.S. House,,Write-ins,0,Question
-34,State House,REP,Cathy Muñoz,119,Question
+34,State House,REP,Cathy MuÃ±oz,119,Question
 34,State House,DEM,Justin Parish,134,Question
 34,State House,,Write-ins,0,Question
 34,President,CON,Darrell Castle,22,Early Voting
@@ -216,6 +216,6 @@ district,office,party,candidate,votes,precinct
 34,U.S. House,NA,Bernie Souphanavong,57,Early Voting
 34,U.S. House,REP,Don Young,1074,Early Voting
 34,U.S. House,,Write-ins,7,Early Voting
-34,State House,REP,Cathy Muñoz,1257,Early Voting
+34,State House,REP,Cathy MuÃ±oz,1257,Early Voting
 34,State House,DEM,Justin Parish,1571,Early Voting
 34,State House,,Write-ins,15,Early Voting
