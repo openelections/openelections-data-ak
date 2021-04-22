@@ -83,39 +83,39 @@ county,office,district,candidate,party,votes,precinct
 ,State House,4,Tim Lamkin,,11,04-280
 ,State House,4,Grier Hopkins,DEM,144,04-280
 ,State House,4,Write-ins,,0,04-280
-,U.S. House,4,Alyse Galvin,DEM,514, Absentee
-,U.S. House,4,Don Young,REP,361, Absentee
-,U.S. House,4,Write-ins,,2, Absentee
-,Governor,4,Mark Begich,DEM,454, Absentee
-,Governor,4,Mike Dunleavy,REP,342, Absentee
-,Governor,4,Billy Toien,LIB,16, Absentee
-,Governor,4,Bill Walker,,64, Absentee
-,Governor,4,Write-ins,,0, Absentee
-,State House,4,Jim Sackett,REP,351, Absentee
-,State House,4,Tim Lamkin,,22, Absentee
-,State House,4,Grier Hopkins,DEM,418, Absentee
-,State House,4,Write-ins,,1, Absentee
-,U.S. House,4,Alyse Galvin,DEM,113, Question
-,U.S. House,4,Don Young,REP,111, Question
-,U.S. House,4,Write-ins,,0, Question
-,Governor,4,Mark Begich,DEM,99, Question
-,Governor,4,Mike Dunleavy,REP,113, Question
-,Governor,4,Billy Toien,LIB,9, Question
-,Governor,4,Bill Walker,,7, Question
-,Governor,4,Write-ins,,0, Question
-,State House,4,Jim Sackett,REP,22, Question
-,State House,4,Tim Lamkin,,1, Question
-,State House,4,Grier Hopkins,DEM,25, Question
-,State House,4,Write-ins,,2, Question
-,U.S. House,4,Alyse Galvin,DEM,1216, Early Voting
-,U.S. House,4,Don Young,REP,581, Early Voting
-,U.S. House,4,Write-ins,,6, Early Voting
-,Governor,4,Mark Begich,DEM,1197, Early Voting
-,Governor,4,Mike Dunleavy,REP,557, Early Voting
-,Governor,4,Billy Toien,LIB,22, Early Voting
-,Governor,4,Bill Walker,,25, Early Voting
-,Governor,4,Write-ins,,3, Early Voting
-,State House,4,Jim Sackett,REP,599, Early Voting
-,State House,4,Tim Lamkin,,64, Early Voting
-,State House,4,Grier Hopkins,DEM,1131, Early Voting
-,State House,4,Write-ins,,1, Early Voting
+,U.S. House,4,Alyse Galvin,DEM,514,Absentee
+,U.S. House,4,Don Young,REP,361,Absentee
+,U.S. House,4,Write-ins,,2,Absentee
+,Governor,4,Mark Begich,DEM,454,Absentee
+,Governor,4,Mike Dunleavy,REP,342,Absentee
+,Governor,4,Billy Toien,LIB,16,Absentee
+,Governor,4,Bill Walker,,64,Absentee
+,Governor,4,Write-ins,,0,Absentee
+,State House,4,Jim Sackett,REP,351,Absentee
+,State House,4,Tim Lamkin,,22,Absentee
+,State House,4,Grier Hopkins,DEM,418,Absentee
+,State House,4,Write-ins,,1,Absentee
+,U.S. House,4,Alyse Galvin,DEM,113,Question
+,U.S. House,4,Don Young,REP,111,Question
+,U.S. House,4,Write-ins,,0,Question
+,Governor,4,Mark Begich,DEM,99,Question
+,Governor,4,Mike Dunleavy,REP,113,Question
+,Governor,4,Billy Toien,LIB,9,Question
+,Governor,4,Bill Walker,,7,Question
+,Governor,4,Write-ins,,0,Question
+,State House,4,Jim Sackett,REP,22,Question
+,State House,4,Tim Lamkin,,1,Question
+,State House,4,Grier Hopkins,DEM,25,Question
+,State House,4,Write-ins,,2,Question
+,U.S. House,4,Alyse Galvin,DEM,1216,Early Voting
+,U.S. House,4,Don Young,REP,581,Early Voting
+,U.S. House,4,Write-ins,,6,Early Voting
+,Governor,4,Mark Begich,DEM,1197,Early Voting
+,Governor,4,Mike Dunleavy,REP,557,Early Voting
+,Governor,4,Billy Toien,LIB,22,Early Voting
+,Governor,4,Bill Walker,,25,Early Voting
+,Governor,4,Write-ins,,3,Early Voting
+,State House,4,Jim Sackett,REP,599,Early Voting
+,State House,4,Tim Lamkin,,64,Early Voting
+,State House,4,Grier Hopkins,DEM,1131,Early Voting
+,State House,4,Write-ins,,1,Early Voting

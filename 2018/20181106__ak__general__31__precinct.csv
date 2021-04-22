@@ -98,36 +98,36 @@ county,office,district,candidate,party,votes,precinct
 ,State House,31,Paul Seaton,DEM,143,31-390
 ,State House,31,Sarah Vance,REP,405,31-390
 ,State House,31,Write-ins,,8,31-390
-,U.S. House,31,Alyse Galvin,DEM,1638, Absentee
-,U.S. House,31,Don Young,REP,1178, Absentee
-,U.S. House,31,Write-ins,,7, Absentee
-,Governor,31,Mark Begich,DEM,1560, Absentee
-,Governor,31,Mike Dunleavy,REP,1130, Absentee
-,Governor,31,Billy Toien,LIB,29, Absentee
-,Governor,31,Bill Walker,,102, Absentee
-,Governor,31,Write-ins,,3, Absentee
-,State House,31,Paul Seaton,DEM,1596, Absentee
-,State House,31,Sarah Vance,REP,1155, Absentee
-,State House,31,Write-ins,,14, Absentee
-,U.S. House,31,Alyse Galvin,DEM,146, Question
-,U.S. House,31,Don Young,REP,162, Question
-,U.S. House,31,Write-ins,,6, Question
-,Governor,31,Mark Begich,DEM,130, Question
-,Governor,31,Mike Dunleavy,REP,165, Question
-,Governor,31,Billy Toien,LIB,14, Question
-,Governor,31,Bill Walker,,9, Question
-,Governor,31,Write-ins,,1, Question
-,State House,31,Paul Seaton,DEM,77, Question
-,State House,31,Sarah Vance,REP,123, Question
-,State House,31,Write-ins,,2, Question
-,U.S. House,31,Alyse Galvin,DEM,231, Early Voting
-,U.S. House,31,Don Young,REP,317, Early Voting
-,U.S. House,31,Write-ins,,10, Early Voting
-,Governor,31,Mark Begich,DEM,210, Early Voting
-,Governor,31,Mike Dunleavy,REP,333, Early Voting
-,Governor,31,Billy Toien,LIB,8, Early Voting
-,Governor,31,Bill Walker,,3, Early Voting
-,Governor,31,Write-ins,,6, Early Voting
-,State House,31,Paul Seaton,DEM,200, Early Voting
-,State House,31,Sarah Vance,REP,344, Early Voting
-,State House,31,Write-ins,,7, Early Voting
+,U.S. House,31,Alyse Galvin,DEM,1638,Absentee
+,U.S. House,31,Don Young,REP,1178,Absentee
+,U.S. House,31,Write-ins,,7,Absentee
+,Governor,31,Mark Begich,DEM,1560,Absentee
+,Governor,31,Mike Dunleavy,REP,1130,Absentee
+,Governor,31,Billy Toien,LIB,29,Absentee
+,Governor,31,Bill Walker,,102,Absentee
+,Governor,31,Write-ins,,3,Absentee
+,State House,31,Paul Seaton,DEM,1596,Absentee
+,State House,31,Sarah Vance,REP,1155,Absentee
+,State House,31,Write-ins,,14,Absentee
+,U.S. House,31,Alyse Galvin,DEM,146,Question
+,U.S. House,31,Don Young,REP,162,Question
+,U.S. House,31,Write-ins,,6,Question
+,Governor,31,Mark Begich,DEM,130,Question
+,Governor,31,Mike Dunleavy,REP,165,Question
+,Governor,31,Billy Toien,LIB,14,Question
+,Governor,31,Bill Walker,,9,Question
+,Governor,31,Write-ins,,1,Question
+,State House,31,Paul Seaton,DEM,77,Question
+,State House,31,Sarah Vance,REP,123,Question
+,State House,31,Write-ins,,2,Question
+,U.S. House,31,Alyse Galvin,DEM,231,Early Voting
+,U.S. House,31,Don Young,REP,317,Early Voting
+,U.S. House,31,Write-ins,,10,Early Voting
+,Governor,31,Mark Begich,DEM,210,Early Voting
+,Governor,31,Mike Dunleavy,REP,333,Early Voting
+,Governor,31,Billy Toien,LIB,8,Early Voting
+,Governor,31,Bill Walker,,3,Early Voting
+,Governor,31,Write-ins,,6,Early Voting
+,State House,31,Paul Seaton,DEM,200,Early Voting
+,State House,31,Sarah Vance,REP,344,Early Voting
+,State House,31,Write-ins,,7,Early Voting

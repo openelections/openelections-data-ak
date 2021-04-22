@@ -111,45 +111,45 @@ county,office,district,candidate,party,votes,precinct
 ,State House,21,Marilyn Stewart,REP,381,21-635
 ,State House,21,Matt Claman,DEM,421,21-635
 ,State House,21,Write-ins,,0,21-635
-,U.S. House,21,Alyse Galvin,DEM,475, Absentee
-,U.S. House,21,Don Young,REP,410, Absentee
-,U.S. House,21,Write-ins,,4, Absentee
-,Governor,21,Mark Begich,DEM,427, Absentee
-,Governor,21,Mike Dunleavy,REP,397, Absentee
-,Governor,21,Billy Toien,LIB,10, Absentee
-,Governor,21,Bill Walker,,52, Absentee
-,Governor,21,Write-ins,,2, Absentee
-,State Senate,21,Sam Cason,DEM,354, Absentee
-,State Senate,21,Mia Costello,REP,435, Absentee
-,State Senate,21,Write-ins,,2, Absentee
-,State House,21,Marilyn Stewart,REP,395, Absentee
-,State House,21,Matt Claman,DEM,395, Absentee
-,State House,21,Write-ins,,0, Absentee
-,U.S. House,21,Alyse Galvin,DEM,152, Question
-,U.S. House,21,Don Young,REP,93, Question
-,U.S. House,21,Write-ins,,4, Question
-,Governor,21,Mark Begich,DEM,134, Question
-,Governor,21,Mike Dunleavy,REP,103, Question
-,Governor,21,Billy Toien,LIB,8, Question
-,Governor,21,Bill Walker,,4, Question
-,Governor,21,Write-ins,,1, Question
-,State Senate,21,Sam Cason,DEM,44, Question
-,State Senate,21,Mia Costello,REP,46, Question
-,State Senate,21,Write-ins,,2, Question
-,State House,21,Marilyn Stewart,REP,38, Question
-,State House,21,Matt Claman,DEM,29, Question
-,State House,21,Write-ins,,2, Question
-,U.S. House,21,Alyse Galvin,DEM,995, Early Voting
-,U.S. House,21,Don Young,REP,414, Early Voting
-,U.S. House,21,Write-ins,,3, Early Voting
-,Governor,21,Mark Begich,DEM,962, Early Voting
-,Governor,21,Mike Dunleavy,REP,424, Early Voting
-,Governor,21,Billy Toien,LIB,10, Early Voting
-,Governor,21,Bill Walker,,23, Early Voting
-,Governor,21,Write-ins,,1, Early Voting
-,State Senate,21,Sam Cason,DEM,823, Early Voting
-,State Senate,21,Mia Costello,REP,556, Early Voting
-,State Senate,21,Write-ins,,2, Early Voting
-,State House,21,Marilyn Stewart,REP,487, Early Voting
-,State House,21,Matt Claman,DEM,906, Early Voting
-,State House,21,Write-ins,,2, Early Voting
+,U.S. House,21,Alyse Galvin,DEM,475,Absentee
+,U.S. House,21,Don Young,REP,410,Absentee
+,U.S. House,21,Write-ins,,4,Absentee
+,Governor,21,Mark Begich,DEM,427,Absentee
+,Governor,21,Mike Dunleavy,REP,397,Absentee
+,Governor,21,Billy Toien,LIB,10,Absentee
+,Governor,21,Bill Walker,,52,Absentee
+,Governor,21,Write-ins,,2,Absentee
+,State Senate,21,Sam Cason,DEM,354,Absentee
+,State Senate,21,Mia Costello,REP,435,Absentee
+,State Senate,21,Write-ins,,2,Absentee
+,State House,21,Marilyn Stewart,REP,395,Absentee
+,State House,21,Matt Claman,DEM,395,Absentee
+,State House,21,Write-ins,,0,Absentee
+,U.S. House,21,Alyse Galvin,DEM,152,Question
+,U.S. House,21,Don Young,REP,93,Question
+,U.S. House,21,Write-ins,,4,Question
+,Governor,21,Mark Begich,DEM,134,Question
+,Governor,21,Mike Dunleavy,REP,103,Question
+,Governor,21,Billy Toien,LIB,8,Question
+,Governor,21,Bill Walker,,4,Question
+,Governor,21,Write-ins,,1,Question
+,State Senate,21,Sam Cason,DEM,44,Question
+,State Senate,21,Mia Costello,REP,46,Question
+,State Senate,21,Write-ins,,2,Question
+,State House,21,Marilyn Stewart,REP,38,Question
+,State House,21,Matt Claman,DEM,29,Question
+,State House,21,Write-ins,,2,Question
+,U.S. House,21,Alyse Galvin,DEM,995,Early Voting
+,U.S. House,21,Don Young,REP,414,Early Voting
+,U.S. House,21,Write-ins,,3,Early Voting
+,Governor,21,Mark Begich,DEM,962,Early Voting
+,Governor,21,Mike Dunleavy,REP,424,Early Voting
+,Governor,21,Billy Toien,LIB,10,Early Voting
+,Governor,21,Bill Walker,,23,Early Voting
+,Governor,21,Write-ins,,1,Early Voting
+,State Senate,21,Sam Cason,DEM,823,Early Voting
+,State Senate,21,Mia Costello,REP,556,Early Voting
+,State Senate,21,Write-ins,,2,Early Voting
+,State House,21,Marilyn Stewart,REP,487,Early Voting
+,State House,21,Matt Claman,DEM,906,Early Voting
+,State House,21,Write-ins,,2,Early Voting

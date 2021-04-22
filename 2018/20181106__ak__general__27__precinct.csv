@@ -87,36 +87,36 @@ county,office,district,candidate,party,votes,precinct
 ,State House,27,Liz Snyder,DEM,123,27-935
 ,State House,27,Lance Pruitt,REP,88,27-935
 ,State House,27,Write-ins,,0,27-935
-,U.S. House,27,Alyse Galvin,DEM,387, Absentee
-,U.S. House,27,Don Young,REP,533, Absentee
-,U.S. House,27,Write-ins,,7, Absentee
-,Governor,27,Mark Begich,DEM,347, Absentee
-,Governor,27,Mike Dunleavy,REP,527, Absentee
-,Governor,27,Billy Toien,LIB,5, Absentee
-,Governor,27,Bill Walker,,45, Absentee
-,Governor,27,Write-ins,,1, Absentee
-,State House,27,Liz Snyder,DEM,324, Absentee
-,State House,27,Lance Pruitt,REP,522, Absentee
-,State House,27,Write-ins,,7, Absentee
-,U.S. House,27,Alyse Galvin,DEM,143, Question
-,U.S. House,27,Don Young,REP,127, Question
-,U.S. House,27,Write-ins,,2, Question
-,Governor,27,Mark Begich,DEM,134, Question
-,Governor,27,Mike Dunleavy,REP,133, Question
-,Governor,27,Billy Toien,LIB,7, Question
-,Governor,27,Bill Walker,,3, Question
-,Governor,27,Write-ins,,0, Question
-,State House,27,Liz Snyder,DEM,38, Question
-,State House,27,Lance Pruitt,REP,33, Question
-,State House,27,Write-ins,,2, Question
-,U.S. House,27,Alyse Galvin,DEM,741, Early Voting
-,U.S. House,27,Don Young,REP,411, Early Voting
-,U.S. House,27,Write-ins,,4, Early Voting
-,Governor,27,Mark Begich,DEM,731, Early Voting
-,Governor,27,Mike Dunleavy,REP,407, Early Voting
-,Governor,27,Billy Toien,LIB,10, Early Voting
-,Governor,27,Bill Walker,,7, Early Voting
-,Governor,27,Write-ins,,2, Early Voting
-,State House,27,Liz Snyder,DEM,705, Early Voting
-,State House,27,Lance Pruitt,REP,442, Early Voting
-,State House,27,Write-ins,,2, Early Voting
+,U.S. House,27,Alyse Galvin,DEM,387,Absentee
+,U.S. House,27,Don Young,REP,533,Absentee
+,U.S. House,27,Write-ins,,7,Absentee
+,Governor,27,Mark Begich,DEM,347,Absentee
+,Governor,27,Mike Dunleavy,REP,527,Absentee
+,Governor,27,Billy Toien,LIB,5,Absentee
+,Governor,27,Bill Walker,,45,Absentee
+,Governor,27,Write-ins,,1,Absentee
+,State House,27,Liz Snyder,DEM,324,Absentee
+,State House,27,Lance Pruitt,REP,522,Absentee
+,State House,27,Write-ins,,7,Absentee
+,U.S. House,27,Alyse Galvin,DEM,143,Question
+,U.S. House,27,Don Young,REP,127,Question
+,U.S. House,27,Write-ins,,2,Question
+,Governor,27,Mark Begich,DEM,134,Question
+,Governor,27,Mike Dunleavy,REP,133,Question
+,Governor,27,Billy Toien,LIB,7,Question
+,Governor,27,Bill Walker,,3,Question
+,Governor,27,Write-ins,,0,Question
+,State House,27,Liz Snyder,DEM,38,Question
+,State House,27,Lance Pruitt,REP,33,Question
+,State House,27,Write-ins,,2,Question
+,U.S. House,27,Alyse Galvin,DEM,741,Early Voting
+,U.S. House,27,Don Young,REP,411,Early Voting
+,U.S. House,27,Write-ins,,4,Early Voting
+,Governor,27,Mark Begich,DEM,731,Early Voting
+,Governor,27,Mike Dunleavy,REP,407,Early Voting
+,Governor,27,Billy Toien,LIB,10,Early Voting
+,Governor,27,Bill Walker,,7,Early Voting
+,Governor,27,Write-ins,,2,Early Voting
+,State House,27,Liz Snyder,DEM,705,Early Voting
+,State House,27,Lance Pruitt,REP,442,Early Voting
+,State House,27,Write-ins,,2,Early Voting

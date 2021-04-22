@@ -71,39 +71,39 @@ county,office,district,candidate,party,votes,precinct
 ,State Senate,30,Write-ins,,462,30-250
 ,State House,30,Gary Knopp,REP,1128,30-250
 ,State House,30,Write-ins,,59,30-250
-,U.S. House,30,Alyse Galvin,DEM,481, Absentee
-,U.S. House,30,Don Young,REP,991, Absentee
-,U.S. House,30,Write-ins,,10, Absentee
-,Governor,30,Mark Begich,DEM,414, Absentee
-,Governor,30,Mike Dunleavy,REP,990, Absentee
-,Governor,30,Billy Toien,LIB,26, Absentee
-,Governor,30,Bill Walker,,59, Absentee
-,Governor,30,Write-ins,,6, Absentee
-,State Senate,30,Peter Micciche,REP,948, Absentee
-,State Senate,30,Write-ins,,350, Absentee
-,State House,30,Gary Knopp,REP,1144, Absentee
-,State House,30,Write-ins,,82, Absentee
-,U.S. House,30,Alyse Galvin,DEM,104, Question
-,U.S. House,30,Don Young,REP,179, Question
-,U.S. House,30,Write-ins,,9, Question
-,Governor,30,Mark Begich,DEM,80, Question
-,Governor,30,Mike Dunleavy,REP,197, Question
-,Governor,30,Billy Toien,LIB,15, Question
-,Governor,30,Bill Walker,,6, Question
-,Governor,30,Write-ins,,3, Question
-,State Senate,30,Peter Micciche,REP,110, Question
-,State Senate,30,Write-ins,,62, Question
-,State House,30,Gary Knopp,REP,94, Question
-,State House,30,Write-ins,,12, Question
-,U.S. House,30,Alyse Galvin,DEM,407, Early Voting
-,U.S. House,30,Don Young,REP,724, Early Voting
-,U.S. House,30,Write-ins,,9, Early Voting
-,Governor,30,Mark Begich,DEM,349, Early Voting
-,Governor,30,Mike Dunleavy,REP,767, Early Voting
-,Governor,30,Billy Toien,LIB,17, Early Voting
-,Governor,30,Bill Walker,,11, Early Voting
-,Governor,30,Write-ins,,4, Early Voting
-,State Senate,30,Peter Micciche,REP,649, Early Voting
-,State Senate,30,Write-ins,,384, Early Voting
-,State House,30,Gary Knopp,REP,882, Early Voting
-,State House,30,Write-ins,,69, Early Voting
+,U.S. House,30,Alyse Galvin,DEM,481,Absentee
+,U.S. House,30,Don Young,REP,991,Absentee
+,U.S. House,30,Write-ins,,10,Absentee
+,Governor,30,Mark Begich,DEM,414,Absentee
+,Governor,30,Mike Dunleavy,REP,990,Absentee
+,Governor,30,Billy Toien,LIB,26,Absentee
+,Governor,30,Bill Walker,,59,Absentee
+,Governor,30,Write-ins,,6,Absentee
+,State Senate,30,Peter Micciche,REP,948,Absentee
+,State Senate,30,Write-ins,,350,Absentee
+,State House,30,Gary Knopp,REP,1144,Absentee
+,State House,30,Write-ins,,82,Absentee
+,U.S. House,30,Alyse Galvin,DEM,104,Question
+,U.S. House,30,Don Young,REP,179,Question
+,U.S. House,30,Write-ins,,9,Question
+,Governor,30,Mark Begich,DEM,80,Question
+,Governor,30,Mike Dunleavy,REP,197,Question
+,Governor,30,Billy Toien,LIB,15,Question
+,Governor,30,Bill Walker,,6,Question
+,Governor,30,Write-ins,,3,Question
+,State Senate,30,Peter Micciche,REP,110,Question
+,State Senate,30,Write-ins,,62,Question
+,State House,30,Gary Knopp,REP,94,Question
+,State House,30,Write-ins,,12,Question
+,U.S. House,30,Alyse Galvin,DEM,407,Early Voting
+,U.S. House,30,Don Young,REP,724,Early Voting
+,U.S. House,30,Write-ins,,9,Early Voting
+,Governor,30,Mark Begich,DEM,349,Early Voting
+,Governor,30,Mike Dunleavy,REP,767,Early Voting
+,Governor,30,Billy Toien,LIB,17,Early Voting
+,Governor,30,Bill Walker,,11,Early Voting
+,Governor,30,Write-ins,,4,Early Voting
+,State Senate,30,Peter Micciche,REP,649,Early Voting
+,State Senate,30,Write-ins,,384,Early Voting
+,State House,30,Gary Knopp,REP,882,Early Voting
+,State House,30,Write-ins,,69,Early Voting

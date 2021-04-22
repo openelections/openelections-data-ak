@@ -402,42 +402,42 @@ county,office,district,candidate,party,votes,precinct
 ,State House,38,Tiffany Zulkosky,DEM,11,38-860
 ,State House,38,Darren Deacon,REP,54,38-860
 ,State House,38,Write-ins,,0,38-860
-,U.S. House,38,Alyse Galvin,DEM,273, Absentee
-,U.S. House,38,Don Young,REP,168, Absentee
-,U.S. House,38,Write-ins,,1, Absentee
-,Governor,38,Mark Begich,DEM,298, Absentee
-,Governor,38,Mike Dunleavy,REP,118, Absentee
-,Governor,38,Billy Toien,LIB,6, Absentee
-,Governor,38,Bill Walker,,19, Absentee
-,Governor,38,Write-ins,,0, Absentee
-,State Senate,38,Lyman Hoffman,DEM,325, Absentee
-,State Senate,38,Write-ins,,38, Absentee
-,State House,38,Tiffany Zulkosky,DEM,246, Absentee
-,State House,38,Darren Deacon,REP,159, Absentee
-,State House,38,Write-ins,,4, Absentee
-,U.S. House,38,Alyse Galvin,DEM,159, Question
-,U.S. House,38,Don Young,REP,152, Question
-,U.S. House,38,Write-ins,,1, Question
-,Governor,38,Mark Begich,DEM,189, Question
-,Governor,38,Mike Dunleavy,REP,98, Question
-,Governor,38,Billy Toien,LIB,8, Question
-,Governor,38,Bill Walker,,18, Question
-,Governor,38,Write-ins,,1, Question
-,State Senate,38,Lyman Hoffman,DEM,189, Question
-,State Senate,38,Write-ins,,2, Question
-,State House,38,Tiffany Zulkosky,DEM,108, Question
-,State House,38,Darren Deacon,REP,92, Question
-,State House,38,Write-ins,,0, Question
-,U.S. House,38,Alyse Galvin,DEM,35, Early Voting
-,U.S. House,38,Don Young,REP,16, Early Voting
-,U.S. House,38,Write-ins,,0, Early Voting
-,Governor,38,Mark Begich,DEM,46, Early Voting
-,Governor,38,Mike Dunleavy,REP,6, Early Voting
-,Governor,38,Billy Toien,LIB,0, Early Voting
-,Governor,38,Bill Walker,,0, Early Voting
-,Governor,38,Write-ins,,0, Early Voting
-,State Senate,38,Lyman Hoffman,DEM,48, Early Voting
-,State Senate,38,Write-ins,,1, Early Voting
-,State House,38,Tiffany Zulkosky,DEM,27, Early Voting
-,State House,38,Darren Deacon,REP,24, Early Voting
-,State House,38,Write-ins,,0, Early Voting
+,U.S. House,38,Alyse Galvin,DEM,273,Absentee
+,U.S. House,38,Don Young,REP,168,Absentee
+,U.S. House,38,Write-ins,,1,Absentee
+,Governor,38,Mark Begich,DEM,298,Absentee
+,Governor,38,Mike Dunleavy,REP,118,Absentee
+,Governor,38,Billy Toien,LIB,6,Absentee
+,Governor,38,Bill Walker,,19,Absentee
+,Governor,38,Write-ins,,0,Absentee
+,State Senate,38,Lyman Hoffman,DEM,325,Absentee
+,State Senate,38,Write-ins,,38,Absentee
+,State House,38,Tiffany Zulkosky,DEM,246,Absentee
+,State House,38,Darren Deacon,REP,159,Absentee
+,State House,38,Write-ins,,4,Absentee
+,U.S. House,38,Alyse Galvin,DEM,159,Question
+,U.S. House,38,Don Young,REP,152,Question
+,U.S. House,38,Write-ins,,1,Question
+,Governor,38,Mark Begich,DEM,189,Question
+,Governor,38,Mike Dunleavy,REP,98,Question
+,Governor,38,Billy Toien,LIB,8,Question
+,Governor,38,Bill Walker,,18,Question
+,Governor,38,Write-ins,,1,Question
+,State Senate,38,Lyman Hoffman,DEM,189,Question
+,State Senate,38,Write-ins,,2,Question
+,State House,38,Tiffany Zulkosky,DEM,108,Question
+,State House,38,Darren Deacon,REP,92,Question
+,State House,38,Write-ins,,0,Question
+,U.S. House,38,Alyse Galvin,DEM,35,Early Voting
+,U.S. House,38,Don Young,REP,16,Early Voting
+,U.S. House,38,Write-ins,,0,Early Voting
+,Governor,38,Mark Begich,DEM,46,Early Voting
+,Governor,38,Mike Dunleavy,REP,6,Early Voting
+,Governor,38,Billy Toien,LIB,0,Early Voting
+,Governor,38,Bill Walker,,0,Early Voting
+,Governor,38,Write-ins,,0,Early Voting
+,State Senate,38,Lyman Hoffman,DEM,48,Early Voting
+,State Senate,38,Write-ins,,1,Early Voting
+,State House,38,Tiffany Zulkosky,DEM,27,Early Voting
+,State House,38,Darren Deacon,REP,24,Early Voting
+,State House,38,Write-ins,,0,Early Voting

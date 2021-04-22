@@ -65,36 +65,36 @@ county,office,district,candidate,party,votes,precinct
 ,State House,19,Geran Tarr,DEM,603,19-525
 ,State House,19,Cean Stevens,LIB,189,19-525
 ,State House,19,Write-ins,,4,19-525
-,U.S. House,19,Alyse Galvin,DEM,201, Absentee
-,U.S. House,19,Don Young,REP,148, Absentee
-,U.S. House,19,Write-ins,,5, Absentee
-,Governor,19,Mark Begich,DEM,201, Absentee
-,Governor,19,Mike Dunleavy,REP,134, Absentee
-,Governor,19,Billy Toien,LIB,9, Absentee
-,Governor,19,Bill Walker,,8, Absentee
-,Governor,19,Write-ins,,3, Absentee
-,State House,19,Geran Tarr,DEM,173, Absentee
-,State House,19,Cean Stevens,LIB,120, Absentee
-,State House,19,Write-ins,,2, Absentee
-,U.S. House,19,Alyse Galvin,DEM,153, Question
-,U.S. House,19,Don Young,REP,106, Question
-,U.S. House,19,Write-ins,,0, Question
-,Governor,19,Mark Begich,DEM,151, Question
-,Governor,19,Mike Dunleavy,REP,92, Question
-,Governor,19,Billy Toien,LIB,8, Question
-,Governor,19,Bill Walker,,14, Question
-,Governor,19,Write-ins,,0, Question
-,State House,19,Geran Tarr,DEM,49, Question
-,State House,19,Cean Stevens,LIB,21, Question
-,State House,19,Write-ins,,0, Question
-,U.S. House,19,Alyse Galvin,DEM,473, Early Voting
-,U.S. House,19,Don Young,REP,112, Early Voting
-,U.S. House,19,Write-ins,,2, Early Voting
-,Governor,19,Mark Begich,DEM,463, Early Voting
-,Governor,19,Mike Dunleavy,REP,108, Early Voting
-,Governor,19,Billy Toien,LIB,8, Early Voting
-,Governor,19,Bill Walker,,7, Early Voting
-,Governor,19,Write-ins,,1, Early Voting
-,State House,19,Geran Tarr,DEM,462, Early Voting
-,State House,19,Cean Stevens,LIB,102, Early Voting
-,State House,19,Write-ins,,8, Early Voting
+,U.S. House,19,Alyse Galvin,DEM,201,Absentee
+,U.S. House,19,Don Young,REP,148,Absentee
+,U.S. House,19,Write-ins,,5,Absentee
+,Governor,19,Mark Begich,DEM,201,Absentee
+,Governor,19,Mike Dunleavy,REP,134,Absentee
+,Governor,19,Billy Toien,LIB,9,Absentee
+,Governor,19,Bill Walker,,8,Absentee
+,Governor,19,Write-ins,,3,Absentee
+,State House,19,Geran Tarr,DEM,173,Absentee
+,State House,19,Cean Stevens,LIB,120,Absentee
+,State House,19,Write-ins,,2,Absentee
+,U.S. House,19,Alyse Galvin,DEM,153,Question
+,U.S. House,19,Don Young,REP,106,Question
+,U.S. House,19,Write-ins,,0,Question
+,Governor,19,Mark Begich,DEM,151,Question
+,Governor,19,Mike Dunleavy,REP,92,Question
+,Governor,19,Billy Toien,LIB,8,Question
+,Governor,19,Bill Walker,,14,Question
+,Governor,19,Write-ins,,0,Question
+,State House,19,Geran Tarr,DEM,49,Question
+,State House,19,Cean Stevens,LIB,21,Question
+,State House,19,Write-ins,,0,Question
+,U.S. House,19,Alyse Galvin,DEM,473,Early Voting
+,U.S. House,19,Don Young,REP,112,Early Voting
+,U.S. House,19,Write-ins,,2,Early Voting
+,Governor,19,Mark Begich,DEM,463,Early Voting
+,Governor,19,Mike Dunleavy,REP,108,Early Voting
+,Governor,19,Billy Toien,LIB,8,Early Voting
+,Governor,19,Bill Walker,,7,Early Voting
+,Governor,19,Write-ins,,1,Early Voting
+,State House,19,Geran Tarr,DEM,462,Early Voting
+,State House,19,Cean Stevens,LIB,102,Early Voting
+,State House,19,Write-ins,,8,Early Voting

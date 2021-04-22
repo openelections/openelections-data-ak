@@ -55,45 +55,45 @@ county,office,district,candidate,party,votes,precinct
 ,State House,2,Steve Thompson,REP,110,02-375
 ,State House,2,Van Lawrence,DEM,64,02-375
 ,State House,2,Write-ins,,0,02-375
-,U.S. House,2,Alyse Galvin,DEM,160, Absentee
-,U.S. House,2,Don Young,REP,294, Absentee
-,U.S. House,2,Write-ins,,1, Absentee
-,Governor,2,Mark Begich,DEM,131, Absentee
-,Governor,2,Mike Dunleavy,REP,286, Absentee
-,Governor,2,Billy Toien,LIB,15, Absentee
-,Governor,2,Bill Walker,,17, Absentee
-,Governor,2,Write-ins,,0, Absentee
-,State Senate,2,Scott Kawasaki,DEM,142, Absentee
-,State Senate,2,Pete Kelly,REP,273, Absentee
-,State Senate,2,Write-ins,,0, Absentee
-,State House,2,Steve Thompson,REP,286, Absentee
-,State House,2,Van Lawrence,DEM,109, Absentee
-,State House,2,Write-ins,,0, Absentee
-,U.S. House,2,Alyse Galvin,DEM,69, Question
-,U.S. House,2,Don Young,REP,111, Question
-,U.S. House,2,Write-ins,,1, Question
-,Governor,2,Mark Begich,DEM,59, Question
-,Governor,2,Mike Dunleavy,REP,107, Question
-,Governor,2,Billy Toien,LIB,6, Question
-,Governor,2,Bill Walker,,8, Question
-,Governor,2,Write-ins,,1, Question
-,State Senate,2,Scott Kawasaki,DEM,31, Question
-,State Senate,2,Pete Kelly,REP,26, Question
-,State Senate,2,Write-ins,,0, Question
-,State House,2,Steve Thompson,REP,20, Question
-,State House,2,Van Lawrence,DEM,7, Question
-,State House,2,Write-ins,,0, Question
-,U.S. House,2,Alyse Galvin,DEM,304, Early Voting
-,U.S. House,2,Don Young,REP,233, Early Voting
-,U.S. House,2,Write-ins,,3, Early Voting
-,Governor,2,Mark Begich,DEM,286, Early Voting
-,Governor,2,Mike Dunleavy,REP,236, Early Voting
-,Governor,2,Billy Toien,LIB,13, Early Voting
-,Governor,2,Bill Walker,,8, Early Voting
-,Governor,2,Write-ins,,1, Early Voting
-,State Senate,2,Scott Kawasaki,DEM,296, Early Voting
-,State Senate,2,Pete Kelly,REP,242, Early Voting
-,State Senate,2,Write-ins,,2, Early Voting
-,State House,2,Steve Thompson,REP,282, Early Voting
-,State House,2,Van Lawrence,DEM,253, Early Voting
-,State House,2,Write-ins,,3, Early Voting
+,U.S. House,2,Alyse Galvin,DEM,160,Absentee
+,U.S. House,2,Don Young,REP,294,Absentee
+,U.S. House,2,Write-ins,,1,Absentee
+,Governor,2,Mark Begich,DEM,131,Absentee
+,Governor,2,Mike Dunleavy,REP,286,Absentee
+,Governor,2,Billy Toien,LIB,15,Absentee
+,Governor,2,Bill Walker,,17,Absentee
+,Governor,2,Write-ins,,0,Absentee
+,State Senate,2,Scott Kawasaki,DEM,142,Absentee
+,State Senate,2,Pete Kelly,REP,273,Absentee
+,State Senate,2,Write-ins,,0,Absentee
+,State House,2,Steve Thompson,REP,286,Absentee
+,State House,2,Van Lawrence,DEM,109,Absentee
+,State House,2,Write-ins,,0,Absentee
+,U.S. House,2,Alyse Galvin,DEM,69,Question
+,U.S. House,2,Don Young,REP,111,Question
+,U.S. House,2,Write-ins,,1,Question
+,Governor,2,Mark Begich,DEM,59,Question
+,Governor,2,Mike Dunleavy,REP,107,Question
+,Governor,2,Billy Toien,LIB,6,Question
+,Governor,2,Bill Walker,,8,Question
+,Governor,2,Write-ins,,1,Question
+,State Senate,2,Scott Kawasaki,DEM,31,Question
+,State Senate,2,Pete Kelly,REP,26,Question
+,State Senate,2,Write-ins,,0,Question
+,State House,2,Steve Thompson,REP,20,Question
+,State House,2,Van Lawrence,DEM,7,Question
+,State House,2,Write-ins,,0,Question
+,U.S. House,2,Alyse Galvin,DEM,304,Early Voting
+,U.S. House,2,Don Young,REP,233,Early Voting
+,U.S. House,2,Write-ins,,3,Early Voting
+,Governor,2,Mark Begich,DEM,286,Early Voting
+,Governor,2,Mike Dunleavy,REP,236,Early Voting
+,Governor,2,Billy Toien,LIB,13,Early Voting
+,Governor,2,Bill Walker,,8,Early Voting
+,Governor,2,Write-ins,,1,Early Voting
+,State Senate,2,Scott Kawasaki,DEM,296,Early Voting
+,State Senate,2,Pete Kelly,REP,242,Early Voting
+,State Senate,2,Write-ins,,2,Early Voting
+,State House,2,Steve Thompson,REP,282,Early Voting
+,State House,2,Van Lawrence,DEM,253,Early Voting
+,State House,2,Write-ins,,3,Early Voting

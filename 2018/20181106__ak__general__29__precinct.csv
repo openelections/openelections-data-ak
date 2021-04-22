@@ -142,42 +142,42 @@ county,office,district,candidate,party,votes,precinct
 ,State House,29,Shawn Butler,DEM,160,29-190
 ,State House,29,Benjamin Carpenter,REP,555,29-190
 ,State House,29,Write-ins,,3,29-190
-,U.S. House,29,Alyse Galvin,DEM,681, Absentee
-,U.S. House,29,Don Young,REP,1143, Absentee
-,U.S. House,29,Write-ins,,11, Absentee
-,Governor,29,Mark Begich,DEM,623, Absentee
-,Governor,29,Mike Dunleavy,REP,1123, Absentee
-,Governor,29,Billy Toien,LIB,21, Absentee
-,Governor,29,Bill Walker,,75, Absentee
-,Governor,29,Write-ins,,4, Absentee
-,State Senate,29,Peter Micciche,REP,1122, Absentee
-,State Senate,29,Write-ins,,388, Absentee
-,State House,29,Shawn Butler,DEM,601, Absentee
-,State House,29,Benjamin Carpenter,REP,1119, Absentee
-,State House,29,Write-ins,,9, Absentee
-,U.S. House,29,Alyse Galvin,DEM,57, Question
-,U.S. House,29,Don Young,REP,142, Question
-,U.S. House,29,Write-ins,,0, Question
-,Governor,29,Mark Begich,DEM,56, Question
-,Governor,29,Mike Dunleavy,REP,133, Question
-,Governor,29,Billy Toien,LIB,9, Question
-,Governor,29,Bill Walker,,2, Question
-,Governor,29,Write-ins,,2, Question
-,State Senate,29,Peter Micciche,REP,67, Question
-,State Senate,29,Write-ins,,19, Question
-,State House,29,Shawn Butler,DEM,20, Question
-,State House,29,Benjamin Carpenter,REP,56, Question
-,State House,29,Write-ins,,0, Question
-,U.S. House,29,Alyse Galvin,DEM,318, Early Voting
-,U.S. House,29,Don Young,REP,689, Early Voting
-,U.S. House,29,Write-ins,,6, Early Voting
-,Governor,29,Mark Begich,DEM,279, Early Voting
-,Governor,29,Mike Dunleavy,REP,711, Early Voting
-,Governor,29,Billy Toien,LIB,15, Early Voting
-,Governor,29,Bill Walker,,13, Early Voting
-,Governor,29,Write-ins,,5, Early Voting
-,State Senate,29,Peter Micciche,REP,608, Early Voting
-,State Senate,29,Write-ins,,307, Early Voting
-,State House,29,Shawn Butler,DEM,285, Early Voting
-,State House,29,Benjamin Carpenter,REP,715, Early Voting
-,State House,29,Write-ins,,4, Early Voting
+,U.S. House,29,Alyse Galvin,DEM,681,Absentee
+,U.S. House,29,Don Young,REP,1143,Absentee
+,U.S. House,29,Write-ins,,11,Absentee
+,Governor,29,Mark Begich,DEM,623,Absentee
+,Governor,29,Mike Dunleavy,REP,1123,Absentee
+,Governor,29,Billy Toien,LIB,21,Absentee
+,Governor,29,Bill Walker,,75,Absentee
+,Governor,29,Write-ins,,4,Absentee
+,State Senate,29,Peter Micciche,REP,1122,Absentee
+,State Senate,29,Write-ins,,388,Absentee
+,State House,29,Shawn Butler,DEM,601,Absentee
+,State House,29,Benjamin Carpenter,REP,1119,Absentee
+,State House,29,Write-ins,,9,Absentee
+,U.S. House,29,Alyse Galvin,DEM,57,Question
+,U.S. House,29,Don Young,REP,142,Question
+,U.S. House,29,Write-ins,,0,Question
+,Governor,29,Mark Begich,DEM,56,Question
+,Governor,29,Mike Dunleavy,REP,133,Question
+,Governor,29,Billy Toien,LIB,9,Question
+,Governor,29,Bill Walker,,2,Question
+,Governor,29,Write-ins,,2,Question
+,State Senate,29,Peter Micciche,REP,67,Question
+,State Senate,29,Write-ins,,19,Question
+,State House,29,Shawn Butler,DEM,20,Question
+,State House,29,Benjamin Carpenter,REP,56,Question
+,State House,29,Write-ins,,0,Question
+,U.S. House,29,Alyse Galvin,DEM,318,Early Voting
+,U.S. House,29,Don Young,REP,689,Early Voting
+,U.S. House,29,Write-ins,,6,Early Voting
+,Governor,29,Mark Begich,DEM,279,Early Voting
+,Governor,29,Mike Dunleavy,REP,711,Early Voting
+,Governor,29,Billy Toien,LIB,15,Early Voting
+,Governor,29,Bill Walker,,13,Early Voting
+,Governor,29,Write-ins,,5,Early Voting
+,State Senate,29,Peter Micciche,REP,608,Early Voting
+,State Senate,29,Write-ins,,307,Early Voting
+,State House,29,Shawn Butler,DEM,285,Early Voting
+,State House,29,Benjamin Carpenter,REP,715,Early Voting
+,State House,29,Write-ins,,4,Early Voting

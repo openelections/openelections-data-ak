@@ -71,39 +71,39 @@ county,office,district,candidate,party,votes,precinct
 ,State House,8,James Chesbro,DEM,149,08-155
 ,State House,8,Mark Fish,LIB,147,08-155
 ,State House,8,Write-ins,,6,08-155
-,U.S. House,8,Alyse Galvin,DEM,188, Absentee
-,U.S. House,8,Don Young,REP,634, Absentee
-,U.S. House,8,Write-ins,,7, Absentee
-,Governor,8,Mark Begich,DEM,145, Absentee
-,Governor,8,Mike Dunleavy,REP,652, Absentee
-,Governor,8,Billy Toien,LIB,4, Absentee
-,Governor,8,Bill Walker,,27, Absentee
-,Governor,8,Write-ins,,2, Absentee
-,State House,8,Mark Neuman,REP,567, Absentee
-,State House,8,James Chesbro,DEM,120, Absentee
-,State House,8,Mark Fish,LIB,79, Absentee
-,State House,8,Write-ins,,2, Absentee
-,U.S. House,8,Alyse Galvin,DEM,80, Question
-,U.S. House,8,Don Young,REP,228, Question
-,U.S. House,8,Write-ins,,1, Question
-,Governor,8,Mark Begich,DEM,46, Question
-,Governor,8,Mike Dunleavy,REP,251, Question
-,Governor,8,Billy Toien,LIB,9, Question
-,Governor,8,Bill Walker,,4, Question
-,Governor,8,Write-ins,,2, Question
-,State House,8,Mark Neuman,REP,82, Question
-,State House,8,James Chesbro,DEM,17, Question
-,State House,8,Mark Fish,LIB,17, Question
-,State House,8,Write-ins,,0, Question
-,U.S. House,8,Alyse Galvin,DEM,341, Early Voting
-,U.S. House,8,Don Young,REP,835, Early Voting
-,U.S. House,8,Write-ins,,4, Early Voting
-,Governor,8,Mark Begich,DEM,307, Early Voting
-,Governor,8,Mike Dunleavy,REP,851, Early Voting
-,Governor,8,Billy Toien,LIB,19, Early Voting
-,Governor,8,Bill Walker,,11, Early Voting
-,Governor,8,Write-ins,,0, Early Voting
-,State House,8,Mark Neuman,REP,820, Early Voting
-,State House,8,James Chesbro,DEM,252, Early Voting
-,State House,8,Mark Fish,LIB,105, Early Voting
-,State House,8,Write-ins,,0, Early Voting
+,U.S. House,8,Alyse Galvin,DEM,188,Absentee
+,U.S. House,8,Don Young,REP,634,Absentee
+,U.S. House,8,Write-ins,,7,Absentee
+,Governor,8,Mark Begich,DEM,145,Absentee
+,Governor,8,Mike Dunleavy,REP,652,Absentee
+,Governor,8,Billy Toien,LIB,4,Absentee
+,Governor,8,Bill Walker,,27,Absentee
+,Governor,8,Write-ins,,2,Absentee
+,State House,8,Mark Neuman,REP,567,Absentee
+,State House,8,James Chesbro,DEM,120,Absentee
+,State House,8,Mark Fish,LIB,79,Absentee
+,State House,8,Write-ins,,2,Absentee
+,U.S. House,8,Alyse Galvin,DEM,80,Question
+,U.S. House,8,Don Young,REP,228,Question
+,U.S. House,8,Write-ins,,1,Question
+,Governor,8,Mark Begich,DEM,46,Question
+,Governor,8,Mike Dunleavy,REP,251,Question
+,Governor,8,Billy Toien,LIB,9,Question
+,Governor,8,Bill Walker,,4,Question
+,Governor,8,Write-ins,,2,Question
+,State House,8,Mark Neuman,REP,82,Question
+,State House,8,James Chesbro,DEM,17,Question
+,State House,8,Mark Fish,LIB,17,Question
+,State House,8,Write-ins,,0,Question
+,U.S. House,8,Alyse Galvin,DEM,341,Early Voting
+,U.S. House,8,Don Young,REP,835,Early Voting
+,U.S. House,8,Write-ins,,4,Early Voting
+,Governor,8,Mark Begich,DEM,307,Early Voting
+,Governor,8,Mike Dunleavy,REP,851,Early Voting
+,Governor,8,Billy Toien,LIB,19,Early Voting
+,Governor,8,Bill Walker,,11,Early Voting
+,Governor,8,Write-ins,,0,Early Voting
+,State House,8,Mark Neuman,REP,820,Early Voting
+,State House,8,James Chesbro,DEM,252,Early Voting
+,State House,8,Mark Fish,LIB,105,Early Voting
+,State House,8,Write-ins,,0,Early Voting

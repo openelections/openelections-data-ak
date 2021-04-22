@@ -153,45 +153,45 @@ county,office,district,candidate,party,votes,precinct
 ,State House,33,Sara Hannan,DEM,28,33-555
 ,State House,33,Chris Dimond,,10,33-555
 ,State House,33,Write-ins,,0,33-555
-,U.S. House,33,Alyse Galvin,DEM,1163, Absentee
-,U.S. House,33,Don Young,REP,516, Absentee
-,U.S. House,33,Write-ins,,4, Absentee
-,Governor,33,Mark Begich,DEM,1076, Absentee
-,Governor,33,Mike Dunleavy,REP,481, Absentee
-,Governor,33,Billy Toien,LIB,16, Absentee
-,Governor,33,Bill Walker,,104, Absentee
-,Governor,33,Write-ins,,2, Absentee
-,State Senate,33,Jesse Kiehl,DEM,1126, Absentee
-,State Senate,33,Don Etheridge,,509, Absentee
-,State Senate,33,Write-ins,,4, Absentee
-,State House,33,Sara Hannan,DEM,964, Absentee
-,State House,33,Chris Dimond,,606, Absentee
-,State House,33,Write-ins,,7, Absentee
-,U.S. House,33,Alyse Galvin,DEM,241, Question
-,U.S. House,33,Don Young,REP,147, Question
-,U.S. House,33,Write-ins,,1, Question
-,Governor,33,Mark Begich,DEM,209, Question
-,Governor,33,Mike Dunleavy,REP,160, Question
-,Governor,33,Billy Toien,LIB,15, Question
-,Governor,33,Bill Walker,,8, Question
-,Governor,33,Write-ins,,0, Question
-,State Senate,33,Jesse Kiehl,DEM,191, Question
-,State Senate,33,Don Etheridge,,131, Question
-,State Senate,33,Write-ins,,1, Question
-,State House,33,Sara Hannan,DEM,114, Question
-,State House,33,Chris Dimond,,87, Question
-,State House,33,Write-ins,,3, Question
-,U.S. House,33,Alyse Galvin,DEM,1893, Early Voting
-,U.S. House,33,Don Young,REP,513, Early Voting
-,U.S. House,33,Write-ins,,3, Early Voting
-,Governor,33,Mark Begich,DEM,1889, Early Voting
-,Governor,33,Mike Dunleavy,REP,475, Early Voting
-,Governor,33,Billy Toien,LIB,18, Early Voting
-,Governor,33,Bill Walker,,25, Early Voting
-,Governor,33,Write-ins,,1, Early Voting
-,State Senate,33,Jesse Kiehl,DEM,1829, Early Voting
-,State Senate,33,Don Etheridge,,548, Early Voting
-,State Senate,33,Write-ins,,5, Early Voting
-,State House,33,Sara Hannan,DEM,1441, Early Voting
-,State House,33,Chris Dimond,,918, Early Voting
-,State House,33,Write-ins,,12, Early Voting
+,U.S. House,33,Alyse Galvin,DEM,1163,Absentee
+,U.S. House,33,Don Young,REP,516,Absentee
+,U.S. House,33,Write-ins,,4,Absentee
+,Governor,33,Mark Begich,DEM,1076,Absentee
+,Governor,33,Mike Dunleavy,REP,481,Absentee
+,Governor,33,Billy Toien,LIB,16,Absentee
+,Governor,33,Bill Walker,,104,Absentee
+,Governor,33,Write-ins,,2,Absentee
+,State Senate,33,Jesse Kiehl,DEM,1126,Absentee
+,State Senate,33,Don Etheridge,,509,Absentee
+,State Senate,33,Write-ins,,4,Absentee
+,State House,33,Sara Hannan,DEM,964,Absentee
+,State House,33,Chris Dimond,,606,Absentee
+,State House,33,Write-ins,,7,Absentee
+,U.S. House,33,Alyse Galvin,DEM,241,Question
+,U.S. House,33,Don Young,REP,147,Question
+,U.S. House,33,Write-ins,,1,Question
+,Governor,33,Mark Begich,DEM,209,Question
+,Governor,33,Mike Dunleavy,REP,160,Question
+,Governor,33,Billy Toien,LIB,15,Question
+,Governor,33,Bill Walker,,8,Question
+,Governor,33,Write-ins,,0,Question
+,State Senate,33,Jesse Kiehl,DEM,191,Question
+,State Senate,33,Don Etheridge,,131,Question
+,State Senate,33,Write-ins,,1,Question
+,State House,33,Sara Hannan,DEM,114,Question
+,State House,33,Chris Dimond,,87,Question
+,State House,33,Write-ins,,3,Question
+,U.S. House,33,Alyse Galvin,DEM,1893,Early Voting
+,U.S. House,33,Don Young,REP,513,Early Voting
+,U.S. House,33,Write-ins,,3,Early Voting
+,Governor,33,Mark Begich,DEM,1889,Early Voting
+,Governor,33,Mike Dunleavy,REP,475,Early Voting
+,Governor,33,Billy Toien,LIB,18,Early Voting
+,Governor,33,Bill Walker,,25,Early Voting
+,Governor,33,Write-ins,,1,Early Voting
+,State Senate,33,Jesse Kiehl,DEM,1829,Early Voting
+,State Senate,33,Don Etheridge,,548,Early Voting
+,State Senate,33,Write-ins,,5,Early Voting
+,State House,33,Sara Hannan,DEM,1441,Early Voting
+,State House,33,Chris Dimond,,918,Early Voting
+,State House,33,Write-ins,,12,Early Voting

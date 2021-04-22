@@ -125,45 +125,45 @@ county,office,district,candidate,party,votes,precinct
 ,State House,1,Barton LeBon,REP,114,01-495
 ,State House,1,Kathryn Dodge,DEM,80,01-495
 ,State House,1,Write-ins,,0,01-495
-,U.S. House,1,Alyse Galvin,DEM,273, Absentee
-,U.S. House,1,Don Young,REP,317, Absentee
-,U.S. House,1,Write-ins,,3, Absentee
-,Governor,1,Mark Begich,DEM,234, Absentee
-,Governor,1,Mike Dunleavy,REP,302, Absentee
-,Governor,1,Billy Toien,LIB,8, Absentee
-,Governor,1,Bill Walker,,47, Absentee
-,Governor,1,Write-ins,,1, Absentee
-,State Senate,1,Scott Kawasaki,DEM,262, Absentee
-,State Senate,1,Pete Kelly,REP,277, Absentee
-,State Senate,1,Write-ins,,2, Absentee
-,State House,1,Barton LeBon,REP,309, Absentee
-,State House,1,Kathryn Dodge,DEM,214, Absentee
-,State House,1,Write-ins,,0, Absentee
-,U.S. House,1,Alyse Galvin,DEM,144, Question
-,U.S. House,1,Don Young,REP,112, Question
-,U.S. House,1,Write-ins,,3, Question
-,Governor,1,Mark Begich,DEM,124, Question
-,Governor,1,Mike Dunleavy,REP,118, Question
-,Governor,1,Billy Toien,LIB,7, Question
-,Governor,1,Bill Walker,,8, Question
-,Governor,1,Write-ins,,1, Question
-,State Senate,1,Scott Kawasaki,DEM,73, Question
-,State Senate,1,Pete Kelly,REP,42, Question
-,State Senate,1,Write-ins,,0, Question
-,State House,1,Barton LeBon,REP,41, Question
-,State House,1,Kathryn Dodge,DEM,43, Question
-,State House,1,Write-ins,,0, Question
-,U.S. House,1,Alyse Galvin,DEM,660, Early Voting
-,U.S. House,1,Don Young,REP,397, Early Voting
-,U.S. House,1,Write-ins,,3, Early Voting
-,Governor,1,Mark Begich,DEM,659, Early Voting
-,Governor,1,Mike Dunleavy,REP,379, Early Voting
-,Governor,1,Billy Toien,LIB,11, Early Voting
-,Governor,1,Bill Walker,,13, Early Voting
-,Governor,1,Write-ins,,1, Early Voting
-,State Senate,1,Scott Kawasaki,DEM,690, Early Voting
-,State Senate,1,Pete Kelly,REP,368, Early Voting
-,State Senate,1,Write-ins,,2, Early Voting
-,State House,1,Barton LeBon,REP,405, Early Voting
-,State House,1,Kathryn Dodge,DEM,649, Early Voting
-,State House,1,Write-ins,,1, Early Voting
+,U.S. House,1,Alyse Galvin,DEM,273,Absentee
+,U.S. House,1,Don Young,REP,317,Absentee
+,U.S. House,1,Write-ins,,3,Absentee
+,Governor,1,Mark Begich,DEM,234,Absentee
+,Governor,1,Mike Dunleavy,REP,302,Absentee
+,Governor,1,Billy Toien,LIB,8,Absentee
+,Governor,1,Bill Walker,,47,Absentee
+,Governor,1,Write-ins,,1,Absentee
+,State Senate,1,Scott Kawasaki,DEM,262,Absentee
+,State Senate,1,Pete Kelly,REP,277,Absentee
+,State Senate,1,Write-ins,,2,Absentee
+,State House,1,Barton LeBon,REP,309,Absentee
+,State House,1,Kathryn Dodge,DEM,214,Absentee
+,State House,1,Write-ins,,0,Absentee
+,U.S. House,1,Alyse Galvin,DEM,144,Question
+,U.S. House,1,Don Young,REP,112,Question
+,U.S. House,1,Write-ins,,3,Question
+,Governor,1,Mark Begich,DEM,124,Question
+,Governor,1,Mike Dunleavy,REP,118,Question
+,Governor,1,Billy Toien,LIB,7,Question
+,Governor,1,Bill Walker,,8,Question
+,Governor,1,Write-ins,,1,Question
+,State Senate,1,Scott Kawasaki,DEM,73,Question
+,State Senate,1,Pete Kelly,REP,42,Question
+,State Senate,1,Write-ins,,0,Question
+,State House,1,Barton LeBon,REP,41,Question
+,State House,1,Kathryn Dodge,DEM,43,Question
+,State House,1,Write-ins,,0,Question
+,U.S. House,1,Alyse Galvin,DEM,660,Early Voting
+,U.S. House,1,Don Young,REP,397,Early Voting
+,U.S. House,1,Write-ins,,3,Early Voting
+,Governor,1,Mark Begich,DEM,659,Early Voting
+,Governor,1,Mike Dunleavy,REP,379,Early Voting
+,Governor,1,Billy Toien,LIB,11,Early Voting
+,Governor,1,Bill Walker,,13,Early Voting
+,Governor,1,Write-ins,,1,Early Voting
+,State Senate,1,Scott Kawasaki,DEM,690,Early Voting
+,State Senate,1,Pete Kelly,REP,368,Early Voting
+,State Senate,1,Write-ins,,2,Early Voting
+,State House,1,Barton LeBon,REP,405,Early Voting
+,State House,1,Kathryn Dodge,DEM,649,Early Voting
+,State House,1,Write-ins,,1,Early Voting

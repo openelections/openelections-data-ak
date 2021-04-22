@@ -167,39 +167,39 @@ county,office,district,candidate,party,votes,precinct
 ,State House,32,Louise Stutes,REP,117,32-860
 ,State House,32,Dennis Harris,DEM,71,32-860
 ,State House,32,Write-ins,,1,32-860
-,U.S. House,32,Alyse Galvin,DEM,931, Absentee
-,U.S. House,32,Don Young,REP,840, Absentee
-,U.S. House,32,Write-ins,,6, Absentee
-,Governor,32,Mark Begich,DEM,1021, Absentee
-,Governor,32,Mike Dunleavy,REP,663, Absentee
-,Governor,32,Billy Toien,LIB,34, Absentee
-,Governor,32,Bill Walker,,63, Absentee
-,Governor,32,Write-ins,,6, Absentee
-,State House,32,Katelnikoff-Lester,,181, Absentee
-,State House,32,Louise Stutes,REP,916, Absentee
-,State House,32,Dennis Harris,DEM,574, Absentee
-,State House,32,Write-ins,,13, Absentee
-,U.S. House,32,Alyse Galvin,DEM,106, Question
-,U.S. House,32,Don Young,REP,107, Question
-,U.S. House,32,Write-ins,,2, Question
-,Governor,32,Mark Begich,DEM,97, Question
-,Governor,32,Mike Dunleavy,REP,105, Question
-,Governor,32,Billy Toien,LIB,6, Question
-,Governor,32,Bill Walker,,6, Question
-,Governor,32,Write-ins,,0, Question
-,State House,32,Katelnikoff-Lester,,27, Question
-,State House,32,Louise Stutes,REP,56, Question
-,State House,32,Dennis Harris,DEM,61, Question
-,State House,32,Write-ins,,2, Question
-,U.S. House,32,Alyse Galvin,DEM,41, Early Voting
-,U.S. House,32,Don Young,REP,27, Early Voting
-,U.S. House,32,Write-ins,,0, Early Voting
-,Governor,32,Mark Begich,DEM,42, Early Voting
-,Governor,32,Mike Dunleavy,REP,18, Early Voting
-,Governor,32,Billy Toien,LIB,3, Early Voting
-,Governor,32,Bill Walker,,3, Early Voting
-,Governor,32,Write-ins,,2, Early Voting
-,State House,32,Katelnikoff-Lester,,16, Early Voting
-,State House,32,Louise Stutes,REP,20, Early Voting
-,State House,32,Dennis Harris,DEM,29, Early Voting
-,State House,32,Write-ins,,1, Early Voting
+,U.S. House,32,Alyse Galvin,DEM,931,Absentee
+,U.S. House,32,Don Young,REP,840,Absentee
+,U.S. House,32,Write-ins,,6,Absentee
+,Governor,32,Mark Begich,DEM,1021,Absentee
+,Governor,32,Mike Dunleavy,REP,663,Absentee
+,Governor,32,Billy Toien,LIB,34,Absentee
+,Governor,32,Bill Walker,,63,Absentee
+,Governor,32,Write-ins,,6,Absentee
+,State House,32,Katelnikoff-Lester,,181,Absentee
+,State House,32,Louise Stutes,REP,916,Absentee
+,State House,32,Dennis Harris,DEM,574,Absentee
+,State House,32,Write-ins,,13,Absentee
+,U.S. House,32,Alyse Galvin,DEM,106,Question
+,U.S. House,32,Don Young,REP,107,Question
+,U.S. House,32,Write-ins,,2,Question
+,Governor,32,Mark Begich,DEM,97,Question
+,Governor,32,Mike Dunleavy,REP,105,Question
+,Governor,32,Billy Toien,LIB,6,Question
+,Governor,32,Bill Walker,,6,Question
+,Governor,32,Write-ins,,0,Question
+,State House,32,Katelnikoff-Lester,,27,Question
+,State House,32,Louise Stutes,REP,56,Question
+,State House,32,Dennis Harris,DEM,61,Question
+,State House,32,Write-ins,,2,Question
+,U.S. House,32,Alyse Galvin,DEM,41,Early Voting
+,U.S. House,32,Don Young,REP,27,Early Voting
+,U.S. House,32,Write-ins,,0,Early Voting
+,Governor,32,Mark Begich,DEM,42,Early Voting
+,Governor,32,Mike Dunleavy,REP,18,Early Voting
+,Governor,32,Billy Toien,LIB,3,Early Voting
+,Governor,32,Bill Walker,,3,Early Voting
+,Governor,32,Write-ins,,2,Early Voting
+,State House,32,Katelnikoff-Lester,,16,Early Voting
+,State House,32,Louise Stutes,REP,20,Early Voting
+,State House,32,Dennis Harris,DEM,29,Early Voting
+,State House,32,Write-ins,,1,Early Voting

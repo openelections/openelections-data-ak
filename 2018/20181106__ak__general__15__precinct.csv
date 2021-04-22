@@ -54,36 +54,36 @@ county,office,district,candidate,party,votes,precinct
 ,State House,15,Gabrielle LeDoux,REP,179,15-320
 ,State House,15,Lyn Franks,DEM,184,15-320
 ,State House,15,Write-ins,,117,15-320
-,U.S. House,15,Alyse Galvin,DEM,244, Absentee
-,U.S. House,15,Don Young,REP,297, Absentee
-,U.S. House,15,Write-ins,,2, Absentee
-,Governor,15,Mark Begich,DEM,240, Absentee
-,Governor,15,Mike Dunleavy,REP,273, Absentee
-,Governor,15,Billy Toien,LIB,14, Absentee
-,Governor,15,Bill Walker,,22, Absentee
-,Governor,15,Write-ins,,4, Absentee
-,State House,15,Gabrielle LeDoux,REP,256, Absentee
-,State House,15,Lyn Franks,DEM,145, Absentee
-,State House,15,Write-ins,,94, Absentee
-,U.S. House,15,Alyse Galvin,DEM,146, Question
-,U.S. House,15,Don Young,REP,116, Question
-,U.S. House,15,Write-ins,,3, Question
-,Governor,15,Mark Begich,DEM,131, Question
-,Governor,15,Mike Dunleavy,REP,119, Question
-,Governor,15,Billy Toien,LIB,10, Question
-,Governor,15,Bill Walker,,7, Question
-,Governor,15,Write-ins,,0, Question
-,State House,15,Gabrielle LeDoux,REP,30, Question
-,State House,15,Lyn Franks,DEM,25, Question
-,State House,15,Write-ins,,10, Question
-,U.S. House,15,Alyse Galvin,DEM,292, Early Voting
-,U.S. House,15,Don Young,REP,180, Early Voting
-,U.S. House,15,Write-ins,,1, Early Voting
-,Governor,15,Mark Begich,DEM,294, Early Voting
-,Governor,15,Mike Dunleavy,REP,166, Early Voting
-,Governor,15,Billy Toien,LIB,9, Early Voting
-,Governor,15,Bill Walker,,6, Early Voting
-,Governor,15,Write-ins,,0, Early Voting
-,State House,15,Gabrielle LeDoux,REP,179, Early Voting
-,State House,15,Lyn Franks,DEM,201, Early Voting
-,State House,15,Write-ins,,86, Early Voting
+,U.S. House,15,Alyse Galvin,DEM,244,Absentee
+,U.S. House,15,Don Young,REP,297,Absentee
+,U.S. House,15,Write-ins,,2,Absentee
+,Governor,15,Mark Begich,DEM,240,Absentee
+,Governor,15,Mike Dunleavy,REP,273,Absentee
+,Governor,15,Billy Toien,LIB,14,Absentee
+,Governor,15,Bill Walker,,22,Absentee
+,Governor,15,Write-ins,,4,Absentee
+,State House,15,Gabrielle LeDoux,REP,256,Absentee
+,State House,15,Lyn Franks,DEM,145,Absentee
+,State House,15,Write-ins,,94,Absentee
+,U.S. House,15,Alyse Galvin,DEM,146,Question
+,U.S. House,15,Don Young,REP,116,Question
+,U.S. House,15,Write-ins,,3,Question
+,Governor,15,Mark Begich,DEM,131,Question
+,Governor,15,Mike Dunleavy,REP,119,Question
+,Governor,15,Billy Toien,LIB,10,Question
+,Governor,15,Bill Walker,,7,Question
+,Governor,15,Write-ins,,0,Question
+,State House,15,Gabrielle LeDoux,REP,30,Question
+,State House,15,Lyn Franks,DEM,25,Question
+,State House,15,Write-ins,,10,Question
+,U.S. House,15,Alyse Galvin,DEM,292,Early Voting
+,U.S. House,15,Don Young,REP,180,Early Voting
+,U.S. House,15,Write-ins,,1,Early Voting
+,Governor,15,Mark Begich,DEM,294,Early Voting
+,Governor,15,Mike Dunleavy,REP,166,Early Voting
+,Governor,15,Billy Toien,LIB,9,Early Voting
+,Governor,15,Bill Walker,,6,Early Voting
+,Governor,15,Write-ins,,0,Early Voting
+,State House,15,Gabrielle LeDoux,REP,179,Early Voting
+,State House,15,Lyn Franks,DEM,201,Early Voting
+,State House,15,Write-ins,,86,Early Voting

@@ -111,45 +111,45 @@ county,office,district,candidate,party,votes,precinct
 ,State House,26,Anita Thorne,DEM,168,26-835
 ,State House,26,Laddie Shaw,REP,162,26-835
 ,State House,26,Write-ins,,1,26-835
-,U.S. House,26,Alyse Galvin,DEM,392, Absentee
-,U.S. House,26,Don Young,REP,584, Absentee
-,U.S. House,26,Write-ins,,3, Absentee
-,Governor,26,Mark Begich,DEM,340, Absentee
-,Governor,26,Mike Dunleavy,REP,579, Absentee
-,Governor,26,Billy Toien,LIB,14, Absentee
-,Governor,26,Bill Walker,,43, Absentee
-,Governor,26,Write-ins,,1, Absentee
-,State Senate,26,Chris Birch,REP,605, Absentee
-,State Senate,26,Janice Park,DEM,306, Absentee
-,State Senate,26,Write-ins,,5, Absentee
-,State House,26,Anita Thorne,DEM,296, Absentee
-,State House,26,Laddie Shaw,REP,603, Absentee
-,State House,26,Write-ins,,5, Absentee
-,U.S. House,26,Alyse Galvin,DEM,123, Question
-,U.S. House,26,Don Young,REP,182, Question
-,U.S. House,26,Write-ins,,1, Question
-,Governor,26,Mark Begich,DEM,112, Question
-,Governor,26,Mike Dunleavy,REP,178, Question
-,Governor,26,Billy Toien,LIB,6, Question
-,Governor,26,Bill Walker,,9, Question
-,Governor,26,Write-ins,,1, Question
-,State Senate,26,Chris Birch,REP,53, Question
-,State Senate,26,Janice Park,DEM,35, Question
-,State Senate,26,Write-ins,,1, Question
-,State House,26,Anita Thorne,DEM,29, Question
-,State House,26,Laddie Shaw,REP,41, Question
-,State House,26,Write-ins,,1, Question
-,U.S. House,26,Alyse Galvin,DEM,744, Early Voting
-,U.S. House,26,Don Young,REP,632, Early Voting
-,U.S. House,26,Write-ins,,6, Early Voting
-,Governor,26,Mark Begich,DEM,756, Early Voting
-,Governor,26,Mike Dunleavy,REP,603, Early Voting
-,Governor,26,Billy Toien,LIB,6, Early Voting
-,Governor,26,Bill Walker,,17, Early Voting
-,Governor,26,Write-ins,,3, Early Voting
-,State Senate,26,Chris Birch,REP,709, Early Voting
-,State Senate,26,Janice Park,DEM,657, Early Voting
-,State Senate,26,Write-ins,,5, Early Voting
-,State House,26,Anita Thorne,DEM,624, Early Voting
-,State House,26,Laddie Shaw,REP,738, Early Voting
-,State House,26,Write-ins,,6, Early Voting
+,U.S. House,26,Alyse Galvin,DEM,392,Absentee
+,U.S. House,26,Don Young,REP,584,Absentee
+,U.S. House,26,Write-ins,,3,Absentee
+,Governor,26,Mark Begich,DEM,340,Absentee
+,Governor,26,Mike Dunleavy,REP,579,Absentee
+,Governor,26,Billy Toien,LIB,14,Absentee
+,Governor,26,Bill Walker,,43,Absentee
+,Governor,26,Write-ins,,1,Absentee
+,State Senate,26,Chris Birch,REP,605,Absentee
+,State Senate,26,Janice Park,DEM,306,Absentee
+,State Senate,26,Write-ins,,5,Absentee
+,State House,26,Anita Thorne,DEM,296,Absentee
+,State House,26,Laddie Shaw,REP,603,Absentee
+,State House,26,Write-ins,,5,Absentee
+,U.S. House,26,Alyse Galvin,DEM,123,Question
+,U.S. House,26,Don Young,REP,182,Question
+,U.S. House,26,Write-ins,,1,Question
+,Governor,26,Mark Begich,DEM,112,Question
+,Governor,26,Mike Dunleavy,REP,178,Question
+,Governor,26,Billy Toien,LIB,6,Question
+,Governor,26,Bill Walker,,9,Question
+,Governor,26,Write-ins,,1,Question
+,State Senate,26,Chris Birch,REP,53,Question
+,State Senate,26,Janice Park,DEM,35,Question
+,State Senate,26,Write-ins,,1,Question
+,State House,26,Anita Thorne,DEM,29,Question
+,State House,26,Laddie Shaw,REP,41,Question
+,State House,26,Write-ins,,1,Question
+,U.S. House,26,Alyse Galvin,DEM,744,Early Voting
+,U.S. House,26,Don Young,REP,632,Early Voting
+,U.S. House,26,Write-ins,,6,Early Voting
+,Governor,26,Mark Begich,DEM,756,Early Voting
+,Governor,26,Mike Dunleavy,REP,603,Early Voting
+,Governor,26,Billy Toien,LIB,6,Early Voting
+,Governor,26,Bill Walker,,17,Early Voting
+,Governor,26,Write-ins,,3,Early Voting
+,State Senate,26,Chris Birch,REP,709,Early Voting
+,State Senate,26,Janice Park,DEM,657,Early Voting
+,State Senate,26,Write-ins,,5,Early Voting
+,State House,26,Anita Thorne,DEM,624,Early Voting
+,State House,26,Laddie Shaw,REP,738,Early Voting
+,State House,26,Write-ins,,6,Early Voting

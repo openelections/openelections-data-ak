@@ -164,48 +164,48 @@ county,office,district,candidate,party,votes,precinct
 ,State House,10,Doyle Holmes,,60,10-055
 ,State House,10,Patrici Faye-Brazel,DEM,80,10-055
 ,State House,10,Write-ins,,3,10-055
-,U.S. House,10,Alyse Galvin,DEM,475, Absentee
-,U.S. House,10,Don Young,REP,838, Absentee
-,U.S. House,10,Write-ins,,10, Absentee
-,Governor,10,Mark Begich,DEM,400, Absentee
-,Governor,10,Mike Dunleavy,REP,876, Absentee
-,Governor,10,Billy Toien,LIB,32, Absentee
-,Governor,10,Bill Walker,,26, Absentee
-,Governor,10,Write-ins,,0, Absentee
-,State Senate,10,Susan Kay,DEM,376, Absentee
-,State Senate,10,Michael Shower,REP,893, Absentee
-,State Senate,10,Write-ins,,3, Absentee
-,State House,10,David Eastman,REP,681, Absentee
-,State House,10,Doyle Holmes,,219, Absentee
-,State House,10,Patrici Faye-Brazel,DEM,366, Absentee
-,State House,10,Write-ins,,0, Absentee
-,U.S. House,10,Alyse Galvin,DEM,131, Question
-,U.S. House,10,Don Young,REP,268, Question
-,U.S. House,10,Write-ins,,0, Question
-,Governor,10,Mark Begich,DEM,97, Question
-,Governor,10,Mike Dunleavy,REP,295, Question
-,Governor,10,Billy Toien,LIB,8, Question
-,Governor,10,Bill Walker,,4, Question
-,Governor,10,Write-ins,,1, Question
-,State Senate,10,Susan Kay,DEM,38, Question
-,State Senate,10,Michael Shower,REP,118, Question
-,State Senate,10,Write-ins,,1, Question
-,State House,10,David Eastman,REP,85, Question
-,State House,10,Doyle Holmes,,28, Question
-,State House,10,Patrici Faye-Brazel,DEM,28, Question
-,State House,10,Write-ins,,0, Question
-,U.S. House,10,Alyse Galvin,DEM,373, Early Voting
-,U.S. House,10,Don Young,REP,877, Early Voting
-,U.S. House,10,Write-ins,,4, Early Voting
-,Governor,10,Mark Begich,DEM,335, Early Voting
-,Governor,10,Mike Dunleavy,REP,907, Early Voting
-,Governor,10,Billy Toien,LIB,10, Early Voting
-,Governor,10,Bill Walker,,10, Early Voting
-,Governor,10,Write-ins,,0, Early Voting
-,State Senate,10,Susan Kay,DEM,299, Early Voting
-,State Senate,10,Michael Shower,REP,940, Early Voting
-,State Senate,10,Write-ins,,2, Early Voting
-,State House,10,David Eastman,REP,807, Early Voting
-,State House,10,Doyle Holmes,,146, Early Voting
-,State House,10,Patrici Faye-Brazel,DEM,287, Early Voting
-,State House,10,Write-ins,,2, Early Voting
+,U.S. House,10,Alyse Galvin,DEM,475,Absentee
+,U.S. House,10,Don Young,REP,838,Absentee
+,U.S. House,10,Write-ins,,10,Absentee
+,Governor,10,Mark Begich,DEM,400,Absentee
+,Governor,10,Mike Dunleavy,REP,876,Absentee
+,Governor,10,Billy Toien,LIB,32,Absentee
+,Governor,10,Bill Walker,,26,Absentee
+,Governor,10,Write-ins,,0,Absentee
+,State Senate,10,Susan Kay,DEM,376,Absentee
+,State Senate,10,Michael Shower,REP,893,Absentee
+,State Senate,10,Write-ins,,3,Absentee
+,State House,10,David Eastman,REP,681,Absentee
+,State House,10,Doyle Holmes,,219,Absentee
+,State House,10,Patrici Faye-Brazel,DEM,366,Absentee
+,State House,10,Write-ins,,0,Absentee
+,U.S. House,10,Alyse Galvin,DEM,131,Question
+,U.S. House,10,Don Young,REP,268,Question
+,U.S. House,10,Write-ins,,0,Question
+,Governor,10,Mark Begich,DEM,97,Question
+,Governor,10,Mike Dunleavy,REP,295,Question
+,Governor,10,Billy Toien,LIB,8,Question
+,Governor,10,Bill Walker,,4,Question
+,Governor,10,Write-ins,,1,Question
+,State Senate,10,Susan Kay,DEM,38,Question
+,State Senate,10,Michael Shower,REP,118,Question
+,State Senate,10,Write-ins,,1,Question
+,State House,10,David Eastman,REP,85,Question
+,State House,10,Doyle Holmes,,28,Question
+,State House,10,Patrici Faye-Brazel,DEM,28,Question
+,State House,10,Write-ins,,0,Question
+,U.S. House,10,Alyse Galvin,DEM,373,Early Voting
+,U.S. House,10,Don Young,REP,877,Early Voting
+,U.S. House,10,Write-ins,,4,Early Voting
+,Governor,10,Mark Begich,DEM,335,Early Voting
+,Governor,10,Mike Dunleavy,REP,907,Early Voting
+,Governor,10,Billy Toien,LIB,10,Early Voting
+,Governor,10,Bill Walker,,10,Early Voting
+,Governor,10,Write-ins,,0,Early Voting
+,State Senate,10,Susan Kay,DEM,299,Early Voting
+,State Senate,10,Michael Shower,REP,940,Early Voting
+,State Senate,10,Write-ins,,2,Early Voting
+,State House,10,David Eastman,REP,807,Early Voting
+,State House,10,Doyle Holmes,,146,Early Voting
+,State House,10,Patrici Faye-Brazel,DEM,287,Early Voting
+,State House,10,Write-ins,,2,Early Voting

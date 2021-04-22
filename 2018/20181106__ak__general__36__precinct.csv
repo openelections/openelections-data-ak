@@ -109,36 +109,36 @@ county,office,district,candidate,party,votes,precinct
 ,State House,36,Daniel Ortiz,,380,36-690
 ,State House,36,Trevor Shaw,REP,340,36-690
 ,State House,36,Write-ins,,4,36-690
-,U.S. House,36,Alyse Galvin,DEM,728, Absentee
-,U.S. House,36,Don Young,REP,848, Absentee
-,U.S. House,36,Write-ins,,7, Absentee
-,Governor,36,Mark Begich,DEM,679, Absentee
-,Governor,36,Mike Dunleavy,REP,819, Absentee
-,Governor,36,Billy Toien,LIB,28, Absentee
-,Governor,36,Bill Walker,,59, Absentee
-,Governor,36,Write-ins,,1, Absentee
-,State House,36,Daniel Ortiz,,932, Absentee
-,State House,36,Trevor Shaw,REP,605, Absentee
-,State House,36,Write-ins,,10, Absentee
-,U.S. House,36,Alyse Galvin,DEM,199, Question
-,U.S. House,36,Don Young,REP,237, Question
-,U.S. House,36,Write-ins,,3, Question
-,Governor,36,Mark Begich,DEM,161, Question
-,Governor,36,Mike Dunleavy,REP,250, Question
-,Governor,36,Billy Toien,LIB,15, Question
-,Governor,36,Bill Walker,,21, Question
-,Governor,36,Write-ins,,0, Question
-,State House,36,Daniel Ortiz,,196, Question
-,State House,36,Trevor Shaw,REP,140, Question
-,State House,36,Write-ins,,4, Question
-,U.S. House,36,Alyse Galvin,DEM,28, Early Voting
-,U.S. House,36,Don Young,REP,18, Early Voting
-,U.S. House,36,Write-ins,,0, Early Voting
-,Governor,36,Mark Begich,DEM,29, Early Voting
-,Governor,36,Mike Dunleavy,REP,13, Early Voting
-,Governor,36,Billy Toien,LIB,0, Early Voting
-,Governor,36,Bill Walker,,3, Early Voting
-,Governor,36,Write-ins,,0, Early Voting
-,State House,36,Daniel Ortiz,,35, Early Voting
-,State House,36,Trevor Shaw,REP,12, Early Voting
-,State House,36,Write-ins,,0, Early Voting
+,U.S. House,36,Alyse Galvin,DEM,728,Absentee
+,U.S. House,36,Don Young,REP,848,Absentee
+,U.S. House,36,Write-ins,,7,Absentee
+,Governor,36,Mark Begich,DEM,679,Absentee
+,Governor,36,Mike Dunleavy,REP,819,Absentee
+,Governor,36,Billy Toien,LIB,28,Absentee
+,Governor,36,Bill Walker,,59,Absentee
+,Governor,36,Write-ins,,1,Absentee
+,State House,36,Daniel Ortiz,,932,Absentee
+,State House,36,Trevor Shaw,REP,605,Absentee
+,State House,36,Write-ins,,10,Absentee
+,U.S. House,36,Alyse Galvin,DEM,199,Question
+,U.S. House,36,Don Young,REP,237,Question
+,U.S. House,36,Write-ins,,3,Question
+,Governor,36,Mark Begich,DEM,161,Question
+,Governor,36,Mike Dunleavy,REP,250,Question
+,Governor,36,Billy Toien,LIB,15,Question
+,Governor,36,Bill Walker,,21,Question
+,Governor,36,Write-ins,,0,Question
+,State House,36,Daniel Ortiz,,196,Question
+,State House,36,Trevor Shaw,REP,140,Question
+,State House,36,Write-ins,,4,Question
+,U.S. House,36,Alyse Galvin,DEM,28,Early Voting
+,U.S. House,36,Don Young,REP,18,Early Voting
+,U.S. House,36,Write-ins,,0,Early Voting
+,Governor,36,Mark Begich,DEM,29,Early Voting
+,Governor,36,Mike Dunleavy,REP,13,Early Voting
+,Governor,36,Billy Toien,LIB,0,Early Voting
+,Governor,36,Bill Walker,,3,Early Voting
+,Governor,36,Write-ins,,0,Early Voting
+,State House,36,Daniel Ortiz,,35,Early Voting
+,State House,36,Trevor Shaw,REP,12,Early Voting
+,State House,36,Write-ins,,0,Early Voting

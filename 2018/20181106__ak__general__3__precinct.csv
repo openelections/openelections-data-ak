@@ -49,33 +49,33 @@ county,office,district,candidate,party,votes,precinct
 ,Governor,3,Write-ins,,0,03-183
 ,State House,3,Tammie Wilson,REP,838,03-183
 ,State House,3,Write-ins,,44,03-183
-,U.S. House,3,Alyse Galvin,DEM,147, Absentee
-,U.S. House,3,Don Young,REP,387, Absentee
-,U.S. House,3,Write-ins,,5, Absentee
-,Governor,3,Mark Begich,DEM,110, Absentee
-,Governor,3,Mike Dunleavy,REP,397, Absentee
-,Governor,3,Billy Toien,LIB,8, Absentee
-,Governor,3,Bill Walker,,22, Absentee
-,Governor,3,Write-ins,,1, Absentee
-,State House,3,Tammie Wilson,REP,416, Absentee
-,State House,3,Write-ins,,34, Absentee
-,U.S. House,3,Alyse Galvin,DEM,48, Question
-,U.S. House,3,Don Young,REP,116, Question
-,U.S. House,3,Write-ins,,2, Question
-,Governor,3,Mark Begich,DEM,41, Question
-,Governor,3,Mike Dunleavy,REP,110, Question
-,Governor,3,Billy Toien,LIB,12, Question
-,Governor,3,Bill Walker,,3, Question
-,Governor,3,Write-ins,,1, Question
-,State House,3,Tammie Wilson,REP,85, Question
-,State House,3,Write-ins,,3, Question
-,U.S. House,3,Alyse Galvin,DEM,318, Early Voting
-,U.S. House,3,Don Young,REP,471, Early Voting
-,U.S. House,3,Write-ins,,5, Early Voting
-,Governor,3,Mark Begich,DEM,295, Early Voting
-,Governor,3,Mike Dunleavy,REP,478, Early Voting
-,Governor,3,Billy Toien,LIB,16, Early Voting
-,Governor,3,Bill Walker,,7, Early Voting
-,Governor,3,Write-ins,,2, Early Voting
-,State House,3,Tammie Wilson,REP,571, Early Voting
-,State House,3,Write-ins,,88, Early Voting
+,U.S. House,3,Alyse Galvin,DEM,147,Absentee
+,U.S. House,3,Don Young,REP,387,Absentee
+,U.S. House,3,Write-ins,,5,Absentee
+,Governor,3,Mark Begich,DEM,110,Absentee
+,Governor,3,Mike Dunleavy,REP,397,Absentee
+,Governor,3,Billy Toien,LIB,8,Absentee
+,Governor,3,Bill Walker,,22,Absentee
+,Governor,3,Write-ins,,1,Absentee
+,State House,3,Tammie Wilson,REP,416,Absentee
+,State House,3,Write-ins,,34,Absentee
+,U.S. House,3,Alyse Galvin,DEM,48,Question
+,U.S. House,3,Don Young,REP,116,Question
+,U.S. House,3,Write-ins,,2,Question
+,Governor,3,Mark Begich,DEM,41,Question
+,Governor,3,Mike Dunleavy,REP,110,Question
+,Governor,3,Billy Toien,LIB,12,Question
+,Governor,3,Bill Walker,,3,Question
+,Governor,3,Write-ins,,1,Question
+,State House,3,Tammie Wilson,REP,85,Question
+,State House,3,Write-ins,,3,Question
+,U.S. House,3,Alyse Galvin,DEM,318,Early Voting
+,U.S. House,3,Don Young,REP,471,Early Voting
+,U.S. House,3,Write-ins,,5,Early Voting
+,Governor,3,Mark Begich,DEM,295,Early Voting
+,Governor,3,Mike Dunleavy,REP,478,Early Voting
+,Governor,3,Billy Toien,LIB,16,Early Voting
+,Governor,3,Bill Walker,,7,Early Voting
+,Governor,3,Write-ins,,2,Early Voting
+,State House,3,Tammie Wilson,REP,571,Early Voting
+,State House,3,Write-ins,,88,Early Voting

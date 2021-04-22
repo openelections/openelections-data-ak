@@ -107,39 +107,39 @@ county,office,district,candidate,party,votes,precinct
 ,State House,20,Ceezar Martinson,REP,129,20-570
 ,State House,20,William Fields,DEM,242,20-570
 ,State House,20,Write-ins,,2,20-570
-,U.S. House,20,Alyse Galvin,DEM,534, Absentee
-,U.S. House,20,Don Young,REP,329, Absentee
-,U.S. House,20,Write-ins,,4, Absentee
-,Governor,20,Mark Begich,DEM,490, Absentee
-,Governor,20,Mike Dunleavy,REP,309, Absentee
-,Governor,20,Billy Toien,LIB,7, Absentee
-,Governor,20,Bill Walker,,68, Absentee
-,Governor,20,Write-ins,,1, Absentee
-,State House,20,Warren West,LIB,19, Absentee
-,State House,20,Ceezar Martinson,REP,256, Absentee
-,State House,20,William Fields,DEM,438, Absentee
-,State House,20,Write-ins,,3, Absentee
-,U.S. House,20,Alyse Galvin,DEM,197, Question
-,U.S. House,20,Don Young,REP,166, Question
-,U.S. House,20,Write-ins,,2, Question
-,Governor,20,Mark Begich,DEM,200, Question
-,Governor,20,Mike Dunleavy,REP,140, Question
-,Governor,20,Billy Toien,LIB,13, Question
-,Governor,20,Bill Walker,,11, Question
-,Governor,20,Write-ins,,2, Question
-,State House,20,Warren West,LIB,7, Question
-,State House,20,Ceezar Martinson,REP,25, Question
-,State House,20,William Fields,DEM,49, Question
-,State House,20,Write-ins,,0, Question
-,U.S. House,20,Alyse Galvin,DEM,1172, Early Voting
-,U.S. House,20,Don Young,REP,361, Early Voting
-,U.S. House,20,Write-ins,,5, Early Voting
-,Governor,20,Mark Begich,DEM,1170, Early Voting
-,Governor,20,Mike Dunleavy,REP,331, Early Voting
-,Governor,20,Billy Toien,LIB,11, Early Voting
-,Governor,20,Bill Walker,,17, Early Voting
-,Governor,20,Write-ins,,14, Early Voting
-,State House,20,Warren West,LIB,60, Early Voting
-,State House,20,Ceezar Martinson,REP,320, Early Voting
-,State House,20,William Fields,DEM,1119, Early Voting
-,State House,20,Write-ins,,9, Early Voting
+,U.S. House,20,Alyse Galvin,DEM,534,Absentee
+,U.S. House,20,Don Young,REP,329,Absentee
+,U.S. House,20,Write-ins,,4,Absentee
+,Governor,20,Mark Begich,DEM,490,Absentee
+,Governor,20,Mike Dunleavy,REP,309,Absentee
+,Governor,20,Billy Toien,LIB,7,Absentee
+,Governor,20,Bill Walker,,68,Absentee
+,Governor,20,Write-ins,,1,Absentee
+,State House,20,Warren West,LIB,19,Absentee
+,State House,20,Ceezar Martinson,REP,256,Absentee
+,State House,20,William Fields,DEM,438,Absentee
+,State House,20,Write-ins,,3,Absentee
+,U.S. House,20,Alyse Galvin,DEM,197,Question
+,U.S. House,20,Don Young,REP,166,Question
+,U.S. House,20,Write-ins,,2,Question
+,Governor,20,Mark Begich,DEM,200,Question
+,Governor,20,Mike Dunleavy,REP,140,Question
+,Governor,20,Billy Toien,LIB,13,Question
+,Governor,20,Bill Walker,,11,Question
+,Governor,20,Write-ins,,2,Question
+,State House,20,Warren West,LIB,7,Question
+,State House,20,Ceezar Martinson,REP,25,Question
+,State House,20,William Fields,DEM,49,Question
+,State House,20,Write-ins,,0,Question
+,U.S. House,20,Alyse Galvin,DEM,1172,Early Voting
+,U.S. House,20,Don Young,REP,361,Early Voting
+,U.S. House,20,Write-ins,,5,Early Voting
+,Governor,20,Mark Begich,DEM,1170,Early Voting
+,Governor,20,Mike Dunleavy,REP,331,Early Voting
+,Governor,20,Billy Toien,LIB,11,Early Voting
+,Governor,20,Bill Walker,,17,Early Voting
+,Governor,20,Write-ins,,14,Early Voting
+,State House,20,Warren West,LIB,60,Early Voting
+,State House,20,Ceezar Martinson,REP,320,Early Voting
+,State House,20,William Fields,DEM,1119,Early Voting
+,State House,20,Write-ins,,9,Early Voting

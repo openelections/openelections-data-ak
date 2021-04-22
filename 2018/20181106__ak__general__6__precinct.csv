@@ -428,42 +428,42 @@ county,office,district,candidate,party,votes,precinct
 ,State House,6,Ed Alexander,DEM,164,06-180
 ,State House,6,David Talerico,REP,294,06-180
 ,State House,6,Write-ins,,2,06-180
-,U.S. House,6,Alyse Galvin,DEM,556, Absentee
-,U.S. House,6,Don Young,REP,803, Absentee
-,U.S. House,6,Write-ins,,10, Absentee
-,Governor,6,Mark Begich,DEM,510, Absentee
-,Governor,6,Mike Dunleavy,REP,769, Absentee
-,Governor,6,Billy Toien,LIB,22, Absentee
-,Governor,6,Bill Walker,,68, Absentee
-,Governor,6,Write-ins,,4, Absentee
-,State Senate,6,Click Bishop,REP,955, Absentee
-,State Senate,6,Write-ins,,89, Absentee
-,State House,6,Ed Alexander,DEM,505, Absentee
-,State House,6,David Talerico,REP,789, Absentee
-,State House,6,Write-ins,,2, Absentee
-,U.S. House,6,Alyse Galvin,DEM,117, Question
-,U.S. House,6,Don Young,REP,195, Question
-,U.S. House,6,Write-ins,,4, Question
-,Governor,6,Mark Begich,DEM,110, Question
-,Governor,6,Mike Dunleavy,REP,182, Question
-,Governor,6,Billy Toien,LIB,18, Question
-,Governor,6,Bill Walker,,6, Question
-,Governor,6,Write-ins,,2, Question
-,State Senate,6,Click Bishop,REP,88, Question
-,State Senate,6,Write-ins,,4, Question
-,State House,6,Ed Alexander,DEM,56, Question
-,State House,6,David Talerico,REP,54, Question
-,State House,6,Write-ins,,0, Question
-,U.S. House,6,Alyse Galvin,DEM,284, Early Voting
-,U.S. House,6,Don Young,REP,276, Early Voting
-,U.S. House,6,Write-ins,,3, Early Voting
-,Governor,6,Mark Begich,DEM,278, Early Voting
-,Governor,6,Mike Dunleavy,REP,264, Early Voting
-,Governor,6,Billy Toien,LIB,12, Early Voting
-,Governor,6,Bill Walker,,7, Early Voting
-,Governor,6,Write-ins,,3, Early Voting
-,State Senate,6,Click Bishop,REP,390, Early Voting
-,State Senate,6,Write-ins,,49, Early Voting
-,State House,6,Ed Alexander,DEM,280, Early Voting
-,State House,6,David Talerico,REP,276, Early Voting
-,State House,6,Write-ins,,6, Early Voting
+,U.S. House,6,Alyse Galvin,DEM,556,Absentee
+,U.S. House,6,Don Young,REP,803,Absentee
+,U.S. House,6,Write-ins,,10,Absentee
+,Governor,6,Mark Begich,DEM,510,Absentee
+,Governor,6,Mike Dunleavy,REP,769,Absentee
+,Governor,6,Billy Toien,LIB,22,Absentee
+,Governor,6,Bill Walker,,68,Absentee
+,Governor,6,Write-ins,,4,Absentee
+,State Senate,6,Click Bishop,REP,955,Absentee
+,State Senate,6,Write-ins,,89,Absentee
+,State House,6,Ed Alexander,DEM,505,Absentee
+,State House,6,David Talerico,REP,789,Absentee
+,State House,6,Write-ins,,2,Absentee
+,U.S. House,6,Alyse Galvin,DEM,117,Question
+,U.S. House,6,Don Young,REP,195,Question
+,U.S. House,6,Write-ins,,4,Question
+,Governor,6,Mark Begich,DEM,110,Question
+,Governor,6,Mike Dunleavy,REP,182,Question
+,Governor,6,Billy Toien,LIB,18,Question
+,Governor,6,Bill Walker,,6,Question
+,Governor,6,Write-ins,,2,Question
+,State Senate,6,Click Bishop,REP,88,Question
+,State Senate,6,Write-ins,,4,Question
+,State House,6,Ed Alexander,DEM,56,Question
+,State House,6,David Talerico,REP,54,Question
+,State House,6,Write-ins,,0,Question
+,U.S. House,6,Alyse Galvin,DEM,284,Early Voting
+,U.S. House,6,Don Young,REP,276,Early Voting
+,U.S. House,6,Write-ins,,3,Early Voting
+,Governor,6,Mark Begich,DEM,278,Early Voting
+,Governor,6,Mike Dunleavy,REP,264,Early Voting
+,Governor,6,Billy Toien,LIB,12,Early Voting
+,Governor,6,Bill Walker,,7,Early Voting
+,Governor,6,Write-ins,,3,Early Voting
+,State Senate,6,Click Bishop,REP,390,Early Voting
+,State Senate,6,Write-ins,,49,Early Voting
+,State House,6,Ed Alexander,DEM,280,Early Voting
+,State House,6,David Talerico,REP,276,Early Voting
+,State House,6,Write-ins,,6,Early Voting

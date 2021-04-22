@@ -76,36 +76,36 @@ county,office,district,candidate,party,votes,precinct
 ,State House,16,Stanley Wright,REP,208,16-355
 ,State House,16,Ivy Spohnholz,DEM,292,16-355
 ,State House,16,Write-ins,,4,16-355
-,U.S. House,16,Alyse Galvin,DEM,346, Absentee
-,U.S. House,16,Don Young,REP,346, Absentee
-,U.S. House,16,Write-ins,,1, Absentee
-,Governor,16,Mark Begich,DEM,303, Absentee
-,Governor,16,Mike Dunleavy,REP,343, Absentee
-,Governor,16,Billy Toien,LIB,9, Absentee
-,Governor,16,Bill Walker,,37, Absentee
-,Governor,16,Write-ins,,0, Absentee
-,State House,16,Stanley Wright,REP,300, Absentee
-,State House,16,Ivy Spohnholz,DEM,308, Absentee
-,State House,16,Write-ins,,1, Absentee
-,U.S. House,16,Alyse Galvin,DEM,188, Question
-,U.S. House,16,Don Young,REP,136, Question
-,U.S. House,16,Write-ins,,3, Question
-,Governor,16,Mark Begich,DEM,183, Question
-,Governor,16,Mike Dunleavy,REP,134, Question
-,Governor,16,Billy Toien,LIB,11, Question
-,Governor,16,Bill Walker,,5, Question
-,Governor,16,Write-ins,,1, Question
-,State House,16,Stanley Wright,REP,40, Question
-,State House,16,Ivy Spohnholz,DEM,41, Question
-,State House,16,Write-ins,,0, Question
-,U.S. House,16,Alyse Galvin,DEM,644, Early Voting
-,U.S. House,16,Don Young,REP,328, Early Voting
-,U.S. House,16,Write-ins,,2, Early Voting
-,Governor,16,Mark Begich,DEM,642, Early Voting
-,Governor,16,Mike Dunleavy,REP,318, Early Voting
-,Governor,16,Billy Toien,LIB,12, Early Voting
-,Governor,16,Bill Walker,,9, Early Voting
-,Governor,16,Write-ins,,1, Early Voting
-,State House,16,Stanley Wright,REP,330, Early Voting
-,State House,16,Ivy Spohnholz,DEM,643, Early Voting
-,State House,16,Write-ins,,3, Early Voting
+,U.S. House,16,Alyse Galvin,DEM,346,Absentee
+,U.S. House,16,Don Young,REP,346,Absentee
+,U.S. House,16,Write-ins,,1,Absentee
+,Governor,16,Mark Begich,DEM,303,Absentee
+,Governor,16,Mike Dunleavy,REP,343,Absentee
+,Governor,16,Billy Toien,LIB,9,Absentee
+,Governor,16,Bill Walker,,37,Absentee
+,Governor,16,Write-ins,,0,Absentee
+,State House,16,Stanley Wright,REP,300,Absentee
+,State House,16,Ivy Spohnholz,DEM,308,Absentee
+,State House,16,Write-ins,,1,Absentee
+,U.S. House,16,Alyse Galvin,DEM,188,Question
+,U.S. House,16,Don Young,REP,136,Question
+,U.S. House,16,Write-ins,,3,Question
+,Governor,16,Mark Begich,DEM,183,Question
+,Governor,16,Mike Dunleavy,REP,134,Question
+,Governor,16,Billy Toien,LIB,11,Question
+,Governor,16,Bill Walker,,5,Question
+,Governor,16,Write-ins,,1,Question
+,State House,16,Stanley Wright,REP,40,Question
+,State House,16,Ivy Spohnholz,DEM,41,Question
+,State House,16,Write-ins,,0,Question
+,U.S. House,16,Alyse Galvin,DEM,644,Early Voting
+,U.S. House,16,Don Young,REP,328,Early Voting
+,U.S. House,16,Write-ins,,2,Early Voting
+,Governor,16,Mark Begich,DEM,642,Early Voting
+,Governor,16,Mike Dunleavy,REP,318,Early Voting
+,Governor,16,Billy Toien,LIB,12,Early Voting
+,Governor,16,Bill Walker,,9,Early Voting
+,Governor,16,Write-ins,,1,Early Voting
+,State House,16,Stanley Wright,REP,330,Early Voting
+,State House,16,Ivy Spohnholz,DEM,643,Early Voting
+,State House,16,Write-ins,,3,Early Voting

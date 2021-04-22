@@ -97,45 +97,45 @@ county,office,district,candidate,party,votes,precinct
 ,State House,14,Kelly Merrick,REP,545,14-970
 ,State House,14,Joe Hackenmueller,DEM,285,14-970
 ,State House,14,Write-ins,,4,14-970
-,U.S. House,14,Alyse Galvin,DEM,555, Absentee
-,U.S. House,14,Don Young,REP,982, Absentee
-,U.S. House,14,Write-ins,,5, Absentee
-,Governor,14,Mark Begich,DEM,504, Absentee
-,Governor,14,Mike Dunleavy,REP,968, Absentee
-,Governor,14,Billy Toien,LIB,18, Absentee
-,Governor,14,Bill Walker,,56, Absentee
-,Governor,14,Write-ins,,2, Absentee
-,State Senate,14,Oliver Schiess,DEM,492, Absentee
-,State Senate,14,Lora Reinbold,REP,997, Absentee
-,State Senate,14,Write-ins,,6, Absentee
-,State House,14,Kelly Merrick,REP,979, Absentee
-,State House,14,Joe Hackenmueller,DEM,477, Absentee
-,State House,14,Write-ins,,10, Absentee
-,U.S. House,14,Alyse Galvin,DEM,88, Question
-,U.S. House,14,Don Young,REP,147, Question
-,U.S. House,14,Write-ins,,1, Question
-,Governor,14,Mark Begich,DEM,72, Question
-,Governor,14,Mike Dunleavy,REP,149, Question
-,Governor,14,Billy Toien,LIB,12, Question
-,Governor,14,Bill Walker,,3, Question
-,Governor,14,Write-ins,,0, Question
-,State Senate,14,Oliver Schiess,DEM,40, Question
-,State Senate,14,Lora Reinbold,REP,89, Question
-,State Senate,14,Write-ins,,0, Question
-,State House,14,Kelly Merrick,REP,75, Question
-,State House,14,Joe Hackenmueller,DEM,31, Question
-,State House,14,Write-ins,,0, Question
-,U.S. House,14,Alyse Galvin,DEM,479, Early Voting
-,U.S. House,14,Don Young,REP,447, Early Voting
-,U.S. House,14,Write-ins,,4, Early Voting
-,Governor,14,Mark Begich,DEM,478, Early Voting
-,Governor,14,Mike Dunleavy,REP,440, Early Voting
-,Governor,14,Billy Toien,LIB,12, Early Voting
-,Governor,14,Bill Walker,,5, Early Voting
-,Governor,14,Write-ins,,0, Early Voting
-,State Senate,14,Oliver Schiess,DEM,463, Early Voting
-,State Senate,14,Lora Reinbold,REP,457, Early Voting
-,State Senate,14,Write-ins,,8, Early Voting
-,State House,14,Kelly Merrick,REP,487, Early Voting
-,State House,14,Joe Hackenmueller,DEM,427, Early Voting
-,State House,14,Write-ins,,11, Early Voting
+,U.S. House,14,Alyse Galvin,DEM,555,Absentee
+,U.S. House,14,Don Young,REP,982,Absentee
+,U.S. House,14,Write-ins,,5,Absentee
+,Governor,14,Mark Begich,DEM,504,Absentee
+,Governor,14,Mike Dunleavy,REP,968,Absentee
+,Governor,14,Billy Toien,LIB,18,Absentee
+,Governor,14,Bill Walker,,56,Absentee
+,Governor,14,Write-ins,,2,Absentee
+,State Senate,14,Oliver Schiess,DEM,492,Absentee
+,State Senate,14,Lora Reinbold,REP,997,Absentee
+,State Senate,14,Write-ins,,6,Absentee
+,State House,14,Kelly Merrick,REP,979,Absentee
+,State House,14,Joe Hackenmueller,DEM,477,Absentee
+,State House,14,Write-ins,,10,Absentee
+,U.S. House,14,Alyse Galvin,DEM,88,Question
+,U.S. House,14,Don Young,REP,147,Question
+,U.S. House,14,Write-ins,,1,Question
+,Governor,14,Mark Begich,DEM,72,Question
+,Governor,14,Mike Dunleavy,REP,149,Question
+,Governor,14,Billy Toien,LIB,12,Question
+,Governor,14,Bill Walker,,3,Question
+,Governor,14,Write-ins,,0,Question
+,State Senate,14,Oliver Schiess,DEM,40,Question
+,State Senate,14,Lora Reinbold,REP,89,Question
+,State Senate,14,Write-ins,,0,Question
+,State House,14,Kelly Merrick,REP,75,Question
+,State House,14,Joe Hackenmueller,DEM,31,Question
+,State House,14,Write-ins,,0,Question
+,U.S. House,14,Alyse Galvin,DEM,479,Early Voting
+,U.S. House,14,Don Young,REP,447,Early Voting
+,U.S. House,14,Write-ins,,4,Early Voting
+,Governor,14,Mark Begich,DEM,478,Early Voting
+,Governor,14,Mike Dunleavy,REP,440,Early Voting
+,Governor,14,Billy Toien,LIB,12,Early Voting
+,Governor,14,Bill Walker,,5,Early Voting
+,Governor,14,Write-ins,,0,Early Voting
+,State Senate,14,Oliver Schiess,DEM,463,Early Voting
+,State Senate,14,Lora Reinbold,REP,457,Early Voting
+,State Senate,14,Write-ins,,8,Early Voting
+,State House,14,Kelly Merrick,REP,487,Early Voting
+,State House,14,Joe Hackenmueller,DEM,427,Early Voting
+,State House,14,Write-ins,,11,Early Voting

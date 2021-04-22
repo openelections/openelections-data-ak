@@ -104,48 +104,48 @@ county,office,district,candidate,party,votes,precinct
 ,State House,22,Dustin Darden,DEM,24,22-670
 ,State House,22,Sara Rasmussen,REP,172,22-670
 ,State House,22,Write-ins,,1,22-670
-,U.S. House,22,Alyse Galvin,DEM,294, Absentee
-,U.S. House,22,Don Young,REP,455, Absentee
-,U.S. House,22,Write-ins,,0, Absentee
-,Governor,22,Mark Begich,DEM,258, Absentee
-,Governor,22,Mike Dunleavy,REP,436, Absentee
-,Governor,22,Billy Toien,LIB,4, Absentee
-,Governor,22,Bill Walker,,52, Absentee
-,Governor,22,Write-ins,,3, Absentee
-,State Senate,22,Sam Cason,DEM,201, Absentee
-,State Senate,22,Mia Costello,REP,472, Absentee
-,State Senate,22,Write-ins,,1, Absentee
-,State House,22,Jason Grenn,,202, Absentee
-,State House,22,Dustin Darden,DEM,69, Absentee
-,State House,22,Sara Rasmussen,REP,399, Absentee
-,State House,22,Write-ins,,0, Absentee
-,U.S. House,22,Alyse Galvin,DEM,143, Question
-,U.S. House,22,Don Young,REP,151, Question
-,U.S. House,22,Write-ins,,0, Question
-,Governor,22,Mark Begich,DEM,139, Question
-,Governor,22,Mike Dunleavy,REP,141, Question
-,Governor,22,Billy Toien,LIB,9, Question
-,Governor,22,Bill Walker,,4, Question
-,Governor,22,Write-ins,,1, Question
-,State Senate,22,Sam Cason,DEM,46, Question
-,State Senate,22,Mia Costello,REP,65, Question
-,State Senate,22,Write-ins,,0, Question
-,State House,22,Jason Grenn,,37, Question
-,State House,22,Dustin Darden,DEM,21, Question
-,State House,22,Sara Rasmussen,REP,33, Question
-,State House,22,Write-ins,,0, Question
-,U.S. House,22,Alyse Galvin,DEM,674, Early Voting
-,U.S. House,22,Don Young,REP,538, Early Voting
-,U.S. House,22,Write-ins,,1, Early Voting
-,Governor,22,Mark Begich,DEM,660, Early Voting
-,Governor,22,Mike Dunleavy,REP,519, Early Voting
-,Governor,22,Billy Toien,LIB,11, Early Voting
-,Governor,22,Bill Walker,,25, Early Voting
-,Governor,22,Write-ins,,4, Early Voting
-,State Senate,22,Sam Cason,DEM,548, Early Voting
-,State Senate,22,Mia Costello,REP,646, Early Voting
-,State Senate,22,Write-ins,,2, Early Voting
-,State House,22,Jason Grenn,,548, Early Voting
-,State House,22,Dustin Darden,DEM,169, Early Voting
-,State House,22,Sara Rasmussen,REP,490, Early Voting
-,State House,22,Write-ins,,1, Early Voting
+,U.S. House,22,Alyse Galvin,DEM,294,Absentee
+,U.S. House,22,Don Young,REP,455,Absentee
+,U.S. House,22,Write-ins,,0,Absentee
+,Governor,22,Mark Begich,DEM,258,Absentee
+,Governor,22,Mike Dunleavy,REP,436,Absentee
+,Governor,22,Billy Toien,LIB,4,Absentee
+,Governor,22,Bill Walker,,52,Absentee
+,Governor,22,Write-ins,,3,Absentee
+,State Senate,22,Sam Cason,DEM,201,Absentee
+,State Senate,22,Mia Costello,REP,472,Absentee
+,State Senate,22,Write-ins,,1,Absentee
+,State House,22,Jason Grenn,,202,Absentee
+,State House,22,Dustin Darden,DEM,69,Absentee
+,State House,22,Sara Rasmussen,REP,399,Absentee
+,State House,22,Write-ins,,0,Absentee
+,U.S. House,22,Alyse Galvin,DEM,143,Question
+,U.S. House,22,Don Young,REP,151,Question
+,U.S. House,22,Write-ins,,0,Question
+,Governor,22,Mark Begich,DEM,139,Question
+,Governor,22,Mike Dunleavy,REP,141,Question
+,Governor,22,Billy Toien,LIB,9,Question
+,Governor,22,Bill Walker,,4,Question
+,Governor,22,Write-ins,,1,Question
+,State Senate,22,Sam Cason,DEM,46,Question
+,State Senate,22,Mia Costello,REP,65,Question
+,State Senate,22,Write-ins,,0,Question
+,State House,22,Jason Grenn,,37,Question
+,State House,22,Dustin Darden,DEM,21,Question
+,State House,22,Sara Rasmussen,REP,33,Question
+,State House,22,Write-ins,,0,Question
+,U.S. House,22,Alyse Galvin,DEM,674,Early Voting
+,U.S. House,22,Don Young,REP,538,Early Voting
+,U.S. House,22,Write-ins,,1,Early Voting
+,Governor,22,Mark Begich,DEM,660,Early Voting
+,Governor,22,Mike Dunleavy,REP,519,Early Voting
+,Governor,22,Billy Toien,LIB,11,Early Voting
+,Governor,22,Bill Walker,,25,Early Voting
+,Governor,22,Write-ins,,4,Early Voting
+,State Senate,22,Sam Cason,DEM,548,Early Voting
+,State Senate,22,Mia Costello,REP,646,Early Voting
+,State Senate,22,Write-ins,,2,Early Voting
+,State House,22,Jason Grenn,,548,Early Voting
+,State House,22,Dustin Darden,DEM,169,Early Voting
+,State House,22,Sara Rasmussen,REP,490,Early Voting
+,State House,22,Write-ins,,1,Early Voting

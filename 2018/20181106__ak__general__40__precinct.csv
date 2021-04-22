@@ -275,39 +275,39 @@ county,office,district,candidate,party,votes,precinct
 ,State House,40,Patrick Savok,,11,40-330
 ,State House,40,John Lincoln,DEM,28,40-330
 ,State House,40,Write-ins,,0,40-330
-,U.S. House,40,Alyse Galvin,DEM,168, Absentee
-,U.S. House,40,Don Young,REP,158, Absentee
-,U.S. House,40,Write-ins,,2, Absentee
-,Governor,40,Mark Begich,DEM,204, Absentee
-,Governor,40,Mike Dunleavy,REP,107, Absentee
-,Governor,40,Billy Toien,LIB,4, Absentee
-,Governor,40,Bill Walker,,18, Absentee
-,Governor,40,Write-ins,,0, Absentee
-,State House,40,Leanna Mack,,50, Absentee
-,State House,40,Patrick Savok,,58, Absentee
-,State House,40,John Lincoln,DEM,192, Absentee
-,State House,40,Write-ins,,3, Absentee
-,U.S. House,40,Alyse Galvin,DEM,111, Question
-,U.S. House,40,Don Young,REP,119, Question
-,U.S. House,40,Write-ins,,1, Question
-,Governor,40,Mark Begich,DEM,134, Question
-,Governor,40,Mike Dunleavy,REP,78, Question
-,Governor,40,Billy Toien,LIB,5, Question
-,Governor,40,Bill Walker,,12, Question
-,Governor,40,Write-ins,,3, Question
-,State House,40,Leanna Mack,,19, Question
-,State House,40,Patrick Savok,,33, Question
-,State House,40,John Lincoln,DEM,90, Question
-,State House,40,Write-ins,,3, Question
-,U.S. House,40,Alyse Galvin,DEM,38, Early Voting
-,U.S. House,40,Don Young,REP,36, Early Voting
-,U.S. House,40,Write-ins,,0, Early Voting
-,Governor,40,Mark Begich,DEM,44, Early Voting
-,Governor,40,Mike Dunleavy,REP,28, Early Voting
-,Governor,40,Billy Toien,LIB,0, Early Voting
-,Governor,40,Bill Walker,,2, Early Voting
-,Governor,40,Write-ins,,0, Early Voting
-,State House,40,Leanna Mack,,16, Early Voting
-,State House,40,Patrick Savok,,13, Early Voting
-,State House,40,John Lincoln,DEM,43, Early Voting
-,State House,40,Write-ins,,0, Early Voting
+,U.S. House,40,Alyse Galvin,DEM,168,Absentee
+,U.S. House,40,Don Young,REP,158,Absentee
+,U.S. House,40,Write-ins,,2,Absentee
+,Governor,40,Mark Begich,DEM,204,Absentee
+,Governor,40,Mike Dunleavy,REP,107,Absentee
+,Governor,40,Billy Toien,LIB,4,Absentee
+,Governor,40,Bill Walker,,18,Absentee
+,Governor,40,Write-ins,,0,Absentee
+,State House,40,Leanna Mack,,50,Absentee
+,State House,40,Patrick Savok,,58,Absentee
+,State House,40,John Lincoln,DEM,192,Absentee
+,State House,40,Write-ins,,3,Absentee
+,U.S. House,40,Alyse Galvin,DEM,111,Question
+,U.S. House,40,Don Young,REP,119,Question
+,U.S. House,40,Write-ins,,1,Question
+,Governor,40,Mark Begich,DEM,134,Question
+,Governor,40,Mike Dunleavy,REP,78,Question
+,Governor,40,Billy Toien,LIB,5,Question
+,Governor,40,Bill Walker,,12,Question
+,Governor,40,Write-ins,,3,Question
+,State House,40,Leanna Mack,,19,Question
+,State House,40,Patrick Savok,,33,Question
+,State House,40,John Lincoln,DEM,90,Question
+,State House,40,Write-ins,,3,Question
+,U.S. House,40,Alyse Galvin,DEM,38,Early Voting
+,U.S. House,40,Don Young,REP,36,Early Voting
+,U.S. House,40,Write-ins,,0,Early Voting
+,Governor,40,Mark Begich,DEM,44,Early Voting
+,Governor,40,Mike Dunleavy,REP,28,Early Voting
+,Governor,40,Billy Toien,LIB,0,Early Voting
+,Governor,40,Bill Walker,,2,Early Voting
+,Governor,40,Write-ins,,0,Early Voting
+,State House,40,Leanna Mack,,16,Early Voting
+,State House,40,Patrick Savok,,13,Early Voting
+,State House,40,John Lincoln,DEM,43,Early Voting
+,State House,40,Write-ins,,0,Early Voting
