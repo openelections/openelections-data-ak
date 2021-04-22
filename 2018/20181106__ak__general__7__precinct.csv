@@ -69,33 +69,33 @@ county,office,district,candidate,party,votes,precinct
 ,Governor,7,Write-ins,,2,07-130
 ,State House,7,Co Sullivan-Leonard,REP,393,07-130
 ,State House,7,Write-ins,,8,07-130
-,U.S. House,7,Alyse Galvin,DEM,186, Absentee
-,U.S. House,7,Don Young,REP,547, Absentee
-,U.S. House,7,Write-ins,,0, Absentee
-,Governor,7,Mark Begich,DEM,143, Absentee
-,Governor,7,Mike Dunleavy,REP,564, Absentee
-,Governor,7,Billy Toien,LIB,4, Absentee
-,Governor,7,Bill Walker,,27, Absentee
-,Governor,7,Write-ins,,2, Absentee
-,State House,7,Co Sullivan-Leonard,REP,585, Absentee
-,State House,7,Write-ins,,26, Absentee
-,U.S. House,7,Alyse Galvin,DEM,135, Question
-,U.S. House,7,Don Young,REP,347, Question
-,U.S. House,7,Write-ins,,4, Question
-,Governor,7,Mark Begich,DEM,99, Question
-,Governor,7,Mike Dunleavy,REP,364, Question
-,Governor,7,Billy Toien,LIB,23, Question
-,Governor,7,Bill Walker,,3, Question
-,Governor,7,Write-ins,,0, Question
-,State House,7,Co Sullivan-Leonard,REP,118, Question
-,State House,7,Write-ins,,2, Question
-,U.S. House,7,Alyse Galvin,DEM,570, Early Voting
-,U.S. House,7,Don Young,REP,1195, Early Voting
-,U.S. House,7,Write-ins,,7, Early Voting
-,Governor,7,Mark Begich,DEM,488, Early Voting
-,Governor,7,Mike Dunleavy,REP,1267, Early Voting
-,Governor,7,Billy Toien,LIB,18, Early Voting
-,Governor,7,Bill Walker,,11, Early Voting
-,Governor,7,Write-ins,,0, Early Voting
-,State House,7,Co Sullivan-Leonard,REP,1446, Early Voting
-,State House,7,Write-ins,,71, Early Voting
+,U.S. House,7,Alyse Galvin,DEM,186,Absentee
+,U.S. House,7,Don Young,REP,547,Absentee
+,U.S. House,7,Write-ins,,0,Absentee
+,Governor,7,Mark Begich,DEM,143,Absentee
+,Governor,7,Mike Dunleavy,REP,564,Absentee
+,Governor,7,Billy Toien,LIB,4,Absentee
+,Governor,7,Bill Walker,,27,Absentee
+,Governor,7,Write-ins,,2,Absentee
+,State House,7,Co Sullivan-Leonard,REP,585,Absentee
+,State House,7,Write-ins,,26,Absentee
+,U.S. House,7,Alyse Galvin,DEM,135,Question
+,U.S. House,7,Don Young,REP,347,Question
+,U.S. House,7,Write-ins,,4,Question
+,Governor,7,Mark Begich,DEM,99,Question
+,Governor,7,Mike Dunleavy,REP,364,Question
+,Governor,7,Billy Toien,LIB,23,Question
+,Governor,7,Bill Walker,,3,Question
+,Governor,7,Write-ins,,0,Question
+,State House,7,Co Sullivan-Leonard,REP,118,Question
+,State House,7,Write-ins,,2,Question
+,U.S. House,7,Alyse Galvin,DEM,570,Early Voting
+,U.S. House,7,Don Young,REP,1195,Early Voting
+,U.S. House,7,Write-ins,,7,Early Voting
+,Governor,7,Mark Begich,DEM,488,Early Voting
+,Governor,7,Mike Dunleavy,REP,1267,Early Voting
+,Governor,7,Billy Toien,LIB,18,Early Voting
+,Governor,7,Bill Walker,,11,Early Voting
+,Governor,7,Write-ins,,0,Early Voting
+,State House,7,Co Sullivan-Leonard,REP,1446,Early Voting
+,State House,7,Write-ins,,71,Early Voting

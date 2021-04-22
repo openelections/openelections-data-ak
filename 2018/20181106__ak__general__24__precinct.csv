@@ -76,36 +76,36 @@ county,office,district,candidate,party,votes,precinct
 ,State House,24,Charles Kopp,REP,744,24-730
 ,State House,24,Sue Levi,DEM,452,24-730
 ,State House,24,Write-ins,,1,24-730
-,U.S. House,24,Alyse Galvin,DEM,394, Absentee
-,U.S. House,24,Don Young,REP,643, Absentee
-,U.S. House,24,Write-ins,,2, Absentee
-,Governor,24,Mark Begich,DEM,345, Absentee
-,Governor,24,Mike Dunleavy,REP,621, Absentee
-,Governor,24,Billy Toien,LIB,15, Absentee
-,Governor,24,Bill Walker,,62, Absentee
-,Governor,24,Write-ins,,3, Absentee
-,State House,24,Charles Kopp,REP,668, Absentee
-,State House,24,Sue Levi,DEM,309, Absentee
-,State House,24,Write-ins,,2, Absentee
-,U.S. House,24,Alyse Galvin,DEM,126, Question
-,U.S. House,24,Don Young,REP,115, Question
-,U.S. House,24,Write-ins,,1, Question
-,Governor,24,Mark Begich,DEM,90, Question
-,Governor,24,Mike Dunleavy,REP,144, Question
-,Governor,24,Billy Toien,LIB,6, Question
-,Governor,24,Bill Walker,,5, Question
-,Governor,24,Write-ins,,1, Question
-,State House,24,Charles Kopp,REP,50, Question
-,State House,24,Sue Levi,DEM,39, Question
-,State House,24,Write-ins,,2, Question
-,U.S. House,24,Alyse Galvin,DEM,757, Early Voting
-,U.S. House,24,Don Young,REP,567, Early Voting
-,U.S. House,24,Write-ins,,6, Early Voting
-,Governor,24,Mark Begich,DEM,768, Early Voting
-,Governor,24,Mike Dunleavy,REP,537, Early Voting
-,Governor,24,Billy Toien,LIB,16, Early Voting
-,Governor,24,Bill Walker,,9, Early Voting
-,Governor,24,Write-ins,,2, Early Voting
-,State House,24,Charles Kopp,REP,640, Early Voting
-,State House,24,Sue Levi,DEM,665, Early Voting
-,State House,24,Write-ins,,5, Early Voting
+,U.S. House,24,Alyse Galvin,DEM,394,Absentee
+,U.S. House,24,Don Young,REP,643,Absentee
+,U.S. House,24,Write-ins,,2,Absentee
+,Governor,24,Mark Begich,DEM,345,Absentee
+,Governor,24,Mike Dunleavy,REP,621,Absentee
+,Governor,24,Billy Toien,LIB,15,Absentee
+,Governor,24,Bill Walker,,62,Absentee
+,Governor,24,Write-ins,,3,Absentee
+,State House,24,Charles Kopp,REP,668,Absentee
+,State House,24,Sue Levi,DEM,309,Absentee
+,State House,24,Write-ins,,2,Absentee
+,U.S. House,24,Alyse Galvin,DEM,126,Question
+,U.S. House,24,Don Young,REP,115,Question
+,U.S. House,24,Write-ins,,1,Question
+,Governor,24,Mark Begich,DEM,90,Question
+,Governor,24,Mike Dunleavy,REP,144,Question
+,Governor,24,Billy Toien,LIB,6,Question
+,Governor,24,Bill Walker,,5,Question
+,Governor,24,Write-ins,,1,Question
+,State House,24,Charles Kopp,REP,50,Question
+,State House,24,Sue Levi,DEM,39,Question
+,State House,24,Write-ins,,2,Question
+,U.S. House,24,Alyse Galvin,DEM,757,Early Voting
+,U.S. House,24,Don Young,REP,567,Early Voting
+,U.S. House,24,Write-ins,,6,Early Voting
+,Governor,24,Mark Begich,DEM,768,Early Voting
+,Governor,24,Mike Dunleavy,REP,537,Early Voting
+,Governor,24,Billy Toien,LIB,16,Early Voting
+,Governor,24,Bill Walker,,9,Early Voting
+,Governor,24,Write-ins,,2,Early Voting
+,State House,24,Charles Kopp,REP,640,Early Voting
+,State House,24,Sue Levi,DEM,665,Early Voting
+,State House,24,Write-ins,,5,Early Voting

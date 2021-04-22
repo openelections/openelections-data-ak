@@ -97,45 +97,45 @@ county,office,district,candidate,party,votes,precinct
 ,State House,17,Marcus Sanders,REP,166,17-430
 ,State House,17,Andrew Josephson,DEM,202,17-430
 ,State House,17,Write-ins,,1,17-430
-,U.S. House,17,Alyse Galvin,DEM,341, Absentee
-,U.S. House,17,Don Young,REP,269, Absentee
-,U.S. House,17,Write-ins,,1, Absentee
-,Governor,17,Mark Begich,DEM,309, Absentee
-,Governor,17,Mike Dunleavy,REP,261, Absentee
-,Governor,17,Billy Toien,LIB,10, Absentee
-,Governor,17,Bill Walker,,33, Absentee
-,Governor,17,Write-ins,,0, Absentee
-,State Senate,17,Elvi Gray-Jackson,DEM,273, Absentee
-,State Senate,17,Jim Crawford,REP,252, Absentee
-,State Senate,17,Write-ins,,0, Absentee
-,State House,17,Marcus Sanders,REP,247, Absentee
-,State House,17,Andrew Josephson,DEM,273, Absentee
-,State House,17,Write-ins,,1, Absentee
-,U.S. House,17,Alyse Galvin,DEM,208, Question
-,U.S. House,17,Don Young,REP,163, Question
-,U.S. House,17,Write-ins,,2, Question
-,Governor,17,Mark Begich,DEM,203, Question
-,Governor,17,Mike Dunleavy,REP,146, Question
-,Governor,17,Billy Toien,LIB,17, Question
-,Governor,17,Bill Walker,,3, Question
-,Governor,17,Write-ins,,2, Question
-,State Senate,17,Elvi Gray-Jackson,DEM,46, Question
-,State Senate,17,Jim Crawford,REP,35, Question
-,State Senate,17,Write-ins,,0, Question
-,State House,17,Marcus Sanders,REP,27, Question
-,State House,17,Andrew Josephson,DEM,39, Question
-,State House,17,Write-ins,,0, Question
-,U.S. House,17,Alyse Galvin,DEM,784, Early Voting
-,U.S. House,17,Don Young,REP,317, Early Voting
-,U.S. House,17,Write-ins,,2, Early Voting
-,Governor,17,Mark Begich,DEM,777, Early Voting
-,Governor,17,Mike Dunleavy,REP,308, Early Voting
-,Governor,17,Billy Toien,LIB,6, Early Voting
-,Governor,17,Bill Walker,,8, Early Voting
-,Governor,17,Write-ins,,2, Early Voting
-,State Senate,17,Elvi Gray-Jackson,DEM,755, Early Voting
-,State Senate,17,Jim Crawford,REP,321, Early Voting
-,State Senate,17,Write-ins,,6, Early Voting
-,State House,17,Marcus Sanders,REP,323, Early Voting
-,State House,17,Andrew Josephson,DEM,757, Early Voting
-,State House,17,Write-ins,,1, Early Voting
+,U.S. House,17,Alyse Galvin,DEM,341,Absentee
+,U.S. House,17,Don Young,REP,269,Absentee
+,U.S. House,17,Write-ins,,1,Absentee
+,Governor,17,Mark Begich,DEM,309,Absentee
+,Governor,17,Mike Dunleavy,REP,261,Absentee
+,Governor,17,Billy Toien,LIB,10,Absentee
+,Governor,17,Bill Walker,,33,Absentee
+,Governor,17,Write-ins,,0,Absentee
+,State Senate,17,Elvi Gray-Jackson,DEM,273,Absentee
+,State Senate,17,Jim Crawford,REP,252,Absentee
+,State Senate,17,Write-ins,,0,Absentee
+,State House,17,Marcus Sanders,REP,247,Absentee
+,State House,17,Andrew Josephson,DEM,273,Absentee
+,State House,17,Write-ins,,1,Absentee
+,U.S. House,17,Alyse Galvin,DEM,208,Question
+,U.S. House,17,Don Young,REP,163,Question
+,U.S. House,17,Write-ins,,2,Question
+,Governor,17,Mark Begich,DEM,203,Question
+,Governor,17,Mike Dunleavy,REP,146,Question
+,Governor,17,Billy Toien,LIB,17,Question
+,Governor,17,Bill Walker,,3,Question
+,Governor,17,Write-ins,,2,Question
+,State Senate,17,Elvi Gray-Jackson,DEM,46,Question
+,State Senate,17,Jim Crawford,REP,35,Question
+,State Senate,17,Write-ins,,0,Question
+,State House,17,Marcus Sanders,REP,27,Question
+,State House,17,Andrew Josephson,DEM,39,Question
+,State House,17,Write-ins,,0,Question
+,U.S. House,17,Alyse Galvin,DEM,784,Early Voting
+,U.S. House,17,Don Young,REP,317,Early Voting
+,U.S. House,17,Write-ins,,2,Early Voting
+,Governor,17,Mark Begich,DEM,777,Early Voting
+,Governor,17,Mike Dunleavy,REP,308,Early Voting
+,Governor,17,Billy Toien,LIB,6,Early Voting
+,Governor,17,Bill Walker,,8,Early Voting
+,Governor,17,Write-ins,,2,Early Voting
+,State Senate,17,Elvi Gray-Jackson,DEM,755,Early Voting
+,State Senate,17,Jim Crawford,REP,321,Early Voting
+,State Senate,17,Write-ins,,6,Early Voting
+,State House,17,Marcus Sanders,REP,323,Early Voting
+,State House,17,Andrew Josephson,DEM,757,Early Voting
+,State House,17,Write-ins,,1,Early Voting

@@ -83,45 +83,45 @@ county,office,district,candidate,party,votes,precinct
 ,State House,13,Danyelle Kimp,DEM,71,13-260
 ,State House,13,Nancy Dahlstrom,REP,55,13-260
 ,State House,13,Write-ins,,1,13-260
-,U.S. House,13,Alyse Galvin,DEM,288, Absentee
-,U.S. House,13,Don Young,REP,603, Absentee
-,U.S. House,13,Write-ins,,0, Absentee
-,Governor,13,Mark Begich,DEM,256, Absentee
-,Governor,13,Mike Dunleavy,REP,604, Absentee
-,Governor,13,Billy Toien,LIB,8, Absentee
-,Governor,13,Bill Walker,,24, Absentee
-,Governor,13,Write-ins,,0, Absentee
-,State Senate,13,Oliver Schiess,DEM,257, Absentee
-,State Senate,13,Lora Reinbold,REP,595, Absentee
-,State Senate,13,Write-ins,,3, Absentee
-,State House,13,Danyelle Kimp,DEM,235, Absentee
-,State House,13,Nancy Dahlstrom,REP,610, Absentee
-,State House,13,Write-ins,,1, Absentee
-,U.S. House,13,Alyse Galvin,DEM,93, Question
-,U.S. House,13,Don Young,REP,150, Question
-,U.S. House,13,Write-ins,,1, Question
-,Governor,13,Mark Begich,DEM,86, Question
-,Governor,13,Mike Dunleavy,REP,147, Question
-,Governor,13,Billy Toien,LIB,7, Question
-,Governor,13,Bill Walker,,7, Question
-,Governor,13,Write-ins,,1, Question
-,State Senate,13,Oliver Schiess,DEM,28, Question
-,State Senate,13,Lora Reinbold,REP,56, Question
-,State Senate,13,Write-ins,,1, Question
-,State House,13,Danyelle Kimp,DEM,12, Question
-,State House,13,Nancy Dahlstrom,REP,45, Question
-,State House,13,Write-ins,,0, Question
-,U.S. House,13,Alyse Galvin,DEM,175, Early Voting
-,U.S. House,13,Don Young,REP,194, Early Voting
-,U.S. House,13,Write-ins,,1, Early Voting
-,Governor,13,Mark Begich,DEM,172, Early Voting
-,Governor,13,Mike Dunleavy,REP,185, Early Voting
-,Governor,13,Billy Toien,LIB,5, Early Voting
-,Governor,13,Bill Walker,,8, Early Voting
-,Governor,13,Write-ins,,0, Early Voting
-,State Senate,13,Oliver Schiess,DEM,166, Early Voting
-,State Senate,13,Lora Reinbold,REP,198, Early Voting
-,State Senate,13,Write-ins,,3, Early Voting
-,State House,13,Danyelle Kimp,DEM,146, Early Voting
-,State House,13,Nancy Dahlstrom,REP,214, Early Voting
-,State House,13,Write-ins,,2, Early Voting
+,U.S. House,13,Alyse Galvin,DEM,288,Absentee
+,U.S. House,13,Don Young,REP,603,Absentee
+,U.S. House,13,Write-ins,,0,Absentee
+,Governor,13,Mark Begich,DEM,256,Absentee
+,Governor,13,Mike Dunleavy,REP,604,Absentee
+,Governor,13,Billy Toien,LIB,8,Absentee
+,Governor,13,Bill Walker,,24,Absentee
+,Governor,13,Write-ins,,0,Absentee
+,State Senate,13,Oliver Schiess,DEM,257,Absentee
+,State Senate,13,Lora Reinbold,REP,595,Absentee
+,State Senate,13,Write-ins,,3,Absentee
+,State House,13,Danyelle Kimp,DEM,235,Absentee
+,State House,13,Nancy Dahlstrom,REP,610,Absentee
+,State House,13,Write-ins,,1,Absentee
+,U.S. House,13,Alyse Galvin,DEM,93,Question
+,U.S. House,13,Don Young,REP,150,Question
+,U.S. House,13,Write-ins,,1,Question
+,Governor,13,Mark Begich,DEM,86,Question
+,Governor,13,Mike Dunleavy,REP,147,Question
+,Governor,13,Billy Toien,LIB,7,Question
+,Governor,13,Bill Walker,,7,Question
+,Governor,13,Write-ins,,1,Question
+,State Senate,13,Oliver Schiess,DEM,28,Question
+,State Senate,13,Lora Reinbold,REP,56,Question
+,State Senate,13,Write-ins,,1,Question
+,State House,13,Danyelle Kimp,DEM,12,Question
+,State House,13,Nancy Dahlstrom,REP,45,Question
+,State House,13,Write-ins,,0,Question
+,U.S. House,13,Alyse Galvin,DEM,175,Early Voting
+,U.S. House,13,Don Young,REP,194,Early Voting
+,U.S. House,13,Write-ins,,1,Early Voting
+,Governor,13,Mark Begich,DEM,172,Early Voting
+,Governor,13,Mike Dunleavy,REP,185,Early Voting
+,Governor,13,Billy Toien,LIB,5,Early Voting
+,Governor,13,Bill Walker,,8,Early Voting
+,Governor,13,Write-ins,,0,Early Voting
+,State Senate,13,Oliver Schiess,DEM,166,Early Voting
+,State Senate,13,Lora Reinbold,REP,198,Early Voting
+,State Senate,13,Write-ins,,3,Early Voting
+,State House,13,Danyelle Kimp,DEM,146,Early Voting
+,State House,13,Nancy Dahlstrom,REP,214,Early Voting
+,State House,13,Write-ins,,2,Early Voting

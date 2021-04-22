@@ -98,36 +98,36 @@ county,office,district,candidate,party,votes,precinct
 ,State House,28,Amber Lee,DEM,294,28-145
 ,State House,28,Jennifer Johnston,REP,411,28-145
 ,State House,28,Write-ins,,3,28-145
-,U.S. House,28,Alyse Galvin,DEM,681, Absentee
-,U.S. House,28,Don Young,REP,879, Absentee
-,U.S. House,28,Write-ins,,3, Absentee
-,Governor,28,Mark Begich,DEM,602, Absentee
-,Governor,28,Mike Dunleavy,REP,859, Absentee
-,Governor,28,Billy Toien,LIB,8, Absentee
-,Governor,28,Bill Walker,,97, Absentee
-,Governor,28,Write-ins,,3, Absentee
-,State House,28,Amber Lee,DEM,578, Absentee
-,State House,28,Jennifer Johnston,REP,925, Absentee
-,State House,28,Write-ins,,3, Absentee
-,U.S. House,28,Alyse Galvin,DEM,135, Question
-,U.S. House,28,Don Young,REP,111, Question
-,U.S. House,28,Write-ins,,1, Question
-,Governor,28,Mark Begich,DEM,116, Question
-,Governor,28,Mike Dunleavy,REP,115, Question
-,Governor,28,Billy Toien,LIB,9, Question
-,Governor,28,Bill Walker,,6, Question
-,Governor,28,Write-ins,,0, Question
-,State House,28,Amber Lee,DEM,45, Question
-,State House,28,Jennifer Johnston,REP,46, Question
-,State House,28,Write-ins,,2, Question
-,U.S. House,28,Alyse Galvin,DEM,1156, Early Voting
-,U.S. House,28,Don Young,REP,815, Early Voting
-,U.S. House,28,Write-ins,,3, Early Voting
-,Governor,28,Mark Begich,DEM,1127, Early Voting
-,Governor,28,Mike Dunleavy,REP,822, Early Voting
-,Governor,28,Billy Toien,LIB,14, Early Voting
-,Governor,28,Bill Walker,,15, Early Voting
-,Governor,28,Write-ins,,2, Early Voting
-,State House,28,Amber Lee,DEM,1050, Early Voting
-,State House,28,Jennifer Johnston,REP,901, Early Voting
-,State House,28,Write-ins,,5, Early Voting
+,U.S. House,28,Alyse Galvin,DEM,681,Absentee
+,U.S. House,28,Don Young,REP,879,Absentee
+,U.S. House,28,Write-ins,,3,Absentee
+,Governor,28,Mark Begich,DEM,602,Absentee
+,Governor,28,Mike Dunleavy,REP,859,Absentee
+,Governor,28,Billy Toien,LIB,8,Absentee
+,Governor,28,Bill Walker,,97,Absentee
+,Governor,28,Write-ins,,3,Absentee
+,State House,28,Amber Lee,DEM,578,Absentee
+,State House,28,Jennifer Johnston,REP,925,Absentee
+,State House,28,Write-ins,,3,Absentee
+,U.S. House,28,Alyse Galvin,DEM,135,Question
+,U.S. House,28,Don Young,REP,111,Question
+,U.S. House,28,Write-ins,,1,Question
+,Governor,28,Mark Begich,DEM,116,Question
+,Governor,28,Mike Dunleavy,REP,115,Question
+,Governor,28,Billy Toien,LIB,9,Question
+,Governor,28,Bill Walker,,6,Question
+,Governor,28,Write-ins,,0,Question
+,State House,28,Amber Lee,DEM,45,Question
+,State House,28,Jennifer Johnston,REP,46,Question
+,State House,28,Write-ins,,2,Question
+,U.S. House,28,Alyse Galvin,DEM,1156,Early Voting
+,U.S. House,28,Don Young,REP,815,Early Voting
+,U.S. House,28,Write-ins,,3,Early Voting
+,Governor,28,Mark Begich,DEM,1127,Early Voting
+,Governor,28,Mike Dunleavy,REP,822,Early Voting
+,Governor,28,Billy Toien,LIB,14,Early Voting
+,Governor,28,Bill Walker,,15,Early Voting
+,Governor,28,Write-ins,,2,Early Voting
+,State House,28,Amber Lee,DEM,1050,Early Voting
+,State House,28,Jennifer Johnston,REP,901,Early Voting
+,State House,28,Write-ins,,5,Early Voting

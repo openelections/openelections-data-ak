@@ -76,36 +76,36 @@ county,office,district,candidate,party,votes,precinct
 ,State House,12,Cathy Tilton,REP,368,12-233
 ,State House,12,Stephany Jeffers,DEM,126,12-233
 ,State House,12,Write-ins,,3,12-233
-,U.S. House,12,Alyse Galvin,DEM,436, Absentee
-,U.S. House,12,Don Young,REP,965, Absentee
-,U.S. House,12,Write-ins,,3, Absentee
-,Governor,12,Mark Begich,DEM,386, Absentee
-,Governor,12,Mike Dunleavy,REP,968, Absentee
-,Governor,12,Billy Toien,LIB,12, Absentee
-,Governor,12,Bill Walker,,39, Absentee
-,Governor,12,Write-ins,,0, Absentee
-,State House,12,Cathy Tilton,REP,987, Absentee
-,State House,12,Stephany Jeffers,DEM,328, Absentee
-,State House,12,Write-ins,,0, Absentee
-,U.S. House,12,Alyse Galvin,DEM,81, Question
-,U.S. House,12,Don Young,REP,161, Question
-,U.S. House,12,Write-ins,,1, Question
-,Governor,12,Mark Begich,DEM,55, Question
-,Governor,12,Mike Dunleavy,REP,179, Question
-,Governor,12,Billy Toien,LIB,7, Question
-,Governor,12,Bill Walker,,4, Question
-,Governor,12,Write-ins,,0, Question
-,State House,12,Cathy Tilton,REP,40, Question
-,State House,12,Stephany Jeffers,DEM,18, Question
-,State House,12,Write-ins,,0, Question
-,U.S. House,12,Alyse Galvin,DEM,395, Early Voting
-,U.S. House,12,Don Young,REP,783, Early Voting
-,U.S. House,12,Write-ins,,1, Early Voting
-,Governor,12,Mark Begich,DEM,386, Early Voting
-,Governor,12,Mike Dunleavy,REP,778, Early Voting
-,Governor,12,Billy Toien,LIB,15, Early Voting
-,Governor,12,Bill Walker,,6, Early Voting
-,Governor,12,Write-ins,,1, Early Voting
-,State House,12,Cathy Tilton,REP,832, Early Voting
-,State House,12,Stephany Jeffers,DEM,338, Early Voting
-,State House,12,Write-ins,,0, Early Voting
+,U.S. House,12,Alyse Galvin,DEM,436,Absentee
+,U.S. House,12,Don Young,REP,965,Absentee
+,U.S. House,12,Write-ins,,3,Absentee
+,Governor,12,Mark Begich,DEM,386,Absentee
+,Governor,12,Mike Dunleavy,REP,968,Absentee
+,Governor,12,Billy Toien,LIB,12,Absentee
+,Governor,12,Bill Walker,,39,Absentee
+,Governor,12,Write-ins,,0,Absentee
+,State House,12,Cathy Tilton,REP,987,Absentee
+,State House,12,Stephany Jeffers,DEM,328,Absentee
+,State House,12,Write-ins,,0,Absentee
+,U.S. House,12,Alyse Galvin,DEM,81,Question
+,U.S. House,12,Don Young,REP,161,Question
+,U.S. House,12,Write-ins,,1,Question
+,Governor,12,Mark Begich,DEM,55,Question
+,Governor,12,Mike Dunleavy,REP,179,Question
+,Governor,12,Billy Toien,LIB,7,Question
+,Governor,12,Bill Walker,,4,Question
+,Governor,12,Write-ins,,0,Question
+,State House,12,Cathy Tilton,REP,40,Question
+,State House,12,Stephany Jeffers,DEM,18,Question
+,State House,12,Write-ins,,0,Question
+,U.S. House,12,Alyse Galvin,DEM,395,Early Voting
+,U.S. House,12,Don Young,REP,783,Early Voting
+,U.S. House,12,Write-ins,,1,Early Voting
+,Governor,12,Mark Begich,DEM,386,Early Voting
+,Governor,12,Mike Dunleavy,REP,778,Early Voting
+,Governor,12,Billy Toien,LIB,15,Early Voting
+,Governor,12,Bill Walker,,6,Early Voting
+,Governor,12,Write-ins,,1,Early Voting
+,State House,12,Cathy Tilton,REP,832,Early Voting
+,State House,12,Stephany Jeffers,DEM,338,Early Voting
+,State House,12,Write-ins,,0,Early Voting

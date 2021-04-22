@@ -97,45 +97,45 @@ county,office,district,candidate,party,votes,precinct
 ,State House,34,Jerry Nankervis,REP,534,34-460
 ,State House,34,Andrea Story,DEM,444,34-460
 ,State House,34,Write-ins,,0,34-460
-,U.S. House,34,Alyse Galvin,DEM,451, Absentee
-,U.S. House,34,Don Young,REP,383, Absentee
-,U.S. House,34,Write-ins,,2, Absentee
-,Governor,34,Mark Begich,DEM,387, Absentee
-,Governor,34,Mike Dunleavy,REP,354, Absentee
-,Governor,34,Billy Toien,LIB,5, Absentee
-,Governor,34,Bill Walker,,89, Absentee
-,Governor,34,Write-ins,,1, Absentee
-,State Senate,34,Jesse Kiehl,DEM,441, Absentee
-,State Senate,34,Don Etheridge,,360, Absentee
-,State Senate,34,Write-ins,,4, Absentee
-,State House,34,Jerry Nankervis,REP,361, Absentee
-,State House,34,Andrea Story,DEM,418, Absentee
-,State House,34,Write-ins,,1, Absentee
-,U.S. House,34,Alyse Galvin,DEM,152, Question
-,U.S. House,34,Don Young,REP,115, Question
-,U.S. House,34,Write-ins,,2, Question
-,Governor,34,Mark Begich,DEM,130, Question
-,Governor,34,Mike Dunleavy,REP,122, Question
-,Governor,34,Billy Toien,LIB,10, Question
-,Governor,34,Bill Walker,,8, Question
-,Governor,34,Write-ins,,1, Question
-,State Senate,34,Jesse Kiehl,DEM,116, Question
-,State Senate,34,Don Etheridge,,108, Question
-,State Senate,34,Write-ins,,1, Question
-,State House,34,Jerry Nankervis,REP,71, Question
-,State House,34,Andrea Story,DEM,76, Question
-,State House,34,Write-ins,,3, Question
-,U.S. House,34,Alyse Galvin,DEM,2065, Early Voting
-,U.S. House,34,Don Young,REP,1193, Early Voting
-,U.S. House,34,Write-ins,,6, Early Voting
-,Governor,34,Mark Begich,DEM,1948, Early Voting
-,Governor,34,Mike Dunleavy,REP,1242, Early Voting
-,Governor,34,Billy Toien,LIB,32, Early Voting
-,Governor,34,Bill Walker,,51, Early Voting
-,Governor,34,Write-ins,,8, Early Voting
-,State Senate,34,Jesse Kiehl,DEM,1948, Early Voting
-,State Senate,34,Don Etheridge,,1261, Early Voting
-,State Senate,34,Write-ins,,9, Early Voting
-,State House,34,Jerry Nankervis,REP,1333, Early Voting
-,State House,34,Andrea Story,DEM,1926, Early Voting
-,State House,34,Write-ins,,5, Early Voting
+,U.S. House,34,Alyse Galvin,DEM,451,Absentee
+,U.S. House,34,Don Young,REP,383,Absentee
+,U.S. House,34,Write-ins,,2,Absentee
+,Governor,34,Mark Begich,DEM,387,Absentee
+,Governor,34,Mike Dunleavy,REP,354,Absentee
+,Governor,34,Billy Toien,LIB,5,Absentee
+,Governor,34,Bill Walker,,89,Absentee
+,Governor,34,Write-ins,,1,Absentee
+,State Senate,34,Jesse Kiehl,DEM,441,Absentee
+,State Senate,34,Don Etheridge,,360,Absentee
+,State Senate,34,Write-ins,,4,Absentee
+,State House,34,Jerry Nankervis,REP,361,Absentee
+,State House,34,Andrea Story,DEM,418,Absentee
+,State House,34,Write-ins,,1,Absentee
+,U.S. House,34,Alyse Galvin,DEM,152,Question
+,U.S. House,34,Don Young,REP,115,Question
+,U.S. House,34,Write-ins,,2,Question
+,Governor,34,Mark Begich,DEM,130,Question
+,Governor,34,Mike Dunleavy,REP,122,Question
+,Governor,34,Billy Toien,LIB,10,Question
+,Governor,34,Bill Walker,,8,Question
+,Governor,34,Write-ins,,1,Question
+,State Senate,34,Jesse Kiehl,DEM,116,Question
+,State Senate,34,Don Etheridge,,108,Question
+,State Senate,34,Write-ins,,1,Question
+,State House,34,Jerry Nankervis,REP,71,Question
+,State House,34,Andrea Story,DEM,76,Question
+,State House,34,Write-ins,,3,Question
+,U.S. House,34,Alyse Galvin,DEM,2065,Early Voting
+,U.S. House,34,Don Young,REP,1193,Early Voting
+,U.S. House,34,Write-ins,,6,Early Voting
+,Governor,34,Mark Begich,DEM,1948,Early Voting
+,Governor,34,Mike Dunleavy,REP,1242,Early Voting
+,Governor,34,Billy Toien,LIB,32,Early Voting
+,Governor,34,Bill Walker,,51,Early Voting
+,Governor,34,Write-ins,,8,Early Voting
+,State Senate,34,Jesse Kiehl,DEM,1948,Early Voting
+,State Senate,34,Don Etheridge,,1261,Early Voting
+,State Senate,34,Write-ins,,9,Early Voting
+,State House,34,Jerry Nankervis,REP,1333,Early Voting
+,State House,34,Andrea Story,DEM,1926,Early Voting
+,State House,34,Write-ins,,5,Early Voting

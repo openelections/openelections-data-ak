@@ -164,48 +164,48 @@ county,office,district,candidate,party,votes,precinct
 ,State House,9,Bill Johnson,DEM,32,09-665
 ,State House,9,George Rauscher,REP,35,09-665
 ,State House,9,Write-ins,,0,09-665
-,U.S. House,9,Alyse Galvin,DEM,482, Absentee
-,U.S. House,9,Don Young,REP,882, Absentee
-,U.S. House,9,Write-ins,,12, Absentee
-,Governor,9,Mark Begich,DEM,404, Absentee
-,Governor,9,Mike Dunleavy,REP,893, Absentee
-,Governor,9,Billy Toien,LIB,21, Absentee
-,Governor,9,Bill Walker,,59, Absentee
-,Governor,9,Write-ins,,3, Absentee
-,State Senate,9,Susan Kay,DEM,369, Absentee
-,State Senate,9,Michael Shower,REP,917, Absentee
-,State Senate,9,Write-ins,,9, Absentee
-,State House,9,James Squyres,,74, Absentee
-,State House,9,Bill Johnson,DEM,370, Absentee
-,State House,9,George Rauscher,REP,840, Absentee
-,State House,9,Write-ins,,9, Absentee
-,U.S. House,9,Alyse Galvin,DEM,101, Question
-,U.S. House,9,Don Young,REP,207, Question
-,U.S. House,9,Write-ins,,0, Question
-,Governor,9,Mark Begich,DEM,101, Question
-,Governor,9,Mike Dunleavy,REP,192, Question
-,Governor,9,Billy Toien,LIB,10, Question
-,Governor,9,Bill Walker,,9, Question
-,Governor,9,Write-ins,,0, Question
-,State Senate,9,Susan Kay,DEM,35, Question
-,State Senate,9,Michael Shower,REP,85, Question
-,State Senate,9,Write-ins,,0, Question
-,State House,9,James Squyres,,10, Question
-,State House,9,Bill Johnson,DEM,36, Question
-,State House,9,George Rauscher,REP,64, Question
-,State House,9,Write-ins,,1, Question
-,U.S. House,9,Alyse Galvin,DEM,352, Early Voting
-,U.S. House,9,Don Young,REP,522, Early Voting
-,U.S. House,9,Write-ins,,1, Early Voting
-,Governor,9,Mark Begich,DEM,320, Early Voting
-,Governor,9,Mike Dunleavy,REP,544, Early Voting
-,Governor,9,Billy Toien,LIB,7, Early Voting
-,Governor,9,Bill Walker,,6, Early Voting
-,Governor,9,Write-ins,,0, Early Voting
-,State Senate,9,Susan Kay,DEM,303, Early Voting
-,State Senate,9,Michael Shower,REP,561, Early Voting
-,State Senate,9,Write-ins,,0, Early Voting
-,State House,9,James Squyres,,31, Early Voting
-,State House,9,Bill Johnson,DEM,285, Early Voting
-,State House,9,George Rauscher,REP,545, Early Voting
-,State House,9,Write-ins,,5, Early Voting
+,U.S. House,9,Alyse Galvin,DEM,482,Absentee
+,U.S. House,9,Don Young,REP,882,Absentee
+,U.S. House,9,Write-ins,,12,Absentee
+,Governor,9,Mark Begich,DEM,404,Absentee
+,Governor,9,Mike Dunleavy,REP,893,Absentee
+,Governor,9,Billy Toien,LIB,21,Absentee
+,Governor,9,Bill Walker,,59,Absentee
+,Governor,9,Write-ins,,3,Absentee
+,State Senate,9,Susan Kay,DEM,369,Absentee
+,State Senate,9,Michael Shower,REP,917,Absentee
+,State Senate,9,Write-ins,,9,Absentee
+,State House,9,James Squyres,,74,Absentee
+,State House,9,Bill Johnson,DEM,370,Absentee
+,State House,9,George Rauscher,REP,840,Absentee
+,State House,9,Write-ins,,9,Absentee
+,U.S. House,9,Alyse Galvin,DEM,101,Question
+,U.S. House,9,Don Young,REP,207,Question
+,U.S. House,9,Write-ins,,0,Question
+,Governor,9,Mark Begich,DEM,101,Question
+,Governor,9,Mike Dunleavy,REP,192,Question
+,Governor,9,Billy Toien,LIB,10,Question
+,Governor,9,Bill Walker,,9,Question
+,Governor,9,Write-ins,,0,Question
+,State Senate,9,Susan Kay,DEM,35,Question
+,State Senate,9,Michael Shower,REP,85,Question
+,State Senate,9,Write-ins,,0,Question
+,State House,9,James Squyres,,10,Question
+,State House,9,Bill Johnson,DEM,36,Question
+,State House,9,George Rauscher,REP,64,Question
+,State House,9,Write-ins,,1,Question
+,U.S. House,9,Alyse Galvin,DEM,352,Early Voting
+,U.S. House,9,Don Young,REP,522,Early Voting
+,U.S. House,9,Write-ins,,1,Early Voting
+,Governor,9,Mark Begich,DEM,320,Early Voting
+,Governor,9,Mike Dunleavy,REP,544,Early Voting
+,Governor,9,Billy Toien,LIB,7,Early Voting
+,Governor,9,Bill Walker,,6,Early Voting
+,Governor,9,Write-ins,,0,Early Voting
+,State Senate,9,Susan Kay,DEM,303,Early Voting
+,State Senate,9,Michael Shower,REP,561,Early Voting
+,State Senate,9,Write-ins,,0,Early Voting
+,State House,9,James Squyres,,31,Early Voting
+,State House,9,Bill Johnson,DEM,285,Early Voting
+,State House,9,George Rauscher,REP,545,Early Voting
+,State House,9,Write-ins,,5,Early Voting

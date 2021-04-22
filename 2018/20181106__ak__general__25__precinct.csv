@@ -97,45 +97,45 @@ county,office,district,candidate,party,votes,precinct
 ,State House,25,Pat Higgins,DEM,375,25-870
 ,State House,25,Josh Revak,REP,445,25-870
 ,State House,25,Write-ins,,1,25-870
-,U.S. House,25,Alyse Galvin,DEM,350, Absentee
-,U.S. House,25,Don Young,REP,370, Absentee
-,U.S. House,25,Write-ins,,1, Absentee
-,Governor,25,Mark Begich,DEM,298, Absentee
-,Governor,25,Mike Dunleavy,REP,376, Absentee
-,Governor,25,Billy Toien,LIB,7, Absentee
-,Governor,25,Bill Walker,,39, Absentee
-,Governor,25,Write-ins,,1, Absentee
-,State Senate,25,Chris Birch,REP,399, Absentee
-,State Senate,25,Janice Park,DEM,269, Absentee
-,State Senate,25,Write-ins,,1, Absentee
-,State House,25,Pat Higgins,DEM,290, Absentee
-,State House,25,Josh Revak,REP,375, Absentee
-,State House,25,Write-ins,,1, Absentee
-,U.S. House,25,Alyse Galvin,DEM,177, Question
-,U.S. House,25,Don Young,REP,166, Question
-,U.S. House,25,Write-ins,,2, Question
-,Governor,25,Mark Begich,DEM,163, Question
-,Governor,25,Mike Dunleavy,REP,171, Question
-,Governor,25,Billy Toien,LIB,9, Question
-,Governor,25,Bill Walker,,4, Question
-,Governor,25,Write-ins,,0, Question
-,State Senate,25,Chris Birch,REP,84, Question
-,State Senate,25,Janice Park,DEM,63, Question
-,State Senate,25,Write-ins,,0, Question
-,State House,25,Pat Higgins,DEM,49, Question
-,State House,25,Josh Revak,REP,63, Question
-,State House,25,Write-ins,,0, Question
-,U.S. House,25,Alyse Galvin,DEM,732, Early Voting
-,U.S. House,25,Don Young,REP,421, Early Voting
-,U.S. House,25,Write-ins,,1, Early Voting
-,Governor,25,Mark Begich,DEM,735, Early Voting
-,Governor,25,Mike Dunleavy,REP,398, Early Voting
-,Governor,25,Billy Toien,LIB,10, Early Voting
-,Governor,25,Bill Walker,,10, Early Voting
-,Governor,25,Write-ins,,2, Early Voting
-,State Senate,25,Chris Birch,REP,475, Early Voting
-,State Senate,25,Janice Park,DEM,657, Early Voting
-,State Senate,25,Write-ins,,1, Early Voting
-,State House,25,Pat Higgins,DEM,686, Early Voting
-,State House,25,Josh Revak,REP,455, Early Voting
-,State House,25,Write-ins,,1, Early Voting
+,U.S. House,25,Alyse Galvin,DEM,350,Absentee
+,U.S. House,25,Don Young,REP,370,Absentee
+,U.S. House,25,Write-ins,,1,Absentee
+,Governor,25,Mark Begich,DEM,298,Absentee
+,Governor,25,Mike Dunleavy,REP,376,Absentee
+,Governor,25,Billy Toien,LIB,7,Absentee
+,Governor,25,Bill Walker,,39,Absentee
+,Governor,25,Write-ins,,1,Absentee
+,State Senate,25,Chris Birch,REP,399,Absentee
+,State Senate,25,Janice Park,DEM,269,Absentee
+,State Senate,25,Write-ins,,1,Absentee
+,State House,25,Pat Higgins,DEM,290,Absentee
+,State House,25,Josh Revak,REP,375,Absentee
+,State House,25,Write-ins,,1,Absentee
+,U.S. House,25,Alyse Galvin,DEM,177,Question
+,U.S. House,25,Don Young,REP,166,Question
+,U.S. House,25,Write-ins,,2,Question
+,Governor,25,Mark Begich,DEM,163,Question
+,Governor,25,Mike Dunleavy,REP,171,Question
+,Governor,25,Billy Toien,LIB,9,Question
+,Governor,25,Bill Walker,,4,Question
+,Governor,25,Write-ins,,0,Question
+,State Senate,25,Chris Birch,REP,84,Question
+,State Senate,25,Janice Park,DEM,63,Question
+,State Senate,25,Write-ins,,0,Question
+,State House,25,Pat Higgins,DEM,49,Question
+,State House,25,Josh Revak,REP,63,Question
+,State House,25,Write-ins,,0,Question
+,U.S. House,25,Alyse Galvin,DEM,732,Early Voting
+,U.S. House,25,Don Young,REP,421,Early Voting
+,U.S. House,25,Write-ins,,1,Early Voting
+,Governor,25,Mark Begich,DEM,735,Early Voting
+,Governor,25,Mike Dunleavy,REP,398,Early Voting
+,Governor,25,Billy Toien,LIB,10,Early Voting
+,Governor,25,Bill Walker,,10,Early Voting
+,Governor,25,Write-ins,,2,Early Voting
+,State Senate,25,Chris Birch,REP,475,Early Voting
+,State Senate,25,Janice Park,DEM,657,Early Voting
+,State Senate,25,Write-ins,,1,Early Voting
+,State House,25,Pat Higgins,DEM,686,Early Voting
+,State House,25,Josh Revak,REP,455,Early Voting
+,State House,25,Write-ins,,1,Early Voting

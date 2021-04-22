@@ -98,36 +98,36 @@ county,office,district,candidate,party,votes,precinct
 ,State House,11,Eileen Patterson,DEM,160,11-099
 ,State House,11,DeLena Johnson,REP,366,11-099
 ,State House,11,Write-ins,,8,11-099
-,U.S. House,11,Alyse Galvin,DEM,218, Absentee
-,U.S. House,11,Don Young,REP,585, Absentee
-,U.S. House,11,Write-ins,,6, Absentee
-,Governor,11,Mark Begich,DEM,185, Absentee
-,Governor,11,Mike Dunleavy,REP,582, Absentee
-,Governor,11,Billy Toien,LIB,11, Absentee
-,Governor,11,Bill Walker,,32, Absentee
-,Governor,11,Write-ins,,1, Absentee
-,State House,11,Eileen Patterson,DEM,167, Absentee
-,State House,11,DeLena Johnson,REP,571, Absentee
-,State House,11,Write-ins,,3, Absentee
-,U.S. House,11,Alyse Galvin,DEM,195, Question
-,U.S. House,11,Don Young,REP,297, Question
-,U.S. House,11,Write-ins,,3, Question
-,Governor,11,Mark Begich,DEM,144, Question
-,Governor,11,Mike Dunleavy,REP,337, Question
-,Governor,11,Billy Toien,LIB,16, Question
-,Governor,11,Bill Walker,,8, Question
-,Governor,11,Write-ins,,0, Question
-,State House,11,Eileen Patterson,DEM,56, Question
-,State House,11,DeLena Johnson,REP,114, Question
-,State House,11,Write-ins,,3, Question
-,U.S. House,11,Alyse Galvin,DEM,601, Early Voting
-,U.S. House,11,Don Young,REP,906, Early Voting
-,U.S. House,11,Write-ins,,6, Early Voting
-,Governor,11,Mark Begich,DEM,579, Early Voting
-,Governor,11,Mike Dunleavy,REP,901, Early Voting
-,Governor,11,Billy Toien,LIB,17, Early Voting
-,Governor,11,Bill Walker,,16, Early Voting
-,Governor,11,Write-ins,,4, Early Voting
-,State House,11,Eileen Patterson,DEM,530, Early Voting
-,State House,11,DeLena Johnson,REP,956, Early Voting
-,State House,11,Write-ins,,5, Early Voting
+,U.S. House,11,Alyse Galvin,DEM,218,Absentee
+,U.S. House,11,Don Young,REP,585,Absentee
+,U.S. House,11,Write-ins,,6,Absentee
+,Governor,11,Mark Begich,DEM,185,Absentee
+,Governor,11,Mike Dunleavy,REP,582,Absentee
+,Governor,11,Billy Toien,LIB,11,Absentee
+,Governor,11,Bill Walker,,32,Absentee
+,Governor,11,Write-ins,,1,Absentee
+,State House,11,Eileen Patterson,DEM,167,Absentee
+,State House,11,DeLena Johnson,REP,571,Absentee
+,State House,11,Write-ins,,3,Absentee
+,U.S. House,11,Alyse Galvin,DEM,195,Question
+,U.S. House,11,Don Young,REP,297,Question
+,U.S. House,11,Write-ins,,3,Question
+,Governor,11,Mark Begich,DEM,144,Question
+,Governor,11,Mike Dunleavy,REP,337,Question
+,Governor,11,Billy Toien,LIB,16,Question
+,Governor,11,Bill Walker,,8,Question
+,Governor,11,Write-ins,,0,Question
+,State House,11,Eileen Patterson,DEM,56,Question
+,State House,11,DeLena Johnson,REP,114,Question
+,State House,11,Write-ins,,3,Question
+,U.S. House,11,Alyse Galvin,DEM,601,Early Voting
+,U.S. House,11,Don Young,REP,906,Early Voting
+,U.S. House,11,Write-ins,,6,Early Voting
+,Governor,11,Mark Begich,DEM,579,Early Voting
+,Governor,11,Mike Dunleavy,REP,901,Early Voting
+,Governor,11,Billy Toien,LIB,17,Early Voting
+,Governor,11,Bill Walker,,16,Early Voting
+,Governor,11,Write-ins,,4,Early Voting
+,State House,11,Eileen Patterson,DEM,530,Early Voting
+,State House,11,DeLena Johnson,REP,956,Early Voting
+,State House,11,Write-ins,,5,Early Voting

@@ -454,42 +454,42 @@ county,office,district,candidate,party,votes,precinct
 ,State House,37,William Weatherby,REP,67,37-754
 ,State House,37,Bryce Edgmon,DEM,134,37-754
 ,State House,37,Write-ins,,0,37-754
-,U.S. House,37,Alyse Galvin,DEM,416, Absentee
-,U.S. House,37,Don Young,REP,430, Absentee
-,U.S. House,37,Write-ins,,5, Absentee
-,Governor,37,Mark Begich,DEM,507, Absentee
-,Governor,37,Mike Dunleavy,REP,277, Absentee
-,Governor,37,Billy Toien,LIB,20, Absentee
-,Governor,37,Bill Walker,,45, Absentee
-,Governor,37,Write-ins,,1, Absentee
-,State Senate,37,Lyman Hoffman,DEM,610, Absentee
-,State Senate,37,Write-ins,,52, Absentee
-,State House,37,William Weatherby,REP,272, Absentee
-,State House,37,Bryce Edgmon,DEM,518, Absentee
-,State House,37,Write-ins,,2, Absentee
-,U.S. House,37,Alyse Galvin,DEM,82, Question
-,U.S. House,37,Don Young,REP,98, Question
-,U.S. House,37,Write-ins,,0, Question
-,Governor,37,Mark Begich,DEM,92, Question
-,Governor,37,Mike Dunleavy,REP,79, Question
-,Governor,37,Billy Toien,LIB,7, Question
-,Governor,37,Bill Walker,,4, Question
-,Governor,37,Write-ins,,0, Question
-,State Senate,37,Lyman Hoffman,DEM,65, Question
-,State Senate,37,Write-ins,,2, Question
-,State House,37,William Weatherby,REP,28, Question
-,State House,37,Bryce Edgmon,DEM,50, Question
-,State House,37,Write-ins,,0, Question
-,U.S. House,37,Alyse Galvin,DEM,64, Early Voting
-,U.S. House,37,Don Young,REP,64, Early Voting
-,U.S. House,37,Write-ins,,0, Early Voting
-,Governor,37,Mark Begich,DEM,89, Early Voting
-,Governor,37,Mike Dunleavy,REP,37, Early Voting
-,Governor,37,Billy Toien,LIB,0, Early Voting
-,Governor,37,Bill Walker,,3, Early Voting
-,Governor,37,Write-ins,,0, Early Voting
-,State Senate,37,Lyman Hoffman,DEM,110, Early Voting
-,State Senate,37,Write-ins,,4, Early Voting
-,State House,37,William Weatherby,REP,40, Early Voting
-,State House,37,Bryce Edgmon,DEM,88, Early Voting
-,State House,37,Write-ins,,0, Early Voting
+,U.S. House,37,Alyse Galvin,DEM,416,Absentee
+,U.S. House,37,Don Young,REP,430,Absentee
+,U.S. House,37,Write-ins,,5,Absentee
+,Governor,37,Mark Begich,DEM,507,Absentee
+,Governor,37,Mike Dunleavy,REP,277,Absentee
+,Governor,37,Billy Toien,LIB,20,Absentee
+,Governor,37,Bill Walker,,45,Absentee
+,Governor,37,Write-ins,,1,Absentee
+,State Senate,37,Lyman Hoffman,DEM,610,Absentee
+,State Senate,37,Write-ins,,52,Absentee
+,State House,37,William Weatherby,REP,272,Absentee
+,State House,37,Bryce Edgmon,DEM,518,Absentee
+,State House,37,Write-ins,,2,Absentee
+,U.S. House,37,Alyse Galvin,DEM,82,Question
+,U.S. House,37,Don Young,REP,98,Question
+,U.S. House,37,Write-ins,,0,Question
+,Governor,37,Mark Begich,DEM,92,Question
+,Governor,37,Mike Dunleavy,REP,79,Question
+,Governor,37,Billy Toien,LIB,7,Question
+,Governor,37,Bill Walker,,4,Question
+,Governor,37,Write-ins,,0,Question
+,State Senate,37,Lyman Hoffman,DEM,65,Question
+,State Senate,37,Write-ins,,2,Question
+,State House,37,William Weatherby,REP,28,Question
+,State House,37,Bryce Edgmon,DEM,50,Question
+,State House,37,Write-ins,,0,Question
+,U.S. House,37,Alyse Galvin,DEM,64,Early Voting
+,U.S. House,37,Don Young,REP,64,Early Voting
+,U.S. House,37,Write-ins,,0,Early Voting
+,Governor,37,Mark Begich,DEM,89,Early Voting
+,Governor,37,Mike Dunleavy,REP,37,Early Voting
+,Governor,37,Billy Toien,LIB,0,Early Voting
+,Governor,37,Bill Walker,,3,Early Voting
+,Governor,37,Write-ins,,0,Early Voting
+,State Senate,37,Lyman Hoffman,DEM,110,Early Voting
+,State Senate,37,Write-ins,,4,Early Voting
+,State House,37,William Weatherby,REP,40,Early Voting
+,State House,37,Bryce Edgmon,DEM,88,Early Voting
+,State House,37,Write-ins,,0,Early Voting
