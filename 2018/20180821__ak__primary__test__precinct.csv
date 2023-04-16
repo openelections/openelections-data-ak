@@ -1,4 +1,4 @@
-precinct,,district,candidate,party,votes
+precinct,office,district,candidate,party,votes
 01-446 Aurora,U.S. House,1,Registered Voters,,2667
 01-446 Aurora,U.S. House,1,Times Counted,,171
 01-446 Aurora,U.S. House,1,"Cumings, Christophe",DEM,22
@@ -10,7 +10,7 @@ precinct,,district,candidate,party,votes
 01-446 Aurora,U.S. House,1,"Nelson, Thomas",REP,39
 01-446 Aurora,U.S. House,1,"Whittaker, Jed",REP,31
 01-446 Aurora,U.S. House,1,"Young, Don",REP,119
-01-446 Aurora,GOVERNOR,,Registered Voters,,2667
+01-446 Aurora,,,Registered Voters,,2667
 01-446 Aurora,GOVERNOR,,Times Counted,,171
 01-446 Aurora,GOVERNOR,,"Begich, Mark",DEM,129
 01-446 Aurora,GOVERNOR,,"Toien, William S.",LIB,26
